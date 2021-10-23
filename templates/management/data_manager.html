@@ -1,0 +1,145 @@
+{% extends 'management/index_admin.html' %}
+{% load pagination_tags %}
+
+{% block title %}
+    语料库管理-管理端
+{% endblock %}
+{% block en %}
+    <section class="content-header">
+        <div class="container">
+            <div class="row mb-2">
+                <ol class="breadcrumb ">
+                    <li class="breadcrumb-item"><a href="/management/toHome"><i class="fas fa-home ml-2"></i> 主页</a>
+                    </li>
+                    <li class="breadcrumb-item active">语料库管理</li>
+                </ol>
+            </div>
+        </div>
+    </section>
+    <!-- Main content -->
+    <section class="content">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    {% if tempList %}
+                        <div class="col-12">
+                            <div class="card card-primary mb-5">
+                                <div class="card-header">
+                                    <div>数据导入（您可以将此数据导入到Neo4j数据库中）：</div>
+                                </div>
+                                <div class="card-body p-4">
+
+                                    <form name="data" method="post" action="/management/importNeo4jMuilt/">
+                                        {% csrf_token %}
+                                        <button type="submit" class="btn btn-warning" name="upload">
+                                            批量导入图数据库
+                                        </button>
+                                        <div class="show-list overflow-auto">
+                                            <table class="table table-bordered table-hover table-valign-middle text-center my-4"
+                                                   border="solid 3px">
+                                                <thead>
+                                                <tr class="text-primary font-weight-bold">
+                                                    <th style="min-width:80px; font-size: 16px">
+                                                        <button class="btn btn-primary btn-sm doProModify"
+                                                                type="button"
+                                                                value="全选"
+                                                                onclick="checkAll()">全选
+                                                        </button>
+                                                        <button class="btn btn-secondary btn-sm doProModify"
+                                                                type="button"
+                                                                value="全不选"
+                                                                onclick="checkNoAll()">全不选
+                                                        </button>
+                                                    </th>
+
+                                                    <th style="min-width:100px; font-size: 16px">
+                                                        头实体
+                                                    </th>
+                                                    <th style="min-width:100px; font-size: 16px">
+                                                        尾实体
+                                                    </th>
+                                                    <th style="min-width:100px; font-size: 16px">
+                                                        关系类别
+                                                    </th>
+                                                    <th style="min-width:200px">
+                                                        用户操作
+                                                    </th>
+                                                </tr>
+                                                </thead>
+                                                <tbody id="tb" class="align-middle">
+                                                {% autopaginate tempList 7 %}
+                                                {% for list in tempList %}
+                                                    <tr>
+
+                                                        <td><input name="boxList" style="zoom:150%"
+                                                                   type="checkbox"
+                                                                   value="{{ list.0 }}"/></td>
+                                                        <td>{{ list.1 }}</td>
+                                                        <td>{{ list.3 }}</td>
+                                                        <td>{{ list.2 }}</td>
+                                                        <td>
+                                                            <a href="/management/importNeo4j/?id={{ list.0 }}">
+
+                                                                <input type="button" style=" font-size: 15px"
+                                                                       class="btn btn-warning btn-sm doProModify"
+                                                                       data-toggle="modal"
+                                                                       value="导入图数据库"/>
+                                                            </a>
+                                                            <a href="/management/deleteNeo4j/?id={{ list.0 }}">
+                                                                <button class="btn btn-danger btn-sm" type="button"
+                                                                        onclick="return confirm('是否确认删除？');">
+                                                                    <i class="fa fa-trash-o"></i> 删除
+                                                                </button>
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                {% endfor %}
+                                                </tbody>
+
+                                            </table>
+                                            {% paginate using "pagination.html" %}
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    {% endif %}
+                    <!--/.col -->
+                </div>
+                <!-- /.row -->
+            </div><!-- /.container-fluid -->
+        </div>
+    </section>
+{% endblock en %}
+
+
+{% block js %}
+    <!-- 引入公共JS模板 -->
+    <script src="/static/js/commonJS.js"></script>
+    {% if messages %}
+        <script>
+            {% for msg in messages %}
+                alert('{{ msg.message }}');
+            {% endfor %}
+        </script>
+    {% endif %}
+    <script>
+        function checkAll() {
+            var hobby = document.getElementsByName("boxList");
+            for (var i = 0; i < hobby.length; i++) {
+                var h = hobby[i];
+                h.checked = true;
+            }
+        }
+        function checkNoAll() {
+            var hobby = document.getElementsByName("boxList");
+            for (var i = 0; i < hobby.length; i++) {
+                var h = hobby[i];
+                h.checked = false;
+            }
+        }
+    </script>
+{% endblock %}
+
+
+

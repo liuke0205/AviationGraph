@@ -1,0 +1,172 @@
+{% extends 'application/index.html' %}
+{% load pagination_tags %}
+
+{% block title %}
+    故障信息融合-用户端
+{% endblock %}
+{% block css %}
+    <link rel="stylesheet" href="/static/css/style2.css"/>
+    <link rel="stylesheet" href="/static/css/ner.css"/>
+    <style>
+
+        input[type="checkbox"] {
+            -webkit-appearance: none;
+            vertical-align: middle;
+            margin-top: 0;
+            background: #fff;
+            border: #999 solid 1px;
+            border-radius: 3px;
+            min-height: 12px;
+            min-width: 12px;
+        }
+
+        input[type="checkbox"]:checked {
+            background: #3190e8;
+        }
+
+        input[type="checkbox"]:checked::after {
+            content: '';
+            top: 3px;
+            left: 3px;
+            position: absolute;
+            background: transparent;
+            border: #fff solid 2px;
+            border-top: none;
+            border-right: none;
+            height: 6px;
+            width: 10px;
+            -moz-transform: rotate(-45deg);
+            -ms-transform: rotate(-45deg);
+            -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+        }
+    </style>
+{% endblock %}
+{% block en %}
+    <!-- breadcrumb -->
+    <section class="content-header">
+        <div class="container">
+            <div class="row mb-2">
+                <ol class="breadcrumb ">
+                    <li class="breadcrumb-item"><a href="/application/toHome/"><i class="fas fa-home"></i>主页</a></li>
+                    <li class="breadcrumb-item active">信息聚类</li>
+                </ol>
+            </div>
+        </div>
+    </section><!-- breadcrumb-->
+
+    <!-- Main content -->
+    <section class="content">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    {% if  resultList_classification == null %}
+                    <!-- general form elements -->
+                    <div class="card card-primary mb-5">
+                        <div class="card-header">
+                            <div>训练文档上传（如果已经上传过训练数据，请不要再次上传！）：</div>
+                        </div>
+                        <!-- /.card-header -->
+                        <div class="card-body p-4">
+                            <div class="col-lg-8 m-auto">
+                                <!-- form start -->
+                                <form name="upload" enctype="multipart/form-data" method="post"
+                                      action="/application/upload_classification_train_file/">
+                                    {% csrf_token %}
+                                    <div class="form-group my-4">
+                                        <div class="input-group">
+                                            <div class="custom-file">
+                                                <input type="file" name="train_file" id="train_file"
+                                                       class="custom-file-input "
+                                                       lang="cn">
+                                                <label class="custom-file-label" for="file">选择文件</label>
+                                            </div>
+                                            <div class="input-group-append">
+                                                <button type="submit" class="btn btn-primary">上传文档</button>
+                                            </div>
+                                        </div>
+                                    </div><!-- /.form group -->
+                                </form>
+                            </div>
+
+                        </div>
+                        <!-- /.card-body -->
+
+                    </div>
+                    <!-- /.card -->
+                    <div class="card card-primary mb-5">
+                        <div class="card-header">
+                            <div>待分类数据上传（如果已经上传训练数据，现在请直接上传待分类数据）：</div>
+                        </div>
+
+                        <!-- /.card-header -->
+                        <div class="card-body p-4">
+                            <div class="col-lg-8 m-auto">
+                                <!-- form start -->
+                                <form name="upload" enctype="multipart/form-data" method="post"
+                                      action="/application/upload_classification_test_file/">
+                                    {% csrf_token %}
+                                    <div class="form-group my-4">
+                                        <div class="input-group">
+                                            <div class="custom-file">
+                                                <input type="file" name="test_file" id="test_file"
+                                                       class="custom-file-input "
+                                                       lang="cn">
+                                                <label class="custom-file-label" for="file">选择文件</label>
+                                            </div>
+                                            <div class="input-group-append">
+                                                <button type="submit" class="btn btn-primary" style="background-color: #000b16" onclick="loading()">上传数据并开始分类</button>
+                                            </div>
+                                        </div>
+                                    </div><!-- /.form group -->
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+                </div>
+                <!--/.col -->
+            </div>
+            <!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+
+{% endblock en %}
+
+{% block js %}
+    {% if messages %}
+        <script>
+            {% for msg in messages %}
+                alert('{{ msg.message }}');
+            {% endfor %}
+        </script>
+    {% endif %}
+    <!-- 引入公共JS模板 -->
+    <script src="/static/js/commonJS.js"></script>
+
+    <script>
+        $(function () {
+            bsCustomFileInput.init();
+        });
+        $(".dropdown-menu li a").click(function () {
+            var selText = $(this).text();
+            $(this).parents('.btn-group').find('.dropdown-toggle').html(selText + ' <span class="caret"></span>');
+            if (selText.trim() != "Other") {
+                $("#relationshipCategory").val(selText.trim());
+            }
+            //combobox behavior
+            if (selText.trim() === "Other") {
+                $("#relation_name").removeClass("hide");
+            } else {
+                $("#relation_name").addClass("hide");
+            }
+        });
+        function loading() {
+            layer.msg("正在分类中，请稍等...", {
+                icon: 16,
+                shade: [0.6, '#000005'],//遮罩的颜色与透明度
+                time: false  //取消自动关闭
+            })
+        }
+    </script>
+{% endblock %}

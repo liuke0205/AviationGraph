@@ -1,0 +1,36 @@
+div#show{
+      margin-top: 10px;
+      font-size: larger;
+      line-height: 2.5;
+      overflow:auto;
+      height:250px;
+ }
+ #show span{
+      color:#a4a4d0;
+  }
+ #show span.none{
+      color:black;
+  }
+#show span.enter{
+      display:block;
+  }
+	#div_toop{
+		width: 100px;
+        height: 35px;
+        text-align: center;
+        line-height: 35px;
+		border-radius: 10px;
+        background-color:#dddddd;
+		position: absolute;
+	}
+	/*小三角*/
+	#div_toop::before{
+		content: "";
+		width: 0;
+		height: 0;
+		border: 15px solid #dddddd;
+		border-color: #dddddd transparent transparent transparent;
+		position:absolute;
+		bottom: -23px;
+		left: 35px;
+	}

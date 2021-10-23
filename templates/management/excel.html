@@ -1,0 +1,439 @@
+{% extends 'management/index_admin.html' %}
+
+{% block title %}
+    故障信息抽取-管理端
+{% endblock %}
+
+{% block css %}
+    <style>
+        input[type="checkbox"]:checked {
+            background: #337ab7;
+        }
+        .selectbox {
+            width: 1000px;
+            height: 220px;
+            margin: 10px auto;
+        }
+        .selectbox div {
+            float: left;
+        }
+        .selectbox .select-bar {
+            padding: 0 20px;
+        }
+        .selectbox .select-bar select {
+            width: 200px;
+            height: 200px;
+            border: 1px solid #337ab7;
+            padding: 4px;
+            font-size: 14px;
+            border-radius: 5px;
+            box-shadow: 5px 5px 8px 0 gray;
+        }
+        .btn-bar {
+
+        }
+        .btn-bar p {
+            margin-top: 40px;
+        }
+        .btn-bar p .btn {
+            width: 50px;
+            height: 30px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+    </style>
+{% endblock %}
+
+{% block en %}
+    <!-- breadcrumb -->
+    <section class="content-header">
+        <div class="container">
+            <div class="row mb-2">
+                <ol class="breadcrumb ">
+                    <li class="breadcrumb-item"><a href="/management/toHome"><i class="fas fa-home ml-2"></i> 主页</a>
+                    </li>
+                    <li class="breadcrumb-item active">故障信息抽取</li>
+                </ol>
+            </div>
+        </div>
+    </section>
+    <!-- Main content -->
+    <section class="content">
+        <div class="container">
+            <div class="row">
+                {% if name_list == null %}
+                    <div class="col-12 mb-4">
+                        <div class="card card-primary ">
+                            <div class="card-header">
+                                <div>待抽取Excel上传：</div>
+                            </div>
+                            <!-- /.card-header -->
+                            <div class="card-body m-4">
+
+                                <form name="upload" enctype="multipart/form-data" method="post"
+                                      action="/management/upload_excel/">
+                                    {% csrf_token %}
+                                    <div class="col-lg-8">
+                                        <div class="form-group">
+                                            <div class="input-group">
+                                                <div class="custom-file">
+                                                    <input type="file" name="excel_file" id="file"
+                                                           class="custom-file-input "
+                                                           lang="cn" value="{{ filename }}" placeholder="选择文件">
+                                                    <label class="custom-file-label" for="file">{{ filename }}</label>
+                                                </div>
+                                                <div class="input-group-append">
+                                                    <button type="submit" class="btn btn-primary">上传Excel</button>
+                                                </div>
+                                            </div>
+                                        </div><!-- /.form group -->
+                                    </div>
+
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+
+                <form action="/management/commit_properties/" name="select_name" method="post">
+                    {% csrf_token %}
+                    <div class="col-12 mb-4">
+                        <div class="card card-primary ">
+                            <div class="card-header">
+                                <div>头实体和属性选择：</div>
+                            </div>
+                            <!-- /.card-header -->
+                            <div class="card-body m-4 overflow-auto">
+                                <div class="selectbox">
+                                    <div class="select-bar">
+                                        <select multiple="multiple" id="select2" name="select2"></select>
+                                    </div>
+
+                                    <div class="btn-bar">
+                                        <p><span id="add1"><input type="button" class="btn btn-primary btn-sm"
+                                                                  value="<< Add"
+                                                                  title="移动选择项到左侧"
+                                                                  style="width: 80px"/></span>
+                                        </p>
+                                        <p><span id="remove1"><input type="button" class="btn btn-primary btn-sm"
+                                                                     value="Del >>"
+                                                                     title="移动选择项到右侧" style="width: 80px"/></span>
+                                        </p>
+                                    </div>
+
+                                    <div class="select-bar">
+                                        <select multiple="multiple" id="select1">
+                                            {% for name in name_list %}
+                                                <option value="{{ name }}">{{ name }}</option>
+                                            {% endfor %}
+                                        </select>
+                                    </div>
+
+                                    <div class="btn-bar">
+                                        <p><span id="add2"><input type="button" class="btn btn-primary btn-sm"
+                                                                  value="Add >>"
+                                                                  title="移动选择项到右侧"
+                                                                  style="width: 80px"/></span>
+                                        </p>
+                                        <p><span id="remove2"><input type="button" class="btn btn-primary btn-sm"
+                                                                     value="<< Del"
+                                                                     title="移动选择项到左侧" style="width: 80px"/></span>
+                                        </p>
+                                    </div>
+
+                                    <div class="select-bar">
+                                        <select multiple="multiple" id="select3" name="select3"></select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-12 mb-4">
+                        <div class="card card-primary ">
+                            <div class="card-header">
+                                <div>尾实体和属性选择：</div>
+                            </div>
+                            <!-- /.card-header -->
+                            <div class="card-body m-4 overflow-auto">
+                                <div class="selectbox">
+                                    <div class="select-bar">
+                                        <select multiple="multiple" id="select22" name="select22"></select>
+                                    </div>
+
+                                    <div class="btn-bar">
+                                        <p><span id="add11"><input type="button" class="btn btn-primary btn-sm"
+                                                                   value="<< Add"
+                                                                   title="移动选择项到左侧"
+                                                                   style="width: 80px"/></span>
+                                        </p>
+                                        <p><span id="remove11"><input type="button" class="btn btn-primary btn-sm"
+                                                                      value="Del >>"
+                                                                      title="移动选择项到右侧" style="width: 80px"/></span>
+                                        </p>
+                                    </div>
+
+                                    <div class="select-bar">
+                                        <select multiple="multiple" id="select11">
+                                            {% for name in name_list %}
+                                                <option value="{{ name }}">{{ name }}</option>
+                                            {% endfor %}
+                                        </select>
+                                    </div>
+
+                                    <div class="btn-bar">
+                                        <p><span id="add22"><input type="button" class="btn btn-primary btn-sm"
+                                                                   value="Add->"
+                                                                   title="移动选择项到右侧"
+                                                                   style="width: 80px"/></span>
+                                        </p>
+                                        <p><span id="remove22"><input type="button" class="btn btn-primary btn-sm"
+                                                                      value="<-Del"
+                                                                      title="移动选择项到左侧" style="width: 80px"/></span>
+                                        </p>
+                                    </div>
+
+                                    <div class="select-bar">
+                                        <select multiple="multiple" id="select33" name="select33"></select>
+                                    </div>
+                                </div>
+                                <div class="text-center">
+                                    <button type="submit" class="btn btn-primary"
+                                            name="upload">提交规则
+                                    </button>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </form>
+
+
+                {% if name_list %}
+                    <div class="col-12 mb-4">
+                        <div class="card card-primary ">
+                            <div class="card-header">
+                                <div>关系确定：</div>
+                            </div>
+                            <!-- /.card-header -->
+                            <div class="card-body p-4">
+                                <form name="upload" enctype="multipart/form-data" method="post"
+                                      action="/management/excel_extract/">
+                                    {% csrf_token %}
+                                    <table class="table table-bordered table-hover table-valign-middle text-center mb-4">
+                                        <thead>
+                                        <tr class="text-primary font-weight-bold">
+                                            <th align="center" width="100" class="text-center" style="font-size:16px; ">
+                                                编号
+                                            </th>
+                                            <th align="center" width="100" class="text-center" style="font-size:16px; ">
+                                                头实体名
+                                            </th>
+                                            <th align="center" width="150" class="text-center" style="font-size:16px; ">
+                                                头实体属性名
+                                            </th>
+                                            <th align="center" width="100" class="text-center" style="font-size:16px; ">
+                                                尾实体名
+                                            </th>
+                                            <th align="center" width="150" class="text-center" style="font-size:16px; ">
+                                                尾实体属性名
+                                            </th>
+                                        </tr>
+                                        </thead>
+                                        <tbody id="tb">
+                                        {% for list in tableData %}
+                                            <tr>
+                                                <td align="center"
+                                                    style="font-size:15px; display:table-cell; vertical-align:middle">{{ list.4 }}
+                                                </td>
+                                                <td align="center"
+                                                    style="font-size:15px; display:table-cell; vertical-align:middle">{{ list.0 }}
+                                                </td>
+                                                <td align="center"
+                                                    style="font-size:15px; display:table-cell; vertical-align:middle">{{ list.1 }}
+                                                </td>
+                                                <td align="center"
+                                                    style="font-size:15px; display:table-cell; vertical-align:middle">{{ list.2 }}
+                                                </td>
+                                                <td align="center"
+                                                    style="font-size:15px; display:table-cell; vertical-align:middle">{{ list.3 }}
+                                                </td>
+                                            </tr>
+                                        {% endfor %}
+                                        </tbody>
+                                    </table>
+                                    <div class="text-center">
+                                        <button type="submit" class="btn btn-primary"
+                                                name="upload" onclick="loading()">开始抽取
+                                        </button>
+                                    </div>
+
+
+                                </form>
+                                <form method="post" name="download_fault_data"
+                                      action="/management/download_fault_data/">
+                                    <div class="text-center">
+                                        <button type="submit" class="btn btn-primary mt-4"
+                                                name="download_fault_data"
+                                                style="background-color: #4cd964; font-color:black">
+                                            下载故障信息抽取结果
+                                        </button>
+                                    </div>
+                                </form>
+                            </div>
+
+                        </div>
+                    </div>
+                    </div>
+                {% endif %}
+
+
+            <!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+{% endblock en %}
+
+{% block js %}
+    <!-- 引入公共JS模板 -->
+    <script src="/static/js/commonJS.js"></script>
+    {% if messages %}
+        <script>
+            {% for msg in messages %}
+                alert('{{ msg.message }}');
+            {% endfor %}
+        </script>
+    {% endif %}
+    <script>
+        $(function () {
+            bsCustomFileInput.init();
+        });
+        $(function () {
+            //移到左边
+            $('#add1').click(function () {
+                //先判断是否有选中
+                if (!$("#select1 option").is(":selected")) {
+                    alert("请选择需要移动的选项")
+                }
+                //获取选中的选项，删除并追加给对方
+                else {
+                    $('#select1 option:selected').appendTo('#select2');
+                }
+            });
+
+            //移到右边
+            $('#remove1').click(function () {
+                //先判断是否有选中
+                if (!$("#select2 option").is(":selected")) {
+                    alert("请选择需要移动的选项")
+                } else {
+                    $('#select2 option:selected').appendTo('#select1');
+                }
+            });
+
+
+            //移到左边
+            $('#add2').click(function () {
+                //先判断是否有选中
+                if (!$("#select1 option").is(":selected")) {
+                    alert("请选择需要移动的选项")
+                }
+                //获取选中的选项，删除并追加给对方
+                else {
+                    $('#select1 option:selected').appendTo('#select3');
+                }
+            });
+
+            //移到右边
+            $('#remove2').click(function () {
+                //先判断是否有选中
+                if (!$("#select3 option").is(":selected")) {
+                    alert("请选择需要移动的选项")
+                } else {
+                    $('#select3 option:selected').appendTo('#select1');
+                }
+            });
+
+
+            //双击选项
+            $('#select2').dblclick(function () {
+                $("option:selected", this).appendTo('#select1');
+            });
+
+
+            //双击选项
+            $('#select3').dblclick(function () {
+                $("option:selected", this).appendTo('#select1');
+            });
+
+
+            //移到左边
+            $('#add11').click(function () {
+                //先判断是否有选中
+                if (!$("#select11 option").is(":selected")) {
+                    alert("请选择需要移动的选项")
+                }
+                //获取选中的选项，删除并追加给对方
+                else {
+                    $('#select11 option:selected').appendTo('#select22');
+                }
+            });
+
+            //移到右边
+            $('#remove11').click(function () {
+                //先判断是否有选中
+                if (!$("#select22 option").is(":selected")) {
+                    alert("请选择需要移动的选项")
+                } else {
+                    $('#select22 option:selected').appendTo('#select11');
+                }
+            });
+
+
+            //移到左边
+            $('#add22').click(function () {
+                //先判断是否有选中
+                if (!$("#select11 option").is(":selected")) {
+                    alert("请选择需要移动的选项")
+                }
+                //获取选中的选项，删除并追加给对方
+                else {
+                    $('#select11 option:selected').appendTo('#select33');
+                }
+            });
+
+            //移到右边
+            $('#remove22').click(function () {
+                //先判断是否有选中
+                if (!$("#select33 option").is(":selected")) {
+                    alert("请选择需要移动的选项")
+                } else {
+                    $('#select33 option:selected').appendTo('#select11');
+                }
+            });
+
+            //双击选项
+            $('#select22').dblclick(function () {
+                $("option:selected", this).appendTo('#select11');
+            });
+
+            //双击选项
+            $('#select33').dblclick(function () {
+                $("option:selected", this).appendTo('#select11');
+            });
+
+        });
+        function loading() {
+            layer.msg("正在进行抽取！", {
+                icon: 16,
+                shade: [0.6, '#000005'],//遮罩的颜色与透明度
+                time: false  //取消自动关闭
+            })
+
+        }
+    </script>
+{% endblock %}
+
+
+

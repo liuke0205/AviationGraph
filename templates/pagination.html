@@ -1,0 +1,49 @@
+{% if is_paginated %}
+    {% load i18n %}
+    <div class="pagination justify-content-center">
+        {% block previouslink %}
+            {% if page_obj.has_previous %}
+                {% if disable_link_for_first_page and page_obj.previous_page_number == 1 %}
+                    <a href="{{ request.path }}{% if getvars %}?{{ getvars|slice:"1:" }}{% endif %}"
+                       class="btn btn-outline-primary">{{ previous_link_decorator|safe }}{% trans "上一页" %}</a>
+                {% else %}
+                    <a href="?page{{ page_suffix }}={{ page_obj.previous_page_number }}{{ getvars }}"
+                       class="btn btn-outline-primary">{{ previous_link_decorator|safe }}{% trans "上一页" %}</a>
+                {% endif %}
+            {% else %}
+                <span class="disabled btn btn-outline-secondary">{{ previous_link_decorator|safe }}{% trans "上一页" %}</span>
+            {% endif %}
+        {% endblock previouslink %}
+        {% block pagelinks %}
+            {% if display_page_links %}
+                {% for page in pages %}
+                    {% if page %}
+                        {% ifequal page page_obj.number %}
+                            <span class="btn btn-outline-primary active">{{ page }}</span>
+                        {% else %}
+                            {% if disable_link_for_first_page and page == 1 %}
+                                <a href="{{ request.path }}{% if getvars %}?{{ getvars|slice:"1:" }}{% endif %}"
+                                   class="btn btn-outline-primary">{{ page }}</a>
+                            {% else %}
+                                <a href="?page{{ page_suffix }}={{ page }}{{ getvars }}"
+                                   class="btn btn-outline-primary">{{ page }}</a>
+                            {% endif %}
+                        {% endifequal %}
+                    {% else %}
+                        ...
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+        {% endblock pagelinks %}
+        {% block nextlink %}
+            {% if page_obj.has_next %}
+                <a href="?page{{ page_suffix }}={{ page_obj.next_page_number }}{{ getvars }}"
+                   class="btn btn-outline-primary">{% trans "下一页" %}{{ next_link_decorator|safe }}</a>
+            {% else %}
+
+                <span class="disabled btn btn-outline-secondary">{% trans "下一页" %}{{ next_link_decorator|safe }}</span>
+
+            {% endif %}
+        {% endblock nextlink %}
+    </div>
+{% endif %}

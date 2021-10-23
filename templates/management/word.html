@@ -1,0 +1,183 @@
+{% extends 'management/index_admin.html' %}
+{% load pagination_tags %}
+
+{% block title %}
+    Word知识抽取-管理端
+{% endblock %}
+
+{% block css %}
+    <style>
+        input[type="checkbox"] {
+            -webkit-appearance: none;
+            vertical-align: middle;
+            margin-top: 0;
+            background: #fff;
+            border: #999 solid 1px;
+            border-radius: 3px;
+            min-height: 12px;
+            min-width: 12px;
+        }
+
+        input[type="checkbox"]:checked {
+            background: #3190e8;
+        }
+
+        input[type="checkbox"]:checked::after {
+            content: '';
+            top: 3px;
+            left: 3px;
+            position: absolute;
+            background: transparent;
+            border: #fff solid 2px;
+            border-top: none;
+            border-right: none;
+            height: 6px;
+            width: 10px;
+            -moz-transform: rotate(-45deg);
+            -ms-transform: rotate(-45deg);
+            -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+        }
+    </style>
+{% endblock %}
+
+{% block en %}
+    <section class="content-header">
+        <div class="container">
+            <div class="row mb-2">
+                <ol class="breadcrumb ">
+                    <li class="breadcrumb-item"><a href="/management/toHome"><i class="fas fa-home ml-2"></i> 主页</a>
+                    </li>
+                    <li class="breadcrumb-item active">Word知识抽取</li>
+                </ol>
+            </div>
+        </div>
+    </section>
+    <!-- Main content -->
+    <section class="content">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-12 mb-4">
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <div>待抽取Word上传：</div>
+                        </div>
+                        <!-- /.card-header -->
+                        <div class="card-body p-4">
+                            <div class="col-lg-8 m-auto">
+                                <form name="upload" enctype="multipart/form-data" method="post"
+                                      action="/management/upload_word/">
+                                    {% csrf_token %}
+                                    <div class="form-group">
+                                        <div class="input-group">
+                                            <div class="custom-file">
+                                                <input type="file" name="file" id="file"
+                                                       class="custom-file-input "
+                                                       lang="cn">
+                                                <label class="custom-file-label" for="file">{{ word_filename }}</label>
+                                            </div>
+                                            <div class="input-group-append">
+                                                <button type="submit" class="btn btn-primary">上传Word</button>
+                                            </div>
+                                        </div>
+                                    </div><!-- /.form group -->
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% if resultList %}
+                    <div class="col-12 mb-4">
+                        <div class="card card-primary">
+                            <div class="card-header">
+                                <div>结果数据：</div>
+                            </div>
+                            <!-- /.card-header -->
+                            <div class="card-body p-4 overflow-auto">
+                                <div class="show-list">
+                                    <table class="table table-bordered table-hover table-valign-middle text-center mb-4">
+                                        <thead>
+                                        <tr class="font-weight-bold text-primary">
+                                            <th style="min-width:150px">头实体
+                                            </th>
+                                            <th style="min-width:150px">头实体类型
+                                            </th>
+                                            <th style="min-width:100px">
+                                                关系类别
+                                            </th>
+                                            <th style="min-width:150px">尾实体
+                                            </th>
+                                            <th style="min-width:150px">尾实体类型
+                                            </th>
+                                        </tr>
+                                        </thead>
+                                        <tbody id="tb">
+                                        {% autopaginate resultList 8 %}
+                                        {% for list in resultList %}
+                                            <tr>
+                                                <td align="center"
+                                                    style="display:table-cell; vertical-align:middle; font-size: 15px">{{ list.0 }}</td>
+                                                <td align="center"
+                                                    style="display:table-cell; vertical-align:middle; font-size: 15px">{{ list.1 }}</td>
+                                                <td align="center"
+                                                    style="display:table-cell; vertical-align:middle; font-size: 15px">{{ list.2 }}</td>
+                                                <td align="center"
+                                                    style="display:table-cell; vertical-align:middle; font-size: 15px">{{ list.3 }}</td>
+                                                <td align="center"
+                                                    style="display:table-cell; vertical-align:middle; font-size: 15px">{{ list.4 }}</td>
+                                            </tr>
+                                        {% endfor %}
+                                        </tbody>
+                                    </table>
+                                    {% paginate using "pagination.html" %}
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                {% endif %}
+                {% if resultList %}
+                    <div class="col-12 mb-4">
+                        <div class="card card-primary">
+                            <div class="card-header">
+                                <div>导入到图数据库：</div>
+                            </div>
+                            <!-- /.card-header -->
+                            <div class="card-body p-4 text-center">
+                                <form name="insert" method="post" action="/management/wordExtractInsertNeo4j/">
+                                    {% csrf_token %}
+                                    <button type="submit" class="btn btn-warning">导入到图数据库
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+
+                <!--/.col -->
+            </div>
+            <!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+
+{% endblock %}
+
+
+{% block js %}
+    <!-- 引入公共JS模板 -->
+    <script src="/static/js/commonJS.js"></script>
+    <script>
+        $(function () {
+            bsCustomFileInput.init();
+        });
+    </script>
+    {% if messages %}
+        <script>
+            {% for msg in messages %}
+                alert('{{ msg.message }}');
+            {% endfor %}
+        </script>
+    {% endif %}
+{% endblock %}

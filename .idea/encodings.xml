@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/AviationGraph/DeepLearning/txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AviationGraph/DeepLearning/txt/6-1-机翼与尾翼设计1.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AviationGraph/DeepLearning/txt/6-1-机翼与尾翼设计2.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AviationGraph/DeepLearning/txt/6-2-增升装置设计.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AviationGraph/bm25data/fault.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/AviationGraph/ner_ch/data/dic.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/AviationGraph/utils/MySqlConn.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/AviationGraph/utils/utils.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/AviationGraph/views.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/application/application_views/answer_view.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/application/application_views/home_view.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/application_views/jointExtraction_view.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/application_views/relation_view.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/application_views/searchAllPdf_view.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/management/management_views/active_annotation_view.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/management/management_views/annotation_view.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/management/management_views/d2rq_view.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/management/management_views/entity_view.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/management/management_views/home_view.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/management/management_views/relation_extraction_view.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/management/management_views/word_view.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/management/views.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/temp_relation.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/application/classification.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/application/home.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/application/index.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/application/joint_extraction.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/application/register.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/application/relation_search.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/login.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/management/active_annotation.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/management/d2rq.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/management/data_manager.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/management/entity_recognition.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/templates/management/excel.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/management/home.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/management/joint_extraction.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/management/relation_extract.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/management/text_annotation.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/management/word.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/upload_file/technical_file_word.docx" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

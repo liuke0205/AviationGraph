@@ -1,0 +1,363 @@
+{% extends 'management/index_admin.html' %}
+{% load pagination_tags %}
+{% block title %}
+    主动学习标注-管理端
+{% endblock %}
+
+{% block en %}
+    <!-- breadcrumb -->
+    <section class="content-header">
+        <div class="container">
+            <div class="row mb-2">
+                <ol class="breadcrumb ">
+                    <li class="breadcrumb-item"><a href="/management/toHome"><i class="fas fa-home ml-2"></i> 主页</a>
+                    </li>
+                    <li class="breadcrumb-item active">主动学习标注</li>
+                </ol>
+            </div>
+        </div>
+    </section><!-- breadcrumb-->
+
+
+    <!-- Main content -->
+    <section class="content">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-12 mb-4">
+                    {% if resultList == null %}
+                    <!-- general form elements -->
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <div>上传待标注Word文档：</div>
+                        </div>
+                        <!-- /.card-header -->
+                        <!-- form start -->
+
+                        <div class="card-body p-4">
+                            <div class="col-lg-8 m-auto">
+                                <form name="upload" enctype="multipart/form-data" method="post"
+                                      action="/management/activeAnnotationUpload/">
+                                    {% csrf_token %}
+                                    <div class="form-group">
+                                        <div class="input-group">
+                                            <div class="custom-file">
+                                                <input type="file" name="file" id="file"
+                                                       class="custom-file-input "
+                                                       lang="cn" accept=".doc,.docx">
+                                                <label class="custom-file-label" for="file">选择文件</label>
+                                            </div>
+                                            <div class="input-group-append">
+                                                <button type="submit" class="btn btn-primary">上传文档</button>
+                                            </div>
+                                        </div>
+                                    </div><!-- /.form group -->
+                                </form>
+                            </div>
+                        </div>
+                        <!-- /.card-body -->
+                    </div>
+                    {% endif %}
+                </div>
+                <!-- /.card -->
+                <div class="col-12 mb-4">
+                    <div class="card card-primary mb-5">
+                        <div class="card-header">
+                            <div>待标注文本：</div>
+                        </div>
+                        <!-- /.card-header -->
+                        <div class="card-body p-4">
+                            <div class="text-center">
+                                <div class="">当前还剩<span
+                                        class="text-danger font-weight-bold ">{{ count }}</span>条数据未标注！
+                                </div>
+                                <textarea style="border:0;border-radius:5px;background-color:rgba(241,241,241,.98);width: 1000px;
+                                        height: 100px;padding: 10px;resize: none;" rows="2"
+                                          cols="10">{{ current_text }}</textarea>
+                            </div>
+                            <form name="text" method="post" action="/management/recommendNextData/">
+                                {% csrf_token %}
+                                <div align="center">
+                                    <button type="submit" class="btn btn-primary mb-2" name="next">下一条
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                {% if current_text %}
+
+                <div class="col-12 mb-4">
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <div style="color: #4cd964">标注后的数据：</div>
+                        </div>
+
+                        <div class="card-body p-4 overflow-auto">
+
+                            <button type="button" class="btn btn-primary" data-toggle="modal"
+                                    data-target="#myModal2"
+                            >添加标注信息
+                            </button>
+
+                            {% if resultList %}
+
+                            <table class="table table-bordered my-4 text-center table-valign-middle">
+                                <thead>
+                                <tr>
+                                    <th>头实体</th>
+                                    <th>头实体类型</th>
+                                    <th>尾实体</th>
+                                    <th>尾实体类型</th>
+                                    <th>关系类型</th>
+                                    <th style="width: 200px">操作</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                {% for list in resultList %}
+                                    <tr>
+                                        <td>{{ list.0 }}</td>
+                                        <td>{{ list.1 }}</td>
+                                        <td>{{ list.2 }}</td>
+                                        <td>{{ list.3 }}</td>
+                                        <td>{{ list.4 }}</td>
+                                        <td>
+                                            <!-- 按钮触发模态框 -->
+                                            <button type="button"
+                                                    class="btn btn-primary btn-sm"
+                                                    data-toggle="modal"
+                                                    data-target="#myModal" value="Modify"
+                                                    onclick="
+                                                            document.getElementById('id').value='{{ list.6 }}';
+                                                            document.getElementById('headEntity').value='{{ list.0 }}';
+                                                            document.getElementById('headEntityType').value='{{ list.1 }}';
+                                                            document.getElementById('tailEntity').value='{{ list.2 }}';
+                                                            document.getElementById('tailEntityType').value='{{ list.3 }}';
+                                                            document.getElementById('relationshipCategory').value='{{ list.4 }}';">
+                                                <i class="fa fa-pencil-square"></i> 编辑
+                                            </button>
+
+                                            <a href="/management/deleteAnnotation/?id={{ list.5 }}">
+                                                <button class="btn btn-danger btn-sm" type="button"
+                                                        onclick="return confirm('是否确认删除？');">
+                                                    <i class="fa fa-trash-o"></i>
+                                                    删除
+                                                </button>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                {% endfor %}
+
+                                </tbody>
+                            </table>
+                        {%  endif %}
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        {% endif %}
+            <!--/.col -->
+        </div>
+        <!-- /.row -->
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- 模态框（Modal） 修改-->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+
+                    <h4 class="modal-title" id="myModalLabel">
+                        修改标注信息
+                    </h4>
+                    <button type="button" class="close" data-dismiss="modal"
+                            aria-hidden="true">×
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="modifyTemp" class="form-horizontal" action="/management/modifyAnnotation/" method="post">
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <label for="temp_id" class="col-sm-2 control-label">编号：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" placeholder="id" id="id"
+                                       name="id" required="required" readonly>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="headEntity" class="col-sm-2 control-label">头实体：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" name="headEntity" id="headEntity"
+                                       placeholder="headEntity" required="required">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="headEntityType" class="col-sm-2 control-label">头实体类型：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" name="headEntityType" id="headEntityType"
+                                       placeholder="headEntityType" required="required">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="tailEntity" class="col-sm-2 control-label">尾实体：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" name="tailEntity" id="tailEntity"
+                                       placeholder="tailEntity" required="required">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="tailEntityType" class="col-sm-2 control-label">尾实体类型：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" name="tailEntityType" id="tailEntityType"
+                                       placeholder="tailEntityType" required="required">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="relationshipCategory" class="col-sm-2 control-label">关系类别：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control"
+                                       name="relationshipCategory" placeholder="relationshipCategory"
+                                       id="relationshipCategory"
+                                       required="required">
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button class="btn btn-default" data-dismiss="modal">关闭</button>
+                            <button type="submit" class="btn btn-primary updatePro">提交更改</button>
+                        </div>
+                    </form>
+                </div>
+
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <!-- 模态框（Modal） 标注信息添加-->
+    <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title " id="myModalLabel">
+                        添加标注信息
+                    </h4>
+                    <button type="button" class="close" data-dismiss="modal"
+                            aria-hidden="true">×
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="addTemp" class="form-horizontal" action="/management/addAnnotation/" method="post">
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <label for="headEntity" class="col-sm-2 control-label">头实体：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="headEntity" name="headEntity"
+                                       placeholder="headEntity" required="required">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="headEntityType" class="col-sm-2 control-label">头实体类型：</label>
+                            <div class="col-sm-10">
+                                <select name="headEntityType" id="headEntityType" class="form-control"
+                                                style="text-align: center">
+                                    <option value="航空器">航空器</option>
+                                    <option value="术语">术语</option>
+                                    <option value="文档">文档</option>
+                                    <option value="释义">释义</option>
+                                    <option value="结构">结构</option>
+                                    <option value="性能参数">性能参数</option>
+                                    <option value="部件">部件</option>
+                                    <option value="系统">系统</option>
+                                </select>
+{#                                <input type="text" class="form-control" id="headEntityType"#}
+{#                                       name="headEntityType"#}
+{#                                       placeholder="headEntityType" required="required">#}
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="tailEntity" class="col-sm-2 control-label">尾实体：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="tailEntity" name="tailEntity"
+                                       placeholder="tailEntity" required="required">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="tailEntityType" class="col-sm-2 control-label">尾实体类型：</label>
+                            <div class="col-sm-10">
+{#                                <input type="text" class="form-control" id="tailEntityType"#}
+{#                                       name="tailEntityType"#}
+{#                                       placeholder="tailEntityType" required="required">#}
+                                <select name="tailEntityType" id="tailEntityType" class="form-control"
+                                                style="text-align: center">
+                                    <option value="航空器">航空器</option>
+                                    <option value="术语">术语</option>
+                                    <option value="文档">文档</option>
+                                    <option value="释义">释义</option>
+                                    <option value="结构">结构</option>
+                                    <option value="性能参数">性能参数</option>
+                                    <option value="部件">部件</option>
+                                    <option value="系统">系统</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="relationshipCategory" class="col-sm-2 control-label">关系类别：</label>
+                            <div class="col-sm-10">
+                                <select name="relationshipCategory" id="relationshipCategory" class="form-control"
+                                                style="text-align: center">
+                                    <option value="上下位关系">上下位关系</option>
+                                    <option value="使用关系">使用关系</option>
+                                    <option value="别名关系">别名关系</option>
+                                    <option value="参照关系">参照关系</option>
+                                    <option value="组成关系">组成关系</option>
+                                    <option value="选型关系">选型关系</option>
+                                    <option value="位置关系">位置关系</option>
+                                    <option value="作用或影响关系">作用或影响关系</option>
+                                    <option value="性能提升关系">性能提升关系</option>
+                                    <option value="性能需求关系">性能需求关系</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button class="btn btn-default" data-dismiss="modal">关闭</button>
+                            <button type="submit" class="btn btn-primary updatePro">提交添加</button>
+                        </div>
+                    </form>
+                </div>
+
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+
+{% endblock en %}
+
+
+{% block js %}
+    <!-- 引入公共JS模板 -->
+    <script src="/static/js/commonJS.js"></script>
+    <script>
+        $(function () {
+            bsCustomFileInput.init();
+        });
+    </script>
+
+    {% if messages %}
+        <script>
+            {% for msg in messages %}
+                alert('{{ msg.message }}');
+            {% endfor %}
+        </script>
+    {% endif %}
+
+{% endblock %}
+
+
+

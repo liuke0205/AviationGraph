@@ -1,0 +1,26 @@
+$primary:       #337ab7 !default;
+$secondary:     #6c757d !default;
+$success:       #198754 !default;
+$info:          #0DCAF0 !default;
+$warning:       #FD7E14 !default;
+$danger:        #DC3545 !default;
+$light:         #F8F9FA !default;
+$dark:          #343A40 !default;
+
+.fix-rounded-right {
+  border-top-right-radius: .2rem !important;
+  border-bottom-right-radius: .2rem !important;
+}
+
+.border-primary {
+  border-color: $primary !important;
+}
+
+$custom-file-text: (
+  en: "Browse",
+  es: "Elegir",
+  cn: "选择文件"
+);
+
+
+@import "bootstrap";

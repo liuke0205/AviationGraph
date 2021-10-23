@@ -1,0 +1,442 @@
+{% extends 'management/index_admin.html' %}
+{% block title %}
+    文本标注-管理端
+{% endblock %}
+
+{% block en %}
+    <!-- breadcrumb -->
+    <section class="content-header">
+        <div class="container">
+            <div class="row mb-2">
+                <ol class="breadcrumb ">
+                    <li class="breadcrumb-item"><a href="/management/toHome"><i class="fas fa-home ml-2"></i> 主页</a>
+                    </li>
+                    <li class="breadcrumb-item active">文本标注</li>
+                </ol>
+            </div>
+        </div>
+    </section><!-- breadcrumb-->
+
+
+    <!-- Main content -->
+    <section class="content">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-12 mb-4">
+                    {% if entityList == null %}
+                    <!-- general form elements -->
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <div>上传待标注Word文档：</div>
+                        </div>
+                        <!-- /.card-header -->
+                        <!-- form start -->
+
+                        <div class="card-body p-4">
+                            <div class="col-lg-8 m-auto">
+                                <form name="upload" enctype="multipart/form-data" method="post"
+                                      action="/management/upload/">
+                                    {% csrf_token %}
+                                    <div class="form-group">
+                                        <div class="input-group">
+                                            <div class="custom-file">
+                                                <input type="file" name="file" id="file"
+                                                       class="custom-file-input "
+                                                       lang="cn" accept=".doc,.docx">
+                                                <label class="custom-file-label" for="file">选择文件</label>
+                                            </div>
+                                            <div class="input-group-append">
+                                                <button type="submit" class="btn btn-primary">上传文档</button>
+                                            </div>
+                                        </div>
+                                    </div><!-- /.form group -->
+                                </form>
+                            </div>
+                        </div>
+                        <!-- /.card-body -->
+                    </div>
+                    {% endif %}
+                </div>
+                <!-- /.card -->
+                <div class="col-12 mb-4">
+                    <div class="card card-primary mb-5">
+                        <div class="card-header">
+                            <div>待标注文本：</div>
+                        </div>
+                        <!-- /.card-header -->
+                        <div class="card-body p-4">
+                            <div class="text-center">
+                                <div class="">当前用户还剩<span
+                                        class="text-danger font-weight-bold ">{{ count }}</span>条数据未标注！
+                                </div>
+                                <textarea style="border:0;border-radius:5px;background-color:rgba(241,241,241,.98);width: 1000px;
+                                        height: 200px;padding: 10px;resize: none;" rows="2"
+                                          cols="10">{{ current_text }}</textarea>
+                            </div>
+                            <form name="text" method="post" action="/management/display_text/">
+                                {% csrf_token %}
+                                <div align="center">
+                                    <button type="submit" class="btn btn-primary mb-2" name="next">下一条
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
+                {% if ctx %}
+                <div class="col-12 mb-4">
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <div>查询结果：</div>
+                        </div>
+                        <div class="card-body">
+                            <div class="p-2">
+                                <div>暂未找到相应的匹配</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+
+                {% if entityList and resultList == null %}
+                <div class="col-12 mb-4">
+                    <div class="card card-primary mb-5">
+                        <div class="card-header">
+                            <div>实体表：</div>
+                        </div><!-- /.card-header -->
+
+
+                        <div class="card-body p-4">
+                            <button type="button" class="btn btn-primary" data-toggle="modal"
+                                    data-target="#myModal3">添加实体信息
+                            </button>
+
+                            <table class="table table-bordered my-4 text-center table-valign-middle">
+                                <thead>
+                                <tr>
+                                    <th>实体名称</th>
+                                    <th>实体类型</th>
+                                    <th style="width: 150px">操作</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                {% for key, value in entityList.items %}
+                                    <tr>
+                                        <td>
+                                            {{ key }}
+                                        </td>
+                                        <td>
+                                            {{ value }}
+                                        </td>
+                                        <td>
+                                            <a href="/management/deleteDictionary/?entity={{ key }}">
+                                                <button class="btn btn-danger btn-sm" type="button"
+                                                        onclick="return confirm('是否确认删除？');">
+                                                    <i class="fa fa-trash-o"></i>
+                                                    删除
+                                                </button>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                {% endfor %}
+
+                                </tbody>
+                            </table>
+
+                            <form name="data" method="post" action="/management/text_annotation/">
+                                {% csrf_token %}
+                                <div class="text-center">
+                                    <button type="submit" class="btn btn-primary" name="next">
+                                        开始标注
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+
+                {% if resultList %}
+                <div class="col-12 mb-4">
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <div style="color: #4cd964">标注后的数据：</div>
+                        </div>
+
+                        <div class="card-body p-4 overflow-auto">
+
+                            <button type="button" class="btn btn-primary" data-toggle="modal"
+                                    data-target="#myModal2"
+                            >添加标注信息
+                            </button>
+                            <table class="table table-bordered my-4 text-center table-valign-middle">
+                                <thead>
+                                <tr>
+                                    <th>头实体</th>
+                                    <th>头实体类型</th>
+                                    <th>尾实体</th>
+                                    <th>尾实体类型</th>
+                                    <th>关系类型</th>
+                                    <th style="width: 200px">操作</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                {% for list in resultList %}
+                                    <tr>
+                                        <td>{{ list.headEntity }}</td>
+                                        <td>{{ list.headEntityType }}</td>
+                                        <td>{{ list.tailEntity }}</td>
+                                        <td>{{ list.tailEntityType }}</td>
+                                        <td>{{ list.relationshipCategory }}</td>
+                                        <td>
+                                            <!-- 按钮触发模态框 -->
+                                            <button type="button"
+                                                    class="btn btn-primary btn-sm"
+                                                    data-toggle="modal"
+                                                    data-target="#myModal" value="Modify"
+                                                    onclick="
+                                                            document.getElementById('temp_id').value='{{ list.temp_id }}';
+                                                            document.getElementById('headEntity').value='{{ list.headEntity }}';
+                                                            document.getElementById('headEntityType').value='{{ list.headEntityType }}';
+                                                            document.getElementById('tailEntity').value='{{ list.tailEntity }}';
+                                                            document.getElementById('tailEntityType').value='{{ list.tailEntityType }}';
+                                                            document.getElementById('relationshipCategory').value='{{ list.relationshipCategory }}';">
+                                                <i class="fa fa-pencil-square"></i> 编辑
+                                            </button>
+
+                                            <a href="/management/deleteTemp/?temp_id={{ list.temp_id }}">
+                                                <button class="btn btn-danger btn-sm" type="button"
+                                                        onclick="return confirm('是否确认删除？');">
+                                                    <i class="fa fa-trash-o"></i>
+                                                    删除
+                                                </button>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                {% endfor %}
+
+                                </tbody>
+                            </table>
+                        </div>
+
+                    </div>
+                </div>
+                {% endif %}
+
+            </div>
+            <!--/.col -->
+        </div>
+        <!-- /.row -->
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- 模态框（Modal） 修改-->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+
+                    <h4 class="modal-title" id="myModalLabel">
+                        修改标注信息
+                    </h4>
+                    <button type="button" class="close" data-dismiss="modal"
+                            aria-hidden="true">×
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="modifyTemp" class="form-horizontal" action="/management/modifyTemp/" method="post">
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <label for="temp_id" class="col-sm-2 control-label">编号：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" placeholder="temp_id" id="temp_id"
+                                       name="temp_id" required="required" readonly>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="headEntity" class="col-sm-2 control-label">头实体：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" name="headEntity" id="headEntity"
+                                       placeholder="headEntity" required="required">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="headEntityType" class="col-sm-2 control-label">头实体类型：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" name="headEntityType" id="headEntityType"
+                                       placeholder="headEntityType" required="required">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="tailEntity" class="col-sm-2 control-label">尾实体：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" name="tailEntity" id="tailEntity"
+                                       placeholder="tailEntity" required="required">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="tailEntityType" class="col-sm-2 control-label">尾实体类型：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" name="tailEntityType" id="tailEntityType"
+                                       placeholder="tailEntityType" required="required">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="relationshipCategory" class="col-sm-2 control-label">关系类别：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control"
+                                       name="relationshipCategory" placeholder="relationshipCategory"
+                                       id="relationshipCategory"
+                                       required="required">
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button class="btn btn-default" data-dismiss="modal">关闭</button>
+                            <button type="submit" class="btn btn-primary updatePro">提交更改</button>
+                        </div>
+                    </form>
+                </div>
+
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <!-- 模态框（Modal） 标注信息添加-->
+    <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title " id="myModalLabel">
+                        添加标注信息
+                    </h4>
+                    <button type="button" class="close" data-dismiss="modal"
+                            aria-hidden="true">×
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="addTemp" class="form-horizontal" action="/management/addTemp/" method="post">
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <label for="headEntity" class="col-sm-2 control-label">头实体：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="headEntity" name="headEntity"
+                                       placeholder="headEntity" required="required">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="headEntityType" class="col-sm-2 control-label">头实体类型：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="headEntityType"
+                                       name="headEntityType"
+                                       placeholder="headEntityType" required="required">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="tailEntity" class="col-sm-2 control-label">尾实体：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="tailEntity" name="tailEntity"
+                                       placeholder="tailEntity" required="required">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="tailEntityType" class="col-sm-2 control-label">尾实体类型：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="tailEntityType"
+                                       name="tailEntityType"
+                                       placeholder="tailEntityType" required="required">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="relationshipCategory" class="col-sm-2 control-label">关系类别：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="relationshipCategory"
+                                       name="relationshipCategory" placeholder="relationshipCategory"
+                                       required="required">
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button class="btn btn-default" data-dismiss="modal">关闭</button>
+                            <button type="submit" class="btn btn-primary updatePro">提交添加</button>
+                        </div>
+                    </form>
+                </div>
+
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <!-- 模态框（Modal） 实体信息（字典）添加-->
+    <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+
+                    <h4 class="modal-title" id="myModalLabel">
+                        添加实体信息
+                    </h4>
+                    <button type="button" class="close" data-dismiss="modal"
+                            aria-hidden="true">×
+                    </button>
+                </div>
+
+                <div class="modal-body">
+                    <form id="addDictionary" class="form-horizontal" action="/management/addDictionary/" method="post">
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <label for="entity" class="col-sm-2 control-label">实体：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="entity" name="entity"
+                                       placeholder="entity"
+                                       required="required">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="entity_type" class="col-sm-2 control-label">实体类型：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="entity_type" name="entity_type"
+                                       placeholder="entity_type" required="required">
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button class="btn btn-default" data-dismiss="modal">关闭</button>
+                            <button type="submit" class="btn btn-primary updatePro">提交添加</button>
+                        </div>
+                    </form>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+{% endblock en %}
+
+
+{% block js %}
+    <!-- 引入公共JS模板 -->
+    <script src="/static/js/commonJS.js"></script>
+    <script>
+        $(function () {
+            bsCustomFileInput.init();
+        });
+    </script>
+
+    {% if messages %}
+        <script>
+            {% for msg in messages %}
+                alert('{{ msg.message }}');
+            {% endfor %}
+        </script>
+    {% endif %}
+
+{% endblock %}
+
+
+

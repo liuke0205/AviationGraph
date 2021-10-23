@@ -1,0 +1,570 @@
+{
+  "path": "F:\\01-科研资料\\03-项目工程\\AviationGraph\\AviationGraph\\DataProcess\\json\\4-4初选方案2.txt",
+  "outputs": {
+    "annotation": {
+      "T": [
+        "",
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 934,
+          "end": 937,
+          "attributes": [],
+          "id": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "方案论证阶段",
+          "start": 67,
+          "end": 73,
+          "attributes": [],
+          "id": 7
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 158,
+          "end": 161,
+          "attributes": [],
+          "id": 8
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 405,
+          "end": 408,
+          "attributes": [],
+          "id": 9
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 851,
+          "end": 854,
+          "attributes": [],
+          "id": 10
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞行剖面",
+          "start": 241,
+          "end": 245,
+          "attributes": [],
+          "id": 16
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞行剖面",
+          "start": 1090,
+          "end": 1094,
+          "attributes": [],
+          "id": 18
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "巡航高度",
+          "start": 499,
+          "end": 503,
+          "attributes": [],
+          "id": 20
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 303,
+          "end": 306,
+          "attributes": [],
+          "id": 22
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 358,
+          "end": 361,
+          "attributes": [],
+          "id": 24
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 380,
+          "end": 383,
+          "attributes": [],
+          "id": 25
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 1117,
+          "end": 1120,
+          "attributes": [],
+          "id": 26
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 1131,
+          "end": 1134,
+          "attributes": [],
+          "id": 27
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 1142,
+          "end": 1145,
+          "attributes": [],
+          "id": 28
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 1149,
+          "end": 1152,
+          "attributes": [],
+          "id": 29
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 1174,
+          "end": 1177,
+          "attributes": [],
+          "id": 30
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 1202,
+          "end": 1205,
+          "attributes": [],
+          "id": 31
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 1233,
+          "end": 1236,
+          "attributes": [],
+          "id": 32
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 1237,
+          "end": 1240,
+          "attributes": [],
+          "id": 33
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 1294,
+          "end": 1297,
+          "attributes": [],
+          "id": 35
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 1305,
+          "end": 1308,
+          "attributes": [],
+          "id": 36
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "基本航程",
+          "start": 225,
+          "end": 229,
+          "attributes": [],
+          "id": 38
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "基本航程",
+          "start": 409,
+          "end": 413,
+          "attributes": [],
+          "id": 39
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "基本航程",
+          "start": 549,
+          "end": 553,
+          "attributes": [],
+          "id": 40
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作战半径",
+          "start": 640,
+          "end": 644,
+          "attributes": [],
+          "id": 46
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作战半径",
+          "start": 698,
+          "end": 702,
+          "attributes": [],
+          "id": 48
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作战半径",
+          "start": 753,
+          "end": 757,
+          "attributes": [],
+          "id": 49
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作战半径",
+          "start": 988,
+          "end": 992,
+          "attributes": [],
+          "id": 50
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作战半径",
+          "start": 1053,
+          "end": 1057,
+          "attributes": [],
+          "id": 51
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作战半径",
+          "start": 1206,
+          "end": 1210,
+          "attributes": [],
+          "id": 52
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作战半径",
+          "start": 1250,
+          "end": 1254,
+          "attributes": [],
+          "id": 53
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作战半径",
+          "start": 1344,
+          "end": 1348,
+          "attributes": [],
+          "id": 55
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "转场航程",
+          "start": 307,
+          "end": 311,
+          "attributes": [],
+          "id": 56
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "爬升段",
+          "start": 6,
+          "end": 9,
+          "attributes": [],
+          "id": 57
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "升阻特性",
+          "start": 34,
+          "end": 38,
+          "attributes": [],
+          "id": 60
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "巡航飞行",
+          "start": 921,
+          "end": 925,
+          "attributes": [],
+          "id": 64
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "真实飞机",
+          "start": 77,
+          "end": 81,
+          "attributes": [],
+          "id": 94
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机重量",
+          "start": 1180,
+          "end": 1184,
+          "attributes": [],
+          "id": 99
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机重量",
+          "start": 1368,
+          "end": 1372,
+          "attributes": [],
+          "id": 100
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "发动机特性",
+          "start": 1007,
+          "end": 1012,
+          "attributes": [],
+          "id": 113
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "任务燃油系数",
+          "start": 183,
+          "end": 189,
+          "attributes": [],
+          "id": 117
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "分段分析法",
+          "start": 1083,
+          "end": 1088,
+          "attributes": [],
+          "id": 118
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "加速段",
+          "start": 10,
+          "end": 13,
+          "attributes": [],
+          "id": 120
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "可用推力特性",
+          "start": 39,
+          "end": 45,
+          "attributes": [],
+          "id": 121
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "无外挂起飞重量",
+          "start": 290,
+          "end": 297,
+          "attributes": [],
+          "id": 122
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "油量重量",
+          "start": 362,
+          "end": 366,
+          "attributes": [],
+          "id": 123
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "任务燃油量",
+          "start": 458,
+          "end": 463,
+          "attributes": [],
+          "id": 124
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "巡航高度作战半径飞行剖面",
+          "start": 669,
+          "end": 681,
+          "attributes": [],
+          "id": 125
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "弦截法",
+          "start": 829,
+          "end": 832,
+          "attributes": [],
+          "id": 126
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "带副油箱作战半径飞行剖面",
+          "start": 1271,
+          "end": 1283,
+          "attributes": [],
+          "id": 127
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "副油箱分析法",
+          "start": 1381,
+          "end": 1387,
+          "attributes": [],
+          "id": 128
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "着陆停机",
+          "start": 1309,
+          "end": 1313,
+          "attributes": [],
+          "id": 129
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "爬升方案",
+          "start": 478,
+          "end": 482,
+          "attributes": [],
+          "id": 130
+        }
+      ],
+      "E": [],
+      "R": [],
+      "A": []
+    }
+  },
+  "time_labeled": 1618031541610,
+  "labeled": true,
+  "content": "如要准确计算爬升段和加速段，可采用第11章及第5章的方法计算出飞机的升阻特性和可用推力特性，即可用现有的性能计算程序计算。\r\n为了便于在方案论证阶段使用，按真实飞机采用第11章、第12章及本章4.5节的方法计算出的数据，经统计分析给出简化的估算公式，见表4-5。\r\n4.5.4.2 任务燃油系数参考值及估算公式\r\n针对现代战斗机的特点经统计分析与估算拟合，提供各主要航段的任务燃油系数参考值及估算公式见表4-5。\r\n4.5.5 常用算法示例\r\n4.5.5.1 基本航程估算\r\n（1）估算方法\r\n将飞行剖面简化成如图4-10所示。\r\n由式（4-32）及式（4-33）可有\r\n采用式（4-40）即可解出无外挂起飞重量WNTO\r\n带副油箱的转场航程也用此法计算，只是Wmf中包括副油箱的油量。采用式（4-39）计算WTO时，式中的WSTOR为副油箱及油量重量。CRP中的（L/D）DI按副油箱的DI0计算。\r\n（2）估算示例\r\n采用核算现有战斗机的基本航程作为示例。根据现有飞机的WNTO、Wuf、（L/D）max值，取Krf=0.07，即可算出任务燃油量Wmf。\r\n假定按表4._5中的爬升方案，爬升到对应（L/D）max的有利巡航高度，用M=0.8的速度巡航，计算出各航段的Mfi值和从Wmf中解出MfCR，即可计算出能达到的基本航程。各飞机的参数及RB值见表4-6。\r\n由于每架飞机采用的爬升方案及耗油特性会有差异，故RB也会有差异，但作为初选方案时放在统一基础上对比分析还是有参考意义的。\r\n4.5.5.2 作战半径估算\r\n（1）估算方法\r\n现仅以图4-11所示的简化的巡航高度作战半径飞行剖面为示例说明计算方法。\r\na.如果给定作战半径要求，计算方法为\r\n即可由式（4-40）解出WNTO及Wuf值。\r\nb.如果是对已知油量的飞机求解能达到的作战半径，因有两个未知数须建立两个方程联立求解。\r\n由Rout及Rin建立第1个方程，即由合并成再由任务燃油量建立第2个方程\r\n可采用简单的数值计算法，例如弦截法，联立求解。\r\n（2）估算示例\r\n仍以现有战斗机为例，按前述方法建立两个方程联立求解。各航段的飞行方式及公式也采用表4-5计算。假定是在M=0.8，对应（L/D）DI max的高度上巡航飞行并空战。空战中按用发动机最大状态5min估计Wf CB。\r\n空战后按对应返航平均重量的有利高度巡航返回。给定抛放物的参数和估算的作战半径RD，见表4-7。\r\n同样，由于发动机特性、空战方式不同，RD值也不同。用此法估算也仅供对比参考，如F-16A资料中给出制空作战半径925km，就与此算法的结果相近。\r\n4.5.5.3 分段分析法\r\n对飞行剖面比较复杂的情况，可采用分段分析法简化计算。以带副油箱为例说明如下。\r\n（1）副油箱油量要求分析\r\n当副油箱油尽抛放副油箱前，飞机的重量是确定的，即可用此方法。如抛放副油箱前令\r\n飞机重量为并Wend写成\r\n即可解出\r\n（2）带副油箱的作战半径要求分析\r\n主要用于分析在进入空战前什么时机抛去副油箱，副油箱须有多少油量才能保证作战半径要求。采用如图4-12所示的简化的带副油箱作战半径飞行剖面。\r\n为了求出须带多大的副油箱，首先计算自抛去副油箱到着陆停机这个分段。此时结束重量Wend是已知的，可用4.5.5.2节的作战半径估算的方法计算。算出此分段后，第3点处的飞机重量也是已知的，即可用副油箱分析法计算。"
+}

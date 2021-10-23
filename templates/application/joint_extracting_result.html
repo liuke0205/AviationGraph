@@ -1,0 +1,209 @@
+{% extends 'application/index.html' %}
+{% load pagination_tags %}
+
+{% block title %}
+    联合抽取结果显示-用户端
+{% endblock %}
+{% block css %}
+    <style>
+        input[type="checkbox"] {
+            -webkit-appearance: none;
+            vertical-align: middle;
+            margin-top: 0;
+            background: #fff;
+            border: #999 solid 1px;
+            border-radius: 3px;
+            min-height: 12px;
+            min-width: 12px;
+        }
+
+        input[type="checkbox"]:checked {
+            background: #3190e8;
+        }
+
+        input[type="checkbox"]:checked::after {
+            content: '';
+            top: 3px;
+            left: 3px;
+            position: absolute;
+            background: transparent;
+            border: #fff solid 2px;
+            border-top: none;
+            border-right: none;
+            height: 6px;
+            width: 10px;
+            -moz-transform: rotate(-45deg);
+            -ms-transform: rotate(-45deg);
+            -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+        }
+    </style>
+{% endblock %}
+{% block en %}
+    <!-- breadcrumb -->
+    <section class="content-header">
+        <div class="container">
+            <div class="row mb-2">
+                <ol class="breadcrumb ">
+                    <li class="breadcrumb-item"><a href="/application/toHome/"><i class="fas fa-home"></i>主页</a></li>
+                    <li class="breadcrumb-item active">联合抽取结果显示</li>
+                </ol>
+            </div>
+        </div>
+    </section><!-- breadcrumb-->
+
+    <!-- Main content -->
+    <section class="content">
+        <div class="container">
+            <div class="row">
+                {% if  resultList %}
+                    <div class="col-12 mb-4">
+
+                        <div class="card card-primary">
+                            <div class="card-header">
+                                <div> 联合抽取结果显示：</div>
+                            </div><!-- /.card-header -->
+
+                            <div class="card-body p-4">
+                                <table class="table table-bordered mb-4 table-valign-middle text-center">
+                                    <thead>
+                                    <tr class="text-primary">
+                                        <th style="width: 100px" class="text-center">头实体</th>
+                                        <th style="width: 100px" class="text-center">关系类别</th>
+                                        <th style="width: 100px" class="text-center">尾实体</th>
+                                        <th style="width: 200px"class="text-center">原文本</th>
+{#                                        <th style="width: 140px" class="text-center">用户操作</th>#}
+                                    </tr>
+                                    </thead>
+
+                                    {% autopaginate resultList 6 %}
+
+                                    <tbody id="tb">
+                                    {% for list in resultList %}
+                                        <tr>
+                                            <td>{{ list.0 }}</td>
+                                            <td>{{ list.1 }}</td>
+                                            <td>{{ list.2 }}</td>
+                                            <td>{{ list.3 }}</td>
+                                        </tr>
+                                    {% endfor %}
+                                    </tbody>
+
+                                </table>
+                                <div class="mb-4">
+                                    {% paginate using "pagination.html" %}
+                                </div>
+                            </div>
+                            <!-- /.card-body -->
+                        </div>
+
+
+                    </div>
+                {% endif %}
+                <!--/.col -->
+            </div>
+            <!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+     <!-- 模态框（Modal） 修改-->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+
+                    <h4 class="modal-title" id="myModalLabel" style="font-size:20px;">
+                        修改关系信息
+                    </h4>
+                    <button type="button" class="close" data-dismiss="modal"
+                            aria-hidden="true">×
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="modifyRel" class="form-horizontal" action="/management/modifyRel/" method="post">
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <label for="rel_id" class="col-sm-2 control-label">编号：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="rel_id" placeholder="rel_id"
+                                       name="rel_id"
+                                       required="required" readonly>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="headEntity" class="col-sm-2 control-label">头实体：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="headEntity" name="headEntity"
+                                       required="required">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="relationshipCategory" class="col-sm-2 control-label">关系类别：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="relationshipCategory"
+                                       name="relationshipCategory"
+                                       required="required">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="tailEntity" class="col-sm-2 control-label">尾实体：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="tailEntity" name="tailEntity"
+                                       required="required">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="text" class="col-sm-2 control-label">原文本：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="text"
+                                       name="text" required="required">
+                            </div>
+                        </div>
+
+
+                        <div class="modal-footer">
+                            <button class="btn btn-default" data-dismiss="modal">关闭</button>
+                            <button type="submit" class="btn btn-primary updatePro">提交更改</button>
+                        </div>
+                    </form>
+                </div>
+
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+{% endblock en %}
+
+{% block js %}
+
+    <!-- 引入公共JS模板 -->
+    <script src="/static/js/commonJS.js"></script>
+
+    {% if messages %}
+        <script>
+            {% for msg in messages %}
+                alert('{{ msg.message }}');
+            {% endfor %}
+        </script>
+    {% endif %}
+
+    <script>
+        $(function () {
+            bsCustomFileInput.init();
+        });
+        $(".dropdown-menu li a").click(function () {
+            var selText = $(this).text();
+            $(this).parents('.btn-group').find('.dropdown-toggle').html(selText + ' <span class="caret"></span>');
+            if (selText.trim() != "Other") {
+                $("#relationshipCategory").val(selText.trim());
+            }
+            //combobox behavior
+            if (selText.trim() === "Other") {
+                $("#relation_name").removeClass("hide");
+            } else {
+                $("#relation_name").addClass("hide");
+            }
+        });
+    </script>
+{% endblock %}

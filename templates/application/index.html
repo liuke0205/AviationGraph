@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% block title %}航空领域知识图谱-应用系统{% endblock %}</title>
+    <link rel="icon" href="/static/img/plane-application.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/static/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="/static/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="/static/css/custom.css">
+    {% block css %}
+    {% endblock %}
+</head>
+<body class="hold-transition sidebar-mini">
+<!-- wrapper -->
+<div class="wrapper">
+    <!-- Navbar -->
+    <nav class="main-header navbar navbar-expand navbar-dark navbar-primary">
+        <!-- Left navbar links -->
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
+            </li>
+            <li class="nav-item d-none d-sm-inline-block">
+                <a href="" class="nav-link font-weight-bold "></a>
+            </li>
+        </ul>
+
+        <!-- Right navbar links -->
+        <ul class="navbar-nav ml-auto">
+
+            <li class="nav-item">
+                <a class="nav-link" href="#" role="button" data-toggle="tooltip" data-placement="bottom" title="查看帮助">
+                    <i class="fa fa-question-circle fa-lg fa-fw"></i>
+                    帮助
+                </a>
+            </li>
+            <li class="nav-item mr-4">
+                <a class="nav-link" href="http://127.0.0.1:8888/exit/" role="button" data-toggle="tooltip"
+                   data-placement="bottom" title="退出登录">
+                    <i class="fa fa-upload fa-lg fa-rotate-90 fa-fw"></i>退出
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <!-- /.navbar -->
+    <!-- Main Sidebar Container -->
+    <aside class="main-sidebar sidebar-dark-white elevation-4 bg-primary">
+        <!-- Brand Logo -->
+        <a href="#" class="brand-link">
+            <span class="brand-text font-weight-light pl-2 font-weight-bold">航空领域图谱-应用系统</span>
+        </a>
+
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <!-- Sidebar Menu -->
+            <nav class="mt-2">
+                <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu"
+                    data-accordion="false">
+                    <li class="nav-item border-bottom border-secondary">
+                        <a href="http://127.0.0.1:8888/application/toHome/" class="nav-link">
+                            <i class="nav-icon fas fa-home"></i>
+                            <p>
+                                主界面
+                            </p>
+                        </a>
+                    </li>
+                    <li class="nav-item border-bottom border-secondary">
+                        <a href="http://127.0.0.1:8888/application/toSearchAllPdf/" class="nav-link">
+                            <i class="nav-icon fas fa-search-plus"></i>
+                            <p>
+                                全文搜索
+                            </p>
+                        </a>
+                    </li>
+
+                    <li class="nav-item border-bottom border-secondary menu-open">
+                        <a href="#" class="nav-link">
+                            <i class="nav-icon fas fa-pencil-square-o"></i>
+                            <p>
+                                <i class="right fas fa-angle-left"></i>
+                                联合抽取
+                            </p>
+                        </a>
+                        <ul class="nav nav-treeview pl-3">
+                            <li class="nav-item border-bottom border-secondary">
+                                <a href="http://127.0.0.1:8888/application/toJointExtraction/" class="nav-link">
+                                    <i class="nav-icon fas fa-upload"></i>
+                                    <p>
+                                        上传数据
+                                    </p>
+                                </a>
+                            </li>
+                        </ul>
+                        <ul class="nav nav-treeview pl-3">
+                            <li class="nav-item border-bottom border-secondary">
+                                <a href="http://127.0.0.1:8888/application/display_re_text/" class="nav-link">
+                                    <i class="nav-icon fas fa-table"></i>
+                                    <p>
+                                        查看结果
+                                    </p>
+                                </a>
+                            </li>
+                        </ul>
+                        <ul class="nav nav-treeview pl-3">
+                            <li class="nav-item border-bottom border-secondary">
+                                <a href="http://127.0.0.1:8888/application/download_jointExtract_result/"
+                                   class="nav-link">
+                                    <i class="nav-icon fas fa-download"></i>
+                                    <p>
+                                        下载文件
+                                    </p>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+
+
+                    <li class="nav-item border-bottom border-secondary menu-open">
+                        <a href="#" class="nav-link">
+                            <i class="nav-icon fas fa-pencil-square-o"></i>
+                            <p>
+                                <i class="right fas fa-angle-left"></i>
+                                故障数据融合
+                            </p>
+                        </a>
+                        <ul class="nav nav-treeview pl-3">
+                            <li class="nav-item border-bottom border-secondary">
+                                <a href="http://127.0.0.1:8888/application/toClassification/" class="nav-link">
+                                    <i class="nav-icon fas fa-upload"></i>
+                                    <p>
+                                        上传数据
+                                    </p>
+                                </a>
+                            </li>
+                        </ul>
+                        <ul class="nav nav-treeview pl-3">
+                            <li class="nav-item border-bottom border-secondary">
+                                <a href="http://127.0.0.1:8888/application/display_classication_result/"
+                                   class="nav-link">
+                                    <i class="nav-icon fas fa-tablets"></i>
+                                    <p>
+                                        查看结果
+                                    </p>
+                                </a>
+                            </li>
+                        </ul>
+                        <ul class="nav nav-treeview pl-3">
+                            <li class="nav-item border-bottom border-secondary">
+                                <a href="http://127.0.0.1:8888/application/download_classication_file/"
+                                   class="nav-link">
+                                    <i class="nav-icon fas fa-download"></i>
+                                    <p>
+                                        下载结果
+                                    </p>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item border-bottom border-secondary">
+                        <a href="http://127.0.0.1:8888/application/toRelationSearch/" class="nav-link">
+                            <i class="nav-icon fas fa-search "></i>
+                            <p>
+                                知识查询
+                            </p>
+                        </a>
+                    </li>
+                    <li class="nav-item border-bottom border-secondary">
+                        <a href="http://127.0.0.1:8888/application/toAnswer/" class="nav-link">
+                            <i class="nav-icon fas fa-comments"></i>
+                            <p>
+                                问答系统
+                            </p>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            <!-- /.sidebar-menu -->
+        </div>
+        <!-- /.sidebar -->
+    </aside>
+
+    <!-- Content Wrapper. Contains page content -->
+    <div class="content-wrapper">
+        {% block en %}
+        {% endblock en %}
+    </div><!-- /.content-wrapper -->
+
+    {% block footer %}
+        <!-- Main footer -->
+        <div class="main-footer text-center">
+            <span>© 2021-2023 刘珂 版权所有</span>
+        </div>
+    {% endblock %}
+
+</div><!-- ./wrapper -->
+<script src="/static/jquery/jquery.min.js"></script>
+<script src="/static/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/static/js/adminlte.min.js"></script>
+<script type="text/javascript">
+    $('.nav-pills').find('a').each(function () {
+        if (this.href == document.location.href || document.location.href.search(this.href) >= 0) {
+            $(this).addClass('active'); // this.className = 'active';
+        }
+    });
+</script>
+
+{% block js %}
+
+{% endblock %}
+</body>
+</html>

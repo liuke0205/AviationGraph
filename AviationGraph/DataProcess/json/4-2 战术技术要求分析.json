@@ -1,0 +1,7156 @@
+{
+  "path": "F:\\01-科研资料\\03-项目工程\\AviationGraph\\AviationGraph\\DataProcess\\json\\4-2 战术技术要求分析.txt",
+  "outputs": {
+    "annotation": {
+      "T": [
+        "",
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "[1995]技综字第2709号文",
+          "start": 70,
+          "end": 86,
+          "attributes": [],
+          "id": 3
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "军用飞机",
+          "start": 90,
+          "end": 94,
+          "attributes": [],
+          "id": 4
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "常规武器装备",
+          "start": 105,
+          "end": 111,
+          "attributes": [],
+          "id": 5
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术指标要求",
+          "start": 231,
+          "end": 239,
+          "attributes": [],
+          "id": 9
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "军用飞机",
+          "start": 245,
+          "end": 249,
+          "attributes": [],
+          "id": 10
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "军机",
+          "start": 252,
+          "end": 254,
+          "attributes": [],
+          "id": 11
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "军机",
+          "start": 307,
+          "end": 309,
+          "attributes": [],
+          "id": 12
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "军机",
+          "start": 914,
+          "end": 916,
+          "attributes": [],
+          "id": 13
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "新机",
+          "start": 933,
+          "end": 935,
+          "attributes": [],
+          "id": 14
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "军机力量配置",
+          "start": 936,
+          "end": 942,
+          "attributes": [],
+          "id": 16
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "航空电子和武器火控系统",
+          "start": 1064,
+          "end": 1075,
+          "attributes": [],
+          "id": 17
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 994,
+          "end": 997,
+          "attributes": [],
+          "id": 18
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 1034,
+          "end": 1037,
+          "attributes": [],
+          "id": 19
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 1048,
+          "end": 1051,
+          "attributes": [],
+          "id": 20
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战略需求分析",
+          "start": 779,
+          "end": 785,
+          "attributes": [],
+          "id": 21
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "使命任务分析",
+          "start": 764,
+          "end": 770,
+          "attributes": [],
+          "id": 22
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术需求分析",
+          "start": 959,
+          "end": 965,
+          "attributes": [],
+          "id": 23
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "作战对象分析",
+          "start": 969,
+          "end": 975,
+          "attributes": [],
+          "id": 24
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "作战环境分析",
+          "start": 1133,
+          "end": 1139,
+          "attributes": [],
+          "id": 25
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作战能力",
+          "start": 1041,
+          "end": 1045,
+          "attributes": [],
+          "id": 26
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作战能力",
+          "start": 1002,
+          "end": 1006,
+          "attributes": [],
+          "id": 27
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《世界飞机手册》",
+          "start": 1100,
+          "end": 1108,
+          "attributes": [],
+          "id": 28
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《世界飞机武器手册》",
+          "start": 1109,
+          "end": 1119,
+          "attributes": [],
+          "id": 29
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "装备水平",
+          "start": 1076,
+          "end": 1080,
+          "attributes": [],
+          "id": 30
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "作战对象探测系统",
+          "start": 1176,
+          "end": 1184,
+          "attributes": [],
+          "id": 31
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "作战使用特点分析",
+          "start": 1215,
+          "end": 1223,
+          "attributes": [],
+          "id": 32
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 1405,
+          "end": 1408,
+          "attributes": [],
+          "id": 38
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 1448,
+          "end": 1451,
+          "attributes": [],
+          "id": 39
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空天",
+          "start": 1565,
+          "end": 1567,
+          "attributes": [],
+          "id": 40
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "空中预警机",
+          "start": 1568,
+          "end": 1573,
+          "attributes": [],
+          "id": 41
+        },
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 1610,
+          "end": 1613,
+          "attributes": [],
+          "id": 43
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "电子干扰机",
+          "start": 1614,
+          "end": 1619,
+          "attributes": [],
+          "id": 44
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "反辐射飞机",
+          "start": 1620,
+          "end": 1625,
+          "attributes": [],
+          "id": 45
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "攻击机",
+          "start": 1626,
+          "end": 1629,
+          "attributes": [],
+          "id": 46
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "轰炸机",
+          "start": 1630,
+          "end": 1633,
+          "attributes": [],
+          "id": 47
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "地面战斗",
+          "start": 1669,
+          "end": 1673,
+          "attributes": [],
+          "id": 48
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "近距支援",
+          "start": 1675,
+          "end": 1679,
+          "attributes": [],
+          "id": 49
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战场遮断",
+          "start": 1680,
+          "end": 1684,
+          "attributes": [],
+          "id": 50
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "固定翼飞机",
+          "start": 1689,
+          "end": 1694,
+          "attributes": [],
+          "id": 51
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "武装直升机",
+          "start": 1701,
+          "end": 1706,
+          "attributes": [],
+          "id": 52
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "地面",
+          "start": 1559,
+          "end": 1561,
+          "attributes": [],
+          "id": 53
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空中",
+          "start": 1562,
+          "end": 1564,
+          "attributes": [],
+          "id": 54
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "作战使命任务",
+          "start": 1711,
+          "end": 1717,
+          "attributes": [],
+          "id": 55
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空中力量",
+          "start": 1723,
+          "end": 1727,
+          "attributes": [],
+          "id": 57
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "空军战斗机",
+          "start": 1795,
+          "end": 1800,
+          "attributes": [],
+          "id": 58
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空中优势",
+          "start": 1820,
+          "end": 1824,
+          "attributes": [],
+          "id": 59
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "护航",
+          "start": 1825,
+          "end": 1827,
+          "attributes": [],
+          "id": 60
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空中巡逻",
+          "start": 1828,
+          "end": 1832,
+          "attributes": [],
+          "id": 61
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "拦截",
+          "start": 1833,
+          "end": 1835,
+          "attributes": [],
+          "id": 62
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "近距空中支援",
+          "start": 1836,
+          "end": 1842,
+          "attributes": [],
+          "id": 63
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "纵深打击",
+          "start": 1843,
+          "end": 1847,
+          "attributes": [],
+          "id": 64
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空中侦察",
+          "start": 1848,
+          "end": 1852,
+          "attributes": [],
+          "id": 65
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空中优势",
+          "start": 1866,
+          "end": 1870,
+          "attributes": [],
+          "id": 66
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "拦截",
+          "start": 1871,
+          "end": 1873,
+          "attributes": [],
+          "id": 67
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "近距空中支援",
+          "start": 1874,
+          "end": 1880,
+          "attributes": [],
+          "id": 68
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "纵深攻击",
+          "start": 1881,
+          "end": 1885,
+          "attributes": [],
+          "id": 69
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空空作战任务",
+          "start": 1904,
+          "end": 1910,
+          "attributes": [],
+          "id": 70
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空空、空地（海）作战任务",
+          "start": 1935,
+          "end": 1947,
+          "attributes": [],
+          "id": 71
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空空作战任务",
+          "start": 1967,
+          "end": 1973,
+          "attributes": [],
+          "id": 72
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术指标",
+          "start": 1986,
+          "end": 1992,
+          "attributes": [],
+          "id": 73
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空中优势",
+          "start": 2014,
+          "end": 2018,
+          "attributes": [],
+          "id": 74
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "使命任务",
+          "start": 1996,
+          "end": 2000,
+          "attributes": [],
+          "id": 75
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "对地攻击",
+          "start": 2024,
+          "end": 2028,
+          "attributes": [],
+          "id": 76
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "多任务战斗机",
+          "start": 2038,
+          "end": 2044,
+          "attributes": [],
+          "id": 77
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空地（海）作战任务",
+          "start": 2050,
+          "end": 2059,
+          "attributes": [],
+          "id": 78
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术要求分析",
+          "start": 2078,
+          "end": 2084,
+          "attributes": [],
+          "id": 79
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 2085,
+          "end": 2088,
+          "attributes": [],
+          "id": 80
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术要求分析",
+          "start": 2089,
+          "end": 2095,
+          "attributes": [],
+          "id": 81
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术需求分析",
+          "start": 2105,
+          "end": 2111,
+          "attributes": [],
+          "id": 83
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "典型任务剖面设计",
+          "start": 2180,
+          "end": 2188,
+          "attributes": [],
+          "id": 84
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 2189,
+          "end": 2192,
+          "attributes": [],
+          "id": 85
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "典型任务剖面",
+          "start": 2193,
+          "end": 2199,
+          "attributes": [],
+          "id": 86
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "作战使命任务",
+          "start": 2201,
+          "end": 2207,
+          "attributes": [],
+          "id": 87
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术需求",
+          "start": 2208,
+          "end": 2212,
+          "attributes": [],
+          "id": 88
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机总体方案概念设计",
+          "start": 2216,
+          "end": 2226,
+          "attributes": [],
+          "id": 89
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术要求分析",
+          "start": 2227,
+          "end": 2233,
+          "attributes": [],
+          "id": 90
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 2245,
+          "end": 2248,
+          "attributes": [],
+          "id": 91
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "任务剖面",
+          "start": 2249,
+          "end": 2253,
+          "attributes": [],
+          "id": 92
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "任务段",
+          "start": 2257,
+          "end": 2260,
+          "attributes": [],
+          "id": 93
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "起飞段",
+          "start": 2279,
+          "end": 2282,
+          "attributes": [],
+          "id": 94
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "地面滑跑",
+          "start": 2284,
+          "end": 2288,
+          "attributes": [],
+          "id": 95
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "加速至上升速度",
+          "start": 2289,
+          "end": 2296,
+          "attributes": [],
+          "id": 96
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "上升段",
+          "start": 2300,
+          "end": 2303,
+          "attributes": [],
+          "id": 97
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "最佳发动机工作状态和速度程序",
+          "start": 2319,
+          "end": 2333,
+          "attributes": [],
+          "id": 99
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "巡航高度",
+          "start": 2341,
+          "end": 2345,
+          "attributes": [],
+          "id": 100
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "等表速",
+          "start": 2356,
+          "end": 2359,
+          "attributes": [],
+          "id": 101
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "等真速",
+          "start": 2360,
+          "end": 2363,
+          "attributes": [],
+          "id": 102
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "等马赫数",
+          "start": 2364,
+          "end": 2368,
+          "attributes": [],
+          "id": 103
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "巡航段",
+          "start": 2377,
+          "end": 2380,
+          "attributes": [],
+          "id": 104
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "预定目标区域",
+          "start": 2395,
+          "end": 2401,
+          "attributes": [],
+          "id": 106
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "巡航段",
+          "start": 2442,
+          "end": 2445,
+          "attributes": [],
+          "id": 107
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "出航",
+          "start": 2431,
+          "end": 2433,
+          "attributes": [],
+          "id": 108
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "返航",
+          "start": 2434,
+          "end": 2436,
+          "attributes": [],
+          "id": 109
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "巡航",
+          "start": 2446,
+          "end": 2448,
+          "attributes": [],
+          "id": 110
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空中加油",
+          "start": 2454,
+          "end": 2458,
+          "attributes": [],
+          "id": 111
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "亚声速巡航段",
+          "start": 2473,
+          "end": 2479,
+          "attributes": [],
+          "id": 112
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "超声速巡航段",
+          "start": 2480,
+          "end": 2486,
+          "attributes": [],
+          "id": 113
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "过渡段",
+          "start": 2490,
+          "end": 2493,
+          "attributes": [],
+          "id": 114
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "变速上升",
+          "start": 2541,
+          "end": 2545,
+          "attributes": [],
+          "id": 115
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "下降过渡",
+          "start": 2546,
+          "end": 2550,
+          "attributes": [],
+          "id": 116
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "巡逻待机段",
+          "start": 2554,
+          "end": 2559,
+          "attributes": [],
+          "id": 117
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞行距离",
+          "start": 2577,
+          "end": 2581,
+          "attributes": [],
+          "id": 118
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "高度",
+          "start": 2571,
+          "end": 2573,
+          "attributes": [],
+          "id": 119
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "速度",
+          "start": 2574,
+          "end": 2576,
+          "attributes": [],
+          "id": 120
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "高度",
+          "start": 2590,
+          "end": 2592,
+          "attributes": [],
+          "id": 121
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "速度",
+          "start": 2593,
+          "end": 2595,
+          "attributes": [],
+          "id": 122
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "发动机巡航状态",
+          "start": 2599,
+          "end": 2606,
+          "attributes": [],
+          "id": 123
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "燃油消耗量",
+          "start": 2608,
+          "end": 2613,
+          "attributes": [],
+          "id": 124
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "机动飞行动作",
+          "start": 2633,
+          "end": 2639,
+          "attributes": [],
+          "id": 125
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "燃油消耗",
+          "start": 2699,
+          "end": 2703,
+          "attributes": [],
+          "id": 126
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "武器弹药",
+          "start": 2704,
+          "end": 2708,
+          "attributes": [],
+          "id": 127
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "返航下降段",
+          "start": 2715,
+          "end": 2720,
+          "attributes": [],
+          "id": 128
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 2721,
+          "end": 2724,
+          "attributes": [],
+          "id": 129
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "巡航高度",
+          "start": 2741,
+          "end": 2745,
+          "attributes": [],
+          "id": 132
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "基地上空",
+          "start": 2748,
+          "end": 2752,
+          "attributes": [],
+          "id": 133
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "GJB34-85",
+          "start": 2761,
+          "end": 2769,
+          "attributes": [],
+          "id": 134
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最佳巡航速度",
+          "start": 2776,
+          "end": 2782,
+          "attributes": [],
+          "id": 135
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "亚声速",
+          "start": 2783,
+          "end": 2786,
+          "attributes": [],
+          "id": 136
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 2787,
+          "end": 2790,
+          "attributes": [],
+          "id": 137
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "任务剖面",
+          "start": 2791,
+          "end": 2795,
+          "attributes": [],
+          "id": 138
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "下降段",
+          "start": 2799,
+          "end": 2802,
+          "attributes": [],
+          "id": 139
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "任务剖面",
+          "start": 2836,
+          "end": 2840,
+          "attributes": [],
+          "id": 141
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 2845,
+          "end": 2848,
+          "attributes": [],
+          "id": 142
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "典型任务剖面",
+          "start": 2853,
+          "end": 2859,
+          "attributes": [],
+          "id": 143
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "中距离来袭",
+          "start": 2951,
+          "end": 2956,
+          "attributes": [],
+          "id": 148
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "敌战斗机",
+          "start": 2957,
+          "end": 2961,
+          "attributes": [],
+          "id": 149
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "轰炸机",
+          "start": 2962,
+          "end": 2965,
+          "attributes": [],
+          "id": 150
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "外挂副油箱",
+          "start": 2980,
+          "end": 2985,
+          "attributes": [],
+          "id": 153
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 3014,
+          "end": 3017,
+          "attributes": [],
+          "id": 157
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "上升速度",
+          "start": 3036,
+          "end": 3040,
+          "attributes": [],
+          "id": 158
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "加力",
+          "start": 3051,
+          "end": 3053,
+          "attributes": [],
+          "id": 159
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "最大加力",
+          "start": 3061,
+          "end": 3065,
+          "attributes": [],
+          "id": 160
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "最小加力",
+          "start": 3072,
+          "end": 3076,
+          "attributes": [],
+          "id": 161
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "部分加力",
+          "start": 3079,
+          "end": 3083,
+          "attributes": [],
+          "id": 162
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "加速高度",
+          "start": 3139,
+          "end": 3143,
+          "attributes": [],
+          "id": 164
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大可机动平飞速度",
+          "start": 3156,
+          "end": 3165,
+          "attributes": [],
+          "id": 166
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作战高度",
+          "start": 3208,
+          "end": 3212,
+          "attributes": [],
+          "id": 167
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作战速度",
+          "start": 3213,
+          "end": 3217,
+          "attributes": [],
+          "id": 168
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "亚声速",
+          "start": 3297,
+          "end": 3300,
+          "attributes": [],
+          "id": 169
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "超声速",
+          "start": 3312,
+          "end": 3315,
+          "attributes": [],
+          "id": 170
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "Air-To-Air——Mission No.2",
+          "start": 3443,
+          "end": 3467,
+          "attributes": [],
+          "id": 173
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "2AA",
+          "start": 3470,
+          "end": 3473,
+          "attributes": [],
+          "id": 174
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "攻击机",
+          "start": 3518,
+          "end": 3521,
+          "attributes": [],
+          "id": 178
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "轰炸机",
+          "start": 3522,
+          "end": 3525,
+          "attributes": [],
+          "id": 179
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "近距格斗导弹",
+          "start": 2988,
+          "end": 2994,
+          "attributes": [],
+          "id": 181
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "中程拦射导弹",
+          "start": 2995,
+          "end": 3001,
+          "attributes": [],
+          "id": 182
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "中、近距空空导弹",
+          "start": 3564,
+          "end": 3572,
+          "attributes": [],
+          "id": 183
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 3580,
+          "end": 3583,
+          "attributes": [],
+          "id": 184
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空中加油",
+          "start": 3586,
+          "end": 3590,
+          "attributes": [],
+          "id": 185
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 3726,
+          "end": 3729,
+          "attributes": [],
+          "id": 186
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "巡航",
+          "start": 3770,
+          "end": 3772,
+          "attributes": [],
+          "id": 187
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "着陆余油",
+          "start": 3780,
+          "end": 3784,
+          "attributes": [],
+          "id": 188
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最短时间截击空空作战剖面",
+          "start": 2863,
+          "end": 2875,
+          "attributes": [],
+          "id": 190
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "Air-To-Air—Mission No.1",
+          "start": 2876,
+          "end": 2899,
+          "attributes": [],
+          "id": 191
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "1AA",
+          "start": 2902,
+          "end": 2905,
+          "attributes": [],
+          "id": 192
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大航程截击空空作战剖面",
+          "start": 3430,
+          "end": 3442,
+          "attributes": [],
+          "id": 193
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "空中优势作战剖面",
+          "start": 3794,
+          "end": 3802,
+          "attributes": [],
+          "id": 195
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "3AA",
+          "start": 3828,
+          "end": 3831,
+          "attributes": [],
+          "id": 196
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "高-高-高空战剖面",
+          "start": 3848,
+          "end": 3857,
+          "attributes": [],
+          "id": 197
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 3959,
+          "end": 3962,
+          "attributes": [],
+          "id": 198
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "超声速巡航截击作战剖面",
+          "start": 4032,
+          "end": 4043,
+          "attributes": [],
+          "id": 199
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "Air-To-Air Combat With Supersonic Interruption-Mission No.4",
+          "start": 4044,
+          "end": 4103,
+          "attributes": [],
+          "id": 200
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "4AI",
+          "start": 4106,
+          "end": 4109,
+          "attributes": [],
+          "id": 201
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "敌战斗目标",
+          "start": 4155,
+          "end": 4160,
+          "attributes": [],
+          "id": 202
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "敌战斗机",
+          "start": 4162,
+          "end": 4166,
+          "attributes": [],
+          "id": 203
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "轰炸机",
+          "start": 4167,
+          "end": 4170,
+          "attributes": [],
+          "id": 204
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "敌非战斗目标",
+          "start": 4178,
+          "end": 4184,
+          "attributes": [],
+          "id": 205
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "预警机",
+          "start": 4186,
+          "end": 4189,
+          "attributes": [],
+          "id": 208
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "加油机",
+          "start": 4190,
+          "end": 4193,
+          "attributes": [],
+          "id": 209
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "超声速巡航",
+          "start": 4313,
+          "end": 4318,
+          "attributes": [],
+          "id": 212
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "高度",
+          "start": 4319,
+          "end": 4321,
+          "attributes": [],
+          "id": 213
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "速度",
+          "start": 4322,
+          "end": 4324,
+          "attributes": [],
+          "id": 214
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "超声速",
+          "start": 4415,
+          "end": 4418,
+          "attributes": [],
+          "id": 219
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "亚声速",
+          "start": 4419,
+          "end": 4422,
+          "attributes": [],
+          "id": 220
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "转场训练任务剖面",
+          "start": 4476,
+          "end": 4484,
+          "attributes": [],
+          "id": 221
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "Ferry & Training-Mission No.5",
+          "start": 4485,
+          "end": 4514,
+          "attributes": [],
+          "id": 222
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "5FT",
+          "start": 4517,
+          "end": 4520,
+          "attributes": [],
+          "id": 223
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "航程指标",
+          "start": 4540,
+          "end": 4544,
+          "attributes": [],
+          "id": 224
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "外挂副油箱",
+          "start": 4549,
+          "end": 4554,
+          "attributes": [],
+          "id": 225
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "全部副油箱",
+          "start": 4565,
+          "end": 4570,
+          "attributes": [],
+          "id": 226
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "基本航程",
+          "start": 4558,
+          "end": 4562,
+          "attributes": [],
+          "id": 227
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大转场航程",
+          "start": 4574,
+          "end": 4580,
+          "attributes": [],
+          "id": 228
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大航程",
+          "start": 4601,
+          "end": 4605,
+          "attributes": [],
+          "id": 229
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大续航时间",
+          "start": 4606,
+          "end": 4612,
+          "attributes": [],
+          "id": 230
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "GJB34",
+          "start": 4615,
+          "end": 4620,
+          "attributes": [],
+          "id": 231
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机机内载油系数",
+          "start": 4633,
+          "end": 4641,
+          "attributes": [],
+          "id": 232
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "外挂副油箱能力",
+          "start": 4642,
+          "end": 4649,
+          "attributes": [],
+          "id": 233
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "远距基地",
+          "start": 4755,
+          "end": 4759,
+          "attributes": [],
+          "id": 234
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "战斗巡逻任务剖面",
+          "start": 4801,
+          "end": 4809,
+          "attributes": [],
+          "id": 235
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "Air-To-Air Combat With Circle Cruise-Mission No.6",
+          "start": 4810,
+          "end": 4859,
+          "attributes": [],
+          "id": 236
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "6AC",
+          "start": 4862,
+          "end": 4865,
+          "attributes": [],
+          "id": 237
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "敌机",
+          "start": 4901,
+          "end": 4903,
+          "attributes": [],
+          "id": 238
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 4929,
+          "end": 4932,
+          "attributes": [],
+          "id": 239
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "巡逻留空持续能力",
+          "start": 4941,
+          "end": 4949,
+          "attributes": [],
+          "id": 241
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "战斗巡逻速度",
+          "start": 5046,
+          "end": 5052,
+          "attributes": [],
+          "id": 242
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "对地支援攻击剖面",
+          "start": 5120,
+          "end": 5128,
+          "attributes": [],
+          "id": 244
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "Air-To-Ground Attack In Short-range-Mission No.7",
+          "start": 5129,
+          "end": 5177,
+          "attributes": [],
+          "id": 245
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "7AG",
+          "start": 5180,
+          "end": 5183,
+          "attributes": [],
+          "id": 246
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "低-低-低攻击剖面",
+          "start": 5201,
+          "end": 5210,
+          "attributes": [],
+          "id": 247
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "推重比",
+          "start": 5354,
+          "end": 5357,
+          "attributes": [],
+          "id": 249
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "空中封锁攻击剖面",
+          "start": 5417,
+          "end": 5425,
+          "attributes": [],
+          "id": 253
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "Air-To-Ground Attack In Long-range-Mission No.8",
+          "start": 5426,
+          "end": 5473,
+          "attributes": [],
+          "id": 254
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "8AG",
+          "start": 5476,
+          "end": 5479,
+          "attributes": [],
+          "id": 255
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "高—低—低—高攻击剖面",
+          "start": 5517,
+          "end": 5528,
+          "attributes": [],
+          "id": 256
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 5709,
+          "end": 5712,
+          "attributes": [],
+          "id": 258
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "推重比",
+          "start": 5947,
+          "end": 5950,
+          "attributes": [],
+          "id": 260
+        },
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "空中优势飞机",
+          "start": 5985,
+          "end": 5991,
+          "attributes": [],
+          "id": 262
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "推重比",
+          "start": 6010,
+          "end": 6013,
+          "attributes": [],
+          "id": 264
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机动性",
+          "start": 5996,
+          "end": 5999,
+          "attributes": [],
+          "id": 265
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "对地攻击飞机",
+          "start": 6017,
+          "end": 6023,
+          "attributes": [],
+          "id": 266
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "推重比",
+          "start": 6048,
+          "end": 6051,
+          "attributes": [],
+          "id": 270
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "近距支援飞机",
+          "start": 6056,
+          "end": 6062,
+          "attributes": [],
+          "id": 271
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "推重比",
+          "start": 6081,
+          "end": 6084,
+          "attributes": [],
+          "id": 273
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "多用途飞机",
+          "start": 6086,
+          "end": 6091,
+          "attributes": [],
+          "id": 274
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "对空对地攻击能力",
+          "start": 6097,
+          "end": 6105,
+          "attributes": [],
+          "id": 275
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "推重比",
+          "start": 6118,
+          "end": 6121,
+          "attributes": [],
+          "id": 277
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "重量",
+          "start": 6163,
+          "end": 6165,
+          "attributes": [],
+          "id": 278
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "尺寸",
+          "start": 6166,
+          "end": 6168,
+          "attributes": [],
+          "id": 279
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "雷达",
+          "start": 6235,
+          "end": 6237,
+          "attributes": [],
+          "id": 282
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "远程、自主作战能力",
+          "start": 6197,
+          "end": 6206,
+          "attributes": [],
+          "id": 283
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "近距支援飞机",
+          "start": 6249,
+          "end": 6255,
+          "attributes": [],
+          "id": 284
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "展弦比",
+          "start": 6292,
+          "end": 6295,
+          "attributes": [],
+          "id": 286
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "后掠角",
+          "start": 6296,
+          "end": 6299,
+          "attributes": [],
+          "id": 287
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "机翼",
+          "start": 6302,
+          "end": 6304,
+          "attributes": [],
+          "id": 288
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "展弦比",
+          "start": 6305,
+          "end": 6308,
+          "attributes": [],
+          "id": 289
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "重量特性",
+          "start": 6325,
+          "end": 6329,
+          "attributes": [],
+          "id": 290
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "平均相对厚度",
+          "start": 6309,
+          "end": 6315,
+          "attributes": [],
+          "id": 291
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "前缘后掠角",
+          "start": 6316,
+          "end": 6321,
+          "attributes": [],
+          "id": 292
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "展弦比",
+          "start": 6373,
+          "end": 6376,
+          "attributes": [],
+          "id": 295
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "升限",
+          "start": 6380,
+          "end": 6382,
+          "attributes": [],
+          "id": 296
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大M数",
+          "start": 6386,
+          "end": 6390,
+          "attributes": [],
+          "id": 297
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "亚声速爬升率",
+          "start": 6394,
+          "end": 6400,
+          "attributes": [],
+          "id": 298
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "超声速爬升率",
+          "start": 6404,
+          "end": 6410,
+          "attributes": [],
+          "id": 299
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "盘旋过载",
+          "start": 6414,
+          "end": 6418,
+          "attributes": [],
+          "id": 300
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起降速度",
+          "start": 6422,
+          "end": 6426,
+          "attributes": [],
+          "id": 301
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "航程",
+          "start": 6430,
+          "end": 6432,
+          "attributes": [],
+          "id": 302
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "前缘后掠角",
+          "start": 6436,
+          "end": 6441,
+          "attributes": [],
+          "id": 303
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "升限",
+          "start": 6445,
+          "end": 6447,
+          "attributes": [],
+          "id": 304
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大M数",
+          "start": 6451,
+          "end": 6455,
+          "attributes": [],
+          "id": 305
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "亚声速爬升率",
+          "start": 6459,
+          "end": 6465,
+          "attributes": [],
+          "id": 306
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "超声速爬升率",
+          "start": 6469,
+          "end": 6475,
+          "attributes": [],
+          "id": 307
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "盘旋过载",
+          "start": 6479,
+          "end": 6483,
+          "attributes": [],
+          "id": 308
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起降速度",
+          "start": 6487,
+          "end": 6491,
+          "attributes": [],
+          "id": 309
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "平均相对厚度",
+          "start": 6495,
+          "end": 6501,
+          "attributes": [],
+          "id": 310
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "升限",
+          "start": 6505,
+          "end": 6507,
+          "attributes": [],
+          "id": 311
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大M数",
+          "start": 6511,
+          "end": 6515,
+          "attributes": [],
+          "id": 312
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "超声速爬升率",
+          "start": 6519,
+          "end": 6525,
+          "attributes": [],
+          "id": 313
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "盘旋过载",
+          "start": 6529,
+          "end": 6533,
+          "attributes": [],
+          "id": 314
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起降速度",
+          "start": 6537,
+          "end": 6541,
+          "attributes": [],
+          "id": 315
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "梯形比",
+          "start": 6548,
+          "end": 6551,
+          "attributes": [],
+          "id": 316
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "后缘后掠角",
+          "start": 6552,
+          "end": 6557,
+          "attributes": [],
+          "id": 317
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机推重比",
+          "start": 6676,
+          "end": 6681,
+          "attributes": [],
+          "id": 322
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 6687,
+          "end": 6690,
+          "attributes": [],
+          "id": 323
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 6691,
+          "end": 6694,
+          "attributes": [],
+          "id": 324
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "重型战斗机",
+          "start": 6769,
+          "end": 6774,
+          "attributes": [],
+          "id": 325
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "轻型战斗机",
+          "start": 6787,
+          "end": 6792,
+          "attributes": [],
+          "id": 326
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "中型机",
+          "start": 6803,
+          "end": 6806,
+          "attributes": [],
+          "id": 327
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起飞推重比",
+          "start": 6834,
+          "end": 6839,
+          "attributes": [],
+          "id": 328
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体布置",
+          "start": 6849,
+          "end": 6853,
+          "attributes": [],
+          "id": 329
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "气动布局",
+          "start": 6854,
+          "end": 6858,
+          "attributes": [],
+          "id": 330
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "单发飞机",
+          "start": 6867,
+          "end": 6871,
+          "attributes": [],
+          "id": 331
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "维修性",
+          "start": 6872,
+          "end": 6875,
+          "attributes": [],
+          "id": 332
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "双发飞机",
+          "start": 6877,
+          "end": 6881,
+          "attributes": [],
+          "id": 333
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "生存力",
+          "start": 6887,
+          "end": 6890,
+          "attributes": [],
+          "id": 335
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大功率",
+          "start": 6925,
+          "end": 6929,
+          "attributes": [],
+          "id": 337
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "推力",
+          "start": 6930,
+          "end": 6932,
+          "attributes": [],
+          "id": 338
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大飞行速度",
+          "start": 6938,
+          "end": 6944,
+          "attributes": [],
+          "id": 339
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "稳定性",
+          "start": 6964,
+          "end": 6967,
+          "attributes": [],
+          "id": 340
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最小飞行速度",
+          "start": 6972,
+          "end": 6978,
+          "attributes": [],
+          "id": 341
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "推重比",
+          "start": 6993,
+          "end": 6996,
+          "attributes": [],
+          "id": 342
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "第三代、第四代先进战斗机",
+          "start": 7022,
+          "end": 7034,
+          "attributes": [],
+          "id": 343
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "长度",
+          "start": 7142,
+          "end": 7144,
+          "attributes": [],
+          "id": 344
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "直径",
+          "start": 7145,
+          "end": 7147,
+          "attributes": [],
+          "id": 345
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "总体参数",
+          "start": 7158,
+          "end": 7162,
+          "attributes": [],
+          "id": 347
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体布置工作",
+          "start": 7166,
+          "end": 7172,
+          "attributes": [],
+          "id": 348
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "气动特性",
+          "start": 7191,
+          "end": 7195,
+          "attributes": [],
+          "id": 351
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "飞控系统",
+          "start": 7293,
+          "end": 7297,
+          "attributes": [],
+          "id": 352
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "操纵性",
+          "start": 7304,
+          "end": 7307,
+          "attributes": [],
+          "id": 353
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "稳定性",
+          "start": 7308,
+          "end": 7311,
+          "attributes": [],
+          "id": 354
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "低速特性",
+          "start": 7318,
+          "end": 7322,
+          "attributes": [],
+          "id": 355
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起降性能",
+          "start": 7327,
+          "end": 7331,
+          "attributes": [],
+          "id": 356
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最小平飞速度",
+          "start": 7335,
+          "end": 7341,
+          "attributes": [],
+          "id": 357
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起降性能",
+          "start": 7347,
+          "end": 7351,
+          "attributes": [],
+          "id": 358
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "气动力",
+          "start": 7356,
+          "end": 7359,
+          "attributes": [],
+          "id": 359
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "低速特性",
+          "start": 7360,
+          "end": 7364,
+          "attributes": [],
+          "id": 360
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "气动阻力",
+          "start": 7365,
+          "end": 7369,
+          "attributes": [],
+          "id": 361
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "推力",
+          "start": 7378,
+          "end": 7380,
+          "attributes": [],
+          "id": 362
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "刹车阻力",
+          "start": 7385,
+          "end": 7389,
+          "attributes": [],
+          "id": 363
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "减速伞阻力",
+          "start": 7390,
+          "end": 7395,
+          "attributes": [],
+          "id": 364
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起降离（接）地速度",
+          "start": 7405,
+          "end": 7414,
+          "attributes": [],
+          "id": 365
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起降距离",
+          "start": 7415,
+          "end": 7419,
+          "attributes": [],
+          "id": 366
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "升力特性",
+          "start": 7429,
+          "end": 7433,
+          "attributes": [],
+          "id": 367
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼载荷",
+          "start": 7446,
+          "end": 7449,
+          "attributes": [],
+          "id": 368
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "离（接）地迎角",
+          "start": 7462,
+          "end": 7469,
+          "attributes": [],
+          "id": 369
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "擦尾角",
+          "start": 7474,
+          "end": 7477,
+          "attributes": [],
+          "id": 370
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "低速升力特性",
+          "start": 7495,
+          "end": 7501,
+          "attributes": [],
+          "id": 371
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起降速度",
+          "start": 7520,
+          "end": 7524,
+          "attributes": [],
+          "id": 374
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "大气密度",
+          "start": 7540,
+          "end": 7544,
+          "attributes": [],
+          "id": 375
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "离（接）地速度",
+          "start": 7547,
+          "end": 7554,
+          "attributes": [],
+          "id": 376
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "双三角",
+          "start": 7571,
+          "end": 7574,
+          "attributes": [],
+          "id": 377
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "前后机身边条",
+          "start": 7575,
+          "end": 7581,
+          "attributes": [],
+          "id": 378
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "鸭式布局",
+          "start": 7582,
+          "end": 7586,
+          "attributes": [],
+          "id": 379
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "放宽静稳定度",
+          "start": 7599,
+          "end": 7605,
+          "attributes": [],
+          "id": 380
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "动力装置喷口转向",
+          "start": 7606,
+          "end": 7614,
+          "attributes": [],
+          "id": 381
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最小平飞速度指标",
+          "start": 7635,
+          "end": 7643,
+          "attributes": [],
+          "id": 382
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大升力系数",
+          "start": 7648,
+          "end": 7654,
+          "attributes": [],
+          "id": 383
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "高速气动力特性",
+          "start": 7665,
+          "end": 7672,
+          "attributes": [],
+          "id": 384
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大平飞速度",
+          "start": 7704,
+          "end": 7710,
+          "attributes": [],
+          "id": 385
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "爬升性能",
+          "start": 7711,
+          "end": 7715,
+          "attributes": [],
+          "id": 386
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞行性能的纵向特性",
+          "start": 7745,
+          "end": 7754,
+          "attributes": [],
+          "id": 388
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大平飞速度",
+          "start": 7725,
+          "end": 7731,
+          "attributes": [],
+          "id": 389
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "爬升性能",
+          "start": 7732,
+          "end": 7736,
+          "attributes": [],
+          "id": 390
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "加减速性能",
+          "start": 7737,
+          "end": 7742,
+          "attributes": [],
+          "id": 391
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "单位剩余功率值",
+          "start": 7760,
+          "end": 7767,
+          "attributes": [],
+          "id": 392
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "跨、超声速作爬升",
+          "start": 7788,
+          "end": 7796,
+          "attributes": [],
+          "id": 393
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "加减速水平飞行",
+          "start": 7797,
+          "end": 7804,
+          "attributes": [],
+          "id": 394
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "迎角",
+          "start": 7809,
+          "end": 7811,
+          "attributes": [],
+          "id": 395
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "重量特性",
+          "start": 7836,
+          "end": 7840,
+          "attributes": [],
+          "id": 396
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机翼参考面积",
+          "start": 7842,
+          "end": 7848,
+          "attributes": [],
+          "id": 397
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "推力特性",
+          "start": 7850,
+          "end": 7854,
+          "attributes": [],
+          "id": 398
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "零升阻力系数",
+          "start": 7952,
+          "end": 7958,
+          "attributes": [],
+          "id": 400
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "水平减速性能",
+          "start": 7972,
+          "end": 7978,
+          "attributes": [],
+          "id": 401
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "减速装置",
+          "start": 7992,
+          "end": 7996,
+          "attributes": [],
+          "id": 402
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "减速板",
+          "start": 7998,
+          "end": 8001,
+          "attributes": [],
+          "id": 403
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "盘旋性能",
+          "start": 8010,
+          "end": 8014,
+          "attributes": [],
+          "id": 404
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "盘旋性能",
+          "start": 8018,
+          "end": 8022,
+          "attributes": [],
+          "id": 405
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "横向特性",
+          "start": 8030,
+          "end": 8034,
+          "attributes": [],
+          "id": 406
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "定常盘旋性能",
+          "start": 8038,
+          "end": 8044,
+          "attributes": [],
+          "id": 407
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "瞬时转弯性能",
+          "start": 8045,
+          "end": 8051,
+          "attributes": [],
+          "id": 408
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大定常盘旋过载",
+          "start": 8070,
+          "end": 8078,
+          "attributes": [],
+          "id": 409
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空战格斗",
+          "start": 8100,
+          "end": 8104,
+          "attributes": [],
+          "id": 410
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "定常盘旋最大过载",
+          "start": 8127,
+          "end": 8135,
+          "attributes": [],
+          "id": 412
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "瞬时盘旋最大角速度",
+          "start": 8286,
+          "end": 8295,
+          "attributes": [],
+          "id": 413
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大过载",
+          "start": 8302,
+          "end": 8306,
+          "attributes": [],
+          "id": 414
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "角点速度",
+          "start": 8340,
+          "end": 8344,
+          "attributes": [],
+          "id": 415
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "航程",
+          "start": 8416,
+          "end": 8418,
+          "attributes": [],
+          "id": 416
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作战半径",
+          "start": 8419,
+          "end": 8423,
+          "attributes": [],
+          "id": 417
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "任务性能",
+          "start": 8437,
+          "end": 8441,
+          "attributes": [],
+          "id": 418
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "航程",
+          "start": 8427,
+          "end": 8429,
+          "attributes": [],
+          "id": 419
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作战半径",
+          "start": 8430,
+          "end": 8434,
+          "attributes": [],
+          "id": 420
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "基本航程",
+          "start": 8445,
+          "end": 8449,
+          "attributes": [],
+          "id": 421
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作战半径",
+          "start": 8455,
+          "end": 8459,
+          "attributes": [],
+          "id": 423
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大续航时间",
+          "start": 8460,
+          "end": 8466,
+          "attributes": [],
+          "id": 424
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "气动力特性",
+          "start": 8472,
+          "end": 8477,
+          "attributes": [],
+          "id": 425
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机有利巡航升阻比",
+          "start": 8524,
+          "end": 8533,
+          "attributes": [],
+          "id": 426
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "有利巡航速度",
+          "start": 8550,
+          "end": 8556,
+          "attributes": [],
+          "id": 427
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "发动机巡航平均耗油率",
+          "start": 8566,
+          "end": 8576,
+          "attributes": [],
+          "id": 428
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 8616,
+          "end": 8619,
+          "attributes": [],
+          "id": 429
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "耗油量",
+          "start": 8636,
+          "end": 8639,
+          "attributes": [],
+          "id": 430
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "满油重量",
+          "start": 8646,
+          "end": 8650,
+          "attributes": [],
+          "id": 431
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "无油重量",
+          "start": 8669,
+          "end": 8673,
+          "attributes": [],
+          "id": 432
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "爬升段",
+          "start": 8679,
+          "end": 8682,
+          "attributes": [],
+          "id": 433
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "下滑段",
+          "start": 8692,
+          "end": 8695,
+          "attributes": [],
+          "id": 434
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大升阻比",
+          "start": 8813,
+          "end": 8818,
+          "attributes": [],
+          "id": 435
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "有利巡航值",
+          "start": 8824,
+          "end": 8829,
+          "attributes": [],
+          "id": 436
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "跨声速最大升阻比",
+          "start": 8853,
+          "end": 8861,
+          "attributes": [],
+          "id": 437
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "气动力特性",
+          "start": 8902,
+          "end": 8907,
+          "attributes": [],
+          "id": 438
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼载荷",
+          "start": 8953,
+          "end": 8956,
+          "attributes": [],
+          "id": 439
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机内载油量",
+          "start": 8957,
+          "end": 8962,
+          "attributes": [],
+          "id": 440
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "目标特征控制",
+          "start": 8974,
+          "end": 8980,
+          "attributes": [],
+          "id": 441
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "探测技术",
+          "start": 8994,
+          "end": 8998,
+          "attributes": [],
+          "id": 442
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "降低可探测性隐身技术",
+          "start": 9018,
+          "end": 9028,
+          "attributes": [],
+          "id": 443
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "吸波材料",
+          "start": 9083,
+          "end": 9087,
+          "attributes": [],
+          "id": 444
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "进气道遮挡",
+          "start": 9106,
+          "end": 9111,
+          "attributes": [],
+          "id": 447
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "保形外挂",
+          "start": 9093,
+          "end": 9097,
+          "attributes": [],
+          "id": 448
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "倾斜配置双垂尾",
+          "start": 9098,
+          "end": 9105,
+          "attributes": [],
+          "id": 449
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "S形弯曲等设计和制造技术",
+          "start": 9112,
+          "end": 9124,
+          "attributes": [],
+          "id": 451
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 9130,
+          "end": 9133,
+          "attributes": [],
+          "id": 452
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "雷达反射截面积",
+          "start": 9134,
+          "end": 9141,
+          "attributes": [],
+          "id": 453
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "中远程制空作战",
+          "start": 9150,
+          "end": 9157,
+          "attributes": [],
+          "id": 454
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "中、高档战斗机",
+          "start": 9160,
+          "end": 9167,
+          "attributes": [],
+          "id": 455
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "制空作战",
+          "start": 9195,
+          "end": 9199,
+          "attributes": [],
+          "id": 456
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "低档飞机",
+          "start": 9202,
+          "end": 9206,
+          "attributes": [],
+          "id": 457
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "无人驾驶战斗机",
+          "start": 9207,
+          "end": 9214,
+          "attributes": [],
+          "id": 458
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机热部件",
+          "start": 9243,
+          "end": 9249,
+          "attributes": [],
+          "id": 459
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "喷流降温",
+          "start": 9255,
+          "end": 9259,
+          "attributes": [],
+          "id": 460
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "红外特征",
+          "start": 9264,
+          "end": 9268,
+          "attributes": [],
+          "id": 462
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "可见光信号",
+          "start": 9286,
+          "end": 9291,
+          "attributes": [],
+          "id": 463
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "空气动力特性",
+          "start": 9326,
+          "end": 9332,
+          "attributes": [],
+          "id": 464
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "飞控系统",
+          "start": 9337,
+          "end": 9341,
+          "attributes": [],
+          "id": 465
+        },
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 9358,
+          "end": 9361,
+          "attributes": [],
+          "id": 467
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "对地攻击",
+          "start": 9365,
+          "end": 9369,
+          "attributes": [],
+          "id": 468
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空中优势",
+          "start": 9375,
+          "end": 9379,
+          "attributes": [],
+          "id": 469
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "GJB185",
+          "start": 9394,
+          "end": 9400,
+          "attributes": [],
+          "id": 470
+        },
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "飞控系统",
+          "start": 9382,
+          "end": 9386,
+          "attributes": [],
+          "id": 472
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "GJB2191",
+          "start": 9413,
+          "end": 9420,
+          "attributes": [],
+          "id": 473
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "远程制空作战",
+          "start": 9440,
+          "end": 9446,
+          "attributes": [],
+          "id": 474
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机动作战能力",
+          "start": 9449,
+          "end": 9455,
+          "attributes": [],
+          "id": 475
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "静稳定度",
+          "start": 9467,
+          "end": 9471,
+          "attributes": [],
+          "id": 476
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "多余度数字式电传操纵",
+          "start": 9482,
+          "end": 9492,
+          "attributes": [],
+          "id": 477
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "敏捷性",
+          "start": 9528,
+          "end": 9531,
+          "attributes": [],
+          "id": 479
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "近距支援",
+          "start": 9535,
+          "end": 9539,
+          "attributes": [],
+          "id": 480
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "机械拉杆式操纵",
+          "start": 9564,
+          "end": 9571,
+          "attributes": [],
+          "id": 481
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "低空突防",
+          "start": 9585,
+          "end": 9589,
+          "attributes": [],
+          "id": 482
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "对地攻击",
+          "start": 9590,
+          "end": 9594,
+          "attributes": [],
+          "id": 483
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "多余度探测装置",
+          "start": 9614,
+          "end": 9621,
+          "attributes": [],
+          "id": 484
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "地形跟随",
+          "start": 9627,
+          "end": 9631,
+          "attributes": [],
+          "id": 485
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "地形回避",
+          "start": 9632,
+          "end": 9636,
+          "attributes": [],
+          "id": 486
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞行性能",
+          "start": 9660,
+          "end": 9664,
+          "attributes": [],
+          "id": 487
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体布置设计",
+          "start": 9668,
+          "end": 9674,
+          "attributes": [],
+          "id": 488
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "气动力布局设计",
+          "start": 9675,
+          "end": 9682,
+          "attributes": [],
+          "id": 489
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "进气道与发动机匹配设计",
+          "start": 9689,
+          "end": 9700,
+          "attributes": [],
+          "id": 490
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "重量与重心控制设计",
+          "start": 9701,
+          "end": 9710,
+          "attributes": [],
+          "id": 491
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "强度与刚度设计",
+          "start": 9711,
+          "end": 9718,
+          "attributes": [],
+          "id": 492
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "敏捷性",
+          "start": 9811,
+          "end": 9814,
+          "attributes": [],
+          "id": 493
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "推重比",
+          "start": 10092,
+          "end": 10095,
+          "attributes": [],
+          "id": 494
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼载荷",
+          "start": 10098,
+          "end": 10101,
+          "attributes": [],
+          "id": 495
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大过载限制值",
+          "start": 10113,
+          "end": 10120,
+          "attributes": [],
+          "id": 496
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼载荷",
+          "start": 10140,
+          "end": 10143,
+          "attributes": [],
+          "id": 497
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大过载限制值",
+          "start": 10146,
+          "end": 10153,
+          "attributes": [],
+          "id": 498
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "多用途飞机",
+          "start": 10185,
+          "end": 10190,
+          "attributes": [],
+          "id": 499
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "低空突防",
+          "start": 10162,
+          "end": 10166,
+          "attributes": [],
+          "id": 500
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大飞行速度",
+          "start": 10241,
+          "end": 10247,
+          "attributes": [],
+          "id": 501
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大爬升率",
+          "start": 10248,
+          "end": 10253,
+          "attributes": [],
+          "id": 502
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "水平加速性能",
+          "start": 10254,
+          "end": 10260,
+          "attributes": [],
+          "id": 503
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "推重比",
+          "start": 10271,
+          "end": 10274,
+          "attributes": [],
+          "id": 504
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼载荷",
+          "start": 10282,
+          "end": 10285,
+          "attributes": [],
+          "id": 505
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "高亚声速至超声速的零升阻力系数",
+          "start": 10288,
+          "end": 10303,
+          "attributes": [],
+          "id": 506
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "典型任务剖面",
+          "start": 10404,
+          "end": 10410,
+          "attributes": [],
+          "id": 507
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作战半径",
+          "start": 10420,
+          "end": 10424,
+          "attributes": [],
+          "id": 508
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "续航能力",
+          "start": 10425,
+          "end": 10429,
+          "attributes": [],
+          "id": 509
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "刚度",
+          "start": 10443,
+          "end": 10445,
+          "attributes": [],
+          "id": 510
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "强度",
+          "start": 10446,
+          "end": 10448,
+          "attributes": [],
+          "id": 511
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 10456,
+          "end": 10459,
+          "attributes": [],
+          "id": 512
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "刚度",
+          "start": 10460,
+          "end": 10462,
+          "attributes": [],
+          "id": 513
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "强度",
+          "start": 10463,
+          "end": 10465,
+          "attributes": [],
+          "id": 514
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "GJB67",
+          "start": 10466,
+          "end": 10471,
+          "attributes": [],
+          "id": 515
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机基本飞行设计重量",
+          "start": 10481,
+          "end": 10491,
+          "attributes": [],
+          "id": 516
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "即对应于飞机最大设计过载的飞行重量",
+          "start": 10492,
+          "end": 10509,
+          "attributes": [],
+          "id": 517
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "敌机",
+          "start": 10536,
+          "end": 10538,
+          "attributes": [],
+          "id": 518
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "近距格斗",
+          "start": 10539,
+          "end": 10543,
+          "attributes": [],
+          "id": 519
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大设计过载",
+          "start": 10557,
+          "end": 10563,
+          "attributes": [],
+          "id": 520
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 10571,
+          "end": 10574,
+          "attributes": [],
+          "id": 521
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "炸弹",
+          "start": 10575,
+          "end": 10577,
+          "attributes": [],
+          "id": 522
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "气动加热",
+          "start": 10645,
+          "end": 10649,
+          "attributes": [],
+          "id": 524
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "疲劳强度",
+          "start": 10700,
+          "end": 10704,
+          "attributes": [],
+          "id": 526
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "寿命指标",
+          "start": 10714,
+          "end": 10718,
+          "attributes": [],
+          "id": 527
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "疲劳载荷谱",
+          "start": 10728,
+          "end": 10733,
+          "attributes": [],
+          "id": 528
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "典型作战剖面使用频率",
+          "start": 10754,
+          "end": 10764,
+          "attributes": [],
+          "id": 529
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "航空电子及武器系统",
+          "start": 10779,
+          "end": 10788,
+          "attributes": [],
+          "id": 530
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "航空电子及武器系统",
+          "start": 10823,
+          "end": 10832,
+          "attributes": [],
+          "id": 533
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空空作战",
+          "start": 10963,
+          "end": 10967,
+          "attributes": [],
+          "id": 541
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "航空电子及武器系统",
+          "start": 10968,
+          "end": 10977,
+          "attributes": [],
+          "id": 542
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "综合导航系统",
+          "start": 11011,
+          "end": 11017,
+          "attributes": [],
+          "id": 546
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "显示与控制系统",
+          "start": 11019,
+          "end": 11026,
+          "attributes": [],
+          "id": 547
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "电子对抗系统",
+          "start": 11028,
+          "end": 11034,
+          "attributes": [],
+          "id": 548
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "任务计算机系统",
+          "start": 11036,
+          "end": 11043,
+          "attributes": [],
+          "id": 549
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "数据总线",
+          "start": 11045,
+          "end": 11049,
+          "attributes": [],
+          "id": 553
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "数据链",
+          "start": 11051,
+          "end": 11054,
+          "attributes": [],
+          "id": 554
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "远距、中距、近距空空导弹",
+          "start": 11056,
+          "end": 11068,
+          "attributes": [],
+          "id": 555
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "显示系统",
+          "start": 11179,
+          "end": 11183,
+          "attributes": [],
+          "id": 565
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "自主导航",
+          "start": 11160,
+          "end": 11164,
+          "attributes": [],
+          "id": 576
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "导航数据",
+          "start": 11200,
+          "end": 11204,
+          "attributes": [],
+          "id": 581
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "武器截获",
+          "start": 11205,
+          "end": 11209,
+          "attributes": [],
+          "id": 583
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "武器管理",
+          "start": 11214,
+          "end": 11218,
+          "attributes": [],
+          "id": 584
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "告警",
+          "start": 11219,
+          "end": 11221,
+          "attributes": [],
+          "id": 585
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "任务计算机系统",
+          "start": 11227,
+          "end": 11234,
+          "attributes": [],
+          "id": 586
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "远程反辐射导弹",
+          "start": 11339,
+          "end": 11346,
+          "attributes": [],
+          "id": 593
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "中、近距导弹",
+          "start": 11332,
+          "end": 11338,
+          "attributes": [],
+          "id": 594
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "离轴角",
+          "start": 11318,
+          "end": 11321,
+          "attributes": [],
+          "id": 595
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "对地攻击",
+          "start": 11353,
+          "end": 11357,
+          "attributes": [],
+          "id": 597
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "航空电子与武器系统",
+          "start": 11370,
+          "end": 11379,
+          "attributes": [],
+          "id": 598
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "空地攻击武器系统",
+          "start": 11512,
+          "end": 11520,
+          "attributes": [],
+          "id": 614
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "多功能火控雷达",
+          "start": 11529,
+          "end": 11536,
+          "attributes": [],
+          "id": 615
+        },
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "综合导航系统",
+          "start": 11567,
+          "end": 11573,
+          "attributes": [],
+          "id": 617
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "图像接收、传输、显示系统",
+          "start": 11575,
+          "end": 11587,
+          "attributes": [],
+          "id": 618
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "活动数字地图",
+          "start": 11589,
+          "end": 11595,
+          "attributes": [],
+          "id": 619
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "任务计算机系统",
+          "start": 11597,
+          "end": 11604,
+          "attributes": [],
+          "id": 620
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "电子对抗系统",
+          "start": 11606,
+          "end": 11612,
+          "attributes": [],
+          "id": 621
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "数据总线",
+          "start": 11614,
+          "end": 11618,
+          "attributes": [],
+          "id": 622
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "数据链",
+          "start": 11620,
+          "end": 11623,
+          "attributes": [],
+          "id": 623
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "火控雷达",
+          "start": 11628,
+          "end": 11632,
+          "attributes": [],
+          "id": 624
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "显示系统",
+          "start": 11798,
+          "end": 11802,
+          "attributes": [],
+          "id": 637
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "光电系统",
+          "start": 11729,
+          "end": 11733,
+          "attributes": [],
+          "id": 638
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "显示系统",
+          "start": 11801,
+          "end": 11805,
+          "attributes": [],
+          "id": 644
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "武器管理及告警信息显示",
+          "start": 11837,
+          "end": 11848,
+          "attributes": [],
+          "id": 647
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "数字地图显示",
+          "start": 11849,
+          "end": 11855,
+          "attributes": [],
+          "id": 648
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "任务计算机系统",
+          "start": 11856,
+          "end": 11863,
+          "attributes": [],
+          "id": 649
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "多用途战斗机",
+          "start": 11957,
+          "end": 11963,
+          "attributes": [],
+          "id": 655
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "液压系统",
+          "start": 12021,
+          "end": 12025,
+          "attributes": [],
+          "id": 656
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "能源供给",
+          "start": 12031,
+          "end": 12035,
+          "attributes": [],
+          "id": 657
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "工作线路",
+          "start": 12036,
+          "end": 12040,
+          "attributes": [],
+          "id": 658
+        },
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "环控系统",
+          "start": 12102,
+          "end": 12106,
+          "attributes": [],
+          "id": 660
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "GJB1193",
+          "start": 12117,
+          "end": 12124,
+          "attributes": [],
+          "id": 661
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "热载荷",
+          "start": 12176,
+          "end": 12179,
+          "attributes": [],
+          "id": 662
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "典型任务剖面",
+          "start": 12188,
+          "end": 12194,
+          "attributes": [],
+          "id": 663
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "低空大表速",
+          "start": 12280,
+          "end": 12285,
+          "attributes": [],
+          "id": 666
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "高空小表速",
+          "start": 12298,
+          "end": 12303,
+          "attributes": [],
+          "id": 667
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "高空大速度",
+          "start": 12323,
+          "end": 12328,
+          "attributes": [],
+          "id": 668
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "燃油系统",
+          "start": 12384,
+          "end": 12388,
+          "attributes": [],
+          "id": 669
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "电气系统",
+          "start": 12581,
+          "end": 12585,
+          "attributes": [],
+          "id": 670
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "飞机燃油箱",
+          "start": 12430,
+          "end": 12435,
+          "attributes": [],
+          "id": 673
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "外挂油箱",
+          "start": 12440,
+          "end": 12444,
+          "attributes": [],
+          "id": 674
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "零过载",
+          "start": 12470,
+          "end": 12473,
+          "attributes": [],
+          "id": 675
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "负过载",
+          "start": 12474,
+          "end": 12477,
+          "attributes": [],
+          "id": 676
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大耗电量",
+          "start": 12600,
+          "end": 12605,
+          "attributes": [],
+          "id": 679
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "电源功率",
+          "start": 12586,
+          "end": 12590,
+          "attributes": [],
+          "id": 680
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "应急电源",
+          "start": 12619,
+          "end": 12623,
+          "attributes": [],
+          "id": 681
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "起动发动机",
+          "start": 12626,
+          "end": 12631,
+          "attributes": [],
+          "id": 682
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "飞控系统",
+          "start": 12637,
+          "end": 12641,
+          "attributes": [],
+          "id": 683
+        },
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "电气系统",
+          "start": 12666,
+          "end": 12670,
+          "attributes": [],
+          "id": 685
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "开关磁阻起动",
+          "start": 12683,
+          "end": 12689,
+          "attributes": [],
+          "id": 692
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "发电机发电",
+          "start": 12690,
+          "end": 12695,
+          "attributes": [],
+          "id": 693
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总线技术",
+          "start": 12698,
+          "end": 12702,
+          "attributes": [],
+          "id": 694
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "固态功率控制器",
+          "start": 12714,
+          "end": 12721,
+          "attributes": [],
+          "id": 696
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "硅基功率电子元件",
+          "start": 12722,
+          "end": 12730,
+          "attributes": [],
+          "id": 697
+        },
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "液压系统",
+          "start": 12759,
+          "end": 12763,
+          "attributes": [],
+          "id": 699
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "防护救生系统",
+          "start": 12800,
+          "end": 12806,
+          "attributes": [],
+          "id": 700
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "弹射离机",
+          "start": 12854,
+          "end": 12858,
+          "attributes": [],
+          "id": 701
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "降落救生",
+          "start": 12859,
+          "end": 12863,
+          "attributes": [],
+          "id": 702
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "氧气系统",
+          "start": 12864,
+          "end": 12868,
+          "attributes": [],
+          "id": 703
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "加压供氧",
+          "start": 12895,
+          "end": 12899,
+          "attributes": [],
+          "id": 704
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "机载制氧",
+          "start": 12932,
+          "end": 12936,
+          "attributes": [],
+          "id": 705
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "氧源",
+          "start": 12927,
+          "end": 12929,
+          "attributes": [],
+          "id": 706
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "液氧",
+          "start": 12937,
+          "end": 12939,
+          "attributes": [],
+          "id": 707
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "抗荷装置",
+          "start": 12958,
+          "end": 12962,
+          "attributes": [],
+          "id": 708
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "可靠性",
+          "start": 12986,
+          "end": 12989,
+          "attributes": [],
+          "id": 709
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "维修性",
+          "start": 12990,
+          "end": 12993,
+          "attributes": [],
+          "id": 710
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "保障性",
+          "start": 12994,
+          "end": 12997,
+          "attributes": [],
+          "id": 711
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "可靠性",
+          "start": 13025,
+          "end": 13028,
+          "attributes": [],
+          "id": 712
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "Reliability",
+          "start": 13029,
+          "end": 13040,
+          "attributes": [],
+          "id": 713
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "维修性",
+          "start": 13042,
+          "end": 13045,
+          "attributes": [],
+          "id": 714
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "Maintainability",
+          "start": 13046,
+          "end": 13061,
+          "attributes": [],
+          "id": 715
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "保障性",
+          "start": 13063,
+          "end": 13066,
+          "attributes": [],
+          "id": 716
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "Supportability",
+          "start": 13067,
+          "end": 13081,
+          "attributes": [],
+          "id": 717
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术指标要求",
+          "start": 13444,
+          "end": 13452,
+          "attributes": [],
+          "id": 719
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机结构强度设计",
+          "start": 13608,
+          "end": 13616,
+          "attributes": [],
+          "id": 720
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术要求分析",
+          "start": 13358,
+          "end": 13366,
+          "attributes": [],
+          "id": 721
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "作战效能分析",
+          "start": 13186,
+          "end": 13192,
+          "attributes": [],
+          "id": 722
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "费用分析",
+          "start": 13293,
+          "end": 13297,
+          "attributes": [],
+          "id": 724
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "综合分析报告",
+          "start": 13378,
+          "end": 13384,
+          "attributes": [],
+          "id": 725
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "初步总体技术方案",
+          "start": 13401,
+          "end": 13409,
+          "attributes": [],
+          "id": 726
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "作战效能分析",
+          "start": 13468,
+          "end": 13474,
+          "attributes": [],
+          "id": 727
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机系统设备设计要求",
+          "start": 13546,
+          "end": 13556,
+          "attributes": [],
+          "id": 733
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机强度设计条件",
+          "start": 13595,
+          "end": 13603,
+          "attributes": [],
+          "id": 734
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "简要战术技术指标",
+          "start": 13636,
+          "end": 13644,
+          "attributes": [],
+          "id": 735
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞行范围",
+          "start": 13666,
+          "end": 13670,
+          "attributes": [],
+          "id": 736
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "起落装置的设计条件",
+          "start": 13835,
+          "end": 13844,
+          "attributes": [],
+          "id": 738
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞行过载和滚转性能限制值",
+          "start": 14007,
+          "end": 14019,
+          "attributes": [],
+          "id": 739
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "升限和大M数飞行的有关数据",
+          "start": 14114,
+          "end": 14127,
+          "attributes": [],
+          "id": 740
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大使用飞行表速",
+          "start": 13675,
+          "end": 13683,
+          "attributes": [],
+          "id": 741
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最小可用飞行表速",
+          "start": 13684,
+          "end": 13692,
+          "attributes": [],
+          "id": 742
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "外挂空地武器及副油箱时的最大飞行表速",
+          "start": 13693,
+          "end": 13711,
+          "attributes": [],
+          "id": 743
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大飞行M数",
+          "start": 13712,
+          "end": 13718,
+          "attributes": [],
+          "id": 744
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "高度",
+          "start": 13731,
+          "end": 13733,
+          "attributes": [],
+          "id": 745
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "速度图",
+          "start": 13734,
+          "end": 13737,
+          "attributes": [],
+          "id": 746
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "动压值",
+          "start": 13738,
+          "end": 13741,
+          "attributes": [],
+          "id": 747
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "正常起飞重量",
+          "start": 13756,
+          "end": 13762,
+          "attributes": [],
+          "id": 748
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大起飞重量",
+          "start": 13771,
+          "end": 13777,
+          "attributes": [],
+          "id": 749
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "强度设计重量",
+          "start": 13778,
+          "end": 13784,
+          "attributes": [],
+          "id": 750
+        },
+        null,
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "即基本飞行设计重量，须注明外挂状态及机内油量占满油状态的百分比",
+          "start": 13785,
+          "end": 13816,
+          "attributes": [],
+          "id": 752
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "外挂状态",
+          "start": 13765,
+          "end": 13769,
+          "attributes": [],
+          "id": 755
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆重量",
+          "start": 13820,
+          "end": 13824,
+          "attributes": [],
+          "id": 756
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大着陆重量",
+          "start": 13825,
+          "end": 13831,
+          "attributes": [],
+          "id": 757
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "起落架",
+          "start": 13853,
+          "end": 13856,
+          "attributes": [],
+          "id": 761
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞行表速",
+          "start": 13858,
+          "end": 13862,
+          "attributes": [],
+          "id": 762
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "减速伞",
+          "start": 13891,
+          "end": 13894,
+          "attributes": [],
+          "id": 763
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "地板效应",
+          "start": 13917,
+          "end": 13921,
+          "attributes": [],
+          "id": 764
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "升阻特性",
+          "start": 13929,
+          "end": 13933,
+          "attributes": [],
+          "id": 765
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "迎角",
+          "start": 13924,
+          "end": 13926,
+          "attributes": [],
+          "id": 766
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "离（接）地速度",
+          "start": 13944,
+          "end": 13951,
+          "attributes": [],
+          "id": 767
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "滑跑距离",
+          "start": 13952,
+          "end": 13956,
+          "attributes": [],
+          "id": 768
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆滑跑距离",
+          "start": 13970,
+          "end": 13976,
+          "attributes": [],
+          "id": 769
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞行过载",
+          "start": 14020,
+          "end": 14024,
+          "attributes": [],
+          "id": 771
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 14061,
+          "end": 14064,
+          "attributes": [],
+          "id": 772
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "炸弹",
+          "start": 14065,
+          "end": 14067,
+          "attributes": [],
+          "id": 773
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "滚转性能",
+          "start": 14076,
+          "end": 14080,
+          "attributes": [],
+          "id": 774
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大滚转角速度",
+          "start": 14094,
+          "end": 14101,
+          "attributes": [],
+          "id": 775
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大滚转角加速度",
+          "start": 14102,
+          "end": 14110,
+          "attributes": [],
+          "id": 776
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "超声速飞行",
+          "start": 14175,
+          "end": 14180,
+          "attributes": [],
+          "id": 781
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大设计航时",
+          "start": 14270,
+          "end": 14276,
+          "attributes": [],
+          "id": 783
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "强度设计条件",
+          "start": 14296,
+          "end": 14302,
+          "attributes": [],
+          "id": 785
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术要求分析",
+          "start": 4,
+          "end": 12,
+          "attributes": [],
+          "id": 786
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼载荷",
+          "start": 5943,
+          "end": 5946,
+          "attributes": [],
+          "id": 787
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼载荷",
+          "start": 6004,
+          "end": 6007,
+          "attributes": [],
+          "id": 788
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼载荷",
+          "start": 6042,
+          "end": 6045,
+          "attributes": [],
+          "id": 789
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼载荷",
+          "start": 6076,
+          "end": 6079,
+          "attributes": [],
+          "id": 790
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼载荷",
+          "start": 6112,
+          "end": 6115,
+          "attributes": [],
+          "id": 791
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "气动布局",
+          "start": 7186,
+          "end": 7190,
+          "attributes": [],
+          "id": 792
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "动力装置",
+          "start": 6612,
+          "end": 6616,
+          "attributes": [],
+          "id": 793
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大任务航程",
+          "start": 2312,
+          "end": 2318,
+          "attributes": [],
+          "id": 794
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大航程",
+          "start": 2384,
+          "end": 2388,
+          "attributes": [],
+          "id": 795
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "作战任务",
+          "start": 2726,
+          "end": 2730,
+          "attributes": [],
+          "id": 797
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作战半径",
+          "start": 4935,
+          "end": 4939,
+          "attributes": [],
+          "id": 798
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "多功能火控雷达",
+          "start": 10986,
+          "end": 10993,
+          "attributes": [],
+          "id": 800
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "光电雷达",
+          "start": 10995,
+          "end": 10999,
+          "attributes": [],
+          "id": 801
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "火控雷达",
+          "start": 11073,
+          "end": 11077,
+          "attributes": [],
+          "id": 803
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "转场航程",
+          "start": 8450,
+          "end": 8454,
+          "attributes": [],
+          "id": 805
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "前视红外／激光测距／跟踪／指示系统",
+          "start": 11538,
+          "end": 11555,
+          "attributes": [],
+          "id": 806
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "电视／微光电视系统",
+          "start": 11556,
+          "end": 11565,
+          "attributes": [],
+          "id": 807
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "GJB34-85",
+          "start": 139,
+          "end": 148,
+          "attributes": [],
+          "id": 810
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《有人驾驶飞机（固定翼）飞行性能和图表资料》",
+          "start": 150,
+          "end": 172,
+          "attributes": [],
+          "id": 811
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "GJB185-86",
+          "start": 173,
+          "end": 183,
+          "attributes": [],
+          "id": 812
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《有人驾驶飞机（固定翼）飞行品质》",
+          "start": 184,
+          "end": 201,
+          "attributes": [],
+          "id": 813
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "GJB67-85",
+          "start": 202,
+          "end": 211,
+          "attributes": [],
+          "id": 814
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《军用飞机强度和刚度规范》",
+          "start": 213,
+          "end": 226,
+          "attributes": [],
+          "id": 815
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大飞行马赫数",
+          "start": 10626,
+          "end": 10633,
+          "attributes": [],
+          "id": 816
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "航空母舰",
+          "start": 1582,
+          "end": 1586,
+          "attributes": [],
+          "id": 817
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空地（海）攻击任务",
+          "start": 1911,
+          "end": 1920,
+          "attributes": [],
+          "id": 818
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "火箭",
+          "start": 5375,
+          "end": 5377,
+          "attributes": [],
+          "id": 821
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "空地导弹",
+          "start": 5370,
+          "end": 5374,
+          "attributes": [],
+          "id": 822
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "上视搜索和下视搜索能力",
+          "start": 11080,
+          "end": 11091,
+          "attributes": [],
+          "id": 823
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "边搜索边测距能力",
+          "start": 11092,
+          "end": 11100,
+          "attributes": [],
+          "id": 824
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "边扫描边跟踪能力",
+          "start": 11106,
+          "end": 11114,
+          "attributes": [],
+          "id": 825
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "综合导航系统",
+          "start": 11152,
+          "end": 11158,
+          "attributes": [],
+          "id": 826
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "单目标和多目标跟踪能力",
+          "start": 11120,
+          "end": 11131,
+          "attributes": [],
+          "id": 827
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "速度搜索能力",
+          "start": 11141,
+          "end": 11147,
+          "attributes": [],
+          "id": 828
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "传感器数据融合能力",
+          "start": 11237,
+          "end": 11246,
+          "attributes": [],
+          "id": 829
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "导航信息综合处理能力",
+          "start": 11247,
+          "end": 11257,
+          "attributes": [],
+          "id": 830
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "各种武器发射和控制的解算能力",
+          "start": 11258,
+          "end": 11272,
+          "attributes": [],
+          "id": 831
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "外挂物管理能力",
+          "start": 11294,
+          "end": 11301,
+          "attributes": [],
+          "id": 832
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "夜间作战和低空突防能力",
+          "start": 11391,
+          "end": 11402,
+          "attributes": [],
+          "id": 834
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "携带精确制导武器和防区外发射武器的能力",
+          "start": 11418,
+          "end": 11437,
+          "attributes": [],
+          "id": 835
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "电子干扰能力",
+          "start": 11458,
+          "end": 11464,
+          "attributes": [],
+          "id": 836
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "电子硬杀伤能力",
+          "start": 11476,
+          "end": 11483,
+          "attributes": [],
+          "id": 837
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "抗地杂波能力",
+          "start": 11637,
+          "end": 11643,
+          "attributes": [],
+          "id": 838
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "空地测距（AGR）能力",
+          "start": 11644,
+          "end": 11655,
+          "attributes": [],
+          "id": 839
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "面运动目标指示（SMTI）能力",
+          "start": 11656,
+          "end": 11671,
+          "attributes": [],
+          "id": 840
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "固定目标跟踪（FTT）能力",
+          "start": 11672,
+          "end": 11685,
+          "attributes": [],
+          "id": 841
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "真波束地图测绘（RBM）能力",
+          "start": 11686,
+          "end": 11700,
+          "attributes": [],
+          "id": 842
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "多普勒波束锐化（DBS）能力",
+          "start": 11701,
+          "end": 11715,
+          "attributes": [],
+          "id": 843
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "合成孔径（SAR）方式",
+          "start": 11716,
+          "end": 11727,
+          "attributes": [],
+          "id": 844
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "目标信息的图像与数字显示",
+          "start": 11809,
+          "end": 11821,
+          "attributes": [],
+          "id": 845
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "导航数据及武器瞄准信息显示",
+          "start": 11822,
+          "end": 11835,
+          "attributes": [],
+          "id": 846
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "传感器数据融合能力",
+          "start": 11866,
+          "end": 11875,
+          "attributes": [],
+          "id": 847
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "复杂气候及夜间工作能力",
+          "start": 11736,
+          "end": 11747,
+          "attributes": [],
+          "id": 848
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "前视红外探测目标与成像能力",
+          "start": 11748,
+          "end": 11761,
+          "attributes": [],
+          "id": 849
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "Air-To-Ai——Mission No.3",
+          "start": 3803,
+          "end": 3826,
+          "attributes": [],
+          "id": 852
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "激光跟踪及测距和照射能力",
+          "start": 11767,
+          "end": 11779,
+          "attributes": [],
+          "id": 853
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "跟踪目标图像的能力",
+          "start": 11790,
+          "end": 11799,
+          "attributes": [],
+          "id": 855
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "不同高度、速度目标的远程探测能力",
+          "start": 10845,
+          "end": 10861,
+          "attributes": [],
+          "id": 856
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "全方位、多目标攻击能力",
+          "start": 10886,
+          "end": 10897,
+          "attributes": [],
+          "id": 857
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "电子干扰能力",
+          "start": 10911,
+          "end": 10917,
+          "attributes": [],
+          "id": 858
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "电子“硬杀伤“能力",
+          "start": 10929,
+          "end": 10938,
+          "attributes": [],
+          "id": 859
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "发动机的台数及推力量级",
+          "start": 6662,
+          "end": 6673,
+          "attributes": [],
+          "id": 860
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 6910,
+          "end": 6913,
+          "attributes": [],
+          "id": 861
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "加减速性能",
+          "start": 7716,
+          "end": 7721,
+          "attributes": [],
+          "id": 862
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "重量数据",
+          "start": 13747,
+          "end": 13751,
+          "attributes": [],
+          "id": 863
+        }
+      ],
+      "E": [
+        ""
+      ],
+      "R": [
+        "",
+        {
+          "name": "别名关系",
+          "from": 10,
+          "to": 11,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "上下位关系",
+          "from": 22,
+          "to": 21,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 22,
+          "to": 23,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 23,
+          "to": 24,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 23,
+          "to": 25,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "参照关系",
+          "from": 17,
+          "to": 28,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "参照关系",
+          "from": 17,
+          "to": 29,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 23,
+          "to": 32,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "使用关系",
+          "from": 75,
+          "to": 74,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 75,
+          "to": 76,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 81,
+          "to": 83,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 94,
+          "to": 95,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 94,
+          "to": 96,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 97,
+          "to": 99,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 97,
+          "to": 101,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 97,
+          "to": 102,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 97,
+          "to": 103,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 124,
+          "to": 121,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 124,
+          "to": 122,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 124,
+          "to": 123,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "参照关系",
+          "from": 137,
+          "to": 134,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        {
+          "name": "别名关系",
+          "from": 174,
+          "to": 173,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 191,
+          "to": 192,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 190,
+          "to": 191,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 193,
+          "to": 173,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        {
+          "name": "上下位关系",
+          "from": 143,
+          "to": 190,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 143,
+          "to": 193,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 143,
+          "to": 195,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 199,
+          "to": 200,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 200,
+          "to": 201,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "别名关系",
+          "from": 221,
+          "to": 222,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 222,
+          "to": 223,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 143,
+          "to": 221,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "上下位关系",
+          "from": 224,
+          "to": 227,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 224,
+          "to": 228,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "别名关系",
+          "from": 235,
+          "to": 236,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 236,
+          "to": 237,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 143,
+          "to": 199,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 143,
+          "to": 235,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 244,
+          "to": 245,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 245,
+          "to": 246,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 143,
+          "to": 244,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 244,
+          "to": 247,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 143,
+          "to": 253,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 253,
+          "to": 254,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 254,
+          "to": 255,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 253,
+          "to": 256,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "性能需求关系",
+          "from": 262,
+          "to": 265,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "别名关系",
+          "from": 337,
+          "to": 338,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 347,
+          "to": 344,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 347,
+          "to": 345,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 369,
+          "to": 370,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "上下位关系",
+          "from": 388,
+          "to": 389,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 388,
+          "to": 390,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 388,
+          "to": 391,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 388,
+          "to": 392,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        {
+          "name": "别名关系",
+          "from": 405,
+          "to": 406,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 405,
+          "to": 407,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 405,
+          "to": 408,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        {
+          "name": "参照关系",
+          "from": 472,
+          "to": 470,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "参照关系",
+          "from": 472,
+          "to": 473,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 501,
+          "to": 504,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 502,
+          "to": 504,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 503,
+          "to": 504,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 501,
+          "to": 505,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 502,
+          "to": 505,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 503,
+          "to": 505,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 501,
+          "to": 506,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 502,
+          "to": 506,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 503,
+          "to": 506,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "参照关系",
+          "from": 512,
+          "to": 515,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 516,
+          "to": 517,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "组成关系",
+          "from": 542,
+          "to": 553,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "组成关系",
+          "from": 542,
+          "to": 546,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 542,
+          "to": 547,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 542,
+          "to": 549,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 542,
+          "to": 554,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 542,
+          "to": 555,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "组成关系",
+          "from": 614,
+          "to": 615,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "组成关系",
+          "from": 614,
+          "to": 617,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 614,
+          "to": 618,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 614,
+          "to": 619,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 614,
+          "to": 620,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 614,
+          "to": 621,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 614,
+          "to": 622,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 614,
+          "to": 623,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "参照关系",
+          "from": 660,
+          "to": 661,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        {
+          "name": "上下位关系",
+          "from": 673,
+          "to": 674,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 680,
+          "to": 679,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        {
+          "name": "使用关系",
+          "from": 685,
+          "to": 696,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 685,
+          "to": 697,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 685,
+          "to": 692,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 685,
+          "to": 693,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 706,
+          "to": 705,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 706,
+          "to": 707,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 712,
+          "to": 713,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 714,
+          "to": 715,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 716,
+          "to": 717,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 734,
+          "to": 735,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 734,
+          "to": 736,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "上下位关系",
+          "from": 734,
+          "to": 738,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 734,
+          "to": 739,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 734,
+          "to": 740,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "定义关系",
+          "from": 750,
+          "to": 752,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 542,
+          "to": 800,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 542,
+          "to": 801,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 614,
+          "to": 806,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 614,
+          "to": 807,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 811,
+          "to": 810,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 813,
+          "to": 812,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 815,
+          "to": 814,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        {
+          "name": "性能需求关系",
+          "from": 803,
+          "to": 823,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 803,
+          "to": 824,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 803,
+          "to": 825,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 803,
+          "to": 827,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 803,
+          "to": 828,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "性能需求关系",
+          "from": 598,
+          "to": 834,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "性能需求关系",
+          "from": 598,
+          "to": 835,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 598,
+          "to": 836,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 598,
+          "to": 837,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 624,
+          "to": 838,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 624,
+          "to": 839,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 624,
+          "to": 840,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 624,
+          "to": 841,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 624,
+          "to": 842,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 624,
+          "to": 843,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 624,
+          "to": 844,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 644,
+          "to": 845,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 644,
+          "to": 846,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 644,
+          "to": 647,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 644,
+          "to": 648,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 649,
+          "to": 847,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 638,
+          "to": 848,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 638,
+          "to": 849,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        {
+          "name": "别名关系",
+          "from": 852,
+          "to": 196,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 195,
+          "to": 852,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 586,
+          "to": 829,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 586,
+          "to": 830,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 586,
+          "to": 831,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "性能需求关系",
+          "from": 586,
+          "to": 832,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 638,
+          "to": 853,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 638,
+          "to": 855,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 274,
+          "to": 275,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 860,
+          "to": 322,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "性能需求关系",
+          "from": 861,
+          "to": 339,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 352,
+          "to": 353,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 352,
+          "to": 354,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 355,
+          "to": 356,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 355,
+          "to": 357,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 418,
+          "to": 421,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 418,
+          "to": 805,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 418,
+          "to": 423,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 418,
+          "to": 424,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 734,
+          "to": 863,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        }
+      ],
+      "A": [
+        ""
+      ]
+    }
+  },
+  "time_labeled": 1618468690294,
+  "labeled": true,
+  "content": "第2章 战术技术要求分析\r\n2.1 依据\r\n2.1.1 有关指令性文件\r\n按总参谋部、国防科工委（自1998年起改制为总装备部）、国家计委、财政部[1995]技综字第2709号文的规定，军用飞机的战术技术要求分析属于常规武器装备研制程序中论证阶段的工作内容。\r\n2.1.2 使用的规范\r\nGJB34-85   《有人驾驶飞机（固定翼）飞行性能和图表资料》\r\nGJB185-86  《有人驾驶飞机（固定翼）飞行品质》\r\nGJB67-85   《军用飞机强度和刚度规范》\r\n2.2 战术技术指标要求的产生过程\r\n军用飞机（简称军机）的战术技术指标要求由使用部门提出。其产生过程有两种情况：其一是使用部门根据国家批准的武器装备中长期计划和军机主要作战使命任务的需要主动向研制主管部门提出研制任务及研制目标的战术技术指标要求；其二则是研制主管部门组织其所属飞机设计部门根据技术的发展（尤其是预研取得的实质性成果）以及对未来军事装备的预测而向使用部门提出研制新机的建议及其新机的战术技术指标的建议稿，使用部门经分析、研究而采纳了研制主管部门的建议后，再正式向研制主管部门提出军机的战术技术指标要求。研制主管部门在得到使用部门提出的初步战术技术要求后，组织飞机总体设计部门通过飞机技术方案的概念设计和论证，对战术技术指标进行全面的论证和深入的分析研究，综合权衡作战使命任务所确定的需求、未来一段时间内航空技术发展的水平、经济实力所提供的可能（投资强度）及研制周期要求等几方面的关系，给出尽可能详细的反馈意见。使用部门在收到研制单位完成的初步总体技术方案和对研制经费、保障条件、研制周期预测的报告后，对战术技术指标作必要的充实和修正，并据此编制《武器系统研制总要求》。\r\n2.3 战术技术要求分析的内容与方法\r\n本章主要阐述战斗机的战术技术要求分析。\r\n2.3.1 使命任务分析\r\n2.3.1.1 战略需求分析\r\n当研制主管部门主动向使用部门提出研制新机的建议时，必须开展以下分析工作：\r\n（1）参阅有关权威资料，对周边和世界近期政治经济形势进行分析，预测发生矛盾和冲突的时间和地点；\r\n（2）分析、预测与我国有关的矛盾和冲突的性质和规模；\r\n（3）分析和建议为满足战略需求的军机的种类、数量和质量，说明所要研制的新机在军机力量配置中的地位与作用。\r\n2.3.1.2 战术需求分析\r\n（1）作战对象分析\r\n主要分析未来一段时间内世界上所使用的战斗机的种类及其作战能力，尤其是预计发生矛盾或冲突的周边地区正在使用和将要装备的战斗机的种类和作战能力。这些战斗机的总体参数、基本飞行性能、航空电子和武器火控系统的装备水平等可参阅航空工业出版社每隔几年修订一次的《世界飞机手册》、《世界飞机武器手册》以及其他的有关资料。\r\n（2）作战环境分析\r\n须分析的内容主要包括：\r\na.战场的气候和地理环境；\r\nb.电磁环境；\r\nc.作战对象探测系统威胁能力；\r\nd.作战对象制导和非制导武器的威胁能力等。\r\n（3）作战使用特点分析\r\n根据目前航空技术取得的成就与发展，分析与总结以往战争中空中力量的使用经验，预计今后空中力量的作战使用将有以下特点和方式。\r\na.集中优势兵力，以消灭对方有生力量、重要武器装备和其他重要战略战术目标为主，进行高机动、大纵深、高强度、高准确度的空中攻击。攻击方将力图造成战争突发性，并力争尽快结束，导致空中力量在战争中起决定性作用。为此，攻防双方都以夺取制空权为先导，战斗机将是作战的先锋与控制局面的主导因素之一。在取得制空权的条件下，新与老、轻与重型的战斗机都能发挥作用。\r\nb.空中力量的作战行动，必然在强电磁干扰的环境下进行，夜间出动作战的比例将明显超过以往的战争，复杂气象条件也将被尽量充分利用。\r\nc.战争的多元一体化特征将更加明显，作战过程中的情报信息和指挥通信将涉及地面、空中和空天，空中预警机将普遍使用。\r\nd.航空母舰是远程攻击中集结兵力与发动突袭的重要基地。\r\ne.战斗机、电子干扰机、反辐射飞机、攻击机、轰炸机混合编队出击将是常用的模式，而空战将同时在远、中、近距离内进行。\r\nf.对地面战斗实施近距支援、战场遮断时，除使用固定翼飞机外，将大量使用武装直升机。\r\n（4）作战使命任务的分类\r\n随着空中力量作战使用特点的变化，其作战方式的内涵也相应有了很大的发展，但第二次世界大战以来的空军发展历史，尤其是20世纪末的世界空军作战史表明，未来空军战斗机的主要任务类型基本上保持不变，它们仍然是空中优势、护航、空中巡逻、拦截、近距空中支援和纵深打击、空中侦察等。其具有代表性的任务仍然是空中优势、拦截、近距空中支援和纵深攻击。上述几项可归结为两类主要作战任务，即空空作战任务和空地（海）攻击任务。图2-1与图2-2分别给出了空空、空地（海）作战任务的主要类型及重点技术要求示意。\r\n图2-1空空作战任务的主要类型及重点技术要求\r\n战术技术指标中不同的使命任务将决定所要研制的飞机是属于以空中优势为主，还是以对地攻击为主，或是兼顾两者的多任务战斗机。\r\n图2-2空地（海）作战任务的主要类型及重点技术要求\r\n2.3.2 技术要求分析\r\n战斗机的技术要求分析以作战使命任务分析中战术需求分析的结果为出发点，以使用部门提出的各项指标要求为初步目标，通过飞机总体设计部门各专业间协同开展的概念设计与方案论证来实现。\r\n2.3.2.1 典型任务剖面设计\r\n战斗机的典型任务剖面根据作战使命任务和战术需求而定，是飞机总体方案概念设计及技术要求分析的重要依据之一。\r\n（1）战斗机的任务剖面由若干种任务段构成。它们的名称及简要定义如下。\r\na.起飞段包括地面滑跑及加速至上升速度。\r\nb.上升段原则上采用以能达到最大任务航程的最佳发动机工作状态和速度程序沿预定航向上升到巡航高度。为计算方便，通常采用等表速、等真速、等马赫数等上升方式。\r\nc.巡航段原则上以最大航程的速度和高度向预定目标区域飞行。为满足不同战术任务的需要，可指定合理的高度和速度；无论出航或返航，均可有多个巡航段；巡航过程中可进行空中加油。对于现代先进战斗机，\r\n可兼有亚声速巡航段和超声速巡航段。\r\nd.过渡段当作战所设定的高度、速度与巡航高度、速度不同时，或分段巡航时前后两段的高度、速度不同时，飞机需要变速上升或下降过渡。\r\ne.巡逻待机段时间按需要设定，一般忽略高度、速度和飞行距离的变化，仅以设定的高度、速度和相应的发动机巡航状态计算燃油消耗量。\r\nf.作战段时间按需要设定或按完成规定机动飞行动作进行估算作战时间和耗油。当设定时间时，一般忽略高度、速度和飞行距离的变化，仅以设定的高度、速度和相应的发动机工作状态计算燃油消耗和武器弹药的消耗。\r\ng.返航下降段在战斗机完成作战任务后返回基地前，可计算从巡航高度下降到基地上空的返航下降段。根据GJB34-85的有关规定，对最佳巡航速度为亚声速的战斗机，任务剖面中可忽略下降段的计算。\r\n（2）将以上各种任务段有机组合，即可得到满足不同战术要求的任务剖面。以下给出战斗机常用的部分典型任务剖面。\r\na.最短时间截击空空作战剖面（Air-To-Air—Mission No.1，简称1AA，如图2-3所示）\r\n图2-3 1AA空空作战剖面任务示意图\r\n执行此任务的前提是作战对象为处于中距离来袭的敌战斗机或轰炸机。为快速接近敌机，我机通常不带外挂副油箱，仅带近距格斗导弹和中程拦射导弹。任务基本规则如下：\r\n①以发动机处于“加力”或“最大”状态起飞并加速到上升速度（本章中所指发动机的“加力”状态，可以是“最大加力”，也可以是“最小加力”或“部分加力”，实际使用时按需要选定）；\r\n②以“加力”或“最大”状态，按最短时间的上升程序上升到巡航高度；\r\n③在飞机最有效的加速高度（通常在9~11km），以最大可机动平飞速度巡航（通常在M=0.8~0.95）；\r\n④改为按照作战要求所需要的发动机工作状态，过渡到作战高度和作战速度；\r\n⑤攻击敌机，消耗弹药，作战时间按统计规律取值（一般取5min，其中1min“加力”，4min“最大”）或按完成规定机动飞行动作进行估算（如先以“加力”状态从亚声速M=0.8~0.9加速至超声速M=1.4~1.6，保持此M数作过载为4~5的盘旋一圈，然后收油门至“最大”并减速到M=0.9，再接通“加力”以M=0.9作过载为5~6的盘旋两圈）；\r\n⑥以最大续航的速度和发动机工作状态巡航返回；\r\n⑦带着陆余油到达基地上空。\r\nb.最大航程截击空空作战剖面（Air-To-Air——Mission No.2，简称2AA，如图2-4所示）\r\n图 2-4 2AA空空作战剖面任务示意图\r\n此剖面是在我战斗机为友机（如攻击机和轰炸机）攻击敌重要地面目标执行护航任务时使用。为满足远程作战的需要，飞机除携带必要的中、近距空空导弹外，应尽可能外挂副油箱或采用空中加油方式。任务基本规则如下：\r\n①以“加力”或“最大”状态起飞并加速到上升速度；\r\n②以能达到最大任务航程的最佳发动机工作状态和速度程序，沿预定航向上升到巡航高度；\r\n③以最大航程的速度和高度向预定战区飞行；\r\n④改为按作战要求所需要的发动机工作状态，过渡到作战高度和作战速度（如携带副油箱，则在此过程中投弃）；\r\n⑤攻击敌机，作战时间按需要设定（可参照1AA）；\r\n⑥同③，巡航返回基地；\r\n⑦带着陆余油到达基地上空。\r\nc.空中优势作战剖面（Air-To-Ai——Mission No.3简称3AA，如图2-5所示）\r\n此剖面为典型的高-高-高空战剖面，带与不带副油箱均可。任务基本规则如下：\r\n①起飞并加速到上升速度；\r\n②沿预定航向，以能达到最大任务航程的最佳发动机工作状态和速度程序上升到巡航高度；\r\n③以最大航程的速度和高度巡航到作战区域；\r\n④作战（如带副油箱则先投弃），时间按需要设定（可参照1AA）；\r\n⑤同③，巡航返回基地；\r\n⑥带着陆余油到达基地上空。\r\n图 2-5 3AA空空作战剖面示意图\r\nd.超声速巡航截击作战剖面（Air-To-Air Combat With Supersonic Interruption-Mission No.4，简称4AI，如图2-6所示）\r\n图2-64AI超声速巡航截击作战剖面示意图\r\n此剖面可用于打击远距离来犯的敌战斗目标（如敌战斗机或轰炸机），也可用于打击敌非战斗目标（如预警机或加油机）。任务基本规则如下：\r\n①起飞并加速到上升速度；\r\n②沿预定航向，以能达到最大任务航程的最佳发动机工作状态和速度程序上升到巡航高度；\r\n③以最大航程的速度和高度巡航到离目标一定距离处（根据需要选定，大致可取200~500km）；\r\n④加速并上升到超声速巡航的高度和速度（一般高度为10~14km，速度为M=1.4~1.6）；\r\n⑤以超声速巡航预定距离（如③所述为200~500km）；\r\n⑥利用中、远距制导武器攻击目标，作战时间一般不大于2min；\r\n⑦以超声速或亚声速巡航退出战斗返航，飞行预定距离；\r\n⑧改变高度、速度至有利巡航的高度及速度；\r\n⑨带着陆余油到达基地上空。\r\ne.转场训练任务剖面（Ferry & Training-Mission No.5，简称5FT，如图2-7所示）\r\n此剖面用于考核飞机的航程指标，如不携带外挂副油箱，则称为基本航程；如带全部副油箱，则称为最大转场航程；如将携带的副油箱每当用完即投弃，则可计算最大航程和最大续航时间（参阅GJB34中有关要求）。该剖面是确定飞机机内载油系数及外挂副油箱能力的重要依据。任务基本规则如下：\r\n①起飞并加速到上升速度；\r\n图2-7 5IT转场训练任务剖面示意图\r\n②沿预定航向，以能达到最大任务航程的最佳发动机工作状态和速度程序上升到巡航高度；\r\n③以最大航程的速度和高度，巡航到远距基地，如果携带外挂副油箱，燃料用完按要求投或不投；\r\n④带着陆余油下降到达远距基地。\r\nf.战斗巡逻任务剖面（Air-To-Air Combat With Circle Cruise-Mission No.6，简称6AC，如图2-8所示）\r\n图2-8 6AC战斗巡逻任务剖面示意图\r\n此任务剖面在敌机来犯信息不确定的情况下为保卫重要目标而设置，主要衡量战斗机在给定作战半径时的巡逻留空持续能力。任务基本规则如下：\r\n①起飞并加速到上升速度；\r\n②沿预定航向，以能达到最大任务航程的最佳发动机工作状态和速度程序上升到巡航高度；\r\n③以最大航程的速度和高度，巡航到离基地指定距离的目标区域；\r\n④以战斗巡逻速度，在等待指定目标的区域上巡逻待机；\r\n⑤攻击敌机（如携带外挂副油箱，则接敌前先投弃）；\r\n⑥巡航返回基地；\r\n⑦带着陆余油到达基地上空。\r\ng.对地支援攻击剖面（Air-To-Ground Attack In Short-range-Mission No.7，简称7AG，如图2-9所示）\r\n此任务剖面也称为低-低-低攻击剖面，主要用于中、近距空中支援地面部队作战，攻击敌地面部队或军事设施。任务规则如下：\r\n①起飞并加速到巡航速度；\r\n②名义海平面，通常计算用H=50~l00m，以最大航程的速度和最佳发动机工作状态巡航到战区；\r\n图2-9 7AG对地支援攻击剖面示意图\r\n③如携带外挂副油箱则可先投弃（也可不投，视飞机推重比而定）；\r\n④攻击目标（发射空地导弹、火箭，投掷炸弹等）；\r\n⑤名义海平面，巡航返回基地；\r\n⑦带着陆余油到达基地上空。\r\nh.空中封锁攻击剖面（Air-To-Ground Attack In Long-range-Mission No.8，简称8AG，如图2-10所示）\r\n图2-10 8AG空中封锁攻击剖面示意图\r\n此剖面也称为高—低—低—高攻击剖面，用于远距对地攻击。任务规则如下：\r\n①起飞并加速到上升速度；\r\n②沿预定航向，以能达到最大任务航程的最佳发动机工作状态和速度程序上升到巡航高度；\r\n③以最大航程的速度和高度巡航到突防开始；\r\n④下降到海平面；\r\n⑤在海平面，以作战速度和需要的发动机工作状态（通常表速取900~1100km/h，发动机处于“最大”）飞行预定距离后进入目标上空；\r\n⑥（必要时）投掷外挂物（如副油箱等）；\r\n⑦攻击目标；\r\n⑧同⑤，退出攻击飞行指定距离；\r\n⑨沿预定航向上升到巡航高度；\r\n⑩巡航返回基地；\r\n⑪带着陆余油到达基地上空。\r\n在具体的型号设计中，应根据飞机的使命任务对以上典型剖面进行剪裁。对于以空中优势为主要使命的战斗机，应以1AA~4AI为主要的任务剖面；对于以对地攻击为主要任务使命的战斗机，应以7AG~8AG等为主要的任务剖面；对于多用途战斗机，则应兼顾两方面的典型任务。\r\n2.3.2.2 概念设计与方案论证中的技术要求分析\r\n（1）总体参数选择\r\na.翼载荷及推重比\r\n战斗机的翼载荷及推重比因其使命任务的不同而有所差异，基本规律如下。\r\n空中优势飞机\r\n强调：高机动性；\r\n特点：翼载荷偏低，推重比较大。\r\n对地攻击飞机\r\n强调：低空巡航，抗突风能力；\r\n特点：翼载荷偏大，推重比可较小。\r\n近距支援飞机\r\n强调：短距起落；\r\n特点：低翼载荷，小推重比。\r\n多用途飞机\r\n强调：兼备对空对地攻击能力；\r\n特点：适中翼载荷，适中推重比。\r\n根据以上规律和趋势，概念设计初期可确定出总体方案翼载荷及推重比的大致范围。\r\nb.重量与尺寸\r\n飞机重量与尺寸的选择根据其使命任务有以下技术要求：\r\n对于远程、自主作战能力要求高的飞机，其重量与尺寸应大一些，以便安装天线口径较大的雷达和装载较多的燃油；\r\n对于近距支援飞机或高、低档搭配中的低档飞机，其重量与尺寸可选得小些，以降低单机价格。\r\nc.展弦比和后掠角\r\n飞机机翼的展弦比、平均相对厚度及前缘后掠角对飞机的重量特性、气动特性有着明显而又十分复杂的影响，最后归结为对飞行性能的影响。其大致影响规律如下。\r\n展弦比减小：\r\n升限下降；\r\n最大M数增加；\r\n亚声速爬升率减小；\r\n超声速爬升率增大；\r\n盘旋过载下降；\r\n起降速度增加；\r\n航程减少。\r\n前缘后掠角增加：\r\n升限下降；\r\n最大M数增加；\r\n亚声速爬升率减小；\r\n超声速爬升率增大；\r\n盘旋过载下降；\r\n起降速度增加。\r\n平均相对厚度增加：\r\n升限下降；\r\n最大M数减小；\r\n超声速爬升率下降；\r\n盘旋过载增加；\r\n起降速度下降。\r\n此外，梯形比、后缘后掠角等参数对飞机特性都构成不同的影响，设计者只能根据飞机的使命任务，采用本册第4章的方法进行综合权衡选定。\r\n（2）动力装置选择的技术要求分析\r\n根据战术技术要求，选择尽可能满足使用需要的动力装置，主要原则如下。\r\na.发动机的台数及推力量级应满足飞机推重比的要求。由于战斗机的发动机必须满足宽广的高度和速度范围、好的高度和速度特性以及尺寸必须控制在能装于机内等技术要求，其单台推力量级受制造、试验的技术难度和成本的制约，故对于较大的重型战斗机，只能采用双发；对于较小的轻型战斗机，一般可采用单发；对于中型机，可按飞机方案设计的需要选定。其总的选择依据是在满足飞机起飞推重比要求的基础上，有利于总体布置和气动布局设计，同时应注意到单发飞机的维修性好于双发飞机、双发飞机的生存力优于单发飞机的一般性特点。\r\nb.计及飞机进气道对发动机特性的影响后，其最大功率（推力）应满足飞机最大飞行速度的要求。\r\nc.与飞机进气道相匹配，其工作稳定性应满足飞机最小飞行速度的要求。\r\nd.对于发动机本身的推重比，在其他条件允许的情况下，应尽可能选择高推重比。对于第三代、第四代先进战斗机来说，推重比可达8~12。\r\ne.为了满足作战使命任务的需要，应尽可能选择最大功率（推力）值较高、动力装置本身的推重比较高、巡航耗油率较低、工作稳定性好、抗畸变能力强、维修性好的较成熟的发动机。\r\n一旦初选定后，发动机的长度、直径、安装节等基本参数将对总体参数的选择和总体布置工作的开展起到制约作用。\r\n（3）气动布局及气动特性的技术要求分析\r\n气动布局的技术要求结合飞机总体参数的选择一起进行分析和确定，最终以气动特性满足飞机的飞行性能要求为主要标准并兼顾外形隐身的需要。\r\n气动特性的技术要求主要考虑以下几个方面。\r\na.结合飞控系统的设计满足飞机操纵性和稳定性的要求。\r\nb.低速特性应满足飞机起降性能的要求和最小平飞速度的要求。对于起降性能，由于飞机气动力的低速特性中气动阻力相对于飞机起飞时的推力和着陆时的刹车阻力、减速伞阻力来说是一阶小量，故对起降离（接）地速度及起降距离起决定作用的是飞机的升力特性。在有关总体参数，如飞机的翼载荷（W/S）及起降过程中可用离（接）地迎角α（取决于擦尾角）基本选定的条件下，可由式\r\n得出飞机低速升力特性CLa（中小迎角时的升力线斜率）与飞机起降速度要求之间初步的相互关系（式中ρ为大气密度，V为离（接）地速度）。为了提高飞机的CLa值，常采用双三角、前后机身边条、鸭式布局方式，以及前后缘偏转襟翼、放宽静稳定度、动力装置喷口转向等措施。同理，由式（2-1）也可得出对应于最小平飞速度指标Vmin的最大升力系数CLmax要求。\r\nc.高速气动力特性应满足飞机其他飞行性能的要求，主要从以下几方面进行分析。\r\n（a）最大平飞速度、爬升性能和加减速性能的要求：最大平飞速度、爬升性能和加减速性能又称为飞行性能的纵向特性，可归结为由单位剩余功率值来衡量。利用式\r\n并注意到对于战斗机来说，以跨、超声速作爬升或加减速水平飞行时，其需用迎角很小，cosα≈1故由式（2-2）可解得\r\n当飞机的重量特性W、机翼参考面积S及推力特性T基本选定时，可由式（2-3）解得飞机阻力系数CD与给定高度、速度下给定PS值要求的相互关系。如前述，由于此时的需用迎角较小，阻力系数CD中升致阻力很小，故由式（2-3）解得的CD值实际上是对飞机零升阻力系数CD0的初步要求。关于飞机的水平减速性能，则主要涉及到飞机总体设计中减速装置（如减速板）的设置。\r\n（b）盘旋性能的要求：盘旋性能也称为飞行性能的横向特性，可分为定常盘旋性能和瞬时转弯性能。对于战术技术指标中给定高度、速度下的最大定常盘旋过载要求，可由简化的联立方程\r\n解得\r\n一般地，由于空战格斗的典型高度、速度为中空跨声速，故战术技术指标中定常盘旋最大过载要求常在高度H=5km、M=0.9的条件下提出，此时的迎角使用值对于大部分战斗机来说在8⁰-12⁰之间。当W、T等特性有了初步值后，即可由式（2-6）得到对应于给定nzS指标的初步升阻比K的要求值（式中α取10⁰定值不会对分析结果产生显著的影响）。\r\n至于瞬时转弯性能，战术技术指标中往往提出给定高度下的瞬时盘旋最大角速度ωm要求。由于最大过载使用nz max值在指标中已有规定，由式\r\n可得到对应于给定ωm指标的角点速度Vc。再由\r\n解出对应于此角点速度的升力系数CL需用值。当飞机在此速度下的最大升力系数大于此需用值时，即能满足瞬时盘旋最大角速度指标要求。\r\n（c）航程和作战半径的要求：航程和作战半径统称为任务性能，可分为基本航程、转场航程、作战半径和最大续航时间等指标。在对气动力特性进行分析时，仅选择基本航程即可。利用工程估算方法，由\t\r\n在已知基本航程LB指标的前提下，可解得飞机有利巡航升阻比K值的要求。式中，V取有利高度下的有利巡航速度；Cf为此高度速度下发动机巡航平均耗油率（单位为kg/（h·N））；Wi、Wf为巡航开始及终了时的飞机重量。为简便计，对战斗机而言，起飞、加速、爬升到巡航高度的耗油量取为飞机起飞前满油重量的5%，巡航终了时的机内余油量取为飞机无油重量的5%，忽略爬升段对航程的贡献，不计算下滑段。如某型号飞机基本状态的满油起飞重量为12500kg，机内载油量为3000kg，取巡航高度为11km，有利巡航速度V=902.7km/h（M=0.85），Cf=-0.095，如指标LB=1600km，则有利巡航K值要求为9.46，考虑到最大升阻比Kmax约为有利巡航值的1.05倍，故得到对应于上述基本航程指标的该机跨声速最大升阻比Kmax值应在10左右。\r\n以上分析方法是在初步选定飞机部分总体参数的情况下，去分析气动力特性的要求。反之，如已初步得到气动力特性，也可根据式（2-1）至式（2-9）提出部分总体参数（如翼载荷和机内载油量等）的调整要求。\r\n（4）目标特征控制（隐身）的技术要求分析\r\n随着探测技术的飞速发展，战斗机的自身目标特征控制——降低可探测性隐身技术，在有效地保存自己、攻击敌人，进而提高作战效能方面体现出越来越重要的作用。通过选择特殊外形、关键部位采用或涂以吸波材料、武器内置或保形外挂、倾斜配置双垂尾、进气道遮挡或S形弯曲等设计和制造技术，可显著降低战斗机的雷达反射截面积（RCS）。对于以中远程制空作战为主的中、高档战斗机，应力求将RCS值控制在0.1以下；对于以近距对地支援、制空作战为主的低档飞机、无人驾驶战斗机，可考虑控制RCS值在0.1~1.0之间。此外，还应采取对发动机热部件进行屏蔽、使喷流降温等降低飞机红外特征的措施，以及在飞机表面涂保护色以减小可见光信号的方法，使飞机的目标特征得到有效的控制。在进行隐身设计时，应兼顾飞机的空气动力特性。\r\n（5）飞控系统及飞行品质的主要技术要求分析\r\n作为战斗机，无论以对地攻击为主，还是以空中优势为主，飞控系统的设计，均应满足GJB185对Ⅳ类飞机的飞行品质要求及GJB2191对系统的设计、安装和试验要求。对于以中，远程制空作战为主、机动作战能力强的中、高档战斗机或放宽静稳定度的飞机，其飞控系统应以多余度数字式电传操纵为主加模拟式备份，以便满足多翼面协调偏转的快速响应要求和增加飞机空战中的敏捷性。对于以近距支援为主或是用于制空但高、低档搭配中的低档飞机，可采用机械拉杆式操纵，以便简化设计和降低成本。将低空突防、对地攻击作为其重要使命任务的战斗机，飞控系统应在多余度探测装置的配合下具备地形跟随、地形回避功能。\r\n（6）飞行性能指标的技术要求分析\r\n飞机的飞行性能，是飞机总体布置设计、气动力布局设计、发动机选择及进气道与发动机匹配设计、重量与重心控制设计、强度与刚度设计，以及飞控、燃油等其他系统设计多方面工作的综合效果。根据飞机飞行性能的有关计算方法，表2-1给出了飞行性能及其主要影响因素关系。表中前12项系常规性能，战术技术指标中有明确要求；第13项敏捷性是西方航空先进国家在20世纪末率先提出的衡量战斗机作战使用中操纵得心应手程度的一个新概念，目前尚未有公认的定义和指标。其主要目的是综合评价包括飞机常规机动性和发动机油门响应特性、飞控系统操纵特性等过渡阶段敏捷性在内的飞机机动能力，也可以包括利用推力转向、直接力控制等新技术完成各种非常规机动飞行。因此，影响飞机敏捷性的因素涉及到飞机设计的各个方面。\r\n表2-1飞机飞行性能及其主要影响因素关系表\r\n对战斗机的飞行性能进行技术要求分析时，一般通过先初选方案，再进行性能计算的方法来进行。根据作战使命任务，以空中优势为主要任务的战斗机，为了满足高机动的要求，应选择推重比较高、翼载荷适中或较低、升阻特性好、最大过载限制值较高的方案；以对地攻击为主的飞机，应选择翼载荷较高、最大过载限制值较低的方案，以便在低空突防时有较好的突风响应特性和适当降低造价；多用途飞机则应兼顾两方面的要求。当性能估算结果不能满足指标要求时，应适时调整布局参数。某些性能指标具有相关性，如最大飞行速度、最大爬升率及水平加速性能的改善都依赖于提高飞机推重比、采用中等偏大的翼载荷和降低高亚声速至超声速的零升阻力系数来实现。当某一方案的估算结果已能达到其中的两项，而与另一项指标有明显差异时，可对另一项指标的合理性进行分析。如能提供有说服力的理由，则可向使用部门提出修改建议。\r\n在对性能指标进行分析时，还包括对已选定的典型任务剖面进行计算和充实，检查作战半径和续航能力是否满足指标的要求。\r\n（7）刚度和强度的技术要求分析\r\n战斗机的刚度和强度按GJB67的要求开展设计。对于飞机基本飞行设计重量（即对应于飞机最大设计过载的飞行重量）的确定，应根据作战使用要求合理取值。鉴于飞机只有在与敌机作近距格斗或进行预定训练科目时才会使用最大设计过载，此时不可能外挂副油箱和炸弹（或早已投掉），故该设计重量可取为飞机带基本外挂武器加上机内50%~80%余油所对应的重量。\r\n对于最大飞行马赫数M>2.0的飞机，应考虑气动加热对材料特性的影响，按作战使用中的有关热环境要求及使用技术要求进行选材和开展强度和刚度设计。\r\n在进行飞机疲劳强度设计时，为了满足飞机寿命指标的要求，应编制恰当的疲劳载荷谱。其主要依据是在参考使用部门意见的基础上对典型作战剖面使用频率进行恰当的预计和组合。\r\n（8）航空电子及武器系统的技术要求分析\r\na.根据战术技术要求，以制空为主要使命任务的战斗机，其航空电子及武器系统应具备以下能力：\r\n（a）对不同高度、速度目标的远程探测能力——先敌发现、先敌发射、超视距攻击的需要；\r\n（b）全方位、多目标攻击能力--机群空战的需要；\r\n（c）电子干扰能力——自卫的需要；\r\n（d）电子“硬杀伤“能力--使用反辐射导弹攻击敌空中预警机的需要。\r\n由此，空空作战的航空电子及武器系统主要构成应包括：\r\n多功能火控雷达；\r\n光电雷达（红外搜索跟踪系统）；\r\n综合导航系统；\r\n显示与控制系统；\r\n电子对抗系统；\r\n任务计算机系统；\r\n数据总线；\r\n数据链；\r\n远距、中距、近距空空导弹。\r\n其中，火控雷达应具有上视搜索和下视搜索能力、边搜索边测距能力（RWS）、边扫描边跟踪能力（TWS）、单目标和多目标跟踪能力（STT&MTT）、速度搜索能力（VS）；综合导航系统应以自主导航为主，并以其他方式补充和修正；显示系统应能实现目标信息的图像和数字显示、导航数据及武器截获信息显示、武器管理和告警等信息显示；任务计算机系统应具有传感器数据融合能力、导航信息综合处理能力、各种武器发射和控制的解算能力（多目标攻击时威胁分类及优先攻击控制能力）、外挂物管理能力、显示信息处理和控制能力。武器以大离轴角、大过载、发射后不管的中、近距导弹及远程反辐射导弹为主。\r\nb.以对地攻击为主要使命任务的战斗机，其航空电子与武器系统应具备以下能力：\r\n（a）夜间作战和低空突防能力——突然性和有效性需求；\r\n（b）携带精确制导武器和防区外发射武器的能力——提高命中精度和攻击威力的需求；\r\n（c）电子干扰能力——自卫的需要；\r\n（d）电子硬杀伤能力——使用反辐射导弹压制和摧毁敌地面探测系统的需求。\r\n由此，空地攻击武器系统主要构成应包括：\r\n多功能火控雷达；\r\n前视红外／激光测距／跟踪／指示系统；电视／微光电视系统；\r\n综合导航系统；\r\n图像接收、传输、显示系统；\r\n活动数字地图；\r\n任务计算机系统；\r\n电子对抗系统；\r\n数据总线；\r\n数据链。\r\n其中，火控雷达应具有强的抗地杂波能力、空地测距（AGR）能力、面运动目标指示（SMTI）能力、固定目标跟踪（FTT）能力、真波束地图测绘（RBM）能力、多普勒波束锐化（DBS）能力、合成孔径（SAR）方式；\r\n光电系统应具有复杂气候及夜间工作能力、前视红外探测目标与成像能力、\r\n对目标的激光跟踪及测距和照射能力、电视／微光电视提供被跟踪目标图像的能力；\r\n显示系统应能实现目标信息的图像与数字显示、导航数据及武器瞄准信息显示、\r\n武器管理及告警信息显示、数字地图显示；任务计算机系统应具有传感器数据融合能力、\r\n导航信息综合处理能力、各种武器投放和控制的解算能力、多悬挂物管理能力、显示信息处理和控制能力。\r\n对武器的要求则是携带种类多样化，威力大，以精确打击为主。\r\nc.对多用途战斗机，应综合两方面的要求。为满足不同的技术要求应设计相应的系统和采用恰当的设备。\r\n（9）飞机其他系统的技术要求分析\r\na.液压系统\r\n液压系统的能源供给和工作线路的设计，应在所规定的任何战术动作情况下满足飞机作战使用的要求，特别是满足复合工作状态下驱动各类作动器的流量和压力要求。\r\nb.环控系统\r\n环控系统的设计应按照GJB1193执行，满足地面和空中飞行员必要的座舱环境要求和航空电子设备舱的冷却要求。根据飞机的作战使用，飞机环控系统热载荷的计算和试验应兼顾典型任务剖面和飞行包线边界处的重点考核点。对于典型任务剖面，在给定高度、速度下巡航是飞机长时间持续飞行的过程，空战的数分钟内飞行速度的变化是很大的；而对于飞行包线边界处的若干考核点，如低空大表速（H=0m，M≥1.0）、高空小表速（H>11000m，Vb≈Vbmin）、高空大速度（H≈Hmax，M≈Mmax）等，应注意到飞机在这些边界点处持续飞行时间仅为数十秒钟，最多达1-2min。\r\nc.燃油系统\r\n燃油系统在整个飞行包线范围内，应能可靠地向发动机和其他以燃油为运动介质的部件供油。飞机燃油箱的设置（含外挂油箱），应满足飞机典型任务剖面所需的油量以及给定短时间内零过载和负过载时机动飞行的供油要求。燃油消耗引起飞机重心的变化不应超过规定的范围。当燃油同时还作为某些附件或其他介质的冷却源时，应保证循环返回的受热燃油的温度得到适当的控制，重点应对长航时、小流量的任务剖面进行考核。\r\nd.电气系统\r\n电源功率应满足飞机作战使用中最大耗电量的用电需求并留有恰当的余量，应急电源应满足起动发动机和给定时间内飞控系统和其他必须用电设备的连续供电需求。随着技术的进步，电气系统的功能将有所扩展，\r\n可采用开关磁阻起动／发电机发电，利用总线技术实现负载的自动管理，使用固态功率控制器和硅基功率电子元件进行配电，通过电动机驱动飞控系统的各操纵面，从而有可能取代液压系统，减轻飞机的重量，改善系统的可靠性、维修性和保障性，提高飞机的性能。\r\ne.防护救生系统\r\n防护救生系统应保证飞行员在全包线范围内有良好的驾驶和作战条件。在应急情况下，应保证飞行员能安全弹射离机和降落救生。氧气系统应保证最大续航时间内，对飞行员的长时间供氧及应急情况下加压供氧。对于有空中受油能力的战斗机，为满足长航时的供氧需求，其氧源宜采用机载制氧或液氧。在考虑飞行员本身耐受过载能力的基础上抗荷装置的设计应满足最大飞行过载的要求。\r\n（10）飞机的可靠性、维修性和保障性要求分析\r\n利用本册第21章的方法，通过对国内外同类产品的可靠性（Reliability）、维修性（Maintainability）和保障性（Supportability）水平进行分析，考虑技术的进步，检查所研制产品的指标是否符合既先进又可达的原则。在分析过程中应对飞机的任务剖面进行组合取舍，按使用频率提出整机及系统（包括某些主要部件）的考核寿命剖面以及验证方案设想。\r\n（11）作战效能分析\r\n当概念设计得到初步结果后，即可利用本册第22章的方法开展方案的作战效能评估。根据评估结果考查飞机方案是否达到优于战术技术指标中要求的作战对象或具有与之抗衡的能力，如有差距，则应调整方案参数。\r\n（12）费用分析\r\n利用本册第24章的有关内容，对所论证方案的研制费用进行计算和分析，考查战术技术指标中费用要求的合理性。\r\n2.3.2.3 战术技术要求分析后的有关文件编制\r\n（1）综合分析报告\r\n该报告的主要内容应包括：\r\n飞机的初步总体技术方案，其中应明确经初步协调后基本满足战术技术指标要求的方案总体参数；\r\n主要战术技术指标要求的初步计算结果及实现的可能性；\r\n作战效能分析；\r\n研制周期及经费需求分析；\r\n继承技术和新技术采用比例，关键技术的成熟程度；\r\n预研课题与项目的提出和实施建议；\r\n其他的初步保障条件要求。\r\n（2）飞机系统设备设计要求\r\n该文件应包含基本满足战术技术要求的飞机各系统的组成、功能和设计要求。\r\n（3）飞机强度设计条件\r\n该文件是飞机结构强度设计的主要依据文件之一，包括如下内容。\r\na.简要战术技术指标\r\n主要给出飞行性能的战术技术指标要求。\r\nb.飞行范围\r\n主要给出最大使用飞行表速、最小可用飞行表速、外挂空地武器及副油箱时的最大飞行表速和最大飞行M数，同时给出与以上数据对应的高度、速度图及动压值。\r\nc.有关重量数据\r\n主要给出正常起飞重量（注明外挂状态）和最大起飞重量、强度设计重量（即基本飞行设计重量，须注明外挂状态及机内油量占满油状态的百分比）、设计着陆重量和最大着陆重量。\r\nd.起落装置的设计条件\r\n主要给出正常放下起落架时的飞行表速，最大收（放）起落架的飞行表速，带起落架飞行的最大表速，放减速伞的最大允许表速，对应于起落过程中放下起落架、有地板效应时常用迎角的飞机升阻特性，以及不同重量状态下的离（接）地速度和滑跑距离（重量状态一般取设计和最大，着陆滑跑距离的计算条件分别为仅使用刹车、不放伞和既使用刹车又放伞）。\r\ne.飞行过载和滚转性能限制值\r\n飞行过载的限制值分对称情况和滚转情况两种条件给出。每一种条件下至少注明带基本外挂和副油箱、炸弹时的飞行过载限制；滚转性能方面应给出绕机体轴三个方向的最大滚转角速度和最大滚转角加速度。\r\nf.升限和大M数飞行的有关数据\r\n应给出以下内容：\r\n升限指标、经方案概念设计估算后得到的飞机实际静升限、动力作战可达到的高度；\r\n超声速飞行时间占飞机总寿命的百分比，当最大飞行M数大于1.8时，还应给出M≥1.8的大M数飞行时间、最大M数的总飞行时间、以M≥1.8的大M数和最大M数一次飞行最长允许飞行时间；\r\n一次飞行的最大设计航时等。\r\ng.其他\r\n型号总设计师认为应该在“强度设计条件”中说明的其他数据。"
+}

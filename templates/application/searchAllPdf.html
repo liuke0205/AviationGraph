@@ -1,0 +1,264 @@
+{% extends 'application/index.html' %}
+{% block title %}
+    全文搜索-用户端
+{% endblock %}
+{% block css %}
+    <link rel="stylesheet" href="/static/css/style2.css"/>
+    <link rel="stylesheet" href="/static/css/ner.css"/>
+    <style>
+        input[type="checkbox"] {
+            -webkit-appearance: none;
+            vertical-align: middle;
+            margin-top: 0;
+            background: #fff;
+            border: #999 solid 1px;
+            border-radius: 3px;
+            min-height: 12px;
+            min-width: 12px;
+        }
+
+        input[type="checkbox"]:checked {
+            background: #3190e8;
+        }
+
+        input[type="checkbox"]:checked::after {
+            content: '';
+            top: 3px;
+            left: 3px;
+            position: absolute;
+            background: transparent;
+            border: #fff solid 2px;
+            border-top: none;
+            border-right: none;
+            height: 6px;
+            width: 10px;
+            -moz-transform: rotate(-45deg);
+            -ms-transform: rotate(-45deg);
+            -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+        }
+    </style>
+{% endblock %}
+
+{% block en %}
+    <!-- breadcrumb -->
+    <section class="content-header">
+        <div class="container">
+            <div class="row mb-2">
+                <ol class="breadcrumb ">
+                    <li class="breadcrumb-item"><a href="/application/toHome/"><i class="fas fa-home ml-2"></i> 主页</a>
+                    </li>
+                    <li class="breadcrumb-item active">全文搜索</li>
+                </ol>
+            </div>
+        </div>
+    </section><!-- breadcrumb-->
+    <!-- Main content -->
+    <section class="content">
+        <div class="container">
+            <div class="row">
+
+                {% if res == null %}
+
+                    <div class="col-12 mb-4">
+                        <div class="card card-primary">
+                            <div class="card-header">
+                                <div>待全文搜索的文档上传：</div>
+                            </div>
+                            <!-- /.card-header -->
+
+                            <div class="card-body text-center">
+                                <div class="col-lg-8 m-auto">
+
+                                    <form name="upload" enctype="multipart/form-data" method="post"
+                                          action="/application/upload_pdf/">
+                                        {% csrf_token %}
+                                        <div class="form-group">
+                                            <div class="input-group">
+                                                <div class="input-group-prepend">
+                                                    <select name="file_type" id="file_type" class="form-control"
+                                                            style="">
+                                                        <option value="维修">维修</option>
+                                                        <option value="设计">设计</option>
+                                                        <option value="其他">其他</option>
+                                                    </select>
+                                                </div>
+
+                                                <div class="custom-file">
+                                                    <input type="file" name="file" id="file"
+                                                           class="custom-file-input "
+                                                           lang="cn">
+                                                    <label class="custom-file-label" for="file">选择文件</label>
+                                                </div>
+                                                <div class="input-group-append">
+                                                    <button type="submit" class="btn btn-primary">
+                                                        上传文档
+                                                    </button>
+                                                </div>
+                                            </div>
+
+                                        </div><!-- /.form group -->
+                                    </form>
+                                    <select name="filename" id="filename" class="form-control" style="">
+                                        {% for filename in filename_list %}
+                                            <option value="{{ filename }}">{{ filename }}</option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="container">
+                        <div class="progress-div">
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped active" role="progressbar"
+                                     aria-valuenow="2" aria-valuemin="0" aria-valuemax="100"
+                                     style="min-width: 0em; width: 0%;">
+                                    0%
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+                <div class="col-12 mb-4">
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <div>搜索条件：</div>
+                        </div>
+                        <!-- /.card-header -->
+                        <div class="card-body p-4">
+                            <form id="searchRelationForm" method="post"
+                                  action="/application/searchAllPdf/">
+                                {% csrf_token %}
+                                <div class="col-lg-8 m-auto">
+                                    <div id="entity1" class="form-group">
+                                        <div class="input-group">
+                                            <input type="text" id="keywords" name="keywords"
+                                                   class="form-control"
+                                                   placeholder="您可以输入您要查询的关键字!" aria-describedby="basic-addon1"
+                                                   value="{{ keywords }}">
+                                            <div class="input-group-append">
+                                                <button type="submit" id="btnSearch" class="btn btn-primary"
+                                                        onclick="search()">搜索
+                                                </button>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
+
+                {% if res %}
+                    <div class="col-12 mb-4">
+                        <div class="card card-primary">
+                            <div class="card-header">
+                                <div>搜索结果：</div>
+                            </div>
+                            <!-- /.card-header -->
+                            <div class="card-body p-4 overflow-auto">
+
+
+                                <div class="show-list">
+                                    <table style="width: 1050px"
+                                           class="table table-bordered table-hover table-valign-middle text-center ">
+                                        <thead>
+                                        <tr class="text-primary font-weight-bold">
+
+                                            <th width="100px" class="text-center"
+                                                style="font-size: 16px">页码
+                                            </th>
+                                            <th width="600px" class="text-center"
+                                                style="font-size: 16px">整页内容
+                                            </th>
+                                            <th width="150px" class="text-center"
+                                                style="font-size: 16px">文档名
+                                            </th>
+                                        </tr>
+                                        </thead>
+                                        <tbody id="tb">
+                                        {% for data in res %}
+                                            <tr>
+                                                <td>{{ data.1 }}
+                                                </td>
+                                                <td>{{ data.2 }}
+                                                </td>
+                                                <td>{{ data.0 }}
+                                                </td>
+                                            </tr>
+                                            </tbody>
+                                        {% endfor %}
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+                <!--/.col -->
+            </div>
+            <!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+{% endblock en %}
+
+{% block js %}
+    <script src="/static/js/echarts.common.min.js"></script>
+    <script type="text/javascript" src="/static/layer/layer.js"></script>
+    <script src="/static/js/echarts.js"></script>
+    <script type="text/javascript" src="/static/js/echarts-all-3.js"></script>
+    <script src="/static/js/bs-custom-file-input.min.js"></script>
+    {% if messages %}
+        <script>
+            {% for msg in messages %}
+                alert('{{ msg.message }}');
+            {% endfor %}
+        </script>
+    {% endif %}
+    <script>
+        $(function () {
+            bsCustomFileInput.init();
+        });
+
+        function search() {
+            layer.msg("正在搜索，请稍等！", {
+                icon: 16,
+                shade: [0.6, '#000005'],//遮罩的颜色与透明度
+                time: false  //取消自动关闭
+            })
+        }
+
+        $(function () {
+            bsCustomFileInput.init();
+            let searchVal = "{{ keywords}}",
+                matchExp = new RegExp(searchVal, "g"),
+                nodes = $('tbody tr');
+            nodes.each(function (i) {
+                nodes[i].innerHTML = nodes[i].innerHTML.replace(matchExp, '<span style="background-color:#ffff00">' + searchVal + '</span>')
+            })
+        })
+        $(document).ready(function () {
+            $("#show span[class!='none'][class!='enter']").mouseover(function () {
+                var position = this.getBoundingClientRect();
+                var Mylabel = $(this).attr('label');
+                $("body").append("<div id='div_toop'>" + Mylabel + "</div>");
+                var left = (position.left + position.right) / 2 - 50;
+                if (position.bottom - position.top > 25) { //说明分成了两行
+                    left = position.right - 50;
+                }
+                $("#div_toop")
+                    .css({
+                        "top": (position.top - 50) + "px",
+                        "left": left + "px"
+                    }).show("slow");
+            }).mouseout(function () {
+                $("#div_toop").remove();
+            });
+        });
+    </script>
+{% endblock %}

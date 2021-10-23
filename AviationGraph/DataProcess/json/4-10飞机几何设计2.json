@@ -1,0 +1,5361 @@
+{
+  "path": "F:\\01-科研资料\\03-项目工程\\AviationGraph\\AviationGraph\\DataProcess\\json\\4-10飞机几何设计2.txt",
+  "outputs": {
+    "annotation": {
+      "T": [
+        "",
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "约束条件",
+          "start": 9573,
+          "end": 9577,
+          "attributes": [],
+          "id": 3
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "约束条件",
+          "start": 9699,
+          "end": 9703,
+          "attributes": [],
+          "id": 4
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "约束条件",
+          "start": 10016,
+          "end": 10020,
+          "attributes": [],
+          "id": 5
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "约束条件",
+          "start": 11778,
+          "end": 11782,
+          "attributes": [],
+          "id": 6
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计阶段",
+          "start": 10375,
+          "end": 10379,
+          "attributes": [],
+          "id": 8
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 3059,
+          "end": 3062,
+          "attributes": [],
+          "id": 9
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 4781,
+          "end": 4784,
+          "attributes": [],
+          "id": 10
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "前缘",
+          "start": 6645,
+          "end": 6647,
+          "attributes": [],
+          "id": 20
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "平均值",
+          "start": 9252,
+          "end": 9255,
+          "attributes": [],
+          "id": 25
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 1163,
+          "end": 1166,
+          "attributes": [],
+          "id": 27
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 2464,
+          "end": 2467,
+          "attributes": [],
+          "id": 31
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 2578,
+          "end": 2581,
+          "attributes": [],
+          "id": 32
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 2597,
+          "end": 2600,
+          "attributes": [],
+          "id": 33
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 2633,
+          "end": 2636,
+          "attributes": [],
+          "id": 34
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 2869,
+          "end": 2872,
+          "attributes": [],
+          "id": 35
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 3961,
+          "end": 3964,
+          "attributes": [],
+          "id": 36
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 3979,
+          "end": 3982,
+          "attributes": [],
+          "id": 38
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "座舱",
+          "start": 1145,
+          "end": 1147,
+          "attributes": [],
+          "id": 40
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "座舱",
+          "start": 3077,
+          "end": 3079,
+          "attributes": [],
+          "id": 43
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "座舱",
+          "start": 4820,
+          "end": 4822,
+          "attributes": [],
+          "id": 48
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "座舱",
+          "start": 4825,
+          "end": 4827,
+          "attributes": [],
+          "id": 49
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "油箱",
+          "start": 1152,
+          "end": 1154,
+          "attributes": [],
+          "id": 74
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "油箱",
+          "start": 3084,
+          "end": 3086,
+          "attributes": [],
+          "id": 76
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "管路系统",
+          "start": 239,
+          "end": 243,
+          "attributes": [],
+          "id": 79
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "雷达",
+          "start": 1142,
+          "end": 1144,
+          "attributes": [],
+          "id": 82
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 1155,
+          "end": 1158,
+          "attributes": [],
+          "id": 87
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 1311,
+          "end": 1314,
+          "attributes": [],
+          "id": 88
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 2425,
+          "end": 2428,
+          "attributes": [],
+          "id": 91
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 2451,
+          "end": 2454,
+          "attributes": [],
+          "id": 92
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 2502,
+          "end": 2505,
+          "attributes": [],
+          "id": 93
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 2529,
+          "end": 2532,
+          "attributes": [],
+          "id": 94
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 2617,
+          "end": 2620,
+          "attributes": [],
+          "id": 96
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 2654,
+          "end": 2657,
+          "attributes": [],
+          "id": 97
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 2684,
+          "end": 2687,
+          "attributes": [],
+          "id": 98
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 2712,
+          "end": 2715,
+          "attributes": [],
+          "id": 99
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 2723,
+          "end": 2726,
+          "attributes": [],
+          "id": 100
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 2770,
+          "end": 2773,
+          "attributes": [],
+          "id": 102
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 2814,
+          "end": 2817,
+          "attributes": [],
+          "id": 104
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 2988,
+          "end": 2991,
+          "attributes": [],
+          "id": 108
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 3065,
+          "end": 3068,
+          "attributes": [],
+          "id": 111
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 3097,
+          "end": 3100,
+          "attributes": [],
+          "id": 112
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 3119,
+          "end": 3122,
+          "attributes": [],
+          "id": 113
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 3308,
+          "end": 3311,
+          "attributes": [],
+          "id": 119
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 3425,
+          "end": 3428,
+          "attributes": [],
+          "id": 121
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 3703,
+          "end": 3706,
+          "attributes": [],
+          "id": 124
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道",
+          "start": 3990,
+          "end": 3993,
+          "attributes": [],
+          "id": 126
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "间隙",
+          "start": 1432,
+          "end": 1434,
+          "attributes": [],
+          "id": 133
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "几何形状",
+          "start": 793,
+          "end": 797,
+          "attributes": [],
+          "id": 134
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "几何形状",
+          "start": 2699,
+          "end": 2703,
+          "attributes": [],
+          "id": 135
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "几何形状",
+          "start": 3234,
+          "end": 3238,
+          "attributes": [],
+          "id": 136
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "几何形状",
+          "start": 3250,
+          "end": 3254,
+          "attributes": [],
+          "id": 137
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计要求",
+          "start": 2432,
+          "end": 2436,
+          "attributes": [],
+          "id": 138
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计要求",
+          "start": 4304,
+          "end": 4308,
+          "attributes": [],
+          "id": 139
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计要求",
+          "start": 8547,
+          "end": 8551,
+          "attributes": [],
+          "id": 142
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计要求",
+          "start": 10779,
+          "end": 10783,
+          "attributes": [],
+          "id": 143
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计要求",
+          "start": 11606,
+          "end": 11610,
+          "attributes": [],
+          "id": 144
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计要求",
+          "start": 12877,
+          "end": 12881,
+          "attributes": [],
+          "id": 145
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "设计参数",
+          "start": 2775,
+          "end": 2779,
+          "attributes": [],
+          "id": 156
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "生产工艺",
+          "start": 1072,
+          "end": 1076,
+          "attributes": [],
+          "id": 163
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "边界条件",
+          "start": 8712,
+          "end": 8716,
+          "attributes": [],
+          "id": 164
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大厚度",
+          "start": 6240,
+          "end": 6244,
+          "attributes": [],
+          "id": 174
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大厚度",
+          "start": 6297,
+          "end": 6301,
+          "attributes": [],
+          "id": 178
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "巡航",
+          "start": 2479,
+          "end": 2481,
+          "attributes": [],
+          "id": 179
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼展",
+          "start": 7121,
+          "end": 7123,
+          "attributes": [],
+          "id": 185
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "容积",
+          "start": 2329,
+          "end": 2331,
+          "attributes": [],
+          "id": 187
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "最小二乘法",
+          "start": 11650,
+          "end": 11655,
+          "attributes": [],
+          "id": 192
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "论证阶段",
+          "start": 1005,
+          "end": 1009,
+          "attributes": [],
+          "id": 195
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "论证阶段",
+          "start": 1020,
+          "end": 1024,
+          "attributes": [],
+          "id": 196
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "论证阶段",
+          "start": 1097,
+          "end": 1101,
+          "attributes": [],
+          "id": 197
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体布置",
+          "start": 303,
+          "end": 307,
+          "attributes": [],
+          "id": 199
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体布置",
+          "start": 1061,
+          "end": 1065,
+          "attributes": [],
+          "id": 201
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体布置",
+          "start": 4072,
+          "end": 4076,
+          "attributes": [],
+          "id": 203
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体布置",
+          "start": 8378,
+          "end": 8382,
+          "attributes": [],
+          "id": 205
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体布置图",
+          "start": 1047,
+          "end": 1052,
+          "attributes": [],
+          "id": 206
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "气动布局",
+          "start": 8954,
+          "end": 8958,
+          "attributes": [],
+          "id": 211
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "气动力",
+          "start": 1057,
+          "end": 1060,
+          "attributes": [],
+          "id": 214
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "气动力",
+          "start": 3110,
+          "end": 3113,
+          "attributes": [],
+          "id": 215
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机翼参考面积",
+          "start": 6696,
+          "end": 6702,
+          "attributes": [],
+          "id": 223
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "升阻比",
+          "start": 9038,
+          "end": 9041,
+          "attributes": [],
+          "id": 224
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "诱导阻力",
+          "start": 5851,
+          "end": 5855,
+          "attributes": [],
+          "id": 227
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "唇口半径",
+          "start": 3264,
+          "end": 3268,
+          "attributes": [],
+          "id": 234
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "迭代",
+          "start": 9960,
+          "end": 9962,
+          "attributes": [],
+          "id": 235
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "迭代",
+          "start": 11435,
+          "end": 11437,
+          "attributes": [],
+          "id": 237
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机翼平均气动弦长",
+          "start": 6774,
+          "end": 6782,
+          "attributes": [],
+          "id": 243
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "尾翼",
+          "start": 8973,
+          "end": 8975,
+          "attributes": [],
+          "id": 245
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "后缘角",
+          "start": 6489,
+          "end": 6492,
+          "attributes": [],
+          "id": 247
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "后缘角",
+          "start": 6505,
+          "end": 6508,
+          "attributes": [],
+          "id": 248
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "后缘角",
+          "start": 7373,
+          "end": 7376,
+          "attributes": [],
+          "id": 249
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "夹角",
+          "start": 9323,
+          "end": 9325,
+          "attributes": [],
+          "id": 253
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "后缘线",
+          "start": 7043,
+          "end": 7046,
+          "attributes": [],
+          "id": 254
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "超临界翼型",
+          "start": 6360,
+          "end": 6365,
+          "attributes": [],
+          "id": 257
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "三面图",
+          "start": 1012,
+          "end": 1015,
+          "attributes": [],
+          "id": 260
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "曲率半径",
+          "start": 12415,
+          "end": 12419,
+          "attributes": [],
+          "id": 265
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "光顺",
+          "start": 10551,
+          "end": 10553,
+          "attributes": [],
+          "id": 276
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "光顺",
+          "start": 10807,
+          "end": 10809,
+          "attributes": [],
+          "id": 278
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "光顺",
+          "start": 10831,
+          "end": 10833,
+          "attributes": [],
+          "id": 279
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "光顺",
+          "start": 10843,
+          "end": 10845,
+          "attributes": [],
+          "id": 280
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "光顺",
+          "start": 10950,
+          "end": 10952,
+          "attributes": [],
+          "id": 285
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "光顺",
+          "start": 10959,
+          "end": 10961,
+          "attributes": [],
+          "id": 286
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "光顺",
+          "start": 11186,
+          "end": 11188,
+          "attributes": [],
+          "id": 290
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "光顺",
+          "start": 11455,
+          "end": 11457,
+          "attributes": [],
+          "id": 293
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "光顺",
+          "start": 11860,
+          "end": 11862,
+          "attributes": [],
+          "id": 298
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "光顺",
+          "start": 11940,
+          "end": 11942,
+          "attributes": [],
+          "id": 299
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "平面形状",
+          "start": 7164,
+          "end": 7168,
+          "attributes": [],
+          "id": 323
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "平面形状",
+          "start": 7472,
+          "end": 7476,
+          "attributes": [],
+          "id": 324
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大宽度线",
+          "start": 10057,
+          "end": 10062,
+          "attributes": [],
+          "id": 325
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "隐身性能",
+          "start": 3114,
+          "end": 3118,
+          "attributes": [],
+          "id": 336
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "隐身性能",
+          "start": 4137,
+          "end": 4141,
+          "attributes": [],
+          "id": 337
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "隐身性能",
+          "start": 5023,
+          "end": 5027,
+          "attributes": [],
+          "id": 338
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "波阻",
+          "start": 9327,
+          "end": 9329,
+          "attributes": [],
+          "id": 343
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "隐身要求",
+          "start": 1701,
+          "end": 1705,
+          "attributes": [],
+          "id": 348
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "隐身要求",
+          "start": 10710,
+          "end": 10714,
+          "attributes": [],
+          "id": 349
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼面参数",
+          "start": 6675,
+          "end": 6679,
+          "attributes": [],
+          "id": 351
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "翼身组合体",
+          "start": 9080,
+          "end": 9085,
+          "attributes": [],
+          "id": 352
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "翼身组合体",
+          "start": 9112,
+          "end": 9117,
+          "attributes": [],
+          "id": 353
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "翼身组合体",
+          "start": 9178,
+          "end": 9183,
+          "attributes": [],
+          "id": 355
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "翼身组合体",
+          "start": 9228,
+          "end": 9233,
+          "attributes": [],
+          "id": 356
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "几何尺寸",
+          "start": 798,
+          "end": 802,
+          "attributes": [],
+          "id": 361
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "相对厚度",
+          "start": 6292,
+          "end": 6296,
+          "attributes": [],
+          "id": 362
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "相对厚度",
+          "start": 6309,
+          "end": 6313,
+          "attributes": [],
+          "id": 363
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "相对厚度",
+          "start": 6320,
+          "end": 6324,
+          "attributes": [],
+          "id": 364
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "曲率",
+          "start": 10749,
+          "end": 10751,
+          "attributes": [],
+          "id": 368
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "曲率",
+          "start": 11424,
+          "end": 11426,
+          "attributes": [],
+          "id": 371
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "曲率",
+          "start": 11809,
+          "end": 11811,
+          "attributes": [],
+          "id": 372
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "曲率",
+          "start": 12363,
+          "end": 12365,
+          "attributes": [],
+          "id": 377
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "后缘",
+          "start": 7095,
+          "end": 7097,
+          "attributes": [],
+          "id": 402
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "M数",
+          "start": 3444,
+          "end": 3446,
+          "attributes": [],
+          "id": 407
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "NACA",
+          "start": 5748,
+          "end": 5752,
+          "attributes": [],
+          "id": 409
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "跨声速",
+          "start": 9173,
+          "end": 9176,
+          "attributes": [],
+          "id": 416
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "进口直径",
+          "start": 3982,
+          "end": 3986,
+          "attributes": [],
+          "id": 490
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道唇口",
+          "start": 3243,
+          "end": 3248,
+          "attributes": [],
+          "id": 491
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "面积分布",
+          "start": 3016,
+          "end": 3020,
+          "attributes": [],
+          "id": 496
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "面积分布",
+          "start": 9629,
+          "end": 9633,
+          "attributes": [],
+          "id": 504
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "外部阻力",
+          "start": 2658,
+          "end": 2662,
+          "attributes": [],
+          "id": 510
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "总压恢复系数",
+          "start": 2550,
+          "end": 2556,
+          "attributes": [],
+          "id": 513
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "内唇角",
+          "start": 3459,
+          "end": 3462,
+          "attributes": [],
+          "id": 514
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "外唇角",
+          "start": 3481,
+          "end": 3484,
+          "attributes": [],
+          "id": 517
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "唇口",
+          "start": 3402,
+          "end": 3404,
+          "attributes": [],
+          "id": 522
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "喉道",
+          "start": 4003,
+          "end": 4005,
+          "attributes": [],
+          "id": 530
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "边条",
+          "start": 8177,
+          "end": 8179,
+          "attributes": [],
+          "id": 537
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "前缘半径",
+          "start": 6388,
+          "end": 6392,
+          "attributes": [],
+          "id": 549
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "前缘半径",
+          "start": 6409,
+          "end": 6413,
+          "attributes": [],
+          "id": 550
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "前缘半径",
+          "start": 6417,
+          "end": 6421,
+          "attributes": [],
+          "id": 551
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "前缘半径",
+          "start": 6431,
+          "end": 6435,
+          "attributes": [],
+          "id": 552
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "前缘半径",
+          "start": 7363,
+          "end": 7367,
+          "attributes": [],
+          "id": 553
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "翼尖",
+          "start": 8658,
+          "end": 8660,
+          "attributes": [],
+          "id": 561
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "翼尖",
+          "start": 8738,
+          "end": 8740,
+          "attributes": [],
+          "id": 564
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "翼面",
+          "start": 5704,
+          "end": 5706,
+          "attributes": [],
+          "id": 579
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "翼面",
+          "start": 7189,
+          "end": 7191,
+          "attributes": [],
+          "id": 586
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "翼面",
+          "start": 7469,
+          "end": 7471,
+          "attributes": [],
+          "id": 588
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "翼面",
+          "start": 8663,
+          "end": 8665,
+          "attributes": [],
+          "id": 594
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "投影面积",
+          "start": 9295,
+          "end": 9299,
+          "attributes": [],
+          "id": 600
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "基本翼面",
+          "start": 8597,
+          "end": 8601,
+          "attributes": [],
+          "id": 601
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "基本翼面",
+          "start": 8696,
+          "end": 8700,
+          "attributes": [],
+          "id": 603
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "宽度",
+          "start": 5221,
+          "end": 5223,
+          "attributes": [],
+          "id": 606
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "面积律",
+          "start": 8940,
+          "end": 8943,
+          "attributes": [],
+          "id": 609
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "面积律",
+          "start": 9046,
+          "end": 9049,
+          "attributes": [],
+          "id": 610
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "面积律",
+          "start": 9074,
+          "end": 9077,
+          "attributes": [],
+          "id": 611
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "面积律",
+          "start": 9091,
+          "end": 9094,
+          "attributes": [],
+          "id": 612
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "面积律",
+          "start": 9157,
+          "end": 9160,
+          "attributes": [],
+          "id": 613
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "面积律",
+          "start": 9426,
+          "end": 9429,
+          "attributes": [],
+          "id": 616
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "几何外形",
+          "start": 1880,
+          "end": 1884,
+          "attributes": [],
+          "id": 619
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "几何外形",
+          "start": 7231,
+          "end": 7235,
+          "attributes": [],
+          "id": 620
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "几何外形",
+          "start": 7272,
+          "end": 7276,
+          "attributes": [],
+          "id": 621
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "机身轴线",
+          "start": 1819,
+          "end": 1823,
+          "attributes": [],
+          "id": 628
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "机身轴线",
+          "start": 2237,
+          "end": 2241,
+          "attributes": [],
+          "id": 629
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "座舱盖",
+          "start": 4785,
+          "end": 4788,
+          "attributes": [],
+          "id": 637
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "座舱盖",
+          "start": 4908,
+          "end": 4911,
+          "attributes": [],
+          "id": 642
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "座舱盖",
+          "start": 5028,
+          "end": 5031,
+          "attributes": [],
+          "id": 647
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "座舱盖",
+          "start": 5180,
+          "end": 5183,
+          "attributes": [],
+          "id": 652
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "座舱盖",
+          "start": 5199,
+          "end": 5202,
+          "attributes": [],
+          "id": 653
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "座舱盖",
+          "start": 5311,
+          "end": 5314,
+          "attributes": [],
+          "id": 654
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "座舱盖",
+          "start": 5337,
+          "end": 5340,
+          "attributes": [],
+          "id": 655
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "隐身",
+          "start": 1077,
+          "end": 1079,
+          "attributes": [],
+          "id": 660
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "隐身",
+          "start": 3357,
+          "end": 3359,
+          "attributes": [],
+          "id": 663
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "基本翼",
+          "start": 8097,
+          "end": 8100,
+          "attributes": [],
+          "id": 678
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "基本翼",
+          "start": 8180,
+          "end": 8183,
+          "attributes": [],
+          "id": 679
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "基本翼",
+          "start": 8420,
+          "end": 8423,
+          "attributes": [],
+          "id": 681
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "基本翼",
+          "start": 8439,
+          "end": 8442,
+          "attributes": [],
+          "id": 682
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "基本翼",
+          "start": 8529,
+          "end": 8532,
+          "attributes": [],
+          "id": 684
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "基本翼",
+          "start": 8572,
+          "end": 8575,
+          "attributes": [],
+          "id": 685
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "基本翼",
+          "start": 8616,
+          "end": 8619,
+          "attributes": [],
+          "id": 687
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大升力",
+          "start": 6335,
+          "end": 6339,
+          "attributes": [],
+          "id": 692
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "几何扭转",
+          "start": 6973,
+          "end": 6977,
+          "attributes": [],
+          "id": 696
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "几何扭转",
+          "start": 7477,
+          "end": 7481,
+          "attributes": [],
+          "id": 703
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "气动扭转",
+          "start": 6911,
+          "end": 6915,
+          "attributes": [],
+          "id": 705
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "零升迎角",
+          "start": 6926,
+          "end": 6930,
+          "attributes": [],
+          "id": 708
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "弯度",
+          "start": 5804,
+          "end": 5806,
+          "attributes": [],
+          "id": 710
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "弯度",
+          "start": 5987,
+          "end": 5989,
+          "attributes": [],
+          "id": 711
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "弯度",
+          "start": 6017,
+          "end": 6019,
+          "attributes": [],
+          "id": 713
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "弯度",
+          "start": 6033,
+          "end": 6035,
+          "attributes": [],
+          "id": 715
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "弯度",
+          "start": 7386,
+          "end": 7388,
+          "attributes": [],
+          "id": 724
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "失速特性",
+          "start": 6340,
+          "end": 6344,
+          "attributes": [],
+          "id": 725
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "气动性能",
+          "start": 10480,
+          "end": 10484,
+          "attributes": [],
+          "id": 726
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "前视角",
+          "start": 1301,
+          "end": 1304,
+          "attributes": [],
+          "id": 728
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "全机阻力",
+          "start": 9031,
+          "end": 9035,
+          "attributes": [],
+          "id": 730
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "跨声速面积律",
+          "start": 9163,
+          "end": 9169,
+          "attributes": [],
+          "id": 732
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "二阶导数",
+          "start": 11052,
+          "end": 11056,
+          "attributes": [],
+          "id": 733
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "二阶导数",
+          "start": 11531,
+          "end": 11535,
+          "attributes": [],
+          "id": 734
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "零升波阻系数",
+          "start": 9431,
+          "end": 9437,
+          "attributes": [],
+          "id": 735
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "零升波阻",
+          "start": 9184,
+          "end": 9188,
+          "attributes": [],
+          "id": 737
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "零升波阻",
+          "start": 9206,
+          "end": 9210,
+          "attributes": [],
+          "id": 738
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "零升波阻",
+          "start": 9234,
+          "end": 9238,
+          "attributes": [],
+          "id": 739
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "零升波阻",
+          "start": 9247,
+          "end": 9251,
+          "attributes": [],
+          "id": 740
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "超声速面积律",
+          "start": 9214,
+          "end": 9220,
+          "attributes": [],
+          "id": 744
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "中弧线",
+          "start": 5800,
+          "end": 5803,
+          "attributes": [],
+          "id": 745
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "中弧线",
+          "start": 5843,
+          "end": 5846,
+          "attributes": [],
+          "id": 746
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "中弧线",
+          "start": 5911,
+          "end": 5914,
+          "attributes": [],
+          "id": 748
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "中弧线",
+          "start": 5990,
+          "end": 5993,
+          "attributes": [],
+          "id": 749
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "中弧线",
+          "start": 6594,
+          "end": 6597,
+          "attributes": [],
+          "id": 750
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "中弧线",
+          "start": 7410,
+          "end": 7413,
+          "attributes": [],
+          "id": 751
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大弯度位置",
+          "start": 6045,
+          "end": 6051,
+          "attributes": [],
+          "id": 752
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大弯度位置",
+          "start": 6063,
+          "end": 6069,
+          "attributes": [],
+          "id": 753
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大弯度位置",
+          "start": 6076,
+          "end": 6082,
+          "attributes": [],
+          "id": 754
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大厚度位置",
+          "start": 6258,
+          "end": 6264,
+          "attributes": [],
+          "id": 755
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大厚度位置",
+          "start": 6276,
+          "end": 6282,
+          "attributes": [],
+          "id": 756
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "扭转角",
+          "start": 6879,
+          "end": 6882,
+          "attributes": [],
+          "id": 757
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "扭转角",
+          "start": 7091,
+          "end": 7094,
+          "attributes": [],
+          "id": 759
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "扭转角",
+          "start": 7117,
+          "end": 7120,
+          "attributes": [],
+          "id": 760
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "翼型前缘",
+          "start": 5949,
+          "end": 5953,
+          "attributes": [],
+          "id": 763
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "翼型前缘",
+          "start": 6634,
+          "end": 6638,
+          "attributes": [],
+          "id": 765
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "来流速度",
+          "start": 9361,
+          "end": 9365,
+          "attributes": [],
+          "id": 767
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "实体造型",
+          "start": 36,
+          "end": 40,
+          "attributes": [],
+          "id": 779
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "几何模型",
+          "start": 779,
+          "end": 783,
+          "attributes": [],
+          "id": 781
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "是通过事先已确定的几何形状和几何尺寸来建立的，模型一旦建立很难修改",
+          "start": 784,
+          "end": 817,
+          "attributes": [],
+          "id": 782
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "参数化动态造型",
+          "start": 894,
+          "end": 901,
+          "attributes": [],
+          "id": 783
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "起落架",
+          "start": 1159,
+          "end": 1162,
+          "attributes": [],
+          "id": 785
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "设备舱",
+          "start": 1148,
+          "end": 1151,
+          "attributes": [],
+          "id": 786
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机身总长",
+          "start": 1207,
+          "end": 1211,
+          "attributes": [],
+          "id": 787
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机头长度",
+          "start": 1216,
+          "end": 1220,
+          "attributes": [],
+          "id": 788
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机尾罩长度",
+          "start": 1225,
+          "end": 1230,
+          "attributes": [],
+          "id": 789
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机头轴线下倾角",
+          "start": 1235,
+          "end": 1242,
+          "attributes": [],
+          "id": 790
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机头锥角",
+          "start": 1243,
+          "end": 1247,
+          "attributes": [],
+          "id": 791
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞行员眼位",
+          "start": 1295,
+          "end": 1300,
+          "attributes": [],
+          "id": 792
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "发动机长度",
+          "start": 1331,
+          "end": 1336,
+          "attributes": [],
+          "id": 793
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机匣处最大横截面",
+          "start": 1337,
+          "end": 1345,
+          "attributes": [],
+          "id": 794
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "发动机轴线上翘角",
+          "start": 1353,
+          "end": 1361,
+          "attributes": [],
+          "id": 795
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机尾收缩角",
+          "start": 1362,
+          "end": 1367,
+          "attributes": [],
+          "id": 796
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机尾喷口直径",
+          "start": 1373,
+          "end": 1379,
+          "attributes": [],
+          "id": 797
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "雷达天线控制截面",
+          "start": 1454,
+          "end": 1462,
+          "attributes": [],
+          "id": 799
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "座舱眼位控制截面",
+          "start": 1463,
+          "end": 1471,
+          "attributes": [],
+          "id": 800
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "起落架收上位置控制截面",
+          "start": 1472,
+          "end": 1483,
+          "attributes": [],
+          "id": 801
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "进气道及机身油箱控制截面",
+          "start": 1484,
+          "end": 1496,
+          "attributes": [],
+          "id": 802
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "发动机附件机匣处截面",
+          "start": 1497,
+          "end": 1507,
+          "attributes": [],
+          "id": 803
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "尾喷口截面",
+          "start": 1508,
+          "end": 1513,
+          "attributes": [],
+          "id": 804
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "机身控制截面",
+          "start": 1406,
+          "end": 1412,
+          "attributes": [],
+          "id": 805
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "横截面函数",
+          "start": 1987,
+          "end": 1992,
+          "attributes": [],
+          "id": 806
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "浸润面积",
+          "start": 2324,
+          "end": 2328,
+          "attributes": [],
+          "id": 807
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "动力装置系统",
+          "start": 2444,
+          "end": 2450,
+          "attributes": [],
+          "id": 808
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "加力爬升",
+          "start": 2482,
+          "end": 2486,
+          "attributes": [],
+          "id": 809
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "外压缩式",
+          "start": 2749,
+          "end": 2753,
+          "attributes": [],
+          "id": 810
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "内压缩式",
+          "start": 2754,
+          "end": 2758,
+          "attributes": [],
+          "id": 811
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "混合压缩式",
+          "start": 2759,
+          "end": 2764,
+          "attributes": [],
+          "id": 812
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "扩散角",
+          "start": 3021,
+          "end": 3024,
+          "attributes": [],
+          "id": 815
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体布置图",
+          "start": 3040,
+          "end": 3045,
+          "attributes": [],
+          "id": 816
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "进气道进口面积",
+          "start": 3199,
+          "end": 3206,
+          "attributes": [],
+          "id": 817
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "进气道捕获面积",
+          "start": 3184,
+          "end": 3191,
+          "attributes": [],
+          "id": 818
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "进气道喉道面积",
+          "start": 3214,
+          "end": 3221,
+          "attributes": [],
+          "id": 819
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "唇口曲率半径",
+          "start": 3432,
+          "end": 3438,
+          "attributes": [],
+          "id": 821
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "进气道外部阻力",
+          "start": 3489,
+          "end": 3496,
+          "attributes": [],
+          "id": 822
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "圆弧段",
+          "start": 3526,
+          "end": 3529,
+          "attributes": [],
+          "id": 824
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "唇部截面",
+          "start": 3521,
+          "end": 3525,
+          "attributes": [],
+          "id": 825
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "唇部截面",
+          "start": 3542,
+          "end": 3546,
+          "attributes": [],
+          "id": 826
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "翼型段",
+          "start": 3549,
+          "end": 3552,
+          "attributes": [],
+          "id": 827
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "唇罩",
+          "start": 3635,
+          "end": 3637,
+          "attributes": [],
+          "id": 829
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "唇罩设计坐标系",
+          "start": 3660,
+          "end": 3667,
+          "attributes": [],
+          "id": 830
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "进气道坐标系",
+          "start": 3670,
+          "end": 3676,
+          "attributes": [],
+          "id": 831
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "机身油箱",
+          "start": 4084,
+          "end": 4088,
+          "attributes": [],
+          "id": 833
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "内唇罩喉道",
+          "start": 4192,
+          "end": 4197,
+          "attributes": [],
+          "id": 834
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "截面积分布",
+          "start": 4668,
+          "end": 4673,
+          "attributes": [],
+          "id": 835
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "局部扩散角",
+          "start": 4674,
+          "end": 4679,
+          "attributes": [],
+          "id": 836
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "风挡",
+          "start": 4791,
+          "end": 4793,
+          "attributes": [],
+          "id": 838
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "座舱盖",
+          "start": 4794,
+          "end": 4797,
+          "attributes": [],
+          "id": 839
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "圆弧风挡",
+          "start": 4808,
+          "end": 4812,
+          "attributes": [],
+          "id": 840
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "水泡式座舱盖",
+          "start": 4813,
+          "end": 4819,
+          "attributes": [],
+          "id": 841
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "有机玻璃",
+          "start": 5348,
+          "end": 5352,
+          "attributes": [],
+          "id": 844
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "圆弧",
+          "start": 5395,
+          "end": 5397,
+          "attributes": [],
+          "id": 845
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "横截面",
+          "start": 5388,
+          "end": 5391,
+          "attributes": [],
+          "id": 846
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "美国国家航空咨询委员会",
+          "start": 5736,
+          "end": 5747,
+          "attributes": [],
+          "id": 847
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "基本厚度翼型",
+          "start": 5825,
+          "end": 5831,
+          "attributes": [],
+          "id": 849
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《航空气动力手册》",
+          "start": 5881,
+          "end": 5890,
+          "attributes": [],
+          "id": 850
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "翼型",
+          "start": 5867,
+          "end": 5869,
+          "attributes": [],
+          "id": 851
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "反映翼型的弯曲特性，它是与上、下翼型线等距离的线",
+          "start": 5914,
+          "end": 5938,
+          "attributes": [],
+          "id": 852
+        },
+        null,
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "翼型前缘到后缘的连线",
+          "start": 5949,
+          "end": 5959,
+          "attributes": [],
+          "id": 854
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "弦长",
+          "start": 5976,
+          "end": 5978,
+          "attributes": [],
+          "id": 855
+        },
+        null,
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "翼弦被前后缘所截长度",
+          "start": 5964,
+          "end": 5974,
+          "attributes": [],
+          "id": 857
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "中弧线y向坐标yf的最大值yfmax称为最大弯度",
+          "start": 5990,
+          "end": 6014,
+          "attributes": [],
+          "id": 858
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "弦长",
+          "start": 6036,
+          "end": 6038,
+          "attributes": [],
+          "id": 859
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "弦长",
+          "start": 6083,
+          "end": 6085,
+          "attributes": [],
+          "id": 860
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大弯度相对位置",
+          "start": 6090,
+          "end": 6098,
+          "attributes": [],
+          "id": 861
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《航空气动力手册》",
+          "start": 6135,
+          "end": 6144,
+          "attributes": [],
+          "id": 862
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "弯度分布函数",
+          "start": 6126,
+          "end": 6132,
+          "attributes": [],
+          "id": 863
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "厚度",
+          "start": 6193,
+          "end": 6195,
+          "attributes": [],
+          "id": 864
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "是指上翼型线到下翼型线的距离",
+          "start": 6195,
+          "end": 6209,
+          "attributes": [],
+          "id": 865
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "上翼型线y向坐标yt的最大值ymax的2倍，即2ymax称为最大厚度",
+          "start": 6210,
+          "end": 6244,
+          "attributes": [],
+          "id": 866
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "厚度",
+          "start": 6247,
+          "end": 6249,
+          "attributes": [],
+          "id": 867
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "最大厚度的位置",
+          "start": 6267,
+          "end": 6274,
+          "attributes": [],
+          "id": 868
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "弦长",
+          "start": 6302,
+          "end": 6304,
+          "attributes": [],
+          "id": 869
+        },
+        null,
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "翼型前缘曲率圆的半径",
+          "start": 6396,
+          "end": 6406,
+          "attributes": [],
+          "id": 871
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "弦长",
+          "start": 6422,
+          "end": 6424,
+          "attributes": [],
+          "id": 872
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "后缘半径",
+          "start": 6458,
+          "end": 6462,
+          "attributes": [],
+          "id": 873
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "翼型后缘曲率圆的半径",
+          "start": 6445,
+          "end": 6455,
+          "attributes": [],
+          "id": 874
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "后缘半径",
+          "start": 6466,
+          "end": 6470,
+          "attributes": [],
+          "id": 875
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "弦长",
+          "start": 6471,
+          "end": 6473,
+          "attributes": [],
+          "id": 876
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "相对后缘半径",
+          "start": 6478,
+          "end": 6484,
+          "attributes": [],
+          "id": 877
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "翼型后缘切线的夹角",
+          "start": 6493,
+          "end": 6502,
+          "attributes": [],
+          "id": 878
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "厚度分布函数",
+          "start": 6536,
+          "end": 6542,
+          "attributes": [],
+          "id": 879
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《航空气动力手册》",
+          "start": 6545,
+          "end": 6554,
+          "attributes": [],
+          "id": 880
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "基本厚度翼型",
+          "start": 6598,
+          "end": 6604,
+          "attributes": [],
+          "id": 881
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机翼展弦比",
+          "start": 6717,
+          "end": 6722,
+          "attributes": [],
+          "id": 882
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机翼梢根比",
+          "start": 6737,
+          "end": 6742,
+          "attributes": [],
+          "id": 883
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机翼后掠角",
+          "start": 6754,
+          "end": 6759,
+          "attributes": [],
+          "id": 884
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机翼展长",
+          "start": 6764,
+          "end": 6768,
+          "attributes": [],
+          "id": 885
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机翼平均气动弦展长",
+          "start": 6789,
+          "end": 6798,
+          "attributes": [],
+          "id": 886
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼根弦长",
+          "start": 6804,
+          "end": 6808,
+          "attributes": [],
+          "id": 887
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼梢弦长",
+          "start": 6814,
+          "end": 6818,
+          "attributes": [],
+          "id": 888
+        },
+        null,
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "指机翼某一剖面的零升迎角与翼根剖面的零升迎角之间的夹角",
+          "start": 6918,
+          "end": 6945,
+          "attributes": [],
+          "id": 890
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "翼型安装角的实际变化，用相对于翼根翼型的变化来度量",
+          "start": 6977,
+          "end": 7005,
+          "attributes": [],
+          "id": 891
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "翼型绕着旋转的轴",
+          "start": 7018,
+          "end": 7026,
+          "attributes": [],
+          "id": 892
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "前缘线",
+          "start": 7039,
+          "end": 7042,
+          "attributes": [],
+          "id": 893
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "几何扭转角",
+          "start": 7051,
+          "end": 7056,
+          "attributes": [],
+          "id": 894
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "机翼任一剖面的弦线相对于翼根弦线的夹角",
+          "start": 7059,
+          "end": 7078,
+          "attributes": [],
+          "id": 895
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "几何扭转规律",
+          "start": 7129,
+          "end": 7135,
+          "attributes": [],
+          "id": 896
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "扭转角随翼展的分布",
+          "start": 7117,
+          "end": 7126,
+          "attributes": [],
+          "id": 897
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "双曲度翼面模型",
+          "start": 8019,
+          "end": 8026,
+          "attributes": [],
+          "id": 899
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "边条翼",
+          "start": 8045,
+          "end": 8048,
+          "attributes": [],
+          "id": 900
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "基准翼型",
+          "start": 8105,
+          "end": 8109,
+          "attributes": [],
+          "id": 901
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "垂尾前缘边条",
+          "start": 8110,
+          "end": 8116,
+          "attributes": [],
+          "id": 902
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "拉伸方法",
+          "start": 8124,
+          "end": 8128,
+          "attributes": [],
+          "id": 903
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "翼尖部件",
+          "start": 8643,
+          "end": 8647,
+          "attributes": [],
+          "id": 904
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "线架模型",
+          "start": 8720,
+          "end": 8724,
+          "attributes": [],
+          "id": 906
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "曲面模型",
+          "start": 8725,
+          "end": 8729,
+          "attributes": [],
+          "id": 907
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "来流密度",
+          "start": 9351,
+          "end": 9355,
+          "attributes": [],
+          "id": 908
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "波阻系数",
+          "start": 9336,
+          "end": 9340,
+          "attributes": [],
+          "id": 909
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "用马赫锥面截得的面积的正投影",
+          "start": 9375,
+          "end": 9389,
+          "attributes": [],
+          "id": 910
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "计算长度",
+          "start": 9414,
+          "end": 9418,
+          "attributes": [],
+          "id": 911
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《航空气动力手册》",
+          "start": 9444,
+          "end": 9453,
+          "attributes": [],
+          "id": 912
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "罚函数项",
+          "start": 9830,
+          "end": 9834,
+          "attributes": [],
+          "id": 913
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "站位面积变化量",
+          "start": 9821,
+          "end": 9828,
+          "attributes": [],
+          "id": 914
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "直接搜索法",
+          "start": 9941,
+          "end": 9946,
+          "attributes": [],
+          "id": 915
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "鲍威尔法",
+          "start": 9948,
+          "end": 9952,
+          "attributes": [],
+          "id": 916
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "拟牛顿法",
+          "start": 9953,
+          "end": 9957,
+          "attributes": [],
+          "id": 917
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机身最佳面积",
+          "start": 10128,
+          "end": 10134,
+          "attributes": [],
+          "id": 918
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "优化得到的全机最佳面积分布扣除翼面、座舱盖等面积",
+          "start": 10135,
+          "end": 10159,
+          "attributes": [],
+          "id": 919
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "加权因子",
+          "start": 10202,
+          "end": 10206,
+          "attributes": [],
+          "id": 920
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "飞机",
+          "start": 10473,
+          "end": 10475,
+          "attributes": [],
+          "id": 921
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "曲线光顺",
+          "start": 10849,
+          "end": 10853,
+          "attributes": [],
+          "id": 923
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "曲面光顺",
+          "start": 10854,
+          "end": 10858,
+          "attributes": [],
+          "id": 924
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "光顺方法",
+          "start": 10913,
+          "end": 10917,
+          "attributes": [],
+          "id": 925
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "局部回弹法",
+          "start": 10929,
+          "end": 10934,
+          "attributes": [],
+          "id": 926
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "是一种选点修改的曲线光顺方法，是对手工光顺过程的直接模拟",
+          "start": 10940,
+          "end": 10968,
+          "attributes": [],
+          "id": 927
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "圆锥曲线法",
+          "start": 11360,
+          "end": 11365,
+          "attributes": [],
+          "id": 928
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "依据设计的具体情况，把整条曲线分为凹曲线和凸曲线，并找出分界点，每段曲线用圆锥曲线来进行逼近。利用圆锥曲线的保凸性和曲率变化的均匀性，多次迭代分段逼近原曲线，这是工程上常用的曲线光顺方法",
+          "start": 11366,
+          "end": 11459,
+          "attributes": [],
+          "id": 929
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "主曲率",
+          "start": 12444,
+          "end": 12447,
+          "attributes": [],
+          "id": 932
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "高斯曲率",
+          "start": 12452,
+          "end": 12456,
+          "attributes": [],
+          "id": 933
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "光照模型检查法",
+          "start": 12895,
+          "end": 12902,
+          "attributes": [],
+          "id": 934
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "切水线法",
+          "start": 11841,
+          "end": 11845,
+          "attributes": [],
+          "id": 935
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "是工程上最常用的曲面光顺性检查方法，在计算机上，用CAD图形软件人机交互地进行",
+          "start": 11850,
+          "end": 11889,
+          "attributes": [],
+          "id": 936
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "高斯曲率法",
+          "start": 12121,
+          "end": 12126,
+          "attributes": [],
+          "id": 937
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "高斯曲率",
+          "start": 12293,
+          "end": 12297,
+          "attributes": [],
+          "id": 938
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "主法截线",
+          "start": 12303,
+          "end": 12307,
+          "attributes": [],
+          "id": 939
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "主曲率半径",
+          "start": 12399,
+          "end": 12404,
+          "attributes": [],
+          "id": 940
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "总曲率",
+          "start": 12439,
+          "end": 12442,
+          "attributes": [],
+          "id": 941
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "高斯曲率",
+          "start": 12434,
+          "end": 12438,
+          "attributes": [],
+          "id": 942
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "曲面法矢检查法",
+          "start": 12741,
+          "end": 12748,
+          "attributes": [],
+          "id": 943
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼弦",
+          "start": 5961,
+          "end": 5963,
+          "attributes": [],
+          "id": 944
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "扭转",
+          "start": 6893,
+          "end": 6895,
+          "attributes": [],
+          "id": 948
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "气动扭转",
+          "start": 6897,
+          "end": 6901,
+          "attributes": [],
+          "id": 949
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "几何扭转",
+          "start": 6902,
+          "end": 6906,
+          "attributes": [],
+          "id": 950
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "气动扭转",
+          "start": 6946,
+          "end": 6950,
+          "attributes": [],
+          "id": 951
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "弯度",
+          "start": 6957,
+          "end": 6959,
+          "attributes": [],
+          "id": 952
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼展",
+          "start": 6960,
+          "end": 6962,
+          "attributes": [],
+          "id": 953
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "是构造物体完整的三维几何模型，是描述几何形体的最高层次的模型。实体模型有完全封闭的表面，这些表面明确区分出物体的包容空间",
+          "start": 40,
+          "end": 100,
+          "attributes": [],
+          "id": 954
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "电子样机",
+          "start": 380,
+          "end": 384,
+          "attributes": [],
+          "id": 955
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "几何模型用参数化的设计方法，使用参数约束表和修改几何参数，以建立通用的几何模型。这种造型称为参数化动态造型",
+          "start": 848,
+          "end": 901,
+          "attributes": [],
+          "id": 956
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "全机气动布局",
+          "start": 1030,
+          "end": 1036,
+          "attributes": [],
+          "id": 957
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "装载",
+          "start": 1424,
+          "end": 1426,
+          "attributes": [],
+          "id": 958
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "结构高度",
+          "start": 1427,
+          "end": 1431,
+          "attributes": [],
+          "id": 959
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "主要控制尺寸",
+          "start": 1437,
+          "end": 1443,
+          "attributes": [],
+          "id": 960
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "进气道几何设计",
+          "start": 2410,
+          "end": 2417,
+          "attributes": [],
+          "id": 961
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "进气道几何设计",
+          "start": 2711,
+          "end": 2719,
+          "attributes": [],
+          "id": 962
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "混合压缩式进气道",
+          "start": 2792,
+          "end": 2800,
+          "attributes": [],
+          "id": 963
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "亚、超声速性能要求",
+          "start": 3447,
+          "end": 3456,
+          "attributes": [],
+          "id": 965
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "气流流向",
+          "start": 3474,
+          "end": 3478,
+          "attributes": [],
+          "id": 966
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "自身坐标系",
+          "start": 3681,
+          "end": 3686,
+          "attributes": [],
+          "id": 967
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "前起落架布置",
+          "start": 4089,
+          "end": 4095,
+          "attributes": [],
+          "id": 968
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "主起落架布置",
+          "start": 4096,
+          "end": 4102,
+          "attributes": [],
+          "id": 969
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "各舱段内部设备安排",
+          "start": 4103,
+          "end": 4112,
+          "attributes": [],
+          "id": 970
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "截面积分布",
+          "start": 4124,
+          "end": 4129,
+          "attributes": [],
+          "id": 971
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "发动机进口",
+          "start": 4206,
+          "end": 4211,
+          "attributes": [],
+          "id": 972
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "座舱盖几何设计",
+          "start": 4773,
+          "end": 4780,
+          "attributes": [],
+          "id": 973
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "座舱盖设计要求",
+          "start": 4888,
+          "end": 4895,
+          "attributes": [],
+          "id": 977
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战斗机座舱布置尺寸标准",
+          "start": 4944,
+          "end": 4955,
+          "attributes": [],
+          "id": 978
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "座舱视野标准",
+          "start": 4956,
+          "end": 4962,
+          "attributes": [],
+          "id": 979
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "座舱总体布置对座舱盖设计要求",
+          "start": 4967,
+          "end": 4981,
+          "attributes": [],
+          "id": 980
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "座舱盖玻璃结构强度要求",
+          "start": 4986,
+          "end": 4997,
+          "attributes": [],
+          "id": 984
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "设计眼位",
+          "start": 5079,
+          "end": 5083,
+          "attributes": [],
+          "id": 985
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "眼顶高",
+          "start": 5088,
+          "end": 5091,
+          "attributes": [],
+          "id": 986
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "眼位处圆顶高半径",
+          "start": 5109,
+          "end": 5117,
+          "attributes": [],
+          "id": 987
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机身切割线",
+          "start": 5170,
+          "end": 5175,
+          "attributes": [],
+          "id": 988
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "座舱盖与机身相交处口框高度",
+          "start": 5180,
+          "end": 5193,
+          "attributes": [],
+          "id": 989
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "座舱盖与机身相交处口框宽度",
+          "start": 5199,
+          "end": 5212,
+          "attributes": [],
+          "id": 990
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "座舱盖几何模型",
+          "start": 5311,
+          "end": 5318,
+          "attributes": [],
+          "id": 991
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "外部气动力",
+          "start": 5357,
+          "end": 5362,
+          "attributes": [],
+          "id": 992
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "内部座舱增压",
+          "start": 5363,
+          "end": 5369,
+          "attributes": [],
+          "id": 993
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "翼面几何设计",
+          "start": 5690,
+          "end": 5696,
+          "attributes": [],
+          "id": 994
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "NACA翼型系列",
+          "start": 5759,
+          "end": 5767,
+          "attributes": [],
+          "id": 995
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "前苏联中央流体动力研究院",
+          "start": 5770,
+          "end": 5782,
+          "attributes": [],
+          "id": 996
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "基本厚度翼型",
+          "start": 5793,
+          "end": 5799,
+          "attributes": [],
+          "id": 997
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "相对弯度",
+          "start": 6026,
+          "end": 6030,
+          "attributes": [],
+          "id": 998
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "弯度与弦长之比",
+          "start": 6033,
+          "end": 6040,
+          "attributes": [],
+          "id": 999
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "最大弯度的x坐标",
+          "start": 6052,
+          "end": 6060,
+          "attributes": [],
+          "id": 1000
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "最大弯度位置与弦长之比",
+          "start": 6076,
+          "end": 6087,
+          "attributes": [],
+          "id": 1001
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "最大厚度与弦长之比",
+          "start": 6297,
+          "end": 6306,
+          "attributes": [],
+          "id": 1002
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼面结构重量",
+          "start": 6345,
+          "end": 6351,
+          "attributes": [],
+          "id": 1003
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "阻力",
+          "start": 6332,
+          "end": 6334,
+          "attributes": [],
+          "id": 1004
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "前缘半径与弦长之比",
+          "start": 6417,
+          "end": 6426,
+          "attributes": [],
+          "id": 1005
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "后缘半径与弦长之比",
+          "start": 6466,
+          "end": 6475,
+          "attributes": [],
+          "id": 1006
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "几何扭转轴",
+          "start": 7098,
+          "end": 7103,
+          "attributes": [],
+          "id": 1007
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "几何扭转轴",
+          "start": 7010,
+          "end": 7015,
+          "attributes": [],
+          "id": 1008
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "后缘半径",
+          "start": 7368,
+          "end": 7372,
+          "attributes": [],
+          "id": 1009
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "翼面外形设计",
+          "start": 8358,
+          "end": 8364,
+          "attributes": [],
+          "id": 1010
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "边条翼",
+          "start": 8434,
+          "end": 8437,
+          "attributes": [],
+          "id": 1011
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "边条曲面",
+          "start": 8542,
+          "end": 8546,
+          "attributes": [],
+          "id": 1012
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "是外形为双曲度的部件",
+          "start": 8647,
+          "end": 8657,
+          "attributes": [],
+          "id": 1013
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼身组合体阻力系数",
+          "start": 9136,
+          "end": 9145,
+          "attributes": [],
+          "id": 1014
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "超声速",
+          "start": 9223,
+          "end": 9226,
+          "attributes": [],
+          "id": 1015
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "马赫锥面",
+          "start": 9273,
+          "end": 9277,
+          "attributes": [],
+          "id": 1016
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "面积律",
+          "start": 9505,
+          "end": 9508,
+          "attributes": [],
+          "id": 1017
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "现代战斗机外形设计",
+          "start": 9478,
+          "end": 9487,
+          "attributes": [],
+          "id": 1018
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "设计马赫数",
+          "start": 9614,
+          "end": 9619,
+          "attributes": [],
+          "id": 1019
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "设计M数",
+          "start": 9706,
+          "end": 9710,
+          "attributes": [],
+          "id": 1020
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "光顺性检查",
+          "start": 10525,
+          "end": 10530,
+          "attributes": [],
+          "id": 1021
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "光顺处理",
+          "start": 10531,
+          "end": 10535,
+          "attributes": [],
+          "id": 1022
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "一种工程术语，包含光滑和顺眼两方面的概念。光滑表明曲线、曲面的连续性，而顺眼是工程设计人员依据其设计经验的一种模糊的主观判断的感觉",
+          "start": 10554,
+          "end": 10619,
+          "attributes": [],
+          "id": 1023
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "光顺性",
+          "start": 12184,
+          "end": 12187,
+          "attributes": [],
+          "id": 1024
+        },
+        null,
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "主曲率的乘积",
+          "start": 12444,
+          "end": 12450,
+          "attributes": [],
+          "id": 1026
+        }
+      ],
+      "E": [],
+      "R": [
+        {
+          "name": "定义关系",
+          "from": 779,
+          "to": 780,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 781,
+          "to": 782,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "上下位关系",
+          "from": 805,
+          "to": 799,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 805,
+          "to": 800,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 805,
+          "to": 801,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 805,
+          "to": 802,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 805,
+          "to": 803,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 805,
+          "to": 804,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "选型关系",
+          "from": 100,
+          "to": 810,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "选型关系",
+          "from": 100,
+          "to": 811,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "选型关系",
+          "from": 100,
+          "to": 812,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 821,
+          "to": 407,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "选型关系",
+          "from": 825,
+          "to": 824,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "选型关系",
+          "from": 826,
+          "to": 827,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        {
+          "name": "上下位关系",
+          "from": 637,
+          "to": 838,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 637,
+          "to": 839,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "选型关系",
+          "from": 655,
+          "to": 844,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "选型关系",
+          "from": 846,
+          "to": 845,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "参照关系",
+          "from": 851,
+          "to": 850,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 748,
+          "to": 852,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        {
+          "name": "定义关系",
+          "from": 855,
+          "to": 857,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 713,
+          "to": 858,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 754,
+          "to": 861,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 860,
+          "to": 861,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 864,
+          "to": 865,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 174,
+          "to": 866,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 174,
+          "to": 867,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 756,
+          "to": 868,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 869,
+          "to": 363,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 178,
+          "to": 363,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "定义关系",
+          "from": 550,
+          "to": 871,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 872,
+          "to": 552,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 551,
+          "to": 552,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 873,
+          "to": 874,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        {
+          "name": "定义关系",
+          "from": 248,
+          "to": 878,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        {
+          "name": "定义关系",
+          "from": 696,
+          "to": 891,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        {
+          "name": "定义关系",
+          "from": 894,
+          "to": 895,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 896,
+          "to": 897,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "使用关系",
+          "from": 902,
+          "to": 903,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "使用关系",
+          "from": 564,
+          "to": 907,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 564,
+          "to": 906,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 909,
+          "to": 908,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 909,
+          "to": 767,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 909,
+          "to": 910,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 909,
+          "to": 911,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 913,
+          "to": 914,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 918,
+          "to": 919,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 921,
+          "to": 726,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        {
+          "name": "定义关系",
+          "from": 926,
+          "to": 927,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 925,
+          "to": 926,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 925,
+          "to": 928,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 928,
+          "to": 929,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "定义关系",
+          "from": 935,
+          "to": 936,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 938,
+          "to": 939,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 938,
+          "to": 940,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 942,
+          "to": 941,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 944,
+          "to": 854,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        {
+          "name": "上下位关系",
+          "from": 948,
+          "to": 949,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 948,
+          "to": 950,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 951,
+          "to": 953,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        {
+          "name": "定义关系",
+          "from": 779,
+          "to": 954,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 783,
+          "to": 956,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 805,
+          "to": 958,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 805,
+          "to": 959,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 805,
+          "to": 133,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 805,
+          "to": 960,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 94,
+          "to": 513,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 97,
+          "to": 510,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 821,
+          "to": 965,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 514,
+          "to": 966,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 517,
+          "to": 822,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "选型关系",
+          "from": 48,
+          "to": 841,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "选型关系",
+          "from": 48,
+          "to": 840,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 655,
+          "to": 992,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 655,
+          "to": 993,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 847,
+          "to": 409,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 998,
+          "to": 999,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 998,
+          "to": 715,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 998,
+          "to": 859,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 753,
+          "to": 1000,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 861,
+          "to": 1001,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 363,
+          "to": 1002,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1004,
+          "to": 364,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 692,
+          "to": 364,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 725,
+          "to": 364,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1003,
+          "to": 364,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 552,
+          "to": 1005,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 877,
+          "to": 876,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 877,
+          "to": 875,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 877,
+          "to": 1006,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 351,
+          "to": 223,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 351,
+          "to": 882,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 351,
+          "to": 883,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 351,
+          "to": 884,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 351,
+          "to": 243,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 351,
+          "to": 886,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 351,
+          "to": 887,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 351,
+          "to": 888,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 951,
+          "to": 952,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 705,
+          "to": 890,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 1008,
+          "to": 892,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 904,
+          "to": 1013,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 1018,
+          "to": 1017,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 915,
+          "to": 916,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 915,
+          "to": 917,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 276,
+          "to": 1023,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 924,
+          "to": 923,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 925,
+          "to": 935,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 925,
+          "to": 937,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 933,
+          "to": 932,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 925,
+          "to": 943,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 925,
+          "to": 934,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 933,
+          "to": 1026,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        }
+      ],
+      "A": []
+    }
+  },
+  "time_labeled": 1618562260164,
+  "labeled": true,
+  "content": "10.4.5 实体造型数模\r\n10.4.5.1 实体造型数模的特点及用途\r\n实体造型是构造物体完整的三维几何模型，是描述几何形体的最高层次的模型。实体模型有完全封闭的表面，这些表面明确区分出物体的包容空间。\r\n实体模型与曲面模型的区别在于实体模型的表面必须封闭、有向，各张表面间有严格的拓扑关系，形成一个整体，而曲面模型可以不封闭。\r\n实体造型及实体模型间的各种逻辑运算，特别适用于具有规则形状的机械产品零件，如可用于飞机内部设备和成品附件的造型、起落架等运动机构的造型及模拟检查、各种管路系统的造型、\r\n内部管路与设备的干涉性检查、空间漫游通路的检查等。实体模型与曲面模型的综合运用，将彻底改变传统的在二维图上进行总体布置及设计制造1:1真实样机，\r\n进行内部空间协调的设计技术，代之以在直观的、色彩分明的、具有明暗效果和真实感的、可进行动态模拟的、全三维实体模型制作的电子样机上进行。\r\n实体模型将广泛应用于飞机设计、制造的各个环节，成为飞机研制强有力的智能化工具，也必然成为智能化、集成化、标准化CAD/CAE/CAM软件系统的几何描述核心。\r\n10.4.5.2 实体造型的实例\r\n例1.将图10-28左图实体造型元素分解为基本元素1、2、3、4、5，并作如下逻辑运算后得图10-29所示的零件实体模型。\r\n（元素1旋转360°—元素2旋转360°）-（元素3拉伸（A至B）∪元素4拉伸（C至D）∪元素4拉伸（E至F）∪元素5拉伸（F至D））\r\n图10-28 实体造型基本元素\r\n图10-29 生成实体模型\r\n例2.先分别生成图10-30中各零件实体模型，然后给定零件间必要的相对位置约束，即可组成组合体实体模型（图10-31）。\r\n例3.确定运动机构的运动副，分别生成各零件的实体模型，即可组成实体模型的运动机构（图10-32）。\r\n10.4.5.3 几何模型的参数化\r\n前面所讲的几何模型，是通过事先已确定的几何形状和几何尺寸来建立的，模型一旦建立很难修改。\r\n为了产品的修改性和继承性，保存和利用已有的数据投资，对上述几何模型用参数化的设计方法，使用参数约束表和修改几何参数，以建立通用的几何模型。这种造型称为参数化动态造型。\r\n实例：将图10-33实体零件各参数建立参数约束表，修改其中参数即可得到新的零件。\r\n10.5 机身几何设计\r\n本部分着重介绍方案设计阶段的设计方法。\r\n10.5.1 机身几何设计的依据\r\n主要设计依据有：\r\n（1）论证阶段生成的三面图；\r\n（2）论证阶段细化后的反映全机气动布局、内部装载及受力结构的总体布置图；\r\n（3）气动力、总体布置、结构、系统、生产工艺、隐身等方面对机身几何设计的要求；\r\n（4）论证阶段生成的简易几何模型。\r\n10.5.2 机身设计的主要几何参数\r\n依据机身内部的布置，如雷达、座舱、设备舱、油箱、进气道、起落架、发动机及机身与其他部件的连接等，初步确定机身的主要尺寸和参数。机身的主要参数有：\r\n（1）机身总长；\r\n（2）机头长度；\r\n（3）机尾罩长度；\r\n（4）机头轴线下倾角及机头锥角；\r\n（5）雷达天线的位置、形状及与机身外壳的间隙要求；\r\n（6）座舱段位置及截面形状要求；\r\n（7）飞行员眼位及前视角要求；\r\n（8）进气道进气形式及相对机身的位置；\r\n（9）发动机长度及机匣处最大横截面要求；\r\n（10）发动机轴线上翘角及机尾收缩角；\r\n（11）机尾喷口直径。\r\n10.5.3 机身控制截面的设计\r\n（1）设计依据\r\n机身控制截面的设计主要依据机身内部的装载、结构高度、间隙要求及主要控制尺寸。\r\n主要控制截面一般有雷达天线控制截面、座舱眼位控制截面、起落架收上位置控制截面、进气道及机身油箱控制截面、发动机附件机匣处截面和尾喷口截面，见图10-34。\r\n（2）横截面外形设计\r\n各截面的主要控制尺寸及内部装载要求明确后，就可以进行截面的外形设计。进行横截面函数设计既要把内部装载包起来，也要考虑该函数沿机身纵向的变化规律。\r\n圆形的横截面是最有利的，但因圆弧的布置条件较苛刻，而圆锥曲线由于参数修改方便，设计灵活，直线、圆、椭圆计算公式统一，所以广泛地应用在横截面的设计中，用一段或多段圆锥曲线相接组成横截面。\r\n从隐身要求考虑，也可把机身设计成由若干平面组成，以控制其雷达波的散射方向，参见图10-8。\r\n10.5.4 纵向控制曲线设计\r\n各横向控制截面设计完成后，把各横截面函数控制点沿纵向连成光滑的纵向控制曲线。\r\n10.5.5 导向线的设计\r\n一般采用机身轴线作为其导向线。\r\n10.5.6 机身几何模型的建立\r\n纵向控制曲线、横截面的函数规律及导向线三者就惟一确定了线架曲面的几何外形，其设计过程见图10-35。\r\n10.5.7 设计实例\r\n以图10-34为例。\r\n（1）横截面函数\r\n截面1由两段圆锥曲线连接而成；截面2、3、4由圆锥曲线、直线、圆锥曲线连接而成；截面5由两段圆锥曲线组成半圆。\r\n横截面函数沿纵向的变化规律，为从两段圆锥曲线变成两圆锥曲线夹一段线段，最后为由两段圆锥曲线构成的半圆。\r\n（2）纵向控制曲线\r\n横截面函数由A、B、C、D、E、F六个点及PQ1、PQ2两个参数构成，故纵向曲线共有六条由样条函数生成的空间曲线。\r\n其二维投影曲线由Ax、Ay、Bx、By、Cx、Cy、Dx、Dy、Ex、Ey、Fx、Fy及两条参数线PQ1、PQ2构成，其中PQ1=PQ2=0.4142。纵向控制曲线的数值应按横截面函数的变化规律要求而变化，见图10-36中纵向控制曲线的走向。\r\n（3）导向线\r\n以机身轴线为设计导向线，其长度即为机身之长度。\r\n（4）几何模型\r\n以上述条件用计算机CAD曲面造型软件生成几何模型，如图10-37所示。从几何模型得到横截面图形、横截面面积分布、浸润面积及容积等。\r\n若无计算机软、硬件条件，导向线又为二维曲线时，可用手工作图法，按比例画出导向线、纵向控制曲线，量取所在横截面之参数值，作出所需的横截面图形。\r\n10.6 进气道几何设计\r\n10.6.1 进气道的功能与设计要求\r\n（1）现代飞机动力装置系统中进气道的主要功能\r\na.保证发动机在各种工作状态下（起落、巡航、加力爬升等）都能稳定地工作；\r\nb.对进入进气道的空气进行压缩，将气流的动能变为压力能。\r\n（2）进气道的设计应满足的要求\r\na.有尽可能高的总压恢复系数（即气流流经进气道后使压力损失最小）；\r\nb.发动机进口处的速度场要充分均匀（一般在发动机进口前留约1m长的等直段）；\r\nc.进气道的进口及各种几何参数要保证发动机在各种工作状态下都能稳定工作；\r\nd.进气道的外部阻力要尽可能地小。\r\n上述这些要求很大程度上依赖于进气道的形式、几何参数及管道的几何形状。\r\n10.6.2 进气道几何设计的依据\r\n进气道可分为亚声速和超声速进气道，从压缩角度还可分为外压缩式、内压缩式和混合压缩式。不同形式的进气道，其设计参数也不同。图10-38所示为混合压缩式进气道。\r\n超声速气流以速度V0流入进气道，经过1、2、3、4道斜激波和第5道正激波后，以亚声速V5流入进气道扩压段，继续减速扩压，最后以V6进入发动机。此时V6约为M=0.5。截面T—T以前称为唇罩部分，截面T—T以后称为管道部分。\r\n进气道几何设计一般分为唇罩部分和管道部分两部分进行。它们互相制约，互为边界，有些参数、要求必须互相协调。\r\n进气道几何设计主要依据：\r\n（1）论证设计后进气道专业提供的进气道唇罩及管道的几何参数及其变化规律、面积分布、扩散角等要求；\r\n（2）论证设计后提供的总体布置图，其中包括进气道形式、位置（战斗机一般将进气道安排在机身内部），座舱、起落架、油箱、各舱段的设备布置等对进气道的约束；\r\n（3）外部气动力和隐身性能对进气道的要求。\r\n10.6.3 进气道唇罩的几何设计\r\n10.6.3.1 唇罩设计参数\r\n如图10-38所示，唇罩设计参数如下：\r\n（1）进气道捕获面积F—F；\r\n（2）进气道进口面积B—B；\r\n（3）进气道喉道面积T—T\r\n（4）斜板的位置及几何形状；\r\n（5）进气道唇口界面几何形状及位置；\r\n（6）内外唇口半径R1、R2及沿周向变化规律；\r\n（7）内外唇角α1、α2及沿展向变化规律；\r\n（8）进气道与机身之间隔道的高度及形状和相关部分的机身外形；\r\n（9）进口部分侧壁的形状及参数；\r\n（10）隐身对进气道唇罩外形的要求。\r\n10.6.3.2 唇罩几何模型的建立\r\n（1）唇罩横截面函数\r\n唇口处内外唇半径R1、R2的大小和形状直接影响进气道的性能。唇口曲率半径的大小依设计M数及亚、超声速性能要求而定。内唇角根据气流流经斜板压缩后的气流流向而定，外唇角应尽量减少进气道外部阻力。\r\n常见的唇口截面有两种，见图10-39。左图内外唇部截面为圆弧段或为部分圆锥曲线，右图内外唇部截面为部分翼型段。α1为内唇角与内唇部相切，α2为外唇角与外唇部相切。\r\n（2）唇罩纵向控制曲线\r\n将唇罩横截面函数控制点沿唇口周向的变化，连成光滑的纵向控制曲线族。\r\n（3）导向线设计\r\n唇罩一般以唇口剖面线为导向线。\r\n（4）设计坐标系\r\n唇罩设计坐标系可以是进气道坐标系，也可以是自身坐标系，以设计方便为原则，然后建立唇罩对进气道或对全机的坐标转换。\r\n（5）设计实例\r\n以图10-40、图10-41为例，A—A剖面前为唇罩部分。\r\na.横截面函数   二直线与一圆弧段，见a—a剖面。\r\nb.纵向曲线   四条空间曲线A、B、C、D及一R参数线。\r\nc.导向线   唇口剖面线GL。\r\nd.几何模型   以上述条件用计算机CAD曲面造型软件生成几何模型，见图10-41。从几何模型得到横截面图形。若无计算机软、硬件条件，可用手工作图法，量取横截面参数作出所需横截面。\r\n10.6.4 进气道管道的几何设计\r\n10.6.4.1 管道的几何参数及要求\r\n（1）发动机进口位置及发动机轴线；\r\n（2）发动机进口直径及进口前进气道等直段长度；\r\n（3）喉道处内唇罩对管道的边界要求；\r\n（4）管道局部当量面积扩散角，按30mm左右长度计算，一般控制在8°以内，管道拐弯尽量小，尽量短；\r\n（5）总体布置对管道的约束，如机身油箱、前起落架布置、主起落架布置、各舱段内部设备安排等；\r\n（6）管道沿纵向的截面积分布及要求；\r\n（7）隐身性能对管道的要求，如采用S形管道等。\r\n10.6.4.2 管道几何模型的建立\r\n（1）横截面函数设计\r\n通常，从内唇罩喉道处横截面逐渐过渡到发动机进口为一圆。\r\n（2）纵向控制曲线\r\n将横截面函数的控制点沿纵向的变化构成光滑的纵向曲线。为便于管道优化设计，满足截面积分布要求，纵向曲线用样条更合适。\r\n（3）导向线\r\n进气道管道设计时，导向线依设计要求确定，可以定为一直线，也可按管道在空间位置的变化设置为一空间三维曲线。\r\n（4）管道几何模型实例\r\n以图10-40为例，A—A剖面以后为管道部分。\r\na.横截面函数   剖面A—A为由直线AB、圆弧段BC、直线CD、圆弧段DE、直线EF连接而成，剖面B—B为一圆弧段，中间光滑过渡；\r\nb.纵向控制曲线   A、B、C、D、E、F六条空间曲线（见图10-42）及R1、R2两条参数线。\r\nc.导向线   以y轴为导向线，其长度为管道长度。\r\nd.几何模型   以上述条件用计算机CAD曲面造型软件生成几何模型，见图10-43，并可从几何模型获取各种几何信息。若无计算机软、硬件条件，导向线又为二维曲线时，可用手工作图法量取所需之参数。\r\n10.6.4.3 管道几何模型的检查\r\n管道的设计是逐次逼近的过程。几何模型建立后，必须检查管道的截面积分布及局部扩散角，不断地调整纵向控制曲线的形状，再生成几何模型，再检查，直至满足要求为止。\r\n设计面积分布与给定面积分布之误差，一般控制在1%以内，最后由总体专业、进气道专业、气动专业各方认可。\r\n10.7 座舱盖几何设计\r\n战斗机的座舱盖外形由风挡和座舱盖两部分组成。目前常采用圆弧风挡和水泡式座舱盖。座舱盖作为座舱的一部分，其外形须与机身反复协调设计，以满足座舱内部布置、结构强度、外部气动力、飞行员视野等各方面的要求。\r\n10.7.1 座舱盖设计要求\r\n（1）飞机战术技术指标对座舱盖的视野要求；\r\n（2）飞机外部气动力对座舱盖设计阻力的要求；\r\n（3）战斗机座舱布置尺寸标准及座舱视野标准；\r\n（4）座舱总体布置对座舱盖设计要求；\r\n（5）座舱盖玻璃结构强度要求；\r\n（6）座舱盖玻璃工艺成形，玻璃折光要求；\r\n（7）隐身性能对座舱盖的要求。\r\n10.7.2 座舱盖设计几何参数\r\n座舱盖几何参数见图10-44、图10-45。\r\n（1）设计眼位；\r\n（2）眼顶高（眼位到座舱盖玻璃的距离）；\r\n（3）眼位处圆顶高半径（眼位处座舱盖圆弧半径）；\r\n（4）360°视野要求，特别是前下视角α1前上视角α2，侧方视角α3；\r\n（5）机身切割线；\r\n（6）座舱盖与机身相交处口框高度H；\r\n（7）座舱盖与机身相交处口框宽度B（即保证弹射通道宽度）；\r\n（8）舱盖锁钩位置三角区空间要求；\r\n（9）风挡的圆柱半径（风挡为圆柱时）或圆锥半径与锥角（风挡为圆锥时）；\r\n（10）风挡与机身轴线的角度β，风挡的长度L。\r\n10.7.3 座舱盖几何模型\r\n10.7.3.1 横截面函数的设计\r\n座舱盖透明部分采用透明有机玻璃材料，其受外部气动力和内部座舱增压的作用。为使舱盖具有更好的受力结构，其横截面常设计为圆弧，常用的有两种形式（见图10-45）:\r\na.横截面由圆弧与直线连接而成；\r\nb.横截面由一圆弧段构成。\r\n10.7.3.2 纵向控制曲线\r\n若横截面为圆弧，则有上顶点、圆心和终点三条纵向控制曲线。\r\n10.7.3.3 导向线设计\r\n控制横截面位置的导向线常采用圆心线。\r\n10.7.3.4 座舱盖几何数模实例\r\n座舱盖纵向控制曲线如图10-46所示。\r\n（a）横截面由一圆弧段构成；\r\n（b）纵向控制线为上顶点线A、圆心线0、终点线B三条空间曲线；\r\n（c）导向线为圆心线O；\r\n（d）由上述条件用计算机CAD曲面造型软件生成座舱盖几何模型，见图10-47，也可用手工作图法，获取所需截面的数据。\r\n10.8 翼面几何设计\r\n10.8.1 翼面主要几何参数及计算\r\n10.8.1.1 翼型参数及计算\r\n不论是美国国家航空咨询委员会（NACA）研究和发展的NACA翼型系列，还是前苏联中央流体动力研究院研究的翼型系列，都是由基本厚度翼型和中弧线（弯度）两部分叠加而成的，见图10-48。\r\n基本厚度翼型是翼型阻力的主要贡献者，中弧线产生升力、诱导阻力。现以NACA翼型为例。翼型的几何参数及计算，可参考《航空气动力手册》第二册的有关章节。\r\n（1）中弧线几何参数\r\n中弧线反映翼型的弯曲特性，它是与上、下翼型线等距离的线。\r\na.翼弦与弦长c\r\n翼型前缘到后缘的连线称为翼弦，翼弦被前后缘所截长度称为弦长，以c表示。\r\nb.弯度\r\n中弧线y向坐标yf的最大值yfmax称为最大弯度，简称弯度，以ƒ表示。\r\n相对弯度定义为弯度与弦长之比，即\r\nc.最大弯度位置\r\n最大弯度的x坐标，称为最大弯度位置，以xƒ表示。最大弯度位置与弦长之比，称为最大弯度相对位置ƒ，即\r\nd.弯度分布\r\nNACA、不同的翼型系列具有不同的弯度分布函数（详见《航空气动力手册》），但是最终以一组离散型值点(xi，yfi)形式给出。\r\n（2）基本厚度翼型的几何参数\r\na.厚度t\r\n厚度是指上翼型线到下翼型线的距离。上翼型线y向坐标yt的最大值ymax的2倍，即2ymax称为最大厚度，简称厚度，以t表示。\r\nb.最大厚度位置xi\r\n最大厚度的位置称为最大厚度位置，以xt表示。\r\nc.相对厚度\r\n最大厚度与弦长之比，称为相对厚度，以表示，即\r\n相对厚度是直接影响飞机的阻力、最大升力、失速特性和翼面结构重量的一个重要的参数。超临界翼型可以在相同阻力水平时，允许有较厚的翼型。\r\nd.前缘半径rle\r\n翼型前缘曲率圆的半径，称为前缘半径rle，前缘半径与弦长之比，称为相对前缘半径，即\r\ne.后缘半径\r\n翼型后缘曲率圆的半径，称为后缘半径rte，后缘半径与弦长之比，称为相对后缘半径，即\r\nf.后缘角\r\n翼型后缘切线的夹角，称为后缘角τ。\r\ng.厚度分布\r\nNACA、基本厚度翼型系列具有不同的厚度分布函数（详见《航空气动力手册》），但最终以一组离散的型值点（xi，yti）给出。\r\n（3）叠加后的翼型几何参数\r\n中弧线与基本厚度翼型叠加即得翼型（见图10-48），NACA翼型型值点如下：\r\n若翼型前缘有下垂，须叠加前缘的下垂量。\r\n10.8.1.2 翼面平面形状及计算\r\n（1）翼面参数（参见图10-49）\r\nSref——机翼参考面积（含机身部分的面积）；\r\nA——机翼展弦比，A=b2/Sref；\r\nλ——机翼梢根比，λ=ctcr；\r\nΛ——机翼后掠角；\r\nb——机翼展长；\r\ncA——机翼平均气动弦长；\r\nbcA——机翼平均气动弦展长；\r\ncr——翼根弦长；\r\nct——翼梢弦长。\r\n（1）计算公式\r\n10.8.1.3 机翼的扭转及参数\r\n机翼的扭转用于防止翼尖失速，并修正升力分布，使其近似于椭圆。机翼的扭转角一般在0°~5°之间。扭转分为气动扭转与几何扭转。\r\n（1）气动扭转   指机翼某一剖面的零升迎角与翼根剖面的零升迎角之间的夹角。气动扭转的特性由翼型的弯度随翼展的分布来确定。\r\n（2）几何扭转   翼型安装角的实际变化，用相对于翼根翼型的变化来度量。\r\n（3）几何扭转轴   翼型绕着旋转的轴。常见的几何扭转轴有机翼的前缘线或后缘线。\r\n（4）几何扭转角   机翼任一剖面的弦线相对于翼根弦线的夹角，如图10-50所示。A为扭转角，后缘为几何扭转轴。\r\n（5）几何扭转规律   扭转角随翼展的分布，称为几何扭转规律。\r\n10.8.2 翼面几何设计过程\r\n当翼面的翼型几何参数、平面形状、扭转规律选定以后，就可构造翼面的外表面。翼面的外表面根据气动、结构、工艺制造等要求，可构造成直纹曲面或双曲度曲面。\r\n直纹面的几何外形和直纹面结构所占的比例是衡量飞机工艺性好坏的一个重要标志，应尽量扩大平坦的几何外形和直纹面外形。\r\n10.8.2.1 直纹翼面几何设计\r\n设计步骤如下。\r\n（1）基准翼型的设计\r\na.根据所选基本厚度翼型，计算出若干基准翼型的百分型值点相对值坐标（含基本厚度分布、前缘半径、后缘半径、后缘角）；\r\nb.根据所定的弯度、前缘下垂沿翼展的分布规律，计算出若干翼型的中弧线相对坐标；\r\nc.依据上述几何参数，叠加计算出若干基准翼型站位的翼剖面型值点绝对坐标（对应点数应相同）；\r\nd.根据翼面的平面形状及几何扭转规律，确定基准翼型的位置、角度。\r\n（2）直母线规律的设计\r\n有两种确定直母线规律的形式（见图10-51）:\r\na.两个基准翼型翼剖面对应型值点连直线；\r\nb.根据结构工艺的要求，将两个基准翼剖面重新分点，并使新型值点形成的翼型与原翼型的误差在给定的范围内，再按对应点连直线。\r\n（3）直纹曲面外形的生成\r\n按上述定义的基准翼型及直母线，让直母线在翼型剖面上滑动形成的轨迹，即为直纹曲面（该造型过程可用CAD软件直接生成）。\r\n（4）设计实例\r\n见图10-51。\r\n10.8.2.2 双曲度翼面几何设计\r\n设计步骤如下。\r\n（1）基准翼型的设计\r\n同10.8.2.1节。\r\n（2）曲母线规律的确定\r\n依据两个或两个以上基准翼型的对应点，可以用样条、圆锥曲线等生成光滑曲线。\r\n（3）双曲度翼表面外形的生成\r\n用上述定义的曲母线沿着基准翼型滑动形成的轨迹，即为双曲度翼表面外形（此造型过程可以用CAD软件生成）。\r\n（4）设计实例（见图10-52）\r\n横截面函数：由一段圆锥曲线构成。纵向控制曲线有四条：A线为根部翼型线；B线为尖部翼型线；C线为圆锥曲线切点交线；PQ为圆锥曲线控制参数。\r\n导向线：由A线、B线、C线各对应点构成一系列平面，垂直各平面构成一条空间曲线，即为导向线GL。\r\n几何模型：由上述条件即可构成双曲度翼面模型。\r\n10.8.2.3 边条翼几何设计\r\n边条翼的外形设计应综合考虑气动、结构、总体各方面的要求。边条翼外形设计大致可分为以下三种类型。\r\n（1）按基本翼向前拉伸成基准翼型\r\n垂尾前缘边条一般采用此方法。拉伸方法（见图10-53），把曲线ADB拉伸成A'D'B'，使A'C与AC百分比对应点具有相同的y值，并使边条与基本翼光滑连接。如D'点，A'E'/A'C=AE/AC，则D'E'=DE。\r\n基准翼型生成后，按前面翼面外形设计方法，在基准翼型之间连直母线生成前边条外形。设计实例见图10-53：将基准翼型1ADBC，按上述法则拉伸成新基准翼型lA'D'BC，然后新基准翼型1与基准翼型2，按对应点连接并生成直纹曲面。\r\n（2）基本翼前叠加边条翼\r\n边条翼的设计类同于前面所述的翼面外形设计过程。在边条翼区，可按气动、总体布置的具体要求来设计定义若干新的基准翼型，可不采用典型翼型系列。\r\n新的基准翼型与基本翼光滑流线，然后生成新的边条翼并与基本翼光滑相连。\r\n设计实例：如图10-53中右部所示，定义新的基准翼型A'D\"B。A'D\"B与基本翼型光滑连接成新基准翼型1。新基准翼型1与翼型2，按对应点相连并生成曲面。\r\n（3）基本翼与边条曲面叠加\r\n依据边条曲面的设计要求，用线架或曲面造型方法，定义出新的曲面并与基本翼光滑相连，如图10-54所示。S1边条曲面与基本翼面光滑相连，S1边条曲面设计时取基本翼为其边界约束。\r\n10.8.2.4 翼尖几何设计\r\n翼尖部件是外形为双曲度的部件。翼尖是整个翼面的一部分，与基本翼面必须光滑相连。所以，在翼尖外形定义时，须从基本翼面上取边界，作为翼尖定义的边界条件，再采用线架模型或曲面模型的造型方法直接定义翼尖。\r\n设计实例：用线架曲面造型法设计翼尖部件（见图10-55）。\r\n横截面函数：由上下两段圆锥曲线构成，在B点处相切。\r\n纵向控制曲线：A、C线为基本翼面端部翼型l；A1、C1线为距翼型1为1mm的平行翼型；B线为翼尖端部控制线；B1、B2线为翼尖端部控制线向上、向下垂直偏置生成的线，偏置量可以取±10mm；\r\nPQ1、PQ2为控制圆锥曲线形状的参数线。\r\n导向线：取翼型l前、后缘之连线。\r\n10.9 全机按面积律的外形优化设计\r\n在进行气动布局过程中，最优部件（机身、机翼、尾翼）组成的飞机，由于部件之间不利的影响、干扰等使其可能并不是最优的飞机布局，但是可以变不利干扰为有利干扰，起到降低全机阻力和增大升阻比的作用。\r\n面积律就是一个例子。在图10-56的上图中，左图为不考虑面积律要求的翼身组合体；右图为考虑面积律要求，在最大横截面处，机身收蜂腰后的翼身组合体。图10-56的下图为机身收蜂腰后，对翼身组合体阻力系数的影响。\r\n10.9.1 面积律原理\r\n跨声速面积律指出，在跨声速时，翼身组合体的零升波阻与它沿轴向横截面积分布相同的回转体的零升波阻相同。\r\n超声速面积律指出，超声速时，翼身组合体的零升波阻和一组相当回转体的零升波阻的平均值相等，而这组回转体的轴向面积分布和用马赫锥面截取组合体的面积，在垂直气流方向的正投影面积相同，马赫锥面切于马赫锥。\r\n马赫锥面与飞机轴线的夹角为其波阻的基本公式为\r\n波阻系数公式为\r\n式中：ρ∞——来流密度；\r\nv∞——来流速度；\r\nS（x，θ）——用马赫锥面截得的面积的正投影；\r\n——沿x轴的面积S（x）的二次偏导数；\r\nl——计算长度。\r\n注：关于利用面积律计算零升波阻系数的计算方法，见《航空气动力手册》有关章节。\r\n10.9.2 机身几何外形优化设计\r\n在现代战斗机外形设计中，经过全机的综合优化设计后，又常用面积律原理来获得最佳的机身外形。优化设计是寻找最佳机身外形的有效方法。\r\n机身外形优化设计步骤参见图10-57。\r\n10.9.3 几何数模、约束条件、目标函数及优化方法\r\n由上节可以看出优化分两步进行。\r\n10.9.3.1 在设计马赫数下，优化获得全机最佳面积分布\r\n（1）几何模型\r\n依据全机几何数模获得当量回转体数模，就将几何数模简化成一条面积分布曲线，而优化问题就简化为对该曲线之优化。\r\n（2）约束条件\r\n在某设计M数下，沿轴向若干站位，用马赫锥所截面积的正投影的变化量值为约束。\r\n（3）目标函数\r\n应用直接法进行优化，采用综合目标值作为评定标准\r\n式中：F——综合目标值；\r\nF0——设计马赫数零升波阻系数；\r\nλ——零升波阻项加权因子；\r\n——i站位面积变化量，即罚函数项；\r\nλ1——常数，通常≤0.8；\r\nSi0——i站位原面积；\r\nSi——i站位修改后的面积，Si的变化量在设计容许范围内；\r\nm——将全机计算长度分割成m等份，即有m个站位，一般取100或200。\r\n（4）优化方法\r\n可采用直接搜索法，如鲍威尔法、拟牛顿法等进行迭代优化。\r\n10.9.3.2 对机身优化获得最佳真实机身外形\r\n（1）几何模型\r\n采用真实机身线架几何模型。\r\n（2）约束条件\r\n以线架几何模型若干纵向控制曲线参数值的变化范围为约束。一般选择线架模型的最大宽度线、上零点线或下零点线在沿轴向的某个区域内变化。生成上述样条曲线的控制点不宜太多。\r\n（3）目标函数\r\n式中：S——综合目标值；\r\nS0——机身最佳面积（优化得到的全机最佳面积分布扣除翼面、座舱盖等面积）分布的变化量\r\nS1——机身最佳面积分布；\r\nS2——修改参数后的机身面积分布；\r\nλ——加权因子；\r\n——罚函数项；\r\n(zi-zi0)——i修改站位几何参数的变化量；\r\nλ1——常数，通常≤0.8；\r\nzi0——修改前i站位的几何参数值；\r\nzi——修改后i站位的几何参数值；\r\nn·——将机身计算长度分割成n等份，即n个站位，一般取100或200。\r\n（4）优化方法\r\n可采用直接搜索法，如鲍威尔法、拟牛顿法等进行迭代优化。该方法在某型号方案选型设计阶段中得到了应用，取得了良好的效果。该方法也可推广用于曲线的优化设计，如进气道唇口截面的优化设计、统计数据优化处理等。\r\n10.10 曲线、曲面的光顺性检查及光顺\r\n为了减少飞机在飞行中的阻力，使飞机具有良好的气动性能，一般要求飞机具有光顺的几何外形。因此，在飞机几何设计中，要对定义的曲线、曲面进行光顺性检查及光顺处理。\r\n10.10.1 光顺的概念\r\n光顺是一种工程术语，包含光滑和顺眼两方面的概念。光滑表明曲线、曲面的连续性，而顺眼是工程设计人员依据其设计经验的一种模糊的主观判断的感觉。\r\n在飞机几何外形设计中，对曲线、曲面光顺的基本准则可以归纳如下（图10-58所示为不符合这些准则的曲线）：\r\n（1）一般讲，定义外形的曲线、曲面至少应具有一阶连续性（除一些特殊要求如隐身要求外）；\r\n（2）曲线、曲面无设计不需要的多余拐点；\r\n（3）若无特殊要求，曲率变化应比较均匀；\r\n（4）依据设计经验，观察曲面外形应符合设计要求，看上去比较顺眼、舒服。\r\n10.10.2 曲线的光顺\r\n曲线是进行曲面几何外形设计的基础，为设计出光顺的曲面，必须要设计出光顺的曲线。曲线光顺是曲面光顺的必要条件，但不是充分条件。近年来相继出现了一些有效的算法，可用计算机来自动进行曲线光顺。\r\n下面介绍几种常用的光顺方法。\r\n10.10.2.1 局部回弹法\r\n局部回弹法是一种选点修改的曲线光顺方法，是对手工光顺过程的直接模拟。\r\n（1）光顺的目标\r\na.曲线不出现多余的拐点\r\n按设计的具体情况，将整条曲线分成凸区和凹区，分界点即为拐点，在每个区段内应无拐点。\r\n若n为某区段曲线的节点数，P是给定的二阶导数的符号（凸区取“+1”，凹区取“-1”）则Py’’<0（i=1，2，…，n）的点为不光顺点，应修正。\r\nb.每区段曲线内曲率变化均匀，曲率曲线不出现拐点，即(y’’i+1-y’’i)(y’’i-y’i-1)<0，只允许最多出现一次。\r\n（2）光顺方法\r\na.按照上述光顺的目标，首先找出曲线的拐点，把曲线分为凹曲线和凸曲线。\r\nb.在不同区间的曲线上找出坏点。手工光顺曲线时，曲线上最不光顺的地方，其回弹力最大。\r\nc.舍弃坏点（xd、yd），进行三次样条的插值，并求出对应于xd的yd值y*。\r\nd.回弹系数\r\n根据具体要求，确定修改的大小\r\n式中：α——回弹系数（0<α≤1），α=l时称为全回弹。\r\n10.10.2.2 圆锥曲线法\r\n依据设计的具体情况，把整条曲线分为凹曲线和凸曲线，并找出分界点，每段曲线用圆锥曲线来进行逼近。利用圆锥曲线的保凸性和曲率变化的均匀性，多次迭代分段逼近原曲线，这是工程上常用的曲线光顺方法。\r\n（1）光顺目标\r\na.曲线不出现多余拐点\r\n按曲线的具体情况，将整条曲线分成凸曲线段和凹曲线段，找出两曲线段的分界点即为拐点，满足各分段曲线内的二阶导数不变号。\r\nb.控制曲线的边界，用圆锥曲线逼近各分段曲线，并保证分界点处具有公切矢。\r\n（2）光顺方法\r\na.首先按给定的型值点，生成三次样条，并按设计要求，找出凹曲线段与凸曲线段的分界点。\r\nb.不断地调整公切矢和圆锥曲线的PQ值，利用最小二乘法的原理进行迭代，使各段最小。\r\n如图10-59所示，虚线为原始设计曲线，点A、点B为找出的凹、凸曲线分界点，实线为圆锥曲线，不断调整公切矢和PQ值，使其逼近原始曲线。\r\n10.10.3 曲面的光顺\r\n10.10.3.1 曲面光顺的目标\r\n（1）在满足设计约束条件下，曲面不存在局部的凹陷和局部的凸出；\r\n（2）曲面各处曲率变化比较均匀，一般讲至少一阶导数连续。\r\n10.10.3.2 切水线法\r\n切水线法是工程上最常用的曲面光顺性检查方法，在计算机上，用CAD图形软件人机交互地进行。\r\n对已建立的曲面数学模型，用平面族以不同的方向去截曲面，得到不同的曲线族，观察曲线族的均匀性和曲线的光顺性，找出曲面的不光顺区及不光顺的量值，\r\n分析判断造成不光顺的原因，调整生成曲面的控制曲线（或调整网格线），再生成曲面数模。循环上述方法，直至曲线族光顺，即认为曲面在满足设计约束下达到了曲面光顺。例子见图10-60。\r\n在进行曲面光顺时，检查及修形可采用压缩一个坐标的比例，夸大不光顺性的方法进行。修形后再恢复原比例，能达到更好的光顺效果。\r\n10.10.3.3 高斯曲率法\r\n对己生成的曲面数学模型，计算并生成等z值，等y值或等x值曲面高斯曲率图。依据高斯曲率的符号及其变化规律，检查曲面的光顺性，找到不光顺区，进行修形，再检查，直至满足设计条件下曲面光顺。\r\n该方法要计算曲面的一阶和二阶偏导数，长期以来难以使用。计算机软、硬件技术的迅速发展，CAD软件水平的不断提高，使该方法有了工程实现的可能性。\r\n（1）高斯曲率的计算\r\na.主法截线\r\n通过曲面上点M的法线的平面与曲面的交线，都称为点M的法截线。通过曲面上的点的法截线有无穷多，在点M的法截线中，曲率最大和最小的两条记为C1，C2，称为主法截线，见图10-61。\r\nb.主曲率半径\r\nC1，C2在点M处的曲率半径R1，R2为主曲率半径。\r\nc.高斯曲率（总曲率）\r\n主曲率的乘积称为高斯曲率，记作K。设曲线方程为z=ƒ（x，y），则\r\n式中：\r\n（2）曲面的光顺性判别\r\na.式（10-20）中R1，R2，K都是曲面上点的函数，与所取的曲线坐标u，v无关；\r\nb.高斯曲率K>0的点称为椭圆点，这种点邻近的曲面在该点切面的同侧；\r\nc.高斯曲率K<0的点称为双曲点，这种点邻近的曲面像马鞍形面；\r\nd.高斯曲率K=0的点称为抛物点，这种点邻近的曲面像半马鞍形面。\r\n（3）曲面的光顺\r\n根据上述方法计算等z、等y、等x的高斯曲率图，并在计算机图形终端上，显示高斯曲率符号，找出不光顺区，分析判断不光顺的原因，对控制线反复光顺，再重复此过程，直至曲面光顺。\r\n10.10.3.4 曲面法矢检查法\r\n对已生成的曲面数学模型，计算并生成等z值，等y值或等x值的曲面法矢图，以凸曲面法矢向外为正，向里为负，并在计算机图形终端上，显示法矢的方向及大小。\r\n根据法矢的方向、大小来检查局部凸起、局部凹陷和曲面曲率变化的均匀性，再进行修形，直至曲面法矢的方向、大小满足设计要求为止。\r\n10.10.3.5 光照模型检查法\r\n用光照模型从各个角度对已生成的曲面进行照射，在计算机上生成真实感光照模型图。根据其反射及明暗的差别，找出不光顺区。该法直观、整体性强、检查速度也很快，作为光顺性的初步检查是个好方法。\r\n曲线、曲面的光顺性检查，不光顺原因的分析、判断，修形量值的估计，修形的具体方法及过程，都需要工程设计人员在设计过程中不断地积累经验，不断提高对几何图形的分析能力，\r\n根据曲线、曲面的具体情况及设计要求进行具体的分析、判断，修形设计出漂亮光顺的曲面几何外形。"
+}

@@ -1,0 +1,5216 @@
+{
+  "path": "F:\\01-科研资料\\03-项目工程\\AviationGraph\\AviationGraph\\DataProcess\\json\\4-1 军用飞机研制程序.txt",
+  "outputs": {
+    "annotation": {
+      "T": [
+        "",
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "[1995]技综字第2709号文——《常规武器装备研制程序》",
+          "start": 78,
+          "end": 108,
+          "attributes": [],
+          "id": 1
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "军用飞机",
+          "start": 4,
+          "end": 8,
+          "attributes": [],
+          "id": 2
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "军用飞机",
+          "start": 31,
+          "end": 35,
+          "attributes": [],
+          "id": 3
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "[1995]技综字第2709号文——《常规武器装备研制程序》",
+          "start": 158,
+          "end": 188,
+          "attributes": [],
+          "id": 4
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型试飞",
+          "start": 667,
+          "end": 673,
+          "attributes": [],
+          "id": 8
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型",
+          "start": 674,
+          "end": 678,
+          "attributes": [],
+          "id": 9
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "生产定型",
+          "start": 696,
+          "end": 700,
+          "attributes": [],
+          "id": 11
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "论证阶段",
+          "start": 258,
+          "end": 262,
+          "attributes": [],
+          "id": 12
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "方案阶段",
+          "start": 266,
+          "end": 270,
+          "attributes": [],
+          "id": 13
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "工程研制阶段",
+          "start": 274,
+          "end": 280,
+          "attributes": [],
+          "id": 14
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型阶段",
+          "start": 284,
+          "end": 290,
+          "attributes": [],
+          "id": 15
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "生产定型阶段",
+          "start": 294,
+          "end": 300,
+          "attributes": [],
+          "id": 16
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "军用飞机",
+          "start": 701,
+          "end": 705,
+          "attributes": [],
+          "id": 17
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机战术技术",
+          "start": 869,
+          "end": 875,
+          "attributes": [],
+          "id": 18
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "论证阶段",
+          "start": 802,
+          "end": 806,
+          "attributes": [],
+          "id": 19
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术性能指标要求",
+          "start": 912,
+          "end": 922,
+          "attributes": [],
+          "id": 20
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "综合后勤保障要求",
+          "start": 923,
+          "end": 931,
+          "attributes": [],
+          "id": 21
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "论证阶段",
+          "start": 1010,
+          "end": 1014,
+          "attributes": [],
+          "id": 22
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术指标",
+          "start": 1022,
+          "end": 1028,
+          "attributes": [],
+          "id": 23
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "寿命剖面",
+          "start": 1662,
+          "end": 1666,
+          "attributes": [],
+          "id": 26
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "任务剖面",
+          "start": 1667,
+          "end": 1671,
+          "attributes": [],
+          "id": 27
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "环境剖面",
+          "start": 1672,
+          "end": 1676,
+          "attributes": [],
+          "id": 28
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术要求论证",
+          "start": 1402,
+          "end": 1410,
+          "attributes": [],
+          "id": 29
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术可行性论证",
+          "start": 1499,
+          "end": 1506,
+          "attributes": [],
+          "id": 30
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "经济可行性论证",
+          "start": 1724,
+          "end": 1731,
+          "attributes": [],
+          "id": 31
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "零级网络图",
+          "start": 1799,
+          "end": 1804,
+          "attributes": [],
+          "id": 34
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术要求",
+          "start": 2019,
+          "end": 2025,
+          "attributes": [],
+          "id": 36
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "任务要求",
+          "start": 2026,
+          "end": 2030,
+          "attributes": [],
+          "id": 37
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "保障条件",
+          "start": 1837,
+          "end": 1841,
+          "attributes": [],
+          "id": 40
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制周期",
+          "start": 1842,
+          "end": 1846,
+          "attributes": [],
+          "id": 41
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "经费测算",
+          "start": 1896,
+          "end": 1900,
+          "attributes": [],
+          "id": 42
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制周期",
+          "start": 1901,
+          "end": 1905,
+          "attributes": [],
+          "id": 43
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "工作说明",
+          "start": 2065,
+          "end": 2069,
+          "attributes": [],
+          "id": 44
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术要求文件",
+          "start": 2075,
+          "end": 2081,
+          "attributes": [],
+          "id": 45
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体技术方案论证",
+          "start": 2258,
+          "end": 2266,
+          "attributes": [],
+          "id": 47
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体技术方案",
+          "start": 2275,
+          "end": 2281,
+          "attributes": [],
+          "id": 48
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机总体指令性文件",
+          "start": 2326,
+          "end": 2335,
+          "attributes": [],
+          "id": 50
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机各系统方案",
+          "start": 2339,
+          "end": 2346,
+          "attributes": [],
+          "id": 51
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "关键成品承制单位",
+          "start": 2364,
+          "end": 2372,
+          "attributes": [],
+          "id": 52
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机总体工艺性论证",
+          "start": 2385,
+          "end": 2394,
+          "attributes": [],
+          "id": 53
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "新机可靠性大纲",
+          "start": 2400,
+          "end": 2407,
+          "attributes": [],
+          "id": 54
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "维修性大纲",
+          "start": 2408,
+          "end": 2413,
+          "attributes": [],
+          "id": 55
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "综合后勤保障大纲",
+          "start": 2414,
+          "end": 2422,
+          "attributes": [],
+          "id": 56
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制条件分析",
+          "start": 2465,
+          "end": 2471,
+          "attributes": [],
+          "id": 63
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术改造项目",
+          "start": 2476,
+          "end": 2482,
+          "attributes": [],
+          "id": 64
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术引进项目",
+          "start": 2483,
+          "end": 2489,
+          "attributes": [],
+          "id": 65
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制工作总计划",
+          "start": 2507,
+          "end": 2514,
+          "attributes": [],
+          "id": 66
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "零级计划网络图",
+          "start": 2517,
+          "end": 2524,
+          "attributes": [],
+          "id": 67
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "关键质量控制节点",
+          "start": 2527,
+          "end": 2535,
+          "attributes": [],
+          "id": 68
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "功能开发试验",
+          "start": 2575,
+          "end": 2581,
+          "attributes": [],
+          "id": 70
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术攻关试验",
+          "start": 2582,
+          "end": 2588,
+          "attributes": [],
+          "id": 71
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制经费",
+          "start": 2594,
+          "end": 2598,
+          "attributes": [],
+          "id": 72
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量保证大纲",
+          "start": 2621,
+          "end": 2627,
+          "attributes": [],
+          "id": 73
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术要求论证报告",
+          "start": 2708,
+          "end": 2718,
+          "attributes": [],
+          "id": 74
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体技术方案论证报告",
+          "start": 2722,
+          "end": 2732,
+          "attributes": [],
+          "id": 75
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制经费论证报告",
+          "start": 2736,
+          "end": 2744,
+          "attributes": [],
+          "id": 76
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制周期论证报告",
+          "start": 2749,
+          "end": 2757,
+          "attributes": [],
+          "id": 77
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "保障条件论证报告",
+          "start": 2761,
+          "end": 2769,
+          "attributes": [],
+          "id": 78
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术要求",
+          "start": 2789,
+          "end": 2795,
+          "attributes": [],
+          "id": 79
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术、经济可行性论证",
+          "start": 2796,
+          "end": 2806,
+          "attributes": [],
+          "id": 80
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量控制要点",
+          "start": 2807,
+          "end": 2813,
+          "attributes": [],
+          "id": 81
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战使用要求协调会",
+          "start": 2819,
+          "end": 2827,
+          "attributes": [],
+          "id": 82
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术要求协调会",
+          "start": 2828,
+          "end": 2837,
+          "attributes": [],
+          "id": 83
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术指标要求",
+          "start": 2841,
+          "end": 2849,
+          "attributes": [],
+          "id": 84
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计指标",
+          "start": 2879,
+          "end": 2883,
+          "attributes": [],
+          "id": 86
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术途径",
+          "start": 2884,
+          "end": 2888,
+          "attributes": [],
+          "id": 87
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量控制要点",
+          "start": 3123,
+          "end": 3129,
+          "attributes": [],
+          "id": 89
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量管理水平",
+          "start": 3341,
+          "end": 3347,
+          "attributes": [],
+          "id": 90
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量体系",
+          "start": 3352,
+          "end": 3356,
+          "attributes": [],
+          "id": 91
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "科研保障能力",
+          "start": 3426,
+          "end": 3432,
+          "attributes": [],
+          "id": 94
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试验研究条件",
+          "start": 3433,
+          "end": 3439,
+          "attributes": [],
+          "id": 95
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术攻关风险费用",
+          "start": 3545,
+          "end": 3553,
+          "attributes": [],
+          "id": 96
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量成本",
+          "start": 3554,
+          "end": 3558,
+          "attributes": [],
+          "id": 97
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "经济效益",
+          "start": 3562,
+          "end": 3566,
+          "attributes": [],
+          "id": 98
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "费用估算",
+          "start": 3535,
+          "end": 3539,
+          "attributes": [],
+          "id": 99
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "物价上涨因素",
+          "start": 3567,
+          "end": 3573,
+          "attributes": [],
+          "id": 100
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "论证报告",
+          "start": 3605,
+          "end": 3609,
+          "attributes": [],
+          "id": 102
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "政总指挥",
+          "start": 3662,
+          "end": 3666,
+          "attributes": [],
+          "id": 104
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总设计师",
+          "start": 3667,
+          "end": 3671,
+          "attributes": [],
+          "id": 105
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "型号行政总指挥系统",
+          "start": 3674,
+          "end": 3683,
+          "attributes": [],
+          "id": 106
+        },
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "设计师系统",
+          "start": 3684,
+          "end": 3689,
+          "attributes": [],
+          "id": 108
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "质量师系统",
+          "start": 3690,
+          "end": 3695,
+          "attributes": [],
+          "id": 109
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "工作条例",
+          "start": 3698,
+          "end": 3702,
+          "attributes": [],
+          "id": 110
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "管理制度",
+          "start": 3703,
+          "end": 3707,
+          "attributes": [],
+          "id": 111
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "方案阶段",
+          "start": 3731,
+          "end": 3735,
+          "attributes": [],
+          "id": 112
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制方案论证和验证",
+          "start": 3787,
+          "end": 3796,
+          "attributes": [],
+          "id": 115
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术方案设计",
+          "start": 3816,
+          "end": 3822,
+          "attributes": [],
+          "id": 116
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "关键技术攻关",
+          "start": 3823,
+          "end": 3829,
+          "attributes": [],
+          "id": 117
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机总体技术设计",
+          "start": 4006,
+          "end": 4014,
+          "attributes": [],
+          "id": 120
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体布置",
+          "start": 4036,
+          "end": 4040,
+          "attributes": [],
+          "id": 122
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "分区协调",
+          "start": 4041,
+          "end": 4045,
+          "attributes": [],
+          "id": 123
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "选择结构方案",
+          "start": 4046,
+          "end": 4052,
+          "attributes": [],
+          "id": 124
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "系统原理方案及配置",
+          "start": 4053,
+          "end": 4062,
+          "attributes": [],
+          "id": 125
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "可靠性",
+          "start": 4064,
+          "end": 4067,
+          "attributes": [],
+          "id": 126
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "维修性",
+          "start": 4068,
+          "end": 4071,
+          "attributes": [],
+          "id": 127
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机型号规范",
+          "start": 4097,
+          "end": 4103,
+          "attributes": [],
+          "id": 128
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机配套技术状态",
+          "start": 4109,
+          "end": 4117,
+          "attributes": [],
+          "id": 129
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "结构方案设计",
+          "start": 4123,
+          "end": 4129,
+          "attributes": [],
+          "id": 130
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "机体结构承力系统",
+          "start": 4132,
+          "end": 4140,
+          "attributes": [],
+          "id": 131
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "强度计算原则",
+          "start": 4162,
+          "end": 4168,
+          "attributes": [],
+          "id": 132
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "结构设计原则",
+          "start": 4169,
+          "end": 4175,
+          "attributes": [],
+          "id": 133
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机三面图",
+          "start": 4184,
+          "end": 4189,
+          "attributes": [],
+          "id": 134
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体布置图",
+          "start": 4190,
+          "end": 4195,
+          "attributes": [],
+          "id": 135
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "分区协调规定",
+          "start": 4230,
+          "end": 4236,
+          "attributes": [],
+          "id": 139
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机设计发图规定",
+          "start": 4237,
+          "end": 4245,
+          "attributes": [],
+          "id": 140
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "可靠性大纲",
+          "start": 4251,
+          "end": 4256,
+          "attributes": [],
+          "id": 141
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "维修性大纲",
+          "start": 4257,
+          "end": 4262,
+          "attributes": [],
+          "id": 142
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "综合后勤保障大纲",
+          "start": 4263,
+          "end": 4271,
+          "attributes": [],
+          "id": 143
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "地面设备",
+          "start": 4276,
+          "end": 4280,
+          "attributes": [],
+          "id": 144
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "随机工具配套清册",
+          "start": 4281,
+          "end": 4289,
+          "attributes": [],
+          "id": 145
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制费用",
+          "start": 4295,
+          "end": 4299,
+          "attributes": [],
+          "id": 146
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "经费控制措施",
+          "start": 4302,
+          "end": 4308,
+          "attributes": [],
+          "id": 147
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "全寿命期费用",
+          "start": 4313,
+          "end": 4319,
+          "attributes": [],
+          "id": 148
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "零级网络图",
+          "start": 4325,
+          "end": 4330,
+          "attributes": [],
+          "id": 149
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "二级网络图",
+          "start": 4336,
+          "end": 4341,
+          "attributes": [],
+          "id": 150
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "地面保障设备目录",
+          "start": 4347,
+          "end": 4355,
+          "attributes": [],
+          "id": 152
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "外购地面保障设备技术协议",
+          "start": 4358,
+          "end": 4370,
+          "attributes": [],
+          "id": 153
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "功能开发试验项目和计划",
+          "start": 4376,
+          "end": 4387,
+          "attributes": [],
+          "id": 154
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机试飞方案",
+          "start": 4393,
+          "end": 4399,
+          "attributes": [],
+          "id": 155
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞行试验项目和计划",
+          "start": 4400,
+          "end": 4409,
+          "attributes": [],
+          "id": 156
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "落实研制",
+          "start": 4413,
+          "end": 4417,
+          "attributes": [],
+          "id": 157
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "外协加工",
+          "start": 4418,
+          "end": 4422,
+          "attributes": [],
+          "id": 158
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "物资引进",
+          "start": 4423,
+          "end": 4427,
+          "attributes": [],
+          "id": 159
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术改造",
+          "start": 4428,
+          "end": 4432,
+          "attributes": [],
+          "id": 160
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "基建计划",
+          "start": 4433,
+          "end": 4437,
+          "attributes": [],
+          "id": 161
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "系统技术设计",
+          "start": 4442,
+          "end": 4448,
+          "attributes": [],
+          "id": 162
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "各系统、分系统和主要机载设备技术规范",
+          "start": 4453,
+          "end": 4471,
+          "attributes": [],
+          "id": 163
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计任务书",
+          "start": 4473,
+          "end": 4478,
+          "attributes": [],
+          "id": 164
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "结构方案设计",
+          "start": 4485,
+          "end": 4491,
+          "attributes": [],
+          "id": 165
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "各系统、分系统接口控制文件",
+          "start": 4497,
+          "end": 4510,
+          "attributes": [],
+          "id": 166
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "新成品技术协议",
+          "start": 4516,
+          "end": 4523,
+          "attributes": [],
+          "id": 167
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "功能开发试验",
+          "start": 4530,
+          "end": 4536,
+          "attributes": [],
+          "id": 168
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "全机试验验证计划",
+          "start": 4541,
+          "end": 4549,
+          "attributes": [],
+          "id": 169
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试验任务书",
+          "start": 4552,
+          "end": 4557,
+          "attributes": [],
+          "id": 170
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试验大纲",
+          "start": 4558,
+          "end": 4562,
+          "attributes": [],
+          "id": 171
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量保证大纲",
+          "start": 4563,
+          "end": 4569,
+          "attributes": [],
+          "id": 172
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "专用试验台建设",
+          "start": 4572,
+          "end": 4579,
+          "attributes": [],
+          "id": 173
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机试验件清单",
+          "start": 4582,
+          "end": 4589,
+          "attributes": [],
+          "id": 174
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试验报告",
+          "start": 4617,
+          "end": 4621,
+          "attributes": [],
+          "id": 176
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "成品协调",
+          "start": 4626,
+          "end": 4630,
+          "attributes": [],
+          "id": 177
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "供应单位名单",
+          "start": 4638,
+          "end": 4644,
+          "attributes": [],
+          "id": 178
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "成品目录",
+          "start": 4650,
+          "end": 4654,
+          "attributes": [],
+          "id": 179
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "分区协调",
+          "start": 4683,
+          "end": 4687,
+          "attributes": [],
+          "id": 181
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "协调图",
+          "start": 4692,
+          "end": 4695,
+          "attributes": [],
+          "id": 182
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "协调纪要",
+          "start": 4701,
+          "end": 4705,
+          "attributes": [],
+          "id": 183
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "协调记录",
+          "start": 4711,
+          "end": 4715,
+          "attributes": [],
+          "id": 184
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "协调区评审报告",
+          "start": 4721,
+          "end": 4728,
+          "attributes": [],
+          "id": 185
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "型号研制任务书",
+          "start": 4735,
+          "end": 4742,
+          "attributes": [],
+          "id": 186
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "样机设计、制造和评审",
+          "start": 4778,
+          "end": 4788,
+          "attributes": [],
+          "id": 187
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机研制程序",
+          "start": 4789,
+          "end": 4795,
+          "attributes": [],
+          "id": 188
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "样机",
+          "start": 4804,
+          "end": 4806,
+          "attributes": [],
+          "id": 190
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "使用维护要求",
+          "start": 4873,
+          "end": 4879,
+          "attributes": [],
+          "id": 191
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "样机设计制造技术要求的文件",
+          "start": 4923,
+          "end": 4936,
+          "attributes": [],
+          "id": 193
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机样机制作技术文件",
+          "start": 4940,
+          "end": 4950,
+          "attributes": [],
+          "id": 194
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机样机技术条件",
+          "start": 4955,
+          "end": 4963,
+          "attributes": [],
+          "id": 195
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机样机零、组件目录",
+          "start": 4968,
+          "end": 4978,
+          "attributes": [],
+          "id": 196
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机样机成品、附件目录",
+          "start": 4983,
+          "end": 4994,
+          "attributes": [],
+          "id": 197
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机样机总体布置图",
+          "start": 4999,
+          "end": 5008,
+          "attributes": [],
+          "id": 198
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "样机图样设计",
+          "start": 5014,
+          "end": 5020,
+          "attributes": [],
+          "id": 199
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "样机生产图样",
+          "start": 5023,
+          "end": 5029,
+          "attributes": [],
+          "id": 200
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术设计评审",
+          "start": 5044,
+          "end": 5050,
+          "attributes": [],
+          "id": 201
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "样机审查",
+          "start": 5051,
+          "end": 5055,
+          "attributes": [],
+          "id": 202
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "样机审查会议",
+          "start": 5058,
+          "end": 5064,
+          "attributes": [],
+          "id": 203
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "型号研制任务书",
+          "start": 5078,
+          "end": 5085,
+          "attributes": [],
+          "id": 205
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "系统研制任务书",
+          "start": 5091,
+          "end": 5098,
+          "attributes": [],
+          "id": 206
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机设计阶段报告",
+          "start": 5113,
+          "end": 5121,
+          "attributes": [],
+          "id": 207
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "样机简介",
+          "start": 5122,
+          "end": 5126,
+          "attributes": [],
+          "id": 208
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机性能计算报告",
+          "start": 5127,
+          "end": 5135,
+          "attributes": [],
+          "id": 209
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "系统设备设计要求",
+          "start": 5136,
+          "end": 5144,
+          "attributes": [],
+          "id": 210
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "重心计算报告",
+          "start": 5150,
+          "end": 5156,
+          "attributes": [],
+          "id": 212
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机配套技术状态",
+          "start": 5157,
+          "end": 5165,
+          "attributes": [],
+          "id": 213
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机座舱设计说明",
+          "start": 5166,
+          "end": 5174,
+          "attributes": [],
+          "id": 214
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞行员操作程序",
+          "start": 5175,
+          "end": 5182,
+          "attributes": [],
+          "id": 215
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机可靠性、维修性和可测试性设计报告",
+          "start": 5183,
+          "end": 5201,
+          "attributes": [],
+          "id": 216
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机地面设备、工具配套方案",
+          "start": 5202,
+          "end": 5215,
+          "attributes": [],
+          "id": 217
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机三面图",
+          "start": 5220,
+          "end": 5225,
+          "attributes": [],
+          "id": 218
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体布置图",
+          "start": 5226,
+          "end": 5231,
+          "attributes": [],
+          "id": 219
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "座舱布置图",
+          "start": 5232,
+          "end": 5237,
+          "attributes": [],
+          "id": 220
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机外挂配置图",
+          "start": 5238,
+          "end": 5245,
+          "attributes": [],
+          "id": 221
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机维护口盖布置图",
+          "start": 5246,
+          "end": 5255,
+          "attributes": [],
+          "id": 222
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机型号规范",
+          "start": 5301,
+          "end": 5307,
+          "attributes": [],
+          "id": 223
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "可靠性大纲",
+          "start": 5378,
+          "end": 5383,
+          "attributes": [],
+          "id": 224
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "维修性大纲",
+          "start": 5384,
+          "end": 5389,
+          "attributes": [],
+          "id": 225
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "综合后勤保障",
+          "start": 5390,
+          "end": 5396,
+          "attributes": [],
+          "id": 226
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "可靠性设计",
+          "start": 5403,
+          "end": 5408,
+          "attributes": [],
+          "id": 227
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "维修性设计",
+          "start": 5409,
+          "end": 5414,
+          "attributes": [],
+          "id": 228
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "综合后勤保障设计",
+          "start": 5415,
+          "end": 5423,
+          "attributes": [],
+          "id": 229
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "人机交换",
+          "start": 5430,
+          "end": 5434,
+          "attributes": [],
+          "id": 230
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "人机工程",
+          "start": 5450,
+          "end": 5454,
+          "attributes": [],
+          "id": 231
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "新成品",
+          "start": 5464,
+          "end": 5467,
+          "attributes": [],
+          "id": 232
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "改型成品",
+          "start": 5470,
+          "end": 5474,
+          "attributes": [],
+          "id": 233
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "分区协调",
+          "start": 5505,
+          "end": 5509,
+          "attributes": [],
+          "id": 234
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "评审验收",
+          "start": 5520,
+          "end": 5524,
+          "attributes": [],
+          "id": 235
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术设计",
+          "start": 5529,
+          "end": 5533,
+          "attributes": [],
+          "id": 236
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "样机制造",
+          "start": 5534,
+          "end": 5538,
+          "attributes": [],
+          "id": 237
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制主管部门",
+          "start": 5545,
+          "end": 5551,
+          "attributes": [],
+          "id": 238
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术设计评审",
+          "start": 5553,
+          "end": 5559,
+          "attributes": [],
+          "id": 239
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "样机审查",
+          "start": 5560,
+          "end": 5564,
+          "attributes": [],
+          "id": 240
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机分配基线",
+          "start": 5584,
+          "end": 5590,
+          "attributes": [],
+          "id": 241
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术状态",
+          "start": 5577,
+          "end": 5581,
+          "attributes": [],
+          "id": 242
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "系统技术状态",
+          "start": 5601,
+          "end": 5607,
+          "attributes": [],
+          "id": 243
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "工程研制阶段",
+          "start": 5768,
+          "end": 5774,
+          "attributes": [],
+          "id": 246
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "详细设计",
+          "start": 5863,
+          "end": 5867,
+          "attributes": [],
+          "id": 248
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试制",
+          "start": 5868,
+          "end": 5870,
+          "attributes": [],
+          "id": 249
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "鉴定试验",
+          "start": 5871,
+          "end": 5875,
+          "attributes": [],
+          "id": 250
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术指标要求",
+          "start": 5894,
+          "end": 5902,
+          "attributes": [],
+          "id": 252
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试飞大纲",
+          "start": 5958,
+          "end": 5962,
+          "attributes": [],
+          "id": 255
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "发图指令性文件",
+          "start": 5988,
+          "end": 5995,
+          "attributes": [],
+          "id": 256
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "发图规定",
+          "start": 5998,
+          "end": 6002,
+          "attributes": [],
+          "id": 257
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "材料选用规定",
+          "start": 6006,
+          "end": 6012,
+          "attributes": [],
+          "id": 258
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "标准选用规定",
+          "start": 6016,
+          "end": 6022,
+          "attributes": [],
+          "id": 259
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "强度计算原则",
+          "start": 6026,
+          "end": 6032,
+          "attributes": [],
+          "id": 260
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "全套生产图样",
+          "start": 6055,
+          "end": 6061,
+          "attributes": [],
+          "id": 261
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机设计图样",
+          "start": 6068,
+          "end": 6074,
+          "attributes": [],
+          "id": 262
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "地面设备和随机工具生产图样",
+          "start": 6075,
+          "end": 6088,
+          "attributes": [],
+          "id": 263
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试验件和试验设备图样",
+          "start": 6089,
+          "end": 6099,
+          "attributes": [],
+          "id": 264
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "新建或改建试验设施图样",
+          "start": 6100,
+          "end": 6111,
+          "attributes": [],
+          "id": 265
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "制造技术条件",
+          "start": 6119,
+          "end": 6125,
+          "attributes": [],
+          "id": 266
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "配套目录",
+          "start": 6133,
+          "end": 6137,
+          "attributes": [],
+          "id": 267
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术说明书",
+          "start": 6143,
+          "end": 6148,
+          "attributes": [],
+          "id": 268
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "使用维护说明书",
+          "start": 6154,
+          "end": 6161,
+          "attributes": [],
+          "id": 269
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "航材目录",
+          "start": 6167,
+          "end": 6171,
+          "attributes": [],
+          "id": 270
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "工艺审查",
+          "start": 6187,
+          "end": 6191,
+          "attributes": [],
+          "id": 271
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机试制总工艺方案",
+          "start": 6197,
+          "end": 6206,
+          "attributes": [],
+          "id": 272
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "计划网络图",
+          "start": 6212,
+          "end": 6217,
+          "attributes": [],
+          "id": 273
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试制生产线",
+          "start": 6223,
+          "end": 6228,
+          "attributes": [],
+          "id": 274
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "生产准备",
+          "start": 6234,
+          "end": 6238,
+          "attributes": [],
+          "id": 275
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "成品样机试制",
+          "start": 6253,
+          "end": 6259,
+          "attributes": [],
+          "id": 276
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "成品试验件",
+          "start": 6262,
+          "end": 6267,
+          "attributes": [],
+          "id": 277
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "发图前验证性试验",
+          "start": 6287,
+          "end": 6295,
+          "attributes": [],
+          "id": 279
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "详细设计",
+          "start": 6300,
+          "end": 6304,
+          "attributes": [],
+          "id": 280
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计符合性报告",
+          "start": 6335,
+          "end": 6342,
+          "attributes": [],
+          "id": 281
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "可靠性、维修性和综合后勤保障设计报告",
+          "start": 6404,
+          "end": 6422,
+          "attributes": [],
+          "id": 282
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试制生产",
+          "start": 6372,
+          "end": 6376,
+          "attributes": [],
+          "id": 283
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "系统可行性报告",
+          "start": 6393,
+          "end": 6400,
+          "attributes": [],
+          "id": 284
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "可靠性、维修性和综合后勤保障评审报告",
+          "start": 6426,
+          "end": 6444,
+          "attributes": [],
+          "id": 285
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "型号规范",
+          "start": 6480,
+          "end": 6484,
+          "attributes": [],
+          "id": 288
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "系统设备设计规范",
+          "start": 6485,
+          "end": 6493,
+          "attributes": [],
+          "id": 289
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机产品规范",
+          "start": 6494,
+          "end": 6500,
+          "attributes": [],
+          "id": 290
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计图样",
+          "start": 6501,
+          "end": 6505,
+          "attributes": [],
+          "id": 291
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术条件",
+          "start": 6506,
+          "end": 6510,
+          "attributes": [],
+          "id": 292
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试制和鉴定试验",
+          "start": 6464,
+          "end": 6471,
+          "attributes": [],
+          "id": 293
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试制和鉴定试验",
+          "start": 6514,
+          "end": 6521,
+          "attributes": [],
+          "id": 294
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "新机试制",
+          "start": 6526,
+          "end": 6530,
+          "attributes": [],
+          "id": 295
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "工装设计、制造",
+          "start": 6533,
+          "end": 6540,
+          "attributes": [],
+          "id": 296
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "零件制造",
+          "start": 6544,
+          "end": 6548,
+          "attributes": [],
+          "id": 297
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "部件装配",
+          "start": 6552,
+          "end": 6556,
+          "attributes": [],
+          "id": 298
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机总装",
+          "start": 6557,
+          "end": 6561,
+          "attributes": [],
+          "id": 299
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机调试",
+          "start": 6565,
+          "end": 6569,
+          "attributes": [],
+          "id": 300
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "地面试验",
+          "start": 6570,
+          "end": 6574,
+          "attributes": [],
+          "id": 301
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "鉴定试验",
+          "start": 6579,
+          "end": 6583,
+          "attributes": [],
+          "id": 302
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "编制试验任务书",
+          "start": 6586,
+          "end": 6593,
+          "attributes": [],
+          "id": 303
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "静力、应力试验任务书",
+          "start": 6597,
+          "end": 6607,
+          "attributes": [],
+          "id": 304
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "兼容性试验",
+          "start": 6614,
+          "end": 6619,
+          "attributes": [],
+          "id": 305
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "机械和电气接口兼容性试验",
+          "start": 6620,
+          "end": 6632,
+          "attributes": [],
+          "id": 306
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "电磁兼容性试验",
+          "start": 6633,
+          "end": 6640,
+          "attributes": [],
+          "id": 307
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "软硬件兼容性试验",
+          "start": 6641,
+          "end": 6649,
+          "attributes": [],
+          "id": 308
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "人机相容性试验",
+          "start": 6650,
+          "end": 6657,
+          "attributes": [],
+          "id": 309
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "维修性",
+          "start": 6674,
+          "end": 6677,
+          "attributes": [],
+          "id": 311
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "安全性",
+          "start": 6678,
+          "end": 6681,
+          "attributes": [],
+          "id": 312
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "人机工程",
+          "start": 6682,
+          "end": 6686,
+          "attributes": [],
+          "id": 313
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "系统试验",
+          "start": 6689,
+          "end": 6693,
+          "attributes": [],
+          "id": 314
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "环境试验任务书",
+          "start": 6694,
+          "end": 6701,
+          "attributes": [],
+          "id": 315
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "地面设备适用性试验任务书",
+          "start": 6706,
+          "end": 6718,
+          "attributes": [],
+          "id": 316
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "地面各主要分系统试验任务书",
+          "start": 6723,
+          "end": 6736,
+          "attributes": [],
+          "id": 317
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "地面、机上综合试验任务书",
+          "start": 6741,
+          "end": 6753,
+          "attributes": [],
+          "id": 318
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "地面和机上地面试验",
+          "start": 6761,
+          "end": 6770,
+          "attributes": [],
+          "id": 319
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "地面和机上地面试验报告",
+          "start": 6778,
+          "end": 6789,
+          "attributes": [],
+          "id": 320
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设备、系统功能和性能试验报告",
+          "start": 6795,
+          "end": 6809,
+          "attributes": [],
+          "id": 321
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "系统地面模拟试验报告",
+          "start": 6814,
+          "end": 6824,
+          "attributes": [],
+          "id": 323
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "全机静力试验报告",
+          "start": 6829,
+          "end": 6837,
+          "attributes": [],
+          "id": 324
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "各系统机上地面试验报告",
+          "start": 6842,
+          "end": 6853,
+          "attributes": [],
+          "id": 325
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "地面设备适用性检查报告",
+          "start": 6858,
+          "end": 6869,
+          "attributes": [],
+          "id": 326
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空、地勤改装讲义",
+          "start": 6875,
+          "end": 6883,
+          "attributes": [],
+          "id": 327
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空勤改装培训",
+          "start": 6886,
+          "end": 6892,
+          "attributes": [],
+          "id": 328
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试飞任务书",
+          "start": 6898,
+          "end": 6903,
+          "attributes": [],
+          "id": 329
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试飞大纲",
+          "start": 6904,
+          "end": 6908,
+          "attributes": [],
+          "id": 330
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "首飞",
+          "start": 6913,
+          "end": 6915,
+          "attributes": [],
+          "id": 331
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制结论",
+          "start": 6962,
+          "end": 6966,
+          "attributes": [],
+          "id": 333
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量复查结论",
+          "start": 6967,
+          "end": 6973,
+          "attributes": [],
+          "id": 334
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "操纵品质",
+          "start": 6986,
+          "end": 6990,
+          "attributes": [],
+          "id": 338
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "强度",
+          "start": 6983,
+          "end": 6985,
+          "attributes": [],
+          "id": 339
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "系统设计",
+          "start": 6993,
+          "end": 6997,
+          "attributes": [],
+          "id": 340
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试验结论",
+          "start": 6998,
+          "end": 7002,
+          "attributes": [],
+          "id": 341
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "重大超差代料",
+          "start": 7014,
+          "end": 7020,
+          "attributes": [],
+          "id": 342
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "机务、场站保障措施",
+          "start": 7027,
+          "end": 7036,
+          "attributes": [],
+          "id": 344
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "首飞安全措施",
+          "start": 7037,
+          "end": 7043,
+          "attributes": [],
+          "id": 345
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空勤改装",
+          "start": 7048,
+          "end": 7052,
+          "attributes": [],
+          "id": 346
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "应急情况处理措施",
+          "start": 7065,
+          "end": 7073,
+          "attributes": [],
+          "id": 347
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "首飞评审",
+          "start": 7077,
+          "end": 7081,
+          "attributes": [],
+          "id": 348
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机研制现场总指挥",
+          "start": 7087,
+          "end": 7096,
+          "attributes": [],
+          "id": 349
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "首飞申请",
+          "start": 7098,
+          "end": 7102,
+          "attributes": [],
+          "id": 350
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机首飞技术支援组",
+          "start": 7114,
+          "end": 7123,
+          "attributes": [],
+          "id": 351
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "现场技术支援",
+          "start": 7126,
+          "end": 7132,
+          "attributes": [],
+          "id": 352
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "承制单位",
+          "start": 7135,
+          "end": 7139,
+          "attributes": [],
+          "id": 353
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制主管部门",
+          "start": 7166,
+          "end": 7172,
+          "attributes": [],
+          "id": 355
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试飞单位",
+          "start": 7193,
+          "end": 7197,
+          "attributes": [],
+          "id": 357
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "调整试飞",
+          "start": 7208,
+          "end": 7212,
+          "attributes": [],
+          "id": 359
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "调整试飞大纲",
+          "start": 7217,
+          "end": 7223,
+          "attributes": [],
+          "id": 360
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "调整试飞",
+          "start": 7225,
+          "end": 7229,
+          "attributes": [],
+          "id": 361
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试飞报告",
+          "start": 7233,
+          "end": 7237,
+          "attributes": [],
+          "id": 362
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型试飞申请报告",
+          "start": 7244,
+          "end": 7254,
+          "attributes": [],
+          "id": 363
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型试飞大纲",
+          "start": 7255,
+          "end": 7263,
+          "attributes": [],
+          "id": 364
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量控制要点",
+          "start": 7273,
+          "end": 7279,
+          "attributes": [],
+          "id": 365
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "详细设计质量控制要点",
+          "start": 7283,
+          "end": 7293,
+          "attributes": [],
+          "id": 366
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "生产图样",
+          "start": 7296,
+          "end": 7300,
+          "attributes": [],
+          "id": 367
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术文件",
+          "start": 7301,
+          "end": 7305,
+          "attributes": [],
+          "id": 368
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机型号规范",
+          "start": 7313,
+          "end": 7319,
+          "attributes": [],
+          "id": 369
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "发图指令文件",
+          "start": 7337,
+          "end": 7343,
+          "attributes": [],
+          "id": 370
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计图样",
+          "start": 7350,
+          "end": 7354,
+          "attributes": [],
+          "id": 371
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "载荷",
+          "start": 7367,
+          "end": 7369,
+          "attributes": [],
+          "id": 372
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "强度",
+          "start": 7370,
+          "end": 7372,
+          "attributes": [],
+          "id": 373
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "刚度",
+          "start": 7373,
+          "end": 7375,
+          "attributes": [],
+          "id": 375
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "重量",
+          "start": 7376,
+          "end": 7378,
+          "attributes": [],
+          "id": 376
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "可靠性",
+          "start": 7388,
+          "end": 7391,
+          "attributes": [],
+          "id": 377
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "维修性",
+          "start": 7392,
+          "end": 7395,
+          "attributes": [],
+          "id": 378
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "测试性",
+          "start": 7396,
+          "end": 7399,
+          "attributes": [],
+          "id": 379
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术协调",
+          "start": 7400,
+          "end": 7404,
+          "attributes": [],
+          "id": 380
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "环境条件",
+          "start": 7405,
+          "end": 7409,
+          "attributes": [],
+          "id": 381
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "经济性",
+          "start": 7411,
+          "end": 7414,
+          "attributes": [],
+          "id": 382
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计输入",
+          "start": 7431,
+          "end": 7435,
+          "attributes": [],
+          "id": 383
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计图样",
+          "start": 7464,
+          "end": 7468,
+          "attributes": [],
+          "id": 384
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "单元件",
+          "start": 7501,
+          "end": 7504,
+          "attributes": [],
+          "id": 385
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "机载设备",
+          "start": 7520,
+          "end": 7524,
+          "attributes": [],
+          "id": 386
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "原始资料",
+          "start": 7540,
+          "end": 7544,
+          "attributes": [],
+          "id": 387
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "分析论证资料",
+          "start": 7545,
+          "end": 7551,
+          "attributes": [],
+          "id": 388
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "可追溯性",
+          "start": 7577,
+          "end": 7581,
+          "attributes": [],
+          "id": 390
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "详细设计",
+          "start": 7585,
+          "end": 7589,
+          "attributes": [],
+          "id": 391
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "详细设计评审",
+          "start": 7596,
+          "end": 7602,
+          "attributes": [],
+          "id": 392
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试制生产",
+          "start": 7652,
+          "end": 7656,
+          "attributes": [],
+          "id": 393
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "超差代料文件",
+          "start": 7758,
+          "end": 7764,
+          "attributes": [],
+          "id": 395
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术权限",
+          "start": 7776,
+          "end": 7780,
+          "attributes": [],
+          "id": 396
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "审批程序",
+          "start": 7797,
+          "end": 7801,
+          "attributes": [],
+          "id": 397
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试验质量",
+          "start": 7811,
+          "end": 7815,
+          "attributes": [],
+          "id": 398
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试验任务书",
+          "start": 7904,
+          "end": 7909,
+          "attributes": [],
+          "id": 399
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "测试参数",
+          "start": 7934,
+          "end": 7938,
+          "attributes": [],
+          "id": 400
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "精度",
+          "start": 7939,
+          "end": 7941,
+          "attributes": [],
+          "id": 401
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "测试方法",
+          "start": 7942,
+          "end": 7946,
+          "attributes": [],
+          "id": 402
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试验件",
+          "start": 7950,
+          "end": 7953,
+          "attributes": [],
+          "id": 403
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "测试设备",
+          "start": 7954,
+          "end": 7958,
+          "attributes": [],
+          "id": 404
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量保证措施",
+          "start": 7959,
+          "end": 7965,
+          "attributes": [],
+          "id": 405
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "任务结束形式",
+          "start": 7966,
+          "end": 7972,
+          "attributes": [],
+          "id": 406
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试验大纲",
+          "start": 8023,
+          "end": 8027,
+          "attributes": [],
+          "id": 409
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试验大纲",
+          "start": 8046,
+          "end": 8050,
+          "attributes": [],
+          "id": 410
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试验原理",
+          "start": 8052,
+          "end": 8056,
+          "attributes": [],
+          "id": 411
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "方法和方案",
+          "start": 8057,
+          "end": 8062,
+          "attributes": [],
+          "id": 412
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "测试技术",
+          "start": 8063,
+          "end": 8067,
+          "attributes": [],
+          "id": 413
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "测试设备",
+          "start": 8068,
+          "end": 8072,
+          "attributes": [],
+          "id": 414
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "数据处理",
+          "start": 8073,
+          "end": 8077,
+          "attributes": [],
+          "id": 415
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "误差分析",
+          "start": 8078,
+          "end": 8082,
+          "attributes": [],
+          "id": 416
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试验组织",
+          "start": 8083,
+          "end": 8087,
+          "attributes": [],
+          "id": 417
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试验件",
+          "start": 8102,
+          "end": 8105,
+          "attributes": [],
+          "id": 419
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "生产图样",
+          "start": 8109,
+          "end": 8113,
+          "attributes": [],
+          "id": 420
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "非标准测试设备",
+          "start": 8127,
+          "end": 8134,
+          "attributes": [],
+          "id": 421
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试验大纲",
+          "start": 8137,
+          "end": 8141,
+          "attributes": [],
+          "id": 422
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "正式试验报告",
+          "start": 8307,
+          "end": 8313,
+          "attributes": [],
+          "id": 423
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量部门",
+          "start": 8404,
+          "end": 8408,
+          "attributes": [],
+          "id": 424
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "型号总质量师系统",
+          "start": 8410,
+          "end": 8418,
+          "attributes": [],
+          "id": 425
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "首飞评审组",
+          "start": 8483,
+          "end": 8488,
+          "attributes": [],
+          "id": 426
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "新系统（或新产品）放飞保证书",
+          "start": 8544,
+          "end": 8558,
+          "attributes": [],
+          "id": 428
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术准备",
+          "start": 8633,
+          "end": 8637,
+          "attributes": [],
+          "id": 429
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "首飞准备",
+          "start": 8626,
+          "end": 8630,
+          "attributes": [],
+          "id": 430
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞行准备",
+          "start": 8638,
+          "end": 8642,
+          "attributes": [],
+          "id": 431
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "机务准备",
+          "start": 8643,
+          "end": 8647,
+          "attributes": [],
+          "id": 432
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "场务准备",
+          "start": 8648,
+          "end": 8652,
+          "attributes": [],
+          "id": 433
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "首飞大纲",
+          "start": 8672,
+          "end": 8676,
+          "attributes": [],
+          "id": 434
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试飞大纲",
+          "start": 8679,
+          "end": 8683,
+          "attributes": [],
+          "id": 435
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "详细设计评审",
+          "start": 8730,
+          "end": 8736,
+          "attributes": [],
+          "id": 436
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "首飞评审",
+          "start": 8737,
+          "end": 8741,
+          "attributes": [],
+          "id": 437
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "定型试飞申请报告",
+          "start": 8746,
+          "end": 8754,
+          "attributes": [],
+          "id": 438
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型阶段",
+          "start": 8776,
+          "end": 8782,
+          "attributes": [],
+          "id": 440
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "航空军工产品定型委员会",
+          "start": 8794,
+          "end": 8805,
+          "attributes": [],
+          "id": 441
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "二级定委",
+          "start": 8807,
+          "end": 8811,
+          "attributes": [],
+          "id": 442
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "航定委",
+          "start": 8816,
+          "end": 8819,
+          "attributes": [],
+          "id": 443
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "鉴定试验",
+          "start": 8925,
+          "end": 8929,
+          "attributes": [],
+          "id": 449
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试飞",
+          "start": 8930,
+          "end": 8932,
+          "attributes": [],
+          "id": 450
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型试飞",
+          "start": 8945,
+          "end": 8951,
+          "attributes": [],
+          "id": 451
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "部队适用性试飞",
+          "start": 9036,
+          "end": 9043,
+          "attributes": [],
+          "id": 452
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "部队适用性试飞结果报告",
+          "start": 9046,
+          "end": 9057,
+          "attributes": [],
+          "id": 453
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "机载成品",
+          "start": 8997,
+          "end": 9001,
+          "attributes": [],
+          "id": 454
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "新材料",
+          "start": 9002,
+          "end": 9005,
+          "attributes": [],
+          "id": 455
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试飞单位",
+          "start": 9071,
+          "end": 9075,
+          "attributes": [],
+          "id": 457
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型试飞结果报告",
+          "start": 9077,
+          "end": 9087,
+          "attributes": [],
+          "id": 458
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试飞保障报告",
+          "start": 9094,
+          "end": 9100,
+          "attributes": [],
+          "id": 459
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型图样发放",
+          "start": 9111,
+          "end": 9119,
+          "attributes": [],
+          "id": 460
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术报告",
+          "start": 9120,
+          "end": 9124,
+          "attributes": [],
+          "id": 461
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试验资料",
+          "start": 9125,
+          "end": 9129,
+          "attributes": [],
+          "id": 462
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "使用资料",
+          "start": 9130,
+          "end": 9134,
+          "attributes": [],
+          "id": 463
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型文件",
+          "start": 9149,
+          "end": 9155,
+          "attributes": [],
+          "id": 464
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "申请设计定型报告",
+          "start": 9168,
+          "end": 9176,
+          "attributes": [],
+          "id": 465
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机研制总结",
+          "start": 9180,
+          "end": 9186,
+          "attributes": [],
+          "id": 466
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制任务书",
+          "start": 9200,
+          "end": 9205,
+          "attributes": [],
+          "id": 468
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制合同",
+          "start": 9209,
+          "end": 9213,
+          "attributes": [],
+          "id": 469
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术协议",
+          "start": 9214,
+          "end": 9218,
+          "attributes": [],
+          "id": 470
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术攻关报告",
+          "start": 9229,
+          "end": 9235,
+          "attributes": [],
+          "id": 471
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制试验任务书",
+          "start": 9239,
+          "end": 9246,
+          "attributes": [],
+          "id": 472
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "大纲",
+          "start": 9247,
+          "end": 9249,
+          "attributes": [],
+          "id": 473
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试验报告",
+          "start": 9250,
+          "end": 9254,
+          "attributes": [],
+          "id": 474
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型试飞任务书",
+          "start": 9258,
+          "end": 9267,
+          "attributes": [],
+          "id": 475
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "大纲",
+          "start": 9268,
+          "end": 9270,
+          "attributes": [],
+          "id": 476
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试飞总结报告",
+          "start": 9271,
+          "end": 9277,
+          "attributes": [],
+          "id": 477
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计计算报告",
+          "start": 9281,
+          "end": 9287,
+          "attributes": [],
+          "id": 478
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "软件文档",
+          "start": 9291,
+          "end": 9295,
+          "attributes": [],
+          "id": 479
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机全套设计图样",
+          "start": 9299,
+          "end": 9307,
+          "attributes": [],
+          "id": 480
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "新成品标准化大纲",
+          "start": 9311,
+          "end": 9319,
+          "attributes": [],
+          "id": 481
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "标准化审查报告",
+          "start": 9320,
+          "end": 9327,
+          "attributes": [],
+          "id": 482
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量和可靠性报告",
+          "start": 9331,
+          "end": 9339,
+          "attributes": [],
+          "id": 483
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "经济性分析报告",
+          "start": 9343,
+          "end": 9350,
+          "attributes": [],
+          "id": 484
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术条件、系统规范",
+          "start": 9354,
+          "end": 9363,
+          "attributes": [],
+          "id": 485
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机设计定型",
+          "start": 9372,
+          "end": 9378,
+          "attributes": [],
+          "id": 486
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机技术说明书",
+          "start": 9385,
+          "end": 9392,
+          "attributes": [],
+          "id": 487
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "使用维护说明书",
+          "start": 9393,
+          "end": 9400,
+          "attributes": [],
+          "id": 488
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机装机配套成品目录",
+          "start": 9404,
+          "end": 9414,
+          "attributes": [],
+          "id": 489
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "航定委",
+          "start": 9435,
+          "end": 9438,
+          "attributes": [],
+          "id": 490
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "申请设计定型",
+          "start": 9469,
+          "end": 9475,
+          "attributes": [],
+          "id": 491
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型试飞",
+          "start": 9479,
+          "end": 9485,
+          "attributes": [],
+          "id": 492
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型文件",
+          "start": 9486,
+          "end": 9492,
+          "attributes": [],
+          "id": 493
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型申请",
+          "start": 9560,
+          "end": 9566,
+          "attributes": [],
+          "id": 494
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制单位",
+          "start": 9541,
+          "end": 9545,
+          "attributes": [],
+          "id": 495
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "驻研制单位军代表室",
+          "start": 9546,
+          "end": 9555,
+          "attributes": [],
+          "id": 497
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机研制任务",
+          "start": 9576,
+          "end": 9582,
+          "attributes": [],
+          "id": 498
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型",
+          "start": 9633,
+          "end": 9637,
+          "attributes": [],
+          "id": 500
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型审查",
+          "start": 9665,
+          "end": 9671,
+          "attributes": [],
+          "id": 502
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型文件目录",
+          "start": 9650,
+          "end": 9658,
+          "attributes": [],
+          "id": 503
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "航定委办公室",
+          "start": 9673,
+          "end": 9679,
+          "attributes": [],
+          "id": 504
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "航定办",
+          "start": 9684,
+          "end": 9687,
+          "attributes": [],
+          "id": 506
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型工作审查组",
+          "start": 9693,
+          "end": 9702,
+          "attributes": [],
+          "id": 507
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "审查定型",
+          "start": 9703,
+          "end": 9707,
+          "attributes": [],
+          "id": 508
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "协调定型",
+          "start": 9732,
+          "end": 9736,
+          "attributes": [],
+          "id": 509
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型样机",
+          "start": 9775,
+          "end": 9781,
+          "attributes": [],
+          "id": 510
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型文件",
+          "start": 9765,
+          "end": 9771,
+          "attributes": [],
+          "id": 511
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机重大技术问题",
+          "start": 9785,
+          "end": 9793,
+          "attributes": [],
+          "id": 512
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机达到设计定型标准",
+          "start": 9801,
+          "end": 9811,
+          "attributes": [],
+          "id": 513
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型审查",
+          "start": 9816,
+          "end": 9822,
+          "attributes": [],
+          "id": 514
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "审查报告",
+          "start": 9832,
+          "end": 9836,
+          "attributes": [],
+          "id": 515
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "审批设计定型",
+          "start": 9858,
+          "end": 9864,
+          "attributes": [],
+          "id": 516
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "航定委",
+          "start": 9867,
+          "end": 9870,
+          "attributes": [],
+          "id": 517
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型审查组",
+          "start": 9872,
+          "end": 9879,
+          "attributes": [],
+          "id": 518
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "中央军委军工产品定型委员会",
+          "start": 9923,
+          "end": 9936,
+          "attributes": [],
+          "id": 520
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "一级定委",
+          "start": 9938,
+          "end": 9942,
+          "attributes": [],
+          "id": 521
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "国务院",
+          "start": 9919,
+          "end": 9922,
+          "attributes": [],
+          "id": 522
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "二级产品",
+          "start": 9947,
+          "end": 9951,
+          "attributes": [],
+          "id": 523
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机设计定型证书",
+          "start": 10066,
+          "end": 10074,
+          "attributes": [],
+          "id": 524
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机设计定型",
+          "start": 10091,
+          "end": 10097,
+          "attributes": [],
+          "id": 525
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "拉条挂账",
+          "start": 10118,
+          "end": 10122,
+          "attributes": [],
+          "id": 526
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术攻关",
+          "start": 10130,
+          "end": 10134,
+          "attributes": [],
+          "id": 527
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型试飞质量控制要点",
+          "start": 10154,
+          "end": 10166,
+          "attributes": [],
+          "id": 528
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量控制要点",
+          "start": 10144,
+          "end": 10150,
+          "attributes": [],
+          "id": 529
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "改装培训",
+          "start": 10232,
+          "end": 10236,
+          "attributes": [],
+          "id": 530
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型工作质量控制",
+          "start": 10369,
+          "end": 10379,
+          "attributes": [],
+          "id": 532
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型试验",
+          "start": 10481,
+          "end": 10487,
+          "attributes": [],
+          "id": 533
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "定型试飞",
+          "start": 10488,
+          "end": 10492,
+          "attributes": [],
+          "id": 534
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试制生产",
+          "start": 10493,
+          "end": 10497,
+          "attributes": [],
+          "id": 535
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "“四随”配套项目",
+          "start": 10651,
+          "end": 10659,
+          "attributes": [],
+          "id": 536
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "维修性",
+          "start": 10735,
+          "end": 10738,
+          "attributes": [],
+          "id": 537
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "国务院",
+          "start": 10825,
+          "end": 10828,
+          "attributes": [],
+          "id": 539
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型资料审查小组",
+          "start": 10774,
+          "end": 10784,
+          "attributes": [],
+          "id": 541
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "中央军委军工产品定型委员会或航定委",
+          "start": 10829,
+          "end": 10846,
+          "attributes": [],
+          "id": 542
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试生产阶段",
+          "start": 10860,
+          "end": 10865,
+          "attributes": [],
+          "id": 544
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机定型技术状态",
+          "start": 10921,
+          "end": 10929,
+          "attributes": [],
+          "id": 545
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计定型文件",
+          "start": 10912,
+          "end": 10918,
+          "attributes": [],
+          "id": 546
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "全套生产图样",
+          "start": 10930,
+          "end": 10936,
+          "attributes": [],
+          "id": 547
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术条件",
+          "start": 10937,
+          "end": 10941,
+          "attributes": [],
+          "id": 548
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "生产定型要求",
+          "start": 10955,
+          "end": 10961,
+          "attributes": [],
+          "id": 549
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试生产",
+          "start": 10986,
+          "end": 10989,
+          "attributes": [],
+          "id": 550
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "鉴定性试验",
+          "start": 10992,
+          "end": 10997,
+          "attributes": [],
+          "id": 551
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术指标",
+          "start": 9190,
+          "end": 9196,
+          "attributes": [],
+          "id": 553
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机研制总要求》",
+          "start": 3641,
+          "end": 3650,
+          "attributes": [],
+          "id": 554
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机研制总要求》",
+          "start": 3612,
+          "end": 3621,
+          "attributes": [],
+          "id": 555
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机研制总要求》",
+          "start": 3750,
+          "end": 3759,
+          "attributes": [],
+          "id": 556
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机研制任务书》",
+          "start": 3919,
+          "end": 3928,
+          "attributes": [],
+          "id": 557
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《研制方案论证报告》",
+          "start": 3930,
+          "end": 3940,
+          "attributes": [],
+          "id": 558
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机研制任务书》",
+          "start": 5720,
+          "end": 5729,
+          "attributes": [],
+          "id": 559
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《研制方案论证报告》",
+          "start": 5731,
+          "end": 5741,
+          "attributes": [],
+          "id": 560
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机研制任务书》",
+          "start": 5784,
+          "end": 5793,
+          "attributes": [],
+          "id": 561
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机研制任务书》",
+          "start": 5882,
+          "end": 5891,
+          "attributes": [],
+          "id": 562
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《军工产品定型工作条例》",
+          "start": 11072,
+          "end": 11084,
+          "attributes": [],
+          "id": 563
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "气动布局",
+          "start": 4022,
+          "end": 4026,
+          "attributes": [],
+          "id": 564
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机重量",
+          "start": 5145,
+          "end": 5149,
+          "attributes": [],
+          "id": 565
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "新机试制质量",
+          "start": 7007,
+          "end": 7013,
+          "attributes": [],
+          "id": 566
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "安全和质量保证措施",
+          "start": 8088,
+          "end": 8097,
+          "attributes": [],
+          "id": 567
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "军用飞机研制程序",
+          "start": 237,
+          "end": 245,
+          "attributes": [],
+          "id": 568
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "SOW",
+          "start": 2070,
+          "end": 2073,
+          "attributes": [],
+          "id": 569
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "TRD",
+          "start": 2082,
+          "end": 2085,
+          "attributes": [],
+          "id": 570
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "论证报告",
+          "start": 2699,
+          "end": 2703,
+          "attributes": [],
+          "id": 571
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《航空机载设备型号产品研制工作条例》",
+          "start": 12233,
+          "end": 12251,
+          "attributes": [],
+          "id": 572
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "定型试飞大纲",
+          "start": 8757,
+          "end": 8763,
+          "attributes": [],
+          "id": 578
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "定型试验（飞）大纲",
+          "start": 8828,
+          "end": 8837,
+          "attributes": [],
+          "id": 579
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "随机设备、工具、备件和资料目录",
+          "start": 9415,
+          "end": 9430,
+          "attributes": [],
+          "id": 580
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机全寿命周期费用",
+          "start": 11505,
+          "end": 11514,
+          "attributes": [],
+          "id": 581
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "申请生产定型报告",
+          "start": 11651,
+          "end": 11659,
+          "attributes": [],
+          "id": 582
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试生产总结报告",
+          "start": 11663,
+          "end": 11670,
+          "attributes": [],
+          "id": 583
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "部队试用报告",
+          "start": 11674,
+          "end": 11680,
+          "attributes": [],
+          "id": 584
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "生产定型试飞大纲和试飞报告",
+          "start": 11684,
+          "end": 11697,
+          "attributes": [],
+          "id": 585
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机全套图样",
+          "start": 11701,
+          "end": 11707,
+          "attributes": [],
+          "id": 586
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "工艺、工装文件",
+          "start": 11711,
+          "end": 11718,
+          "attributes": [],
+          "id": 587
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机和重要零部件工艺鉴定报告",
+          "start": 11722,
+          "end": 11736,
+          "attributes": [],
+          "id": 588
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "标准化审查报告",
+          "start": 11740,
+          "end": 11747,
+          "attributes": [],
+          "id": 589
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "C型件",
+          "start": 12272,
+          "end": 12275,
+          "attributes": [],
+          "id": 590
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "原理样机",
+          "start": 12276,
+          "end": 12280,
+          "attributes": [],
+          "id": 591
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "S型件",
+          "start": 12282,
+          "end": 12285,
+          "attributes": [],
+          "id": 592
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "装机上天件",
+          "start": 12286,
+          "end": 12291,
+          "attributes": [],
+          "id": 593
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "D型件",
+          "start": 12293,
+          "end": 12296,
+          "attributes": [],
+          "id": 594
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "定型件",
+          "start": 12297,
+          "end": 12300,
+          "attributes": [],
+          "id": 595
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "P型件",
+          "start": 12302,
+          "end": 12305,
+          "attributes": [],
+          "id": 596
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "批量生产件",
+          "start": 12306,
+          "end": 12311,
+          "attributes": [],
+          "id": 597
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机技术说明书",
+          "start": 11852,
+          "end": 11859,
+          "attributes": [],
+          "id": 598
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机使用维护说明书",
+          "start": 11863,
+          "end": 11872,
+          "attributes": [],
+          "id": 599
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "航定委特定的其他文件",
+          "start": 11906,
+          "end": 11916,
+          "attributes": [],
+          "id": 600
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机质量管理报告",
+          "start": 11784,
+          "end": 11792,
+          "attributes": [],
+          "id": 601
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机成本分析报告",
+          "start": 11796,
+          "end": 11804,
+          "attributes": [],
+          "id": 602
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体技术方案论证",
+          "start": 2126,
+          "end": 2134,
+          "attributes": [],
+          "id": 603
+        }
+      ],
+      "E": [
+        ""
+      ],
+      "R": [
+        "",
+        {
+          "name": "参照关系",
+          "from": 3,
+          "to": 1,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 96,
+          "to": 99,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 97,
+          "to": 99,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 98,
+          "to": 99,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 100,
+          "to": 99,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        {
+          "name": "上下位关系",
+          "from": 188,
+          "to": 187,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 193,
+          "to": 194,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 193,
+          "to": 195,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 193,
+          "to": 196,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 193,
+          "to": 197,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 193,
+          "to": 198,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 227,
+          "to": 224,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 228,
+          "to": 225,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 229,
+          "to": 226,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "上下位关系",
+          "from": 256,
+          "to": 257,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 256,
+          "to": 258,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 256,
+          "to": 259,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 256,
+          "to": 260,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 261,
+          "to": 262,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 261,
+          "to": 263,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 261,
+          "to": 264,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 261,
+          "to": 265,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 294,
+          "to": 288,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 294,
+          "to": 289,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 294,
+          "to": 290,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 294,
+          "to": 291,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 294,
+          "to": 292,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 305,
+          "to": 306,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 305,
+          "to": 307,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 305,
+          "to": 308,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 305,
+          "to": 309,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "上下位关系",
+          "from": 410,
+          "to": 411,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 410,
+          "to": 412,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 410,
+          "to": 413,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 410,
+          "to": 414,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 410,
+          "to": 415,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 410,
+          "to": 416,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 410,
+          "to": 417,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 419,
+          "to": 420,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 421,
+          "to": 422,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 430,
+          "to": 429,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 430,
+          "to": 431,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 430,
+          "to": 432,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 430,
+          "to": 433,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 441,
+          "to": 442,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 442,
+          "to": 443,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 504,
+          "to": 506,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 520,
+          "to": 521,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 546,
+          "to": 545,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 546,
+          "to": 547,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 546,
+          "to": 548,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 546,
+          "to": 549,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 410,
+          "to": 567,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 568,
+          "to": 12,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 568,
+          "to": 13,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 568,
+          "to": 14,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 568,
+          "to": 15,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 568,
+          "to": 16,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 44,
+          "to": 569,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 45,
+          "to": 570,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 571,
+          "to": 74,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 571,
+          "to": 75,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 571,
+          "to": 76,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 571,
+          "to": 77,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 571,
+          "to": 78,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 590,
+          "to": 591,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 592,
+          "to": 593,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 594,
+          "to": 595,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 596,
+          "to": 597,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        }
+      ],
+      "A": [
+        ""
+      ]
+    }
+  },
+  "time_labeled": 1618560449070,
+  "labeled": true,
+  "content": "第1章 军用飞机研制程序\r\n1.1 依据\r\n1.1.1 使用要求\r\n军用飞机研制应按照总参谋部、国防科工委（自1998年起改制为总装备部）、国家计委、财政部颁发的[1995]技综字第2709号文——《常规武器装备研制程序》的规定进行，对于改进改型可以适当剪裁。\r\n1.1.2 引用文件\r\n总参谋部、国防科工委、国家计委、财政部[1995]技综字第2709号文——《常规武器装备研制程序》（以下简称《程序》）。\r\n1.2 研制程序\r\n（1）常规武器装备研制程序见表1-1。按照《程序》规定，军用飞机研制程序一般划分为5个阶段：\r\na.论证阶段；\r\nb.方案阶段；\r\nc.工程研制阶段；\r\nd.设计定型阶段；\r\ne.生产定型阶段。\r\n（2）每个研制阶段都有各自的依据、主要任务和目标、主要工作内容、质量控制要点和完成标志。每个阶段的工作按《程序》规定的要求完成后，方可转入下一个阶段。\r\n\t（3）论证阶段，通过战术技术指标、总体技术方案论证及研制经费、保障条件、研制周期的预测，使用部门形成《飞机研制总要求》，经主管部门审查、批准后，作为开展方案阶段工作的依据。\r\n（4）方案阶段，通过研制方案论证、原理样机的验证试验、关键技术攻关，进一步完善战术技术要求，进一步细化研制经费、研制周期和保障条件后，由研制部门负责编制《飞机研制任务书》并附《飞机研制方案论证报告》，经主管部门审批后，作为工程研制阶段的依据。\r\n（5）工程研制阶段，通过设计、试制与鉴定试验，由研制部门和使用部门共同提出设计定型试飞申请报告和试飞大纲，经航定委审批后，作为设计定型阶段的依据。\r\n（6）完成设计定型试飞与设计定型工作后，进入试生产阶段，完成试生产和生产定型。军用飞机总体设计工作的重点是论证阶段和方案阶段。此后，总体工作虽然还会有一定的设计工作量，但主要是转入技术状态管理的技术管理工作。\r\n本章是依据《程序》规定的5个研制阶段工作内容要求编写的。\r\n1.2.1 论证阶段\r\n1.2.1.1 依据\r\n本阶段的主要依据，是使用部门根据未来战争要求和国务院、中央军委批准的武器装备研制中长期计划而提出的初步飞机战术技术及使用要求。这些要求主要包括：\r\n（1）作战使命、任务、环境和对象；\r\n（2）战术技术性能指标要求及综合后勤保障要求；\r\n（3）初步装备编制方案、计划装备数量、基地、位置和服役年限；\r\n（4）采购经费及使用经费估算；\r\n（5）研制进度和交付要求。\r\n1.2.1.2 主要任务和目标\r\n论证阶段的主要任务是进行战术技术指标、总体技术方案论证及研制经费、研制周期、保障条件预测。目标是形成《飞机研制总要求》。论证阶段的工作由使用部门组织实施。\r\n主管部门根据使用部门的要求，组织有关专业和主要协作单位进行技术、经济可行性研究及必要的验证试验，向使用部门提交初步总体技术方案、研制经费、保障条件、研制周期预测报告，提出保障条件要求。\r\n使用部门负责编制《飞机研制总要求》，即飞机战术技术及使用要求，上报国家主管部门会签、审批后，下达正式的《飞机研制总要求》。至此，战术技术要求具有完全的确定性。\r\n论证阶段的论证过程是对战术技术要求、技术和经济可行性、研制周期、保障条件等诸多因素进行综合权衡、优化组合、最佳配置的过程，也是对战术技术要求、飞机总体技术方案、研制经费、研制周期、研制条件需求不断细化的过程。\r\n1.2.1.3 战术技术要求和技术、经济可行性论证的主要工作内容\r\n（1）战术技术要求论证\r\na.进行作战对象、作战环境分析；\r\nb.论证新机作战使用性能；\r\nc.与使用部门进行作战使用要求协调；\r\nd.论证新机战术技术指标要求；\r\ne.与使用部门进行战术技术指标协调。\r\n（2）技术可行性论证\r\na.根据初步的战术技术要求及使用要求，设想几种飞机技术方案及配套方案，对我国相关技术储备、预研成果、设计、试验、生产能力、结构材料、工艺技术、设备水平和配套成品现状进行调查研究；\r\nb.初步提出为满足战术技术要求必须突破的新技术、新产品、新材料、新工艺、新标准等；\r\nc.通过对使用方式、作战任务进行分析，测算飞机寿命剖面、任务剖面、环境剖面，提出综合保障初始方案和要求；\r\nd.提出研制保障条件，包括设计条件、试验条件和生产条件。\r\n（3）经济可行性论证\r\n根据技术可行性进行经济可行性分析，测算单机成本、研制费用和装备费用。\r\n（4）测算研制周期\r\n进行初步研制周期测算，初步编制研制计划，绘制零级网络图。\r\n（5）进行风险辨识\r\na.要尽量判明关键技术所在；\r\nb.在经费、保障条件、研制周期的估算中，对攻克技术关键项目所需条件、经费、周期应给予足够的重视，并妥善安排，尽量降低研制风险，避免经费测算、研制周期测算不足对工程研制造成重大影响；\r\nc.对国外合作项目，应考虑可能的政治、经济风险。\r\n1.2.1.4 总体技术方案论证的主要工作内容\r\n（1）使用部门进一步完善战术技术要求\r\n通过战术技术要求论证，使用部门与研制部门就飞机的作战使用、战术技术要求、任务要求、技术和经济可行性进行反复协调，使用部门进一步完善战术技术要求，并通过工作说明（SOW）和技术要求文件（TRD），对研制部门的技术要求、工作要求和管理要求作进一步明确、完善和细化。\r\n（2）多种总体技术方案论证\r\n根据使用部门修改后的战术技术要求，研制部门应进行多种总体技术方案论证，使战术技术要求论证中提出的一些概念具体化，通过多方案对比，对技术方案、研制费用、研制周期、保障条件、风险评估等多种因素综合权衡后，选出或优化组合出一个最佳总体技术方案。\r\n（3）总体技术方案论证的内容\r\n对于每一个总体技术方案，都要进行以下论证：\r\na.飞机总体技术方案论证，初定飞机各系统的方案、原理和配套状态，编制飞机总体指令性文件；\r\nb.飞机各系统方案论证，编制各系统初步规范；\r\nc.选择关键成品承制单位并进行初步协调；\r\nd.进行飞机总体工艺性论证；\r\ne.制定新机可靠性大纲、维修性大纲和综合后勤保障大纲；\r\nf.进行关键技术（新技术、新成品、新结构、新材料、新工艺）项目风险分析；\r\ng.进行研制条件分析，提出重大技术改造项目和技术引进项目论证意见，提出措施和计划；\r\nh.制定研制工作总计划，绘制零级计划网络图，给出关键质量控制节点；\r\ni.编制全机及各系统试验工作计划及初步的试飞工作计划；\r\nj.进行系统或分系统功能开发试验或技术攻关试验；\r\nk.细化研制经费；\r\nl.制定有关型号研制的管理文件；\r\nm.制定质量保证大纲。\r\n（4）总体方案综合优化，确定最佳总体技术方案\r\na.对所论证的多种总体技术方案进行综合优化比较，选出或组合出最佳的总体技术方案。\r\nb.编制以下论证报告：\r\n（a）战术技术要求论证报告；（b）总体技术方案论证报告；（c）研制经费论证报告；\r\n（d）研制周期论证报告；（e）保障条件论证报告。\r\n1.2.1.5 质量控制要点\r\n（1）战术技术要求和技术、经济可行性论证的质量控制要点\r\na.通过作战使用要求协调会、战术技术要求协调会，对每项战术技术指标要求，从需要与可能两方面进行充分分析论证，力求定量化；\r\nb.实现设计指标的技术途径和措施，特别是对关键技术要现实、具体；\r\nc.采用的新技术、新结构、新材料、新工艺、新成品必须有鉴定结论并经过充分验证；\r\nd.高风险和中等风险项目，必须作为重点阶段评审项目予以评审，应有减少风险的计划和备用方案，并得到主管部门的认可；\r\ne.研制计划切实可行，留有余地，充分考虑攻克关键技术项目所需的时间；\r\nf.进行经费概算，要充分考虑技术攻关项目所需费用；\r\ng.各项技术工作应有正式技术文件，文件质量符合现行有关规定要求，加强技术状态控制与管理。\r\n（2）总体技术方案论证的质量控制要点\r\na.通过总体技术方案论证，对战术技术要求，SOW和TRD文件中各项要求的理解应进一步明确，通过技术方案论证暴露的矛盾和有争议的问题均得到基本解决；\r\nb.对准备在飞机研制中采用的新技术、新成品、新结构、新材料、新工艺应有鉴定结论；\r\nc.对技术风险较高或很高的项目，一定要经过充分的综合权衡，反复论证，如果必须采用，要有减小技术风险的途径、措施计划和备用方案，并得到主管部门的认可；\r\nd.优选成品供应单位，供应单位应具有较高的质量管理水平，有健全的质量体系和较高的运行效能，是产品质量供货信誉好的单位；\r\ne.各种技术方案应经多约束综合优选；\r\nf.飞机研制条件包括人员的数量、素质和构成，应有充分的科研保障能力和试验研究条件，如果须进行技术改造或引进技术、设备，应报给主管部门批准，渠道与经费应落实；\r\ng.所有用于论证工作的资料、标准、方法和手段应准确、可靠；\r\nh.研制计划应进一步细化，做到可行且留有余地；\r\ni.在费用估算上要充分考虑技术攻关风险费用、质量成本、单位的经济效益及物价上涨因素等。\r\n1.2.1.6 完成标志\r\n（1）使用部门根据研制部门提交的论证报告，编制《飞机研制总要求》；\r\n（2）主管部门审批、会签，下达正式的《飞机研制总要求》；\r\n（3）主管部门任命行政总指挥、总设计师，建立型号行政总指挥系统、设计师系统、质量师系统，确定工作条例和管理制度。\r\n1.2.2 方案阶段\r\n1.2.2.1 依据\r\n方案阶段的主要依据是主管部门审批下达的《飞机研制总要求》。\r\n1.2.2.2 主要任务和目标\r\n方案阶段的主要任务是研制方案论证和验证，由研制主管部门或研制单位组织实施，进行技术方案设计、关键技术攻关、新部件或分系统的试制与试验，根据研制项目的特点和需要制作全机或部件样机，并完成方案评审、样机评审。\r\n在关键技术已解决、研制方案切实可行、保障条件已基本落实的基础上，由研制单位编制《飞机研制任务书》（附《研制方案论证报告》）报研制主管部门和使用部门，由使用部门上报国家主管部门审批后下达。\r\n1.2.2.3 方案设计、新部件或分系统技术攻关主要工作\r\n（1）飞机总体技术设计\r\n详细确定飞机的气动布局、配套技术状态，进行总体布置、分区协调和选择结构方案、系统原理方案及配置，对可靠性和维修性指标进行初步预估和分析论证，并在此基础上：\r\na.确定飞机型号规范；\r\nb.确定飞机配套技术状态；\r\nc.进行结构方案设计，确定机体结构承力系统；\r\nd.提出飞机各系统设备设计技术要求，编写强度计算原则和结构设计原则；\r\ne.发出正式的飞机三面图和总体布置图；\r\nf.发出重量（指质量，单位为kg，下同）、重心控制要求；\r\ng.发出分区协调规定、飞机设计发图规定；\r\nh.发出可靠性大纲、维修性大纲、综合后勤保障大纲，初步编制地面设备、随机工具配套清册；\r\ni.修正研制费用，制定经费控制措施，初步估算全寿命期费用；\r\nj.修正零级网络图，制定各系统二级网络图；\r\nk.编制地面保障设备目录，签订外购地面保障设备技术协议；\r\nl.提出功能开发试验项目和计划；\r\nm.提出飞机试飞方案、飞行试验项目和计划；\r\nn.落实研制、外协加工、物资引进、技术改造和基建计划。\r\n（2）系统技术设计\r\na.制定各系统、分系统和主要机载设备技术规范（或设计任务书）；\r\nb.完成结构方案设计；\r\nc.制定各系统、分系统接口控制文件；\r\nd.签订新成品技术协议。\r\n（3）进行功能开发试验\r\na.修订全机试验验证计划，编制试验任务书、试验大纲、质量保证大纲，进行专用试验台建设，提出飞机试验件清单；\r\nb.对各系统的技术关键进行研究或验证试验；\r\nc.编写试验报告。\r\n（4）成品协调\r\na.确定合格的供应单位名单；\r\nb.编写成品目录；\r\nc.签订新成品、新材料、新结构协议和研制合同。\r\n（5）分区协调\r\na.完成协调图；\r\nb.编制协调纪要；\r\nc.编写协调记录；\r\nd.提供协调区评审报告。\r\n（6）编制型号研制任务书初稿。\r\n1.2.2.4 样机设计、制造和评审\r\n（1）样机设计、制造\r\n飞机样机设计、制造和评审是飞机研制程序中的一个重要环节。样机可以是木质、金属或金属／木质混合结构，视情况可以是全机的也可以是重点舱段的。样机制作的目的是：检查飞机设计是否合理，是否可行，是否满足使用维护要求；展现新设计图样难以确切表达，而在生产使用中又是至关重要的技术内容；便于评审。\r\na.发出样机设计制造技术要求的文件\r\n（a）飞机样机制作技术文件；\r\n（b）飞机样机技术条件；\r\n（c）飞机样机零、组件目录；\r\n（d）飞机样机成品、附件目录；\r\n（e）飞机样机总体布置图。\r\nb.进行样机图样设计，发出样机生产图样。\r\nc.配合样机生产。\r\n（2）技术设计评审和样机审查\r\n应向样机审查会议至少提供下列技术资料。\r\na.型号研制任务书初稿。\r\nb.系统研制任务书及其他会议文件，包括：\r\n（a）飞机设计阶段报告，样机简介，飞机性能计算报告，系统设备设计要求，飞机重量、重心计算报告，飞机配套技术状态，飞机座舱设计说明，飞行员操作程序，飞机可靠性、维修性和可测试性设计报告，飞机地面设备、工具配套方案；\r\n（b）飞机三面图，总体布置图，座舱布置图，飞机外挂配置图，飞机维护口盖布置图，以及使用方面的特殊需要；\r\n（c）其他专题报告和图样。\r\n1.2.2.5 质量控制要点\r\n（1）飞机型号规范和各系统规范应经主管总师审核，总设计师批准。\r\n（2）关键技术问题基本都得到解决，个别暂尚未完全解决的应有明确的措施、计划。\r\n（3）各系统必须按可靠性大纲、维修性大纲和综合后勤保障大纲的要求开展可靠性设计、维修性设计和综合后勤保障设计。\r\n（4）凡需人机交换（包括维修）的系统和设备，应满足人机工程的有关原则。\r\n（5）新成品（包括改型成品）的技术要求应满足有关标准和规范的要求并符合进度要求。\r\n（6）分区协调后，应组织设计有关各方评审验收。\r\n（7）技术设计和样机制造结束后，应报请研制主管部门主持技术设计评审和样机审查。\r\n评审过后，即冻结飞机的技术状态，建立飞机分配基线。在以后的研制阶段中，系统技术状态更改必须经总设计师审定，并报有关部门批准后方可更改。更改信息必须及时通报有关专业同步执行。\r\n1.2.2.6 完成标志\r\n（1）关键技术已解决，研制方案切实可行，保障条件已基本落实，通过技术方案设计评审和样机评审。\r\n（2）上报审批《飞机研制任务书》（附《研制方案论证报告》）。\r\n1.2.3 工程研制阶段\r\n1.2.3.1 依据\r\n工程研制阶段的主要依据是经审批的《飞机研制任务书》，它是设计、试制、试验、定型工作的依据，也是签订研制合同的根据。\r\n1.2.3.2 主要任务和目标\r\n工程研制阶段的主要任务和目标是：进行飞机的详细设计、试制和鉴定试验，证明基本达到《飞机研制任务书》规定的战术技术指标要求，试制和鉴定试验中暴露的技术问题已经解决或有切实可行的解决措施，达到设计定型试飞状态，提出设计定型试飞申请报告和试飞大纲。\r\n1.2.3.3 详细设计主要工作内容\r\n（1）编制发图指令性文件\r\na.发图规定；\r\nb.材料选用规定；\r\nc.标准选用规定；\r\nd.强度计算原则；\r\ne.其他指令性文件。\r\n（2）详细设计\r\na.全套生产图样绘制（其中包括飞机设计图样、地面设备和随机工具生产图样、试验件和试验设备图样、新建或改建试验设施图样等）；\r\nb.各种制造技术条件编制；\r\nc.各种配套目录编制；\r\nd.技术说明书编制；\r\ne.使用维护说明书编写；\r\nf.航材目录编写。\r\n（3）配合生产准备\r\na.工艺审查；\r\nb.确定飞机试制总工艺方案；\r\nc.试制计划网络图；\r\nd.组织试制生产线；\r\ne.进行生产准备。\r\n（4）配合成品研制单位完成成品样机试制，提供成品试验件和技术文件，配合新材料鉴定。\r\n（5）完成发图前验证性试验。\r\n（6）详细设计评审\r\na.各系统设计结果是否满足有关标准和规范要求，提供各系统设计符合性报告；\r\nb.技术关键是否已经解决，各类风险是否降到可接受的水平，试制生产是否已做好准备，提供各种可能条件下系统可行性报告；\r\nc.可靠性、维修性和综合后勤保障设计报告；\r\nd.可靠性、维修性和综合后勤保障评审报告；\r\ne.其他评审报告。\r\n1.2.3.4 试制和鉴定试验主要工作内容\r\n根据型号规范、系统设备设计规范、飞机产品规范、设计图样和技术条件等，进行试制和鉴定试验。\r\n（1）新机试制\r\na.工装设计、制造；\r\nb.零件制造；\r\nc.部件装配、飞机总装；\r\nd.飞机调试和地面试验。\r\n（2）鉴定试验\r\na.编制试验任务书\r\n（a）静力、应力试验任务书；\r\n（b）各种兼容性试验（机械和电气接口兼容性试验、电磁兼容性试验、软硬件兼容性试验、人机相容性试验等）任务书；\r\n（c）与验证可靠性、维修性、安全性和人机工程有关的系统试验和环境试验任务书；\r\n（d）地面设备适用性试验任务书；\r\n（e）地面各主要分系统试验任务书；\r\n（f）地面、机上综合试验任务书。\r\nb.进行各种地面和机上地面试验。\r\nc.编制各种地面和机上地面试验报告\r\n（a）各种设备、系统功能和性能试验报告；\r\n（b）系统地面模拟试验报告；\r\n（c）全机静力试验报告；\r\n（d）各系统机上地面试验报告；\r\n（e）地面设备适用性检查报告。\r\nd.编制空、地勤改装讲义，进行空勤改装培训。\r\ne.编写试飞任务书和试飞大纲。\r\n（3）首飞\r\na.首飞前质量复查。\r\nb.首飞评审，其主要的评审内容：\r\n（a）新机各关键系统、各新研制成品的研制结论和质量复查结论；\r\n（b）全机性能、强度、操纵品质计算，系统设计与试验结论；\r\n（c）新机试制质量和重大超差代料处理；\r\n（d）机务、场站保障措施和首飞安全措施；\r\n（e）空勤改装效果，首飞时空中可能出现的应急情况处理措施。\r\nc.首飞评审通过以后，由飞机研制现场总指挥签发首飞申请，报上级批准。\r\nd.组织飞机首飞技术支援组，实施现场技术支援，配合承制单位做好飞机首飞前的机务和场务保障工作。\r\ne.实施首飞，向研制主管部门报告首飞结果。\r\nf.首飞成功后，各专业配合试飞单位进行调整试飞。\r\n（4）调整试飞\r\n按审批的调整试飞大纲进行调整试飞，并提出试飞报告。\r\n（5）提出设计定型试飞申请报告和设计定型试飞大纲。\r\n1.2.3.5 质量控制要点\r\n（1）详细设计质量控制要点\r\na.生产图样和技术文件，必须分层次满足飞机型号规范和系统的各种技术要求，也必须符合各种发图指令文件的规定；\r\nb.设计图样必须满足功能、性能、配合、载荷、强度、刚度、重量、空间、工艺、安全、可靠性、维修性、测试性、技术协调、环境条件以及经济性等要求；\r\nc.每项设计工作均应做到设计输入全面正确，设计输出的结果准确可靠，完全满足输入要求；\r\nd.设计图样必须按规定进行审签和工艺、标准、强度、可靠性、重量等会签；\r\ne.对单元件进行特性分类和设计控制；\r\nf.对机载设备进行产品分类；\r\ng.设计过程中的原始资料、分析论证资料以及最终形成的正式资料，必须及时整理、归档，保证具有可追溯性；\r\nh.详细设计完成后，应组织详细设计评审，检查详细设计结果是否满足有关标准和规范的要求，技术关键是否已经解决，各类风险是否降到可接受的水平，试制生产是否已做好准备，详细设计评审通过后方可进行新机试制。\r\n（2）试制和试验阶段质量控制要点\r\na.严格控制生产图样和技术文件的技术状态更改。更改内容应协调、正确，保证现场使用的生产图样和技术文件现行有效。\r\nb.超差代料文件，应经有关专业会签，并按技术权限审批，特别对关键件和重要件更要严格审批程序。\r\nc.必须严格控制试验质量。试验工作是验证飞机设计、试验质量的重要手段。试验项目应齐全、充分，应有专人负责编制试验项目清单和试验工作计划，并分系统与阶段组织实施，做到如下各项要求。\r\n（a）每项试验必须编制试验任务书\t，经总设计师（或主管总师）批准。任务书应明确规定测试参数、精度和测试方法，采用的试验件和测试设备，质量保证措施和任务结束形式。任务书按规定会签和审签，如有修改或补充应有正式更改文件，按原审签程序审查批准。\r\n（b）承制单位应编制试验大纲，经有关单位会签，主管总师批准后实施。试验大纲包括试验原理、方法和方案，测试技术，测试设备，数据处理，误差分析，试验组织，安全和质量保证措施等，如：\r\n试验件应是符合生产图样和有关技术文件的合格产品；\r\n非标准测试设备应符合试验大纲的要求并审定合格；\r\n各种测试仪器、仪表必须标定合格；\r\n正式试验前，测试系统的运行要按规定的程序进行检查；\r\n试验操作人员经培训并考核合格；\r\n试验工作应建立严格的岗位责任制，有严密的现场组织指挥系统，严格按试验程序执行；\r\n试验过程中如出现事故或重大质量问题，应查明原因、责任，并在采取有效措施解决后方可继续进行试验；\r\n试验完成后，应编写正式试验报告，内容应真实、准确、完整，具有公正性，报告应逐级审签、会签并经主管总师批准，重大项目经总设计师批准；\r\n试验结束后，与本试验有关的各专业全部技术资料应及时整理归档。\r\nd.飞机首飞前，由质量部门（或型号总质量师系统）组织有关单位，对飞机各系统及所有新成品进行设计质量和工艺质量复查，并做出明确复查结论。\r\ne.在全面质量复查基础上，由主管机关组织首飞评审组，对首飞飞机各系统和各项新成品进行放飞前技术质量评审。\r\nf.通过全面质量复查和首飞评审，由有关各方主管设计师签发新系统（或新产品）放飞保证书。\r\ng.飞机试飞和指挥人员，必须严格挑选，进行改装培训，经考核合格方可担任飞机试飞任务。\r\nh.首飞前，设计部门应配合试飞单位认真做好飞机首飞准备，包括技术准备、飞行准备、机务准备和场务准备。\r\ni.首飞、调整试飞都必须严格按批准的首飞大纲、调整试飞大纲进行，大纲内容如须调整，必须经总设计师审定，由原审批部门批准。\r\n1.2.3.6 完成标志\r\n通过详细设计评审、首飞评审，提出设计定型试飞申请报告和设计定型试飞大纲，上报审批。\r\n1.2.4 设计定型阶段\r\n1.2.4.1 依据\r\n航空军工产品定型委员会（即二级定委，以下简称航定委）审查、批准的设计定型试验（飞）大纲。\r\n1.2.4.2 主要任务和目标\r\n本阶段的主要任务是进行设计定型试验（飞）与设计定型。\r\n1.2.4.3 设计定型试验（飞）的主要工作内容\r\n（1）按批准的设计定型试验（飞）（或鉴定试验、试飞）大纲由指定的单位负责进行设计定型试飞，各有关单位适时派出跟飞人员，及时解决试飞中出现的各种技术（或质量）问题。\r\n（2）通过试飞对机载成品、新材料，由主机所按规定签发使用评议书，给出试飞使用结论。\r\n（3）进行部队适用性试飞，提出部队适用性试飞结果报告。\r\n（4）设计定型试飞后，由试飞单位提出设计定型试飞结果报告，研制单位提出试飞保障报告。\r\n（5）设计部门完成设计定型图样发放和技术报告、试验资料、使用资料等的编制整理、归档检查工作。\r\n设计定型文件通常包括以下几部分：\r\na.申请设计定型报告；\r\nb.飞机研制总结；\r\nc.战术技术指标；\r\nd.研制任务书；\r\ne.研制合同和技术协议；\r\nf.重大技术问题的技术攻关报告；\r\ng.研制试验任务书、大纲和试验报告；\r\nh.设计定型试飞任务书、大纲和试飞总结报告；\r\ni.设计计算报告；\r\nj.软件文档；\r\nk.飞机全套设计图样；\r\nl.新成品标准化大纲和标准化审查报告；\r\nm.质量和可靠性报告；\r\nn.经济性分析报告；\r\no.技术条件、系统规范；\r\np.使用部门对飞机设计定型的意见；\r\nq.飞机技术说明书和使用维护说明书；\r\nr.飞机装机配套成品目录及随机设备、工具、备件和资料目录等；\r\ns.航定委特定的其他文件。\r\n1.2.4.4 设计定型主要工作内容\r\n（1）申请设计定型\r\n在完成设计定型试飞和设计定型文件、资料归档的基础上，可视情况由主管部门对设计定型的准备工作及技术文件、资料进行检查，条件成熟后，由研制单位和驻研制单位军代表室联合提出“设计定型申请＂，内容包括：\r\na.飞机研制任务的由来；\r\nb.飞机研制、试验简况；\r\nc.主要战术技术指标达到的程度；\r\nd.存在的问题及解决措施；\r\ne.设计定型的结论意见；\r\nf.同时附上设计定型文件目录。\r\n（2）接受设计定型审查\r\n由航定委办公室（以下简称航定办）组织、派出设计定型工作审查组，审查定型工作准备情况、研制和试验出现问题解决措施落实情况，协调定型工作有关问题，主要包括：\r\na.飞机研制、试验的情况；\r\nb.设计定型文件；\r\nc.设计定型样机；\r\nd.飞机重大技术问题解决措施；\r\ne.飞机达到设计定型标准的程度。\r\n设计定型审查通过后，由审查组提出审查报告并由审查组全体成员签署后上报航定委。\r\n（3）审批设计定型\r\na.航定委根据设计定型审查组的报告，审议飞机定型有关事宜，并视所研制新机的等级，对一级产品由航定委审议并呈报国务院、中央军委军工产品定型委员会（即一级定委）审批；对二级产品则由航定委审批。\r\nb.在飞机通过设计定型审查后，设计部门应按设计定型审查时提出的意见和要求修改、补充、完善设计定型文件、资料，并按规定的格式进行编写整理，上报航定委审批，加盖“定型” 印章。\r\nc.在批准设计定型后，由航定办承办颁发飞机设计定型证书。\r\n（4）设计定型遗留问题的解决\r\n飞机设计定型不得遗留重大技术问题，遗留的一般技术问题应拉条挂账，由设计部门组织技术攻关。\r\n1.2.4.5 质量控制要点\r\n（1）设计定型试飞质量控制要点\r\na.定型试飞的飞机，应符合规定的技术状态，质量应符合要求，使用保障设备资料应齐备。\r\nb.新机试飞和指挥人员，必须经过严格挑选，进行改装培训，经考核合格方可担任新机试飞任务。\r\nc.外场技术问题的处理按有关规定执行，应做到依据充分、责任明确、手续完备，文件经主管总师批准，重大问题应经总设计师批准。\r\nd.试飞必须严格地按批准的定型试飞大纲进行，大纲内容如须调整，必须经总设计师审定并报原审批机关批准。\r\n（2）设计定型工作质量控制\r\n在基本完成了各项试验，并通过国家设计定型试飞，确认新机能够满足批准的战术技术指标要求时，申请办理设计定型手续之前由总师系统组织，并邀请使用、生产、设计等单位代表和上级领导机关参加，进行下列工作。\r\na.对设计定型试验、定型试飞、试制生产中暴露出的重大技术问题的解决情况，可分级进行评审。\r\nb.对使用部门提出的新机研制中的各种质量问题和建议、要求的改进和贯彻情况，可分级进行评审。\r\nc.对新研制的成品、系统（包括改进成品、系统），在完成定型试飞后，根据试飞结论，可分级进行评审，并给出使用评议书，作为各承制单位办理成品设计定型的条件之一。\r\nd.对“四随”配套项目，可根据具体情况组织鉴定、评审。\r\ne.对采用的新工艺、新材料和新技术，在完成鉴定工作之后，视情况可分级进行评审，确认其给定结论是否满足设计要求。\r\nf.对维修性可视情况进行评审，审查维修性是否满足设计指标要求。\r\ng.应由航定办派出的设计定型资料审查小组进行飞机设计定型前的资料审查，通过后进行设计定型审查。\r\n1.2.4.6 完成标志\r\n国务院、中央军委军工产品定型委员会或航定委批准设计定型。\r\n1.2.5 试生产阶段\r\n1.2.5.1 依据\r\n试生产阶段的主要依据是国务院、中央军委军工产品定型委员会或航定委批准的设计定型文件，包括飞机定型技术状态、全套生产图样、技术条件、各种目录等型号产品规范以及生产定型要求。\r\n1.2.5.2 主要任务和目标\r\n主要任务是进行试生产，通过鉴定性试验和部队试用进一步考核飞机在实际使用条件下的适用性和生产的稳定性，完成飞机的生产定型。\r\n1.2.5.3 试生产主要工作内容\r\n按国发[1986]112号文《军工产品定型工作条例》要求，研制部门做好生产定型的下列各项准备工作。\r\n（1）设计定型以后，大批生产之前，一般应进行适度的完善、修改设计和试验。\r\n（2）按照设计定型技术状态，配合制造部门组织试生产，进行工装、零件鉴定，解决互换协调要求；完成工艺鉴定，稳定产品质量；按批生产要求调整完善生产线。\r\n（3）及时正确处理设计定型遗留问题、生产和交付中出现的与设计有关的问题，以及飞机在实际使用中暴露的问题，进行设计改进。\r\n（4）做好生产的技术服务和外场技术服务，做好飞机技术状态更改记录和各种外场记录。\r\n（5）对生产和部队试用中提出的质量改进提出技术方案，制定工作计划，申请经费，进行验证试验。\r\n（6）进行部件和全机疲劳（或耐久性损伤容限）试验，给出飞机寿命。\r\n（7）配合进行新产品生产定型、定点配套，稳定供应渠道。\r\n（8）对全套生产图样、技术条件、各种目录、有关技术文件等直接用于生产的设计文件进行修改、完善，达到生产定型要求。\r\n（9）根据新的飞机价格和实际使用情况，修正飞机全寿命周期费用预算。\r\n（10）配合承制单位申请飞机生产定型。\r\n1.2.5.4 生产定型主要工作\r\n（1）飞机生产定型是国家对飞机批量生产条件进行全面考核。经设计定型的飞机，在正式大批量生产以前必须进行生产定型。飞机生产定型以飞机研制单位为主。\r\n（2）生产定型文件通常包括以下主要部分：\r\na.申请生产定型报告；\r\nb.试生产总结报告；\r\nc.部队试用报告；\r\nd.生产定型试飞大纲和试飞报告；\r\ne.飞机全套图样；\r\nf.工艺、工装文件；\r\ng.飞机和重要零部件工艺鉴定报告；\r\nh.标准化审查报告；\r\ni.配套成品、原材料、元器件及检验设备的质量和定点供应情况报告；\r\nj.飞机质量管理报告；\r\nk.飞机成本分析报告；\r\nl.飞机、系统技术规范（技术条件），验收技术条件；\r\nm.使用部门对飞机生产定型的意见；\r\nn.飞机技术说明书；\r\no.飞机使用维护说明书；\r\np.各种配套表、明细表、汇总表、成品目录和“四随“目录等；\r\nq.航定委特定的其他文件。\r\n1.2.5.5 质量控制要点\r\n（1）严格控制技术状态更改，严格控制超差代料品的使用。\r\n（2）强化外场质量信息反馈系统，及时解决新机在实际使用中暴露的设计质量问题，积极搜集部队对新机的改进意见，不断提高新机的质量水平。\r\n1.2.5.6 完成标志\r\n通过生产定型评审，由国家军工产品定型委员会或航定委批准生产定型。\r\n1.3 技术状态管理\r\n为保证研制和批生产飞机的质量，必须对技术状态进行有效的管理，对更改进行有效的控制（参见第3章），其基本要求如下。\r\n（1）飞机研制过程技术状态管理的主要依据是：上级批复的战术技术要求（功能基线），研制任务书及有关设计规范、标准（分配基线），设计定型文件及有关文件（产品基线）。\r\n装机成品、设备可暂执行《航空机载设备型号产品研制工作条例》的规定，其技术状态按4个研制阶段划分，即按C型件（原理样机）、S型件（装机上天件）、D型件（定型件）和P型件（批量生产件）的要求实行技术状态管理和控制。\r\n（2）按各阶段规定的技术状态要求，按规定的程序和格式编制技术状态标识的各类技术设计文件，并绘制设计图样，作为制造产品的技术依据。产品的制造质量，必须严格符合设计图样和有关文件的要求，保证文实相符。\r\n（3）在整个产品寿命周期内，对技术状态的更改，必须按规定的程序和要求严格控制，根据更改内容涉及的范围不同，划分不同的更改类别，分级审批，在满足使用要求和确保质量的前提下贯彻执行。\r\n（4）为确保涉及更改的正确性、协调性、完整性以及文件的编写质量，设计更改文件必须按规定的程序办理。所有的设计更改、偏离、超差等内容，都要按规定要求做好状态记录并实施管理，以保证其可追溯性。"
+}

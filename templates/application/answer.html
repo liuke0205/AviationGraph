@@ -1,0 +1,640 @@
+{% extends 'application/index.html' %}
+
+{% block title %}
+    问答系统-用户端
+{% endblock %}
+{% block css %}
+    <link rel="stylesheet" href="/static/css/style2.css"/>
+    <link rel="stylesheet" href="/static/css/ner.css"/>
+    <link href="http://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            background: #494A5F;
+            font-weight: 500;
+            font-family: "Microsoft YaHei","宋体","Segoe UI", "Lucida Grande", Helvetica, Arial,sans-serif, FreeSans, Arimo;
+        }
+
+        #container {
+            width: 500px;
+            height: 820px;
+            margin: 0 auto;
+        }
+        div.search {padding: 30px 0;}
+
+        form {
+            position: relative;
+            width: 300px;
+            margin: 0 auto;
+        }
+
+        input, button {
+            border: none;
+            outline: none;
+        }
+
+        input {
+            width: 100%;
+            height: 42px;
+            padding-left: 13px;
+        }
+
+        button {
+            height: 42px;
+            width: 42px;
+            cursor: pointer;
+            position: absolute;
+        }
+
+        /*搜索框1*/
+        .bar1 {background: #A3D0C3;}
+        .bar1 input {
+            border: 2px solid #7BA7AB;
+            border-radius: 5px;
+            background: #F9F0DA;
+            color: #9E9C9C;
+        }
+        .bar1 button {
+            top: 0;
+            right: 0;
+            background: #7BA7AB;
+            border-radius: 0 5px 5px 0;
+        }
+        .bar1 button:before {
+            content: "\f002";
+            font-family: FontAwesome;
+            font-size: 16px;
+            color: #F9F0DA;
+        }
+
+        /*搜索框2*/
+        .bar2 {background: #DABB52;}
+        .bar2 input, .bar2 button {
+            border-radius: 3px;
+        }
+        .bar2 input {
+            background: #F9F0DA;
+        }
+        .bar2 button {
+            height: 26px;
+            width: 26px;
+            top: 8px;
+            right: 8px;
+            background: #F15B42;
+        }
+        .bar2 button:before {
+            content: "\f105";
+            font-family: FontAwesome;
+            color: #F9F0DA;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        /*搜索框3*/
+        .bar3 {background: #F9F0DA;}
+        .bar3 form {background: #A3D0C3;}
+        .bar3 input, .bar3 button {
+            background: transparent;
+        }
+        .bar3 button {
+            top: 0;
+            right: 0;
+        }
+        .bar3 button:before {
+            content: "\f002";
+            font-family: FontAwesome;
+            font-size: 16px;
+            color: #F9F0DA;
+        }
+
+        /*搜索框4*/
+        .bar4 {background: #F15B42;}
+        .bar4 form {
+            background: #F9F0DA;
+            border-bottom: 2px solid #BE290E;
+        }
+        .bar4 input, .bar4 button {
+            background: transparent;
+        }
+        .bar4 button {
+            top: 0;
+            right: 0;
+        }
+        .bar4 button:before {
+            content: "\f178";
+            font-family: FontAwesome;
+            font-size: 20px;
+            color: #be290e;
+        }
+
+        /*搜索框5*/
+        .bar5 {background: #683B4D;}
+        .bar5 input, .bar5 button {
+            background: transparent;
+        }
+        .bar5 input {
+            border: 2px solid #F9F0DA;
+        }
+        .bar5 button {
+            top: 0;
+            right: 0;
+        }
+        .bar5 button:before {
+            content: "\f002";
+            font-family: FontAwesome;
+            font-size: 16px;
+            color: #F9F0DA;
+        }
+        .bar5 input:focus {
+            border-color: #311c24
+        }
+
+        /*搜索框6*/
+        .bar6 {background: #F9F0DA;}
+        .bar6 input {
+            border: 2px solid #c5464a;
+            border-radius: 5px;
+            background: transparent;
+            top: 0;
+            right: 0;
+        }
+        .bar6 button {
+            background: #c5464a;
+            border-radius: 0 5px 5px 0;
+            width: 60px;
+            top: 0;
+            right: 0;
+        }
+        .bar6 button:before {
+            content: "搜索";
+            font-size: 13px;
+            color: #F9F0DA;
+        }
+
+
+        /*搜索框7*/
+        .bar7 {background: #01a7b3;}
+        .bar7 form {
+            height: 42px;
+        }
+        .bar7 input {
+            width: 350px;
+            border-radius: 42px;
+            border: 2px solid #324B4E;
+            background: #F9F0DA;
+            transition: .3s linear;
+            float: right;
+        }
+        .bar7 input:focus {
+            width: 300px;
+        }
+        .bar7 button {
+            background: none;
+            top: -2px;
+            right: 0;
+        }
+        .bar7 button:before{
+          content: "\f002";
+          font-family: FontAwesome;
+          color: #324b4e;
+        }
+
+        /*搜索框8*/
+        .bar8 {background: #B46381;}
+        .bar8 form {
+            height: 42px;
+        }
+        .bar8 input {
+            width: 0;
+            padding: 0 42px 0 15px;
+            border-bottom: 2px solid transparent;
+            background: transparent;
+            transition: .3s linear;
+            position: absolute;
+            top: 0;
+            right: 0;
+            z-index: 2;
+        }
+        .bar8 input:focus {
+            width: 300px;
+            z-index: 1;
+            border-bottom: 2px solid #F9F0DA;
+        }
+        .bar8 button {
+            background: #683B4D;
+            top: 0;
+            right: 0;
+        }
+        .bar8 button:before {
+            content: "\f002";
+            font-family: FontAwesome;
+            font-size: 16px;
+            color: #F9F0DA;
+        }
+    </style>
+{% endblock %}
+{% block en %}
+    <!-- breadcrumb -->
+    <section class="content-header">
+        <div class="container">
+            <div class="row mb-2">
+                <ol class="breadcrumb ">
+                    <li class="breadcrumb-item"><a href="/application/toHome/"><i class="fas fa-home ml-2"></i> 主页</a>
+                    </li>
+                    <li class="breadcrumb-item active">问答系统</li>
+                </ol>
+            </div>
+        </div>
+    </section><!-- breadcrumb-->
+    <!-- Main content -->
+    <section class="content">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 mb-4">
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <div>输入问题：</div>
+                        </div>
+                        <!-- /.card-header -->
+                        <div class="search bar7">
+                            <form method="post" action="/application/answer_question/">
+                                {% csrf_token %}
+                                <input type="text" placeholder="请输入您要搜索的内容..." value="{{ question }}" id="question" name="question">
+                                <button type="submit" onclick="loading()"></button>
+                            </form>
+                        </div>
+{#                        <div class="card-body p-4">#}
+{#                            <div class="col-lg-8 m-auto">#}
+{#                                <form id="searchRelationForm" method="post" action="/application/answer_question/">#}
+{#                                    {% csrf_token %}#}
+{#                                    <div class="form-group">#}
+{#                                        <div class="input-group m-auto">#}
+{#                                            <input type="text" id="question" name="question"#}
+{#                                                   class="form-control"#}
+{#                                                   placeholder="您可以输入您要查询的语句!" aria-describedby="basic-addon1"#}
+{#                                                   value="{{ question }}">#}
+{#                                            <div class="input-group-append">#}
+{#                                                <button type="submit" id="btnSearch" class="btn btn-primary"#}
+{#                                                        onclick="loading()">#}
+{#                                                    搜索#}
+{#                                                </button>#}
+{#                                            </div>#}
+{#                                        </div>#}
+{#                                    </div>#}
+{##}
+{#                                </form>#}
+{#                            </div>#}
+{##}
+{#                        </div>#}
+                        <!-- /.card-body -->
+
+                    </div>
+                    <!-- /.card -->
+                </div>
+                {% if answer %}
+                <div class="col-lg-6 mb-2">
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <div>答案：</div>
+                        </div><!-- /.card-header -->
+                        <div class="card-body p-4">
+                            <div class="row">
+                                <div class="col-12">
+                                    <table class="table table-bordered mt-4 text-center">
+                                        <tbody>
+                                        <td>{{ answer }}</td>
+                                        </tbody>
+                                    </table>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="card-body p-4 overflow-auto">
+                            <div id="graph" style="width: 100%;height:200px;"></div>
+                        </div>
+                    </div>
+                </div>
+                    <div class="col-lg-6 mb-2">
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <div>词云：</div>
+                        </div><!-- /.card-header -->
+                        <div class="card-body p-4">
+                            <div class="row">
+                                <div class="col-12">
+                                    <img src="/static/img/wordCloud.jpg" style="width: 520px; height: 730px">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+                <!--/.col -->
+            </div>
+            <!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+{% endblock %}
+
+
+
+{% block js %}
+    <!-- 引入公共JS模板 -->
+    <script src="/static/js/commonJS.js"></script>
+
+    {% if searchResult %}
+    <script type="text/javascript">
+        var searchResult =
+        {{searchResult|safe}}
+        //echarts 数据
+        var data = [];
+        var links = [];
+
+        //构造展示的数据
+        var maxDisPlayNode = 100;
+        var id = 0;
+        for (var i = 0; id < maxDisPlayNode && i < searchResult.length; i++) {
+            //获取node1
+            node1 = {};
+            node1['name'] = searchResult[i]['n1']['name'];
+            node1['draggable'] = true;
+            if ('url' in searchResult[i]['n1']) {
+                node1['category'] = 1;
+            } else {
+                node1['category'] = 2;
+            }
+            var flag = 1;
+
+            relationTarget = id.toString();
+            for (var j = 0; j < data.length; j++) {
+                if (data[j]['name'] === node1['name']) {
+                    flag = 0;
+                    relationTarget = data[j]['id'];
+                    break;
+                }
+            }
+
+            node1['id'] = relationTarget;
+            if (flag === 1) {
+                id++;
+                data.push(node1);
+            }
+
+            //获取node2
+            node2 = {};
+            node2['name'] = searchResult[i]['n2']['name'];
+            node2['draggable'] = true;
+            if ('url' in searchResult[i]['n2']) {
+                node2['category'] = 1;
+            } else {
+                node2['category'] = 2;
+            }
+            flag = 1;
+            relationTarget = id.toString();
+            for (var j = 0; j < data.length; j++) {
+                if (data[j]['name'] === node2['name']) {
+                    flag = 0;
+                    relationTarget = data[j]['id'];
+                    break;
+                }
+            }
+            node2['id'] = relationTarget;
+            if (flag === 1) {
+                id++;
+                data.push(node2);
+            }
+
+            //获取relation
+            relation = {};
+            relation['source'] = node1['id'];
+            relation['target'] = node2['id'];
+            relation['category'] = 0;
+            flag = 1;
+            for (var j = 0; j < links.length; j++) {
+                if (links[j]['source'] == relation['source'] && links[j]['target'] == relation['target']) {
+                    links[j]['value'] = links[j]['value'] + searchResult[i]['rel']['type'];
+                    flag = 0;
+                    break;
+                }
+            }
+            if (flag === 1) {
+                relation['value'] = searchResult[i]['rel']['type'];
+                relation['symbolSize'] = 10;
+                links.push(relation);
+            }
+
+        }
+
+        // 修改实体颜色和字体大小
+        var targets = []
+        for (var m = 0; m < links.length; m++) {
+            var flag2 = 1;
+            for (var k = 0; k < targets.length; k++) {
+                if (targets[k] === links[m]['target']) {
+                    flag2 = 0;
+                    break;
+                }
+            }
+            if (flag2 === 1) {
+                targets.push(links[m]['target']);
+            }
+        }
+        var sources = []
+        for (var n = 0; n < links.length; n++) {
+            var flag0 = 1
+            for (var q = 0; q < targets.length; q++) {
+                if (targets[q] === links[n]['source']) {
+                    flag0 = 0
+                    break;
+                }
+            }
+            if (flag0 === 1) {
+                var flag1 = 1;
+                for (let k = 0; k < sources.length; k++) {
+                    if (sources[k] === links[n]['source']) {
+                        flag1 = 0;
+                        break;
+                    }
+                }
+                if (flag1 === 1) {
+                    sources.push(links[n]['source']);
+                }
+            }
+        }
+        for (let i = 0; i < data.length; i++) {
+            for (let j = 0; j < sources.length; j++) {
+                if (sources[j] === data[i]['id']) {
+                    data[i]['color'] = '#C80000';
+                    data[i]['fontSize'] = 16;
+                    data[i]['symbolSize'] = 60;
+                    data[i]['fontWeight'] = 'bold';
+                    break;
+                }
+                data[i]['color'] = '#337ab7';
+                data[i]['fontSize'] = 12;
+                data[i]['symbolSize'] = 45
+                data[i]['fontWeight'] = 'normal'
+            }
+        }
+
+        // Echarts初始化设置
+        var myChart = echarts.init(document.getElementById('graph'));
+
+        option = {
+            title: {
+                text: ''
+            },
+            tooltip: {},
+            animationDurationUpdate: 1500,
+            animationEasingUpdate: 'quinticInOut',
+            backgroundColor: '#aecae3',
+            label: {
+                normal: {
+                    show: true,
+                    textStyle: {
+                        fontSize: 12
+                    },
+                }
+            },
+            legend: {
+                x: "center",
+                show: false
+            },
+            series: [
+
+                {
+                    type: 'graph',
+                    layout: 'force',
+                    symbolSize: 45,
+                    focusNodeAdjacency: true,
+                    roam: true,
+                    edgeSymbol: ['none', 'arrow'],
+                    categories: [{
+                        name: '查询实体',
+                        itemStyle: {
+                            normal: {
+                                color: "#009800",
+                            }
+                        }
+                    }, {
+                        name: 'Bank',
+                        itemStyle: {
+                            normal: {
+                                color: "#ff6e00",
+                            }
+                        }
+                    }, {
+                        name: 'Serise',
+                        itemStyle: {
+                            normal: {
+                                color: "#337ab7",
+                            }
+                        }
+                    }],
+                    label: {
+                        normal: {
+                            show: true,
+                            textStyle: {
+                                fontSize: 12,
+                            },
+                        }
+                    },
+                    force: {
+                        repulsion: 1000
+                    },
+                    edgeSymbolSize: [4, 50],
+                    edgeLabel: {
+                        normal: {
+                            show: true,
+                            textStyle: {
+                                fontSize: 10
+                            },
+                            formatter: "{c}"
+                        }
+                    },
+                    data: data.map(function (node) {
+                        return {
+                            id: node.id,
+                            name: node.name,
+                            symbolSize: node.symbolSize,
+                            itemStyle: {
+                                normal: {
+                                    color: node.color
+                                }
+                            },
+                            label: {
+                                normal: {
+                                    show: true,
+                                    textStyle: {
+                                        fontSize: node.fontSize,
+                                        fontWeight: node.fontWeight
+                                    },
+
+                                }
+                            }
+                        }
+                    }),
+                    links: links,
+                    lineStyle: {
+                        normal: {
+                            opacity: 0.9,
+                            width: 1.3,
+                            curveness: 0,
+                            color: "#262626",
+                        }
+                    }
+                }
+            ]
+        };
+        // 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+    </script>
+    {% endif %}
+
+    {% if messages %}
+        <script>
+            {% for msg in messages %}
+                alert('{{ msg.message }}');
+            {% endfor %}
+
+        </script>
+    {% endif %}
+
+    <script>
+        $(function () {
+            bsCustomFileInput.init();
+        });
+
+        function loading() {
+            layer.msg("搜索答案中......", {
+                icon: 16,
+                shade: [0.6, '#000005'],//遮罩的颜色与透明度
+                time: false  //取消自动关闭
+            })
+
+        }
+
+        function saving() {
+            layer.msg("保存数据中.....", {
+                icon: 16,
+                shade: [0.6, '#000005'],//遮罩的颜色与透明度
+                time: false  //取消自动关闭
+            })
+
+        }
+
+        function uploading() {
+            layer.msg("正在上传文件", {
+                icon: 16,
+                shade: [0.6, '#000005'],//遮罩的颜色与透明度
+                time: false  //取消自动关闭
+            })
+        }
+    </script>
+{% endblock %}

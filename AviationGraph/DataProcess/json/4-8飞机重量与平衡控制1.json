@@ -1,0 +1,5609 @@
+{
+  "path": "F:\\01-科研资料\\03-项目工程\\AviationGraph\\AviationGraph\\DataProcess\\json\\4-8飞机重量与平衡控制1.txt",
+  "outputs": {
+    "annotation": {
+      "T": [
+        "",
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "导弹",
+          "start": 10575,
+          "end": 10577,
+          "attributes": [],
+          "id": 3
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "导弹",
+          "start": 10738,
+          "end": 10740,
+          "attributes": [],
+          "id": 4
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "可靠性",
+          "start": 5765,
+          "end": 5768,
+          "attributes": [],
+          "id": 6
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "可靠性",
+          "start": 10954,
+          "end": 10957,
+          "attributes": [],
+          "id": 8
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "维修性",
+          "start": 5769,
+          "end": 5772,
+          "attributes": [],
+          "id": 9
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "工程研制阶段",
+          "start": 6152,
+          "end": 6158,
+          "attributes": [],
+          "id": 10
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "工程研制阶段",
+          "start": 6192,
+          "end": 6198,
+          "attributes": [],
+          "id": 11
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "整机",
+          "start": 7900,
+          "end": 7902,
+          "attributes": [],
+          "id": 13
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 4151,
+          "end": 4154,
+          "attributes": [],
+          "id": 17
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 4165,
+          "end": 4168,
+          "attributes": [],
+          "id": 18
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 10440,
+          "end": 10443,
+          "attributes": [],
+          "id": 19
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 11566,
+          "end": 11569,
+          "attributes": [],
+          "id": 20
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "环境条件",
+          "start": 7796,
+          "end": 7800,
+          "attributes": [],
+          "id": 21
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "工程研制",
+          "start": 6223,
+          "end": 6227,
+          "attributes": [],
+          "id": 25
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术状态",
+          "start": 8175,
+          "end": 8179,
+          "attributes": [],
+          "id": 36
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术状态",
+          "start": 8451,
+          "end": 8455,
+          "attributes": [],
+          "id": 39
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术状态",
+          "start": 9476,
+          "end": 9480,
+          "attributes": [],
+          "id": 42
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术状态",
+          "start": 10326,
+          "end": 10330,
+          "attributes": [],
+          "id": 43
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "构型",
+          "start": 8631,
+          "end": 8633,
+          "attributes": [],
+          "id": 61
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "军用飞机",
+          "start": 1250,
+          "end": 1254,
+          "attributes": [],
+          "id": 62
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 612,
+          "end": 615,
+          "attributes": [],
+          "id": 72
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 631,
+          "end": 634,
+          "attributes": [],
+          "id": 73
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 680,
+          "end": 683,
+          "attributes": [],
+          "id": 74
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 9781,
+          "end": 9784,
+          "attributes": [],
+          "id": 79
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 9785,
+          "end": 9788,
+          "attributes": [],
+          "id": 80
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 9811,
+          "end": 9814,
+          "attributes": [],
+          "id": 81
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 9819,
+          "end": 9822,
+          "attributes": [],
+          "id": 82
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 9869,
+          "end": 9872,
+          "attributes": [],
+          "id": 85
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 9960,
+          "end": 9963,
+          "attributes": [],
+          "id": 90
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 10029,
+          "end": 10032,
+          "attributes": [],
+          "id": 91
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 10135,
+          "end": 10138,
+          "attributes": [],
+          "id": 94
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 10159,
+          "end": 10162,
+          "attributes": [],
+          "id": 95
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 11746,
+          "end": 11749,
+          "attributes": [],
+          "id": 96
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "机载设备",
+          "start": 5339,
+          "end": 5343,
+          "attributes": [],
+          "id": 98
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "副油箱",
+          "start": 10750,
+          "end": 10753,
+          "attributes": [],
+          "id": 104
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "舱门",
+          "start": 3646,
+          "end": 3648,
+          "attributes": [],
+          "id": 116
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "油箱",
+          "start": 7593,
+          "end": 7595,
+          "attributes": [],
+          "id": 122
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "干扰弹",
+          "start": 10578,
+          "end": 10581,
+          "attributes": [],
+          "id": 131
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "插头",
+          "start": 7754,
+          "end": 7756,
+          "attributes": [],
+          "id": 140
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "管路",
+          "start": 7166,
+          "end": 7168,
+          "attributes": [],
+          "id": 141
+        },
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "燃油系统",
+          "start": 10115,
+          "end": 10119,
+          "attributes": [],
+          "id": 143
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "燃油系统",
+          "start": 10164,
+          "end": 10168,
+          "attributes": [],
+          "id": 144
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计要求",
+          "start": 4887,
+          "end": 4891,
+          "attributes": [],
+          "id": 148
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计要求",
+          "start": 5823,
+          "end": 5827,
+          "attributes": [],
+          "id": 149
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计要求",
+          "start": 9805,
+          "end": 9809,
+          "attributes": [],
+          "id": 150
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "机尾",
+          "start": 1796,
+          "end": 1798,
+          "attributes": [],
+          "id": 151
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "千斤顶",
+          "start": 2885,
+          "end": 2888,
+          "attributes": [],
+          "id": 152
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "燃油箱",
+          "start": 7527,
+          "end": 7530,
+          "attributes": [],
+          "id": 154
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "电缆",
+          "start": 7169,
+          "end": 7171,
+          "attributes": [],
+          "id": 156
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "电缆",
+          "start": 7269,
+          "end": 7271,
+          "attributes": [],
+          "id": 157
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "电缆",
+          "start": 7748,
+          "end": 7750,
+          "attributes": [],
+          "id": 158
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空勤人员",
+          "start": 10592,
+          "end": 10596,
+          "attributes": [],
+          "id": 162
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "准确性",
+          "start": 6721,
+          "end": 6724,
+          "attributes": [],
+          "id": 169
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "起落装置",
+          "start": 11942,
+          "end": 11946,
+          "attributes": [],
+          "id": 171
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞行品质",
+          "start": 7966,
+          "end": 7970,
+          "attributes": [],
+          "id": 173
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "退役",
+          "start": 8947,
+          "end": 8949,
+          "attributes": [],
+          "id": 175
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞行状态",
+          "start": 5597,
+          "end": 5601,
+          "attributes": [],
+          "id": 178
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "安全系数",
+          "start": 7060,
+          "end": 7064,
+          "attributes": [],
+          "id": 181
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机载设备重量",
+          "start": 10294,
+          "end": 10300,
+          "attributes": [],
+          "id": 184
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "滑行",
+          "start": 2318,
+          "end": 2320,
+          "attributes": [],
+          "id": 185
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "牵引",
+          "start": 3026,
+          "end": 3028,
+          "attributes": [],
+          "id": 188
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "论证阶段",
+          "start": 3984,
+          "end": 3988,
+          "attributes": [],
+          "id": 196
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "论证阶段",
+          "start": 4946,
+          "end": 4950,
+          "attributes": [],
+          "id": 197
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "论证阶段",
+          "start": 5043,
+          "end": 5047,
+          "attributes": [],
+          "id": 198
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "论证阶段",
+          "start": 5378,
+          "end": 5382,
+          "attributes": [],
+          "id": 199
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "方案阶段",
+          "start": 4986,
+          "end": 4990,
+          "attributes": [],
+          "id": 200
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "方案阶段",
+          "start": 5081,
+          "end": 5085,
+          "attributes": [],
+          "id": 201
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "方案阶段",
+          "start": 5098,
+          "end": 5102,
+          "attributes": [],
+          "id": 202
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "方案阶段",
+          "start": 5173,
+          "end": 5177,
+          "attributes": [],
+          "id": 203
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "方案阶段",
+          "start": 6133,
+          "end": 6137,
+          "attributes": [],
+          "id": 204
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "方案阶段",
+          "start": 11207,
+          "end": 11211,
+          "attributes": [],
+          "id": 205
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术要求",
+          "start": 1161,
+          "end": 1167,
+          "attributes": [],
+          "id": 211
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术要求",
+          "start": 1182,
+          "end": 1188,
+          "attributes": [],
+          "id": 212
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术要求",
+          "start": 1543,
+          "end": 1549,
+          "attributes": [],
+          "id": 213
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术要求",
+          "start": 2185,
+          "end": 2191,
+          "attributes": [],
+          "id": 214
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术要求",
+          "start": 2250,
+          "end": 2256,
+          "attributes": [],
+          "id": 215
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术要求",
+          "start": 4628,
+          "end": 4634,
+          "attributes": [],
+          "id": 219
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术要求",
+          "start": 5555,
+          "end": 5561,
+          "attributes": [],
+          "id": 221
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术要求",
+          "start": 6660,
+          "end": 6666,
+          "attributes": [],
+          "id": 222
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "战术技术要求",
+          "start": 10620,
+          "end": 10626,
+          "attributes": [],
+          "id": 223
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "新技术",
+          "start": 4527,
+          "end": 4530,
+          "attributes": [],
+          "id": 224
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "新技术",
+          "start": 4570,
+          "end": 4573,
+          "attributes": [],
+          "id": 225
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "新技术",
+          "start": 5739,
+          "end": 5742,
+          "attributes": [],
+          "id": 226
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "新成品",
+          "start": 5747,
+          "end": 5750,
+          "attributes": [],
+          "id": 227
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "新材料",
+          "start": 4566,
+          "end": 4569,
+          "attributes": [],
+          "id": 228
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "新材料",
+          "start": 5731,
+          "end": 5734,
+          "attributes": [],
+          "id": 229
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "新工艺",
+          "start": 4574,
+          "end": 4577,
+          "attributes": [],
+          "id": 230
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "新工艺",
+          "start": 5735,
+          "end": 5738,
+          "attributes": [],
+          "id": 231
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总设计师",
+          "start": 6601,
+          "end": 6605,
+          "attributes": [],
+          "id": 232
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "管理制度",
+          "start": 6636,
+          "end": 6640,
+          "attributes": [],
+          "id": 233
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体布置",
+          "start": 11790,
+          "end": 11794,
+          "attributes": [],
+          "id": 237
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机配套技术状态",
+          "start": 8210,
+          "end": 8218,
+          "attributes": [],
+          "id": 239
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机配套技术状态",
+          "start": 10487,
+          "end": 10495,
+          "attributes": [],
+          "id": 240
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机三面图",
+          "start": 9051,
+          "end": 9056,
+          "attributes": [],
+          "id": 241
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体布置图",
+          "start": 1625,
+          "end": 1630,
+          "attributes": [],
+          "id": 242
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "总体布置图",
+          "start": 4690,
+          "end": 4695,
+          "attributes": [],
+          "id": 243
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "成品目录",
+          "start": 1579,
+          "end": 1583,
+          "attributes": [],
+          "id": 247
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "使用维护要求",
+          "start": 7105,
+          "end": 7111,
+          "attributes": [],
+          "id": 249
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "样机制造",
+          "start": 5312,
+          "end": 5316,
+          "attributes": [],
+          "id": 250
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "详细设计",
+          "start": 6285,
+          "end": 6289,
+          "attributes": [],
+          "id": 251
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "试制",
+          "start": 6342,
+          "end": 6344,
+          "attributes": [],
+          "id": 253
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "型号规范",
+          "start": 3747,
+          "end": 3751,
+          "attributes": [],
+          "id": 258
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计图样",
+          "start": 6763,
+          "end": 6767,
+          "attributes": [],
+          "id": 261
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计图样",
+          "start": 6833,
+          "end": 6837,
+          "attributes": [],
+          "id": 262
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "地面试验",
+          "start": 6309,
+          "end": 6313,
+          "attributes": [],
+          "id": 264
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "承制单位",
+          "start": 9792,
+          "end": 9796,
+          "attributes": [],
+          "id": 265
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "承制单位",
+          "start": 10641,
+          "end": 10645,
+          "attributes": [],
+          "id": 266
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制单位",
+          "start": 1522,
+          "end": 1526,
+          "attributes": [],
+          "id": 269
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制单位",
+          "start": 1585,
+          "end": 1589,
+          "attributes": [],
+          "id": 270
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制单位",
+          "start": 1609,
+          "end": 1613,
+          "attributes": [],
+          "id": 271
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制单位",
+          "start": 1698,
+          "end": 1702,
+          "attributes": [],
+          "id": 272
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制单位",
+          "start": 3906,
+          "end": 3910,
+          "attributes": [],
+          "id": 273
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制单位",
+          "start": 5777,
+          "end": 5781,
+          "attributes": [],
+          "id": 276
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制单位",
+          "start": 8535,
+          "end": 8539,
+          "attributes": [],
+          "id": 277
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制单位",
+          "start": 8782,
+          "end": 8786,
+          "attributes": [],
+          "id": 278
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机重量",
+          "start": 4,
+          "end": 8,
+          "attributes": [],
+          "id": 279
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机重量",
+          "start": 1275,
+          "end": 1279,
+          "attributes": [],
+          "id": 280
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机重量",
+          "start": 1723,
+          "end": 1727,
+          "attributes": [],
+          "id": 282
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机重量",
+          "start": 2604,
+          "end": 2608,
+          "attributes": [],
+          "id": 285
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机重量",
+          "start": 2972,
+          "end": 2976,
+          "attributes": [],
+          "id": 288
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机重量",
+          "start": 3049,
+          "end": 3053,
+          "attributes": [],
+          "id": 289
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机重量",
+          "start": 5352,
+          "end": 5356,
+          "attributes": [],
+          "id": 294
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "推重比",
+          "start": 358,
+          "end": 361,
+          "attributes": [],
+          "id": 298
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "推重比",
+          "start": 9935,
+          "end": 9938,
+          "attributes": [],
+          "id": 302
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "推重比",
+          "start": 10153,
+          "end": 10156,
+          "attributes": [],
+          "id": 305
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "展弦比",
+          "start": 11170,
+          "end": 11173,
+          "attributes": [],
+          "id": 308
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机翼参考面积",
+          "start": 262,
+          "end": 268,
+          "attributes": [],
+          "id": 311
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "暖机",
+          "start": 2315,
+          "end": 2317,
+          "attributes": [],
+          "id": 323
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《有人驾驶飞机（固定翼）飞行性能和图表资料》",
+          "start": 1295,
+          "end": 1317,
+          "attributes": [],
+          "id": 326
+        },
+        null,
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《有人驾驶飞机（固定翼）飞行品质》",
+          "start": 1328,
+          "end": 1345,
+          "attributes": [],
+          "id": 328
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "预选方案",
+          "start": 4070,
+          "end": 4074,
+          "attributes": [],
+          "id": 329
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "空气动力",
+          "start": 521,
+          "end": 525,
+          "attributes": [],
+          "id": 331
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "方案设计",
+          "start": 5307,
+          "end": 5311,
+          "attributes": [],
+          "id": 332
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "方案设计",
+          "start": 5364,
+          "end": 5368,
+          "attributes": [],
+          "id": 333
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "方案设计",
+          "start": 11248,
+          "end": 11252,
+          "attributes": [],
+          "id": 334
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "新机",
+          "start": 8923,
+          "end": 8925,
+          "attributes": [],
+          "id": 335
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "外挂副油箱",
+          "start": 965,
+          "end": 970,
+          "attributes": [],
+          "id": 337
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "炸弹",
+          "start": 10572,
+          "end": 10574,
+          "attributes": [],
+          "id": 340
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "炸弹",
+          "start": 10744,
+          "end": 10746,
+          "attributes": [],
+          "id": 341
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "前缘后掠角",
+          "start": 11189,
+          "end": 11194,
+          "attributes": [],
+          "id": 344
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起飞推重比",
+          "start": 9991,
+          "end": 9996,
+          "attributes": [],
+          "id": 346
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "生存力",
+          "start": 5761,
+          "end": 5764,
+          "attributes": [],
+          "id": 347
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "总体参数",
+          "start": 9220,
+          "end": 9224,
+          "attributes": [],
+          "id": 348
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机内载油量",
+          "start": 4440,
+          "end": 4445,
+          "attributes": [],
+          "id": 349
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大起飞重量",
+          "start": 793,
+          "end": 799,
+          "attributes": [],
+          "id": 357
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大起飞重量",
+          "start": 2330,
+          "end": 2336,
+          "attributes": [],
+          "id": 358
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "强度设计重量",
+          "start": 2475,
+          "end": 2481,
+          "attributes": [],
+          "id": 359
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大着陆重量",
+          "start": 2660,
+          "end": 2666,
+          "attributes": [],
+          "id": 363
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "空机重量",
+          "start": 2450,
+          "end": 2454,
+          "attributes": [],
+          "id": 377
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "空机重量",
+          "start": 3774,
+          "end": 3778,
+          "attributes": [],
+          "id": 379
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机结构重量",
+          "start": 11918,
+          "end": 11924,
+          "attributes": [],
+          "id": 380
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "尾翼",
+          "start": 10825,
+          "end": 10827,
+          "attributes": [],
+          "id": 384
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "水平尾翼",
+          "start": 748,
+          "end": 752,
+          "attributes": [],
+          "id": 396
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "垂直尾翼",
+          "start": 11451,
+          "end": 11455,
+          "attributes": [],
+          "id": 404
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "结构重量",
+          "start": 3537,
+          "end": 3541,
+          "attributes": [],
+          "id": 406
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "结构重量",
+          "start": 3845,
+          "end": 3849,
+          "attributes": [],
+          "id": 407
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "结构重量",
+          "start": 7535,
+          "end": 7539,
+          "attributes": [],
+          "id": 408
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "结构重量",
+          "start": 10923,
+          "end": 10927,
+          "attributes": [],
+          "id": 410
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "结构重量",
+          "start": 11962,
+          "end": 11966,
+          "attributes": [],
+          "id": 412
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "涡扇发动机",
+          "start": 402,
+          "end": 407,
+          "attributes": [],
+          "id": 414
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "基本飞行设计重量",
+          "start": 2482,
+          "end": 2490,
+          "attributes": [],
+          "id": 415
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "钛合金",
+          "start": 6081,
+          "end": 6084,
+          "attributes": [],
+          "id": 419
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "复合材料",
+          "start": 6076,
+          "end": 6080,
+          "attributes": [],
+          "id": 420
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "复合材料",
+          "start": 11482,
+          "end": 11486,
+          "attributes": [],
+          "id": 423
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "复合材料",
+          "start": 11670,
+          "end": 11674,
+          "attributes": [],
+          "id": 424
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "复合材料",
+          "start": 12148,
+          "end": 12152,
+          "attributes": [],
+          "id": 426
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "三面图",
+          "start": 1631,
+          "end": 1634,
+          "attributes": [],
+          "id": 428
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "三面图",
+          "start": 4696,
+          "end": 4699,
+          "attributes": [],
+          "id": 429
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "重量计算",
+          "start": 5369,
+          "end": 5373,
+          "attributes": [],
+          "id": 432
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "惯性矩",
+          "start": 138,
+          "end": 141,
+          "attributes": [],
+          "id": 434
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "惯性矩",
+          "start": 4610,
+          "end": 4613,
+          "attributes": [],
+          "id": 435
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "惯性矩",
+          "start": 4771,
+          "end": 4774,
+          "attributes": [],
+          "id": 436
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "惯性矩",
+          "start": 5265,
+          "end": 5268,
+          "attributes": [],
+          "id": 437
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "惯性矩",
+          "start": 8582,
+          "end": 8585,
+          "attributes": [],
+          "id": 438
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞行载荷",
+          "start": 5588,
+          "end": 5592,
+          "attributes": [],
+          "id": 440
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "动力装置重量",
+          "start": 9711,
+          "end": 9717,
+          "attributes": [],
+          "id": 444
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "动力装置重量",
+          "start": 9718,
+          "end": 9724,
+          "attributes": [],
+          "id": 445
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "平均气动弦长",
+          "start": 59,
+          "end": 65,
+          "attributes": [],
+          "id": 447
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机设计手册》",
+          "start": 1454,
+          "end": 1462,
+          "attributes": [],
+          "id": 448
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机设计手册》",
+          "start": 1968,
+          "end": 1976,
+          "attributes": [],
+          "id": 449
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机设计手册》",
+          "start": 5127,
+          "end": 5135,
+          "attributes": [],
+          "id": 450
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机设计手册》",
+          "start": 6252,
+          "end": 6260,
+          "attributes": [],
+          "id": 451
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机设计手册》",
+          "start": 6866,
+          "end": 6874,
+          "attributes": [],
+          "id": 452
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "坐标原点",
+          "start": 1845,
+          "end": 1849,
+          "attributes": [],
+          "id": 456
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "涡喷发动机",
+          "start": 424,
+          "end": 429,
+          "attributes": [],
+          "id": 457
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "涡喷发动机",
+          "start": 454,
+          "end": 459,
+          "attributes": [],
+          "id": 458
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术状态管理",
+          "start": 4962,
+          "end": 4968,
+          "attributes": [],
+          "id": 459
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "技术状态管理",
+          "start": 9029,
+          "end": 9035,
+          "attributes": [],
+          "id": 460
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "功能基线",
+          "start": 4970,
+          "end": 4974,
+          "attributes": [],
+          "id": 461
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "分配基线",
+          "start": 6163,
+          "end": 6167,
+          "attributes": [],
+          "id": 462
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "分配基线",
+          "start": 6203,
+          "end": 6207,
+          "attributes": [],
+          "id": 463
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量特性",
+          "start": 1598,
+          "end": 1602,
+          "attributes": [],
+          "id": 464
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量特性",
+          "start": 4109,
+          "end": 4113,
+          "attributes": [],
+          "id": 467
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量特性",
+          "start": 4993,
+          "end": 4997,
+          "attributes": [],
+          "id": 470
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量特性",
+          "start": 5105,
+          "end": 5109,
+          "attributes": [],
+          "id": 473
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量特性",
+          "start": 5297,
+          "end": 5301,
+          "attributes": [],
+          "id": 476
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量特性",
+          "start": 6553,
+          "end": 6557,
+          "attributes": [],
+          "id": 485
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量特性",
+          "start": 7903,
+          "end": 7907,
+          "attributes": [],
+          "id": 493
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量特性",
+          "start": 8838,
+          "end": 8842,
+          "attributes": [],
+          "id": 499
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量特性",
+          "start": 8886,
+          "end": 8890,
+          "attributes": [],
+          "id": 500
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量特性",
+          "start": 8952,
+          "end": 8956,
+          "attributes": [],
+          "id": 503
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量特性",
+          "start": 9541,
+          "end": 9545,
+          "attributes": [],
+          "id": 511
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "理论外形图",
+          "start": 1635,
+          "end": 1640,
+          "attributes": [],
+          "id": 513
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "理论外形图",
+          "start": 4700,
+          "end": 4705,
+          "attributes": [],
+          "id": 514
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "平尾",
+          "start": 11367,
+          "end": 11369,
+          "attributes": [],
+          "id": 523
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "鸭式飞机",
+          "start": 76,
+          "end": 80,
+          "attributes": [],
+          "id": 527
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "无尾飞机",
+          "start": 200,
+          "end": 204,
+          "attributes": [],
+          "id": 528
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "发动机推力",
+          "start": 337,
+          "end": 342,
+          "attributes": [],
+          "id": 529
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "海平面标准加力静推力",
+          "start": 9872,
+          "end": 9882,
+          "attributes": [],
+          "id": 530
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼面后掠角",
+          "start": 495,
+          "end": 500,
+          "attributes": [],
+          "id": 531
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空战",
+          "start": 540,
+          "end": 542,
+          "attributes": [],
+          "id": 532
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "无外挂起飞",
+          "start": 812,
+          "end": 817,
+          "attributes": [],
+          "id": 536
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机重量与平衡要求》",
+          "start": 1274,
+          "end": 1285,
+          "attributes": [],
+          "id": 542
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "使用性能",
+          "start": 7358,
+          "end": 7362,
+          "attributes": [],
+          "id": 544
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "无外挂起飞重量",
+          "start": 9976,
+          "end": 9983,
+          "attributes": [],
+          "id": 552
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "前缘机动襟翼",
+          "start": 11089,
+          "end": 11095,
+          "attributes": [],
+          "id": 555
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "前缘边条",
+          "start": 11215,
+          "end": 11219,
+          "attributes": [],
+          "id": 556
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "空战重量",
+          "start": 2393,
+          "end": 2397,
+          "attributes": [],
+          "id": 557
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "发动机重量",
+          "start": 9770,
+          "end": 9775,
+          "attributes": [],
+          "id": 558
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "结构重量系数",
+          "start": 12025,
+          "end": 12031,
+          "attributes": [],
+          "id": 562
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "发动机推重比",
+          "start": 9944,
+          "end": 9950,
+          "attributes": [],
+          "id": 563
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "发动机的推重比",
+          "start": 9839,
+          "end": 9846,
+          "attributes": [],
+          "id": 564
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "发动机的推重比",
+          "start": 9886,
+          "end": 9893,
+          "attributes": [],
+          "id": 565
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "相对厚度",
+          "start": 11153,
+          "end": 11157,
+          "attributes": [],
+          "id": 576
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "浸润面积",
+          "start": 1060,
+          "end": 1064,
+          "attributes": [],
+          "id": 580
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "动力装置系统",
+          "start": 847,
+          "end": 853,
+          "attributes": [],
+          "id": 586
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "动力装置系统",
+          "start": 4379,
+          "end": 4385,
+          "attributes": [],
+          "id": 587
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "机头",
+          "start": 1792,
+          "end": 1794,
+          "attributes": [],
+          "id": 593
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "机头",
+          "start": 1854,
+          "end": 1856,
+          "attributes": [],
+          "id": 594
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "机头",
+          "start": 1857,
+          "end": 1859,
+          "attributes": [],
+          "id": 595
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "翼面",
+          "start": 11939,
+          "end": 11941,
+          "attributes": [],
+          "id": 604
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "理论计算",
+          "start": 6845,
+          "end": 6849,
+          "attributes": [],
+          "id": 606
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "铝合金",
+          "start": 11364,
+          "end": 11367,
+          "attributes": [],
+          "id": 608
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "铝合金",
+          "start": 11496,
+          "end": 11499,
+          "attributes": [],
+          "id": 609
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "结构承力系统",
+          "start": 7011,
+          "end": 7017,
+          "attributes": [],
+          "id": 613
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "外露面积",
+          "start": 12093,
+          "end": 12097,
+          "attributes": [],
+          "id": 614
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机身平均宽度",
+          "start": 12077,
+          "end": 12083,
+          "attributes": [],
+          "id": 616
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机翼重量",
+          "start": 10851,
+          "end": 10855,
+          "attributes": [],
+          "id": 619
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机翼重量",
+          "start": 10973,
+          "end": 10977,
+          "attributes": [],
+          "id": 620
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机翼重量",
+          "start": 10992,
+          "end": 10996,
+          "attributes": [],
+          "id": 622
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机翼重量",
+          "start": 12061,
+          "end": 12065,
+          "attributes": [],
+          "id": 623
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "气动载荷",
+          "start": 5615,
+          "end": 5619,
+          "attributes": [],
+          "id": 624
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "气动载荷",
+          "start": 5970,
+          "end": 5974,
+          "attributes": [],
+          "id": 626
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机构型",
+          "start": 2437,
+          "end": 2441,
+          "attributes": [],
+          "id": 628
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "悬挂物",
+          "start": 4389,
+          "end": 4392,
+          "attributes": [],
+          "id": 631
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "梯形机翼",
+          "start": 11240,
+          "end": 11244,
+          "attributes": [],
+          "id": 633
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "估算方法",
+          "start": 1689,
+          "end": 1693,
+          "attributes": [],
+          "id": 634
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "估算方法",
+          "start": 9656,
+          "end": 9660,
+          "attributes": [],
+          "id": 635
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "估算方法",
+          "start": 9684,
+          "end": 9688,
+          "attributes": [],
+          "id": 636
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "估算方法",
+          "start": 9754,
+          "end": 9758,
+          "attributes": [],
+          "id": 637
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "估算方法",
+          "start": 11277,
+          "end": 11281,
+          "attributes": [],
+          "id": 639
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "俯仰角",
+          "start": 8727,
+          "end": 8730,
+          "attributes": [],
+          "id": 640
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "设计重量",
+          "start": 5642,
+          "end": 5646,
+          "attributes": [],
+          "id": 644
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "设计重量",
+          "start": 6007,
+          "end": 6011,
+          "attributes": [],
+          "id": 646
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "设计重量",
+          "start": 11260,
+          "end": 11264,
+          "attributes": [],
+          "id": 647
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机姿态",
+          "start": 7553,
+          "end": 7557,
+          "attributes": [],
+          "id": 648
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机姿态",
+          "start": 8101,
+          "end": 8105,
+          "attributes": [],
+          "id": 649
+        },
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "原准机",
+          "start": 5847,
+          "end": 5850,
+          "attributes": [],
+          "id": 651
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "惯性载荷",
+          "start": 5620,
+          "end": 5624,
+          "attributes": [],
+          "id": 652
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "燃油重量",
+          "start": 10664,
+          "end": 10668,
+          "attributes": [],
+          "id": 653
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "传力路线",
+          "start": 6040,
+          "end": 6044,
+          "attributes": [],
+          "id": 660
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "强度校核",
+          "start": 2620,
+          "end": 2624,
+          "attributes": [],
+          "id": 661
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量分布",
+          "start": 4614,
+          "end": 4618,
+          "attributes": [],
+          "id": 668
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量分布",
+          "start": 4784,
+          "end": 4788,
+          "attributes": [],
+          "id": 669
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量分布",
+          "start": 5211,
+          "end": 5215,
+          "attributes": [],
+          "id": 670
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量分布",
+          "start": 5269,
+          "end": 5273,
+          "attributes": [],
+          "id": 671
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量分布",
+          "start": 8697,
+          "end": 8701,
+          "attributes": [],
+          "id": 673
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "金属",
+          "start": 7378,
+          "end": 7380,
+          "attributes": [],
+          "id": 677
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机翼展弦比",
+          "start": 24,
+          "end": 29,
+          "attributes": [],
+          "id": 689
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "重力加速度",
+          "start": 91,
+          "end": 96,
+          "attributes": [],
+          "id": 690
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "重心相对位置",
+          "start": 112,
+          "end": 118,
+          "attributes": [],
+          "id": 691
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "动压",
+          "start": 216,
+          "end": 218,
+          "attributes": [],
+          "id": 692
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "起落架",
+          "start": 764,
+          "end": 767,
+          "attributes": [],
+          "id": 693
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "备份燃油",
+          "start": 898,
+          "end": 902,
+          "attributes": [],
+          "id": 694
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "可用燃油",
+          "start": 1003,
+          "end": 1007,
+          "attributes": [],
+          "id": 695
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "不可用燃油",
+          "start": 1019,
+          "end": 1024,
+          "attributes": [],
+          "id": 696
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《军用飞机强度与刚度规范》",
+          "start": 1249,
+          "end": 1262,
+          "attributes": [],
+          "id": 697
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机（含旋翼机）重量与平衡数据的报告格式》",
+          "start": 1357,
+          "end": 1379,
+          "attributes": [],
+          "id": 700
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机零组部件重量公差》",
+          "start": 1390,
+          "end": 1402,
+          "attributes": [],
+          "id": 704
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机重量与重心公差》",
+          "start": 1413,
+          "end": 1424,
+          "attributes": [],
+          "id": 705
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《基本重量检查单和装载数据技术手册》",
+          "start": 1435,
+          "end": 1453,
+          "attributes": [],
+          "id": 706
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机型号设计规范》",
+          "start": 1474,
+          "end": 1484,
+          "attributes": [],
+          "id": 707
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "基本空机重量",
+          "start": 2001,
+          "end": 2007,
+          "attributes": [],
+          "id": 708
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "基本空机重量",
+          "start": 2082,
+          "end": 2088,
+          "attributes": [],
+          "id": 709
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "设计重量余量",
+          "start": 2089,
+          "end": 2095,
+          "attributes": [],
+          "id": 710
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "使用空机重量",
+          "start": 2116,
+          "end": 2122,
+          "attributes": [],
+          "id": 711
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "由基本使用空机重量与特指的相应构型的外挂装置（指挂架和发射装置）重量所构成的飞机的重量",
+          "start": 2123,
+          "end": 2166,
+          "attributes": [],
+          "id": 712
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "无外挂起飞重量",
+          "start": 2171,
+          "end": 2178,
+          "attributes": [],
+          "id": 713
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "对应战术技术要求中相应构型的基本使用空机重量、机内正常载油量以及机内相应的军械、武器重量之和",
+          "start": 2183,
+          "end": 2229,
+          "attributes": [],
+          "id": 714
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机内正常载油量",
+          "start": 2206,
+          "end": 2213,
+          "attributes": [],
+          "id": 715
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "军械、武器重量",
+          "start": 2220,
+          "end": 2227,
+          "attributes": [],
+          "id": 716
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "正常（使用）起飞重量",
+          "start": 2234,
+          "end": 2244,
+          "attributes": [],
+          "id": 717
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "对应战术技术要求中特指的构型（通常是基本性能考核构型），由相应的使用空机重量、相应的固定与消耗装载所构成的飞机，在起飞前的全机总重（含暖机和滑行消耗燃油）",
+          "start": 2248,
+          "end": 2325,
+          "attributes": [],
+          "id": 718
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "重心后极限状态重量",
+          "start": 2405,
+          "end": 2414,
+          "attributes": [],
+          "id": 719
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "最大军械重量构型",
+          "start": 2765,
+          "end": 2773,
+          "attributes": [],
+          "id": 726
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "所有构型中，携带的军械、武器最重的构型",
+          "start": 2743,
+          "end": 2762,
+          "attributes": [],
+          "id": 727
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大军械重量",
+          "start": 2778,
+          "end": 2784,
+          "attributes": [],
+          "id": 730
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "使用千斤顶允许顶起的最大飞机重量",
+          "start": 2883,
+          "end": 2899,
+          "attributes": [],
+          "id": 731
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大顶升重量",
+          "start": 2876,
+          "end": 2882,
+          "attributes": [],
+          "id": 732
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大起吊重量",
+          "start": 2940,
+          "end": 2946,
+          "attributes": [],
+          "id": 733
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "在飞机维护或运输过程中，使用起吊装置允许吊起的最大飞机重量",
+          "start": 2947,
+          "end": 2976,
+          "attributes": [],
+          "id": 734
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大牵引重量",
+          "start": 3019,
+          "end": 3025,
+          "attributes": [],
+          "id": 735
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "牵引飞机时，牵引装置及飞机相关部位所允许的最大飞机重量",
+          "start": 3026,
+          "end": 3053,
+          "attributes": [],
+          "id": 736
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "有用载荷",
+          "start": 3102,
+          "end": 3106,
+          "attributes": [],
+          "id": 737
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "消耗载荷",
+          "start": 3153,
+          "end": 3157,
+          "attributes": [],
+          "id": 738
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "有效载荷",
+          "start": 3191,
+          "end": 3195,
+          "attributes": [],
+          "id": 739
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "固定载荷",
+          "start": 3237,
+          "end": 3241,
+          "attributes": [],
+          "id": 740
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "执行飞行任务中，可能耗去的装载，如燃油、炮弹、导弹、炸弹等",
+          "start": 3158,
+          "end": 3187,
+          "attributes": [],
+          "id": 741
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "执行飞行任务中，不消耗或消耗很少的装载，如氧气、滑油、不可用燃油、飞行员等",
+          "start": 3196,
+          "end": 3233,
+          "attributes": [],
+          "id": 742
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "执行飞行任务中，按战术技术要求规定需携带的固定装载",
+          "start": 3242,
+          "end": 3267,
+          "attributes": [],
+          "id": 743
+        },
+        null,
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机（含旋翼机）重量与平衡数据的报告格式》",
+          "start": 3956,
+          "end": 3978,
+          "attributes": [],
+          "id": 745
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "无外挂起飞状态",
+          "start": 4259,
+          "end": 4266,
+          "attributes": [],
+          "id": 746
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "正常起飞状态",
+          "start": 4270,
+          "end": 4276,
+          "attributes": [],
+          "id": 747
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空战状态",
+          "start": 4280,
+          "end": 4284,
+          "attributes": [],
+          "id": 748
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "最大起飞状态",
+          "start": 4288,
+          "end": 4294,
+          "attributes": [],
+          "id": 749
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "正常着陆状态",
+          "start": 4298,
+          "end": 4304,
+          "attributes": [],
+          "id": 750
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "最大着陆状态",
+          "start": 4308,
+          "end": 4314,
+          "attributes": [],
+          "id": 751
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机外载油量",
+          "start": 4449,
+          "end": 4454,
+          "attributes": [],
+          "id": 752
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "理论计算重量",
+          "start": 6857,
+          "end": 6863,
+          "attributes": [],
+          "id": 753
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《基本重量检查单与装载数据技术手册》",
+          "start": 8295,
+          "end": 8313,
+          "attributes": [],
+          "id": 756
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量特性数据库",
+          "start": 8915,
+          "end": 8922,
+          "attributes": [],
+          "id": 757
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "是新机研制的必备工具，用来保存各个型号飞机从研制到退役的全部质量特性资料与数据。该数据库可对新机的研制进行各阶段的质量特性分析，也可进行控制与管理",
+          "start": 8922,
+          "end": 8995,
+          "attributes": [],
+          "id": 758
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机生产蓝图",
+          "start": 9082,
+          "end": 9088,
+          "attributes": [],
+          "id": 759
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "成品协议书",
+          "start": 9152,
+          "end": 9157,
+          "attributes": [],
+          "id": 760
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "GJB2194-94",
+          "start": 9171,
+          "end": 9181,
+          "attributes": [],
+          "id": 761
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机（含旋翼机）重量与平衡数据的报告格式》",
+          "start": 9181,
+          "end": 9203,
+          "attributes": [],
+          "id": 762
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "MASSDB质量特性数据库",
+          "start": 9269,
+          "end": 9282,
+          "attributes": [],
+          "id": 763
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "SDDB质量库",
+          "start": 9283,
+          "end": 9290,
+          "attributes": [],
+          "id": 764
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "MDB质量库",
+          "start": 9291,
+          "end": 9297,
+          "attributes": [],
+          "id": 765
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "动力装置系统重量",
+          "start": 10016,
+          "end": 10025,
+          "attributes": [],
+          "id": 768
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "发动机台数",
+          "start": 10057,
+          "end": 10062,
+          "attributes": [],
+          "id": 769
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "动力装置系统重量系数",
+          "start": 10089,
+          "end": 10099,
+          "attributes": [],
+          "id": 770
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "起动系统",
+          "start": 10110,
+          "end": 10114,
+          "attributes": [],
+          "id": 771
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "有用载荷",
+          "start": 10542,
+          "end": 10546,
+          "attributes": [],
+          "id": 775
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "消耗载荷",
+          "start": 10557,
+          "end": 10561,
+          "attributes": [],
+          "id": 776
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "固定装载",
+          "start": 10613,
+          "end": 10617,
+          "attributes": [],
+          "id": 778
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "有效载荷",
+          "start": 10586,
+          "end": 10590,
+          "attributes": [],
+          "id": 779
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "机外外挂物",
+          "start": 10713,
+          "end": 10718,
+          "attributes": [],
+          "id": 780
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "保形外挂物",
+          "start": 10719,
+          "end": 10724,
+          "attributes": [],
+          "id": 781
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "半埋式或埋式外挂物",
+          "start": 10725,
+          "end": 10734,
+          "attributes": [],
+          "id": 782
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "机身",
+          "start": 10819,
+          "end": 10821,
+          "attributes": [],
+          "id": 784
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "机翼",
+          "start": 10822,
+          "end": 10824,
+          "attributes": [],
+          "id": 785
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "起落架装置",
+          "start": 10828,
+          "end": 10833,
+          "attributes": [],
+          "id": 786
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机体结构重量",
+          "start": 10799,
+          "end": 10805,
+          "attributes": [],
+          "id": 788
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "水平尾翼重量",
+          "start": 10865,
+          "end": 10871,
+          "attributes": [],
+          "id": 789
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "垂直尾翼重量",
+          "start": 10881,
+          "end": 10887,
+          "attributes": [],
+          "id": 790
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机身重量",
+          "start": 10896,
+          "end": 10900,
+          "attributes": [],
+          "id": 791
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起落装置重量",
+          "start": 10910,
+          "end": 10916,
+          "attributes": [],
+          "id": 792
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "附加重量",
+          "start": 11019,
+          "end": 11023,
+          "attributes": [],
+          "id": 793
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "翼尖弹重量",
+          "start": 11034,
+          "end": 11039,
+          "attributes": [],
+          "id": 794
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机翼综合系数",
+          "start": 11048,
+          "end": 11054,
+          "attributes": [],
+          "id": 795
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "复合材料平尾",
+          "start": 11349,
+          "end": 11355,
+          "attributes": [],
+          "id": 796
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "机身按分段面积估算法",
+          "start": 11555,
+          "end": 11565,
+          "attributes": [],
+          "id": 797
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "机身按总浸润面积估算法",
+          "start": 11769,
+          "end": 11780,
+          "attributes": [],
+          "id": 799
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机身重量",
+          "start": 11523,
+          "end": 11527,
+          "attributes": [],
+          "id": 800
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "单位面积重量法",
+          "start": 11532,
+          "end": 11539,
+          "attributes": [],
+          "id": 801
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "前、中、后三段机身的单位面积重量",
+          "start": 11597,
+          "end": 11613,
+          "attributes": [],
+          "id": 802
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机身综合系数",
+          "start": 11661,
+          "end": 11667,
+          "attributes": [],
+          "id": 804
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "机身起落架",
+          "start": 11688,
+          "end": 11693,
+          "attributes": [],
+          "id": 805
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "舰载机机身",
+          "start": 11706,
+          "end": 11711,
+          "attributes": [],
+          "id": 806
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "飞机外挂物",
+          "start": 10705,
+          "end": 10710,
+          "attributes": [],
+          "id": 807
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "飞机外挂物一般指机外外挂物和保形外挂物（半埋式或埋式外挂物），包括导弹、火箭、炸弹、吊舱、副油箱、各类挂架及发射架等",
+          "start": 10705,
+          "end": 10763,
+          "attributes": [],
+          "id": 808
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "GJB67.1-85",
+          "start": 1238,
+          "end": 1248,
+          "attributes": [],
+          "id": 809
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "GJB2183-94",
+          "start": 1263,
+          "end": 1273,
+          "attributes": [],
+          "id": 810
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "GJB34-85",
+          "start": 1286,
+          "end": 1294,
+          "attributes": [],
+          "id": 811
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "GJB185-86",
+          "start": 1318,
+          "end": 1327,
+          "attributes": [],
+          "id": 812
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "GJB2194-94",
+          "start": 1346,
+          "end": 1357,
+          "attributes": [],
+          "id": 813
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "HB5519-89",
+          "start": 1380,
+          "end": 1390,
+          "attributes": [],
+          "id": 814
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "HB5862-84",
+          "start": 1403,
+          "end": 1412,
+          "attributes": [],
+          "id": 815
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "HB7267-96",
+          "start": 1425,
+          "end": 1434,
+          "attributes": [],
+          "id": 816
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "前、中、后三段机身的单位面积重量",
+          "start": 11636,
+          "end": 11652,
+          "attributes": [],
+          "id": 817
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "海平面发动机标准加力静推力",
+          "start": 306,
+          "end": 319,
+          "attributes": [],
+          "id": 818
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机内系统设备总重",
+          "start": 649,
+          "end": 657,
+          "attributes": [],
+          "id": 819
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "任务燃油",
+          "start": 780,
+          "end": 784,
+          "attributes": [],
+          "id": 822
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "无外挂零燃油",
+          "start": 830,
+          "end": 836,
+          "attributes": [],
+          "id": 823
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机身浸润面积",
+          "start": 1076,
+          "end": 1082,
+          "attributes": [],
+          "id": 824
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "使用部门技术合同使用要求",
+          "start": 1117,
+          "end": 1129,
+          "attributes": [],
+          "id": 826
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机配套技术状态要求",
+          "start": 1134,
+          "end": 1144,
+          "attributes": [],
+          "id": 827
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机战术技术要求",
+          "start": 1104,
+          "end": 1112,
+          "attributes": [],
+          "id": 828
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机设计要求",
+          "start": 1491,
+          "end": 1497,
+          "attributes": [],
+          "id": 829
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "使用部门",
+          "start": 1527,
+          "end": 1531,
+          "attributes": [],
+          "id": 830
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "系统原理方案",
+          "start": 1641,
+          "end": 1647,
+          "attributes": [],
+          "id": 831
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "安装图",
+          "start": 1648,
+          "end": 1651,
+          "attributes": [],
+          "id": 832
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "生产图",
+          "start": 1652,
+          "end": 1655,
+          "attributes": [],
+          "id": 833
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "研制阶段",
+          "start": 1615,
+          "end": 1619,
+          "attributes": [],
+          "id": 834
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量特性数据库",
+          "start": 1670,
+          "end": 1677,
+          "attributes": [],
+          "id": 835
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "满足基本作战任务而设计的结构部件、动力装置、通用设备和专用设备所构成的飞机的重量，不含有效载荷及可拆卸外挂物",
+          "start": 2011,
+          "end": 2065,
+          "attributes": [],
+          "id": 836
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "在满足战术技术要求的所有构型中，起飞状态重量最大的一种构型的全机总重（含暖机和滑行中所耗燃油）",
+          "start": 2341,
+          "end": 2388,
+          "attributes": [],
+          "id": 837
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "对应于飞机气动力焦点的最小安定度余量设计状态飞机构型的总重，通常是使用空机重量，用于飞机重心后极限的计算与检查",
+          "start": 2415,
+          "end": 2470,
+          "attributes": [],
+          "id": 838
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "由战术技术要求所规定的，对应于飞机强度设计点（用于最大设计过载）构型状态的飞机总重量，是飞机设计中强度计算与校核的设计依据之一",
+          "start": 2492,
+          "end": 2555,
+          "attributes": [],
+          "id": 839
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《军用飞机强度与刚度规范》",
+          "start": 2569,
+          "end": 2582,
+          "attributes": [],
+          "id": 840
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "正常着陆重量",
+          "start": 2588,
+          "end": 2594,
+          "attributes": [],
+          "id": 841
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "用于着陆装置设计的飞机重量，作为着陆装置功量计算、强度校核的依据",
+          "start": 2595,
+          "end": 2627,
+          "attributes": [],
+          "id": 842
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "着陆时，着陆装置所允许承受的最大飞机重量，是着陆装置设计和检查的重要依据",
+          "start": 2667,
+          "end": 2703,
+          "attributes": [],
+          "id": 843
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "最大军械重量的数值是由相应的构型的基本使用空机重量、机内正常载油量的\t50%以及相应的军械、武器重量（含机内和机外）之和来确定的",
+          "start": 2778,
+          "end": 2842,
+          "attributes": [],
+          "id": 844
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大军械重量",
+          "start": 2736,
+          "end": 2742,
+          "attributes": [],
+          "id": 845
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "为执行飞行任务所必须携带的装载称为有用载荷",
+          "start": 3115,
+          "end": 3136,
+          "attributes": [],
+          "id": 846
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机重量分类",
+          "start": 3326,
+          "end": 3332,
+          "attributes": [],
+          "id": 847
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "把构成整架飞机的所有元素（构件、成品、附件等），按其功能和完整性进行分类，称之为重量分类。分类的结果，形成了隶属关系清楚、界面分明的全机重量分类项目表",
+          "start": 3336,
+          "end": 3411,
+          "attributes": [],
+          "id": 848
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "战斗机正常（使用）起飞总重",
+          "start": 4122,
+          "end": 4135,
+          "attributes": [],
+          "id": 850
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞行状态",
+          "start": 4241,
+          "end": 4245,
+          "attributes": [],
+          "id": 851
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "剩余强度系数",
+          "start": 5986,
+          "end": 5992,
+          "attributes": [],
+          "id": 852
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "蜂窝",
+          "start": 6085,
+          "end": 6087,
+          "attributes": [],
+          "id": 853
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机翼柔性",
+          "start": 7558,
+          "end": 7562,
+          "attributes": [],
+          "id": 854
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "重心",
+          "start": 7563,
+          "end": 7565,
+          "attributes": [],
+          "id": 855
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量特性技术文件",
+          "start": 8516,
+          "end": 8524,
+          "attributes": [],
+          "id": 856
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机理论外形图",
+          "start": 9060,
+          "end": 9067,
+          "attributes": [],
+          "id": 857
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量特性数据库",
+          "start": 9260,
+          "end": 9267,
+          "attributes": [],
+          "id": 858
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机和发动机的推重比",
+          "start": 9903,
+          "end": 9913,
+          "attributes": [],
+          "id": 859
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "发动机总重量",
+          "start": 9915,
+          "end": 9921,
+          "attributes": [],
+          "id": 860
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "单台发动机重量",
+          "start": 9848,
+          "end": 9855,
+          "attributes": [],
+          "id": 861
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机系统及机载设备重量",
+          "start": 10275,
+          "end": 10286,
+          "attributes": [],
+          "id": 862
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "外挂物重量",
+          "start": 10694,
+          "end": 10699,
+          "attributes": [],
+          "id": 864
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "火箭",
+          "start": 10741,
+          "end": 10743,
+          "attributes": [],
+          "id": 865
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "吊舱",
+          "start": 10747,
+          "end": 10749,
+          "attributes": [],
+          "id": 866
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "挂架",
+          "start": 10756,
+          "end": 10758,
+          "attributes": [],
+          "id": 867
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发射架",
+          "start": 10759,
+          "end": 10762,
+          "attributes": [],
+          "id": 868
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "水平尾翼重量",
+          "start": 11321,
+          "end": 11327,
+          "attributes": [],
+          "id": 870
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "平尾材料系数",
+          "start": 11342,
+          "end": 11348,
+          "attributes": [],
+          "id": 871
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "平尾单位面积重量",
+          "start": 11384,
+          "end": 11392,
+          "attributes": [],
+          "id": 872
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "面积",
+          "start": 11456,
+          "end": 11458,
+          "attributes": [],
+          "id": 873
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "垂直尾翼材料系数",
+          "start": 11472,
+          "end": 11480,
+          "attributes": [],
+          "id": 874
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "垂直尾翼重量",
+          "start": 11427,
+          "end": 11433,
+          "attributes": [],
+          "id": 875
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "机身重量估算",
+          "start": 11516,
+          "end": 11522,
+          "attributes": [],
+          "id": 876
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "复合材料减重",
+          "start": 12141,
+          "end": 12147,
+          "attributes": [],
+          "id": 877
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "GJB67.1-85",
+          "start": 2559,
+          "end": 2569,
+          "attributes": [],
+          "id": 878
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "GJB2194-94",
+          "start": 3946,
+          "end": 3956,
+          "attributes": [],
+          "id": 879
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "基本使用空机重量",
+          "start": 2070,
+          "end": 2078,
+          "attributes": [],
+          "id": 880
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "基本空机重量加设计重量余量以及机内有效载荷所构成的飞机重量",
+          "start": 2082,
+          "end": 2111,
+          "attributes": [],
+          "id": 881
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "基本使用空机重量",
+          "start": 2197,
+          "end": 2205,
+          "attributes": [],
+          "id": 882
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "基本使用空机重量",
+          "start": 2795,
+          "end": 2803,
+          "attributes": [],
+          "id": 883
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机内正常载油量",
+          "start": 2804,
+          "end": 2811,
+          "attributes": [],
+          "id": 884
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "军械、武器重量",
+          "start": 2821,
+          "end": 2828,
+          "attributes": [],
+          "id": 885
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机重量分类标准",
+          "start": 3928,
+          "end": 3936,
+          "attributes": [],
+          "id": 886
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量特性分析",
+          "start": 5051,
+          "end": 5057,
+          "attributes": [],
+          "id": 887
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量特性控制",
+          "start": 5166,
+          "end": 5172,
+          "attributes": [],
+          "id": 888
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "协调",
+          "start": 5317,
+          "end": 5319,
+          "attributes": [],
+          "id": 889
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量特性数据库",
+          "start": 5856,
+          "end": 5863,
+          "attributes": [],
+          "id": 891
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机重量控制指标修订",
+          "start": 5878,
+          "end": 5888,
+          "attributes": [],
+          "id": 892
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "气动载荷试验",
+          "start": 5956,
+          "end": 5962,
+          "attributes": [],
+          "id": 893
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "质量载荷",
+          "start": 5975,
+          "end": 5979,
+          "attributes": [],
+          "id": 894
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "承载效能",
+          "start": 6025,
+          "end": 6029,
+          "attributes": [],
+          "id": 895
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "称重检验",
+          "start": 6367,
+          "end": 6371,
+          "attributes": [],
+          "id": 896
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量特性控制系统",
+          "start": 6609,
+          "end": 6617,
+          "attributes": [],
+          "id": 898
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机设计图样重量指标",
+          "start": 6645,
+          "end": 6655,
+          "attributes": [],
+          "id": 899
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "强度剩余系数",
+          "start": 7065,
+          "end": 7071,
+          "attributes": [],
+          "id": 900
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机翼柔性",
+          "start": 8106,
+          "end": 8110,
+          "attributes": [],
+          "id": 901
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机前、后极限重心",
+          "start": 8084,
+          "end": 8093,
+          "attributes": [],
+          "id": 902
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "质量特性控制与管理技术文件",
+          "start": 8540,
+          "end": 8553,
+          "attributes": [],
+          "id": 903
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机总体布置图",
+          "start": 9071,
+          "end": 9078,
+          "attributes": [],
+          "id": 904
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "单台的发动机重量",
+          "start": 10070,
+          "end": 10078,
+          "attributes": [],
+          "id": 905
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "推力矢量装置",
+          "start": 10202,
+          "end": 10208,
+          "attributes": [],
+          "id": 906
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "空中受油飞机",
+          "start": 10231,
+          "end": 10237,
+          "attributes": [],
+          "id": 907
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "收放式探头",
+          "start": 10255,
+          "end": 10260,
+          "attributes": [],
+          "id": 908
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "固定式探头",
+          "start": 10240,
+          "end": 10245,
+          "attributes": [],
+          "id": 909
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "包括通用设备和专用设备重量，重量估算主要根据装机配套技术状态、系统的原理图、飞机布置图、成品协议书规定的重量值及研制成品的目标重量值",
+          "start": 10300,
+          "end": 10366,
+          "attributes": [],
+          "id": 910
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机载设备安装重量",
+          "start": 10405,
+          "end": 10413,
+          "attributes": [],
+          "id": 911
+        },
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "飞机",
+          "start": 10809,
+          "end": 10811,
+          "attributes": [],
+          "id": 913
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机总体布局",
+          "start": 10933,
+          "end": 10939,
+          "attributes": [],
+          "id": 914
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "几何参数",
+          "start": 10940,
+          "end": 10944,
+          "attributes": [],
+          "id": 915
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "载荷",
+          "start": 10945,
+          "end": 10947,
+          "attributes": [],
+          "id": 916
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "强度",
+          "start": 10948,
+          "end": 10950,
+          "attributes": [],
+          "id": 917
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "刚度",
+          "start": 10951,
+          "end": 10953,
+          "attributes": [],
+          "id": 918
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "环境条件",
+          "start": 10958,
+          "end": 10962,
+          "attributes": [],
+          "id": 919
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "复合材料机翼",
+          "start": 11057,
+          "end": 11063,
+          "attributes": [],
+          "id": 920
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "变后掠机翼",
+          "start": 11110,
+          "end": 11115,
+          "attributes": [],
+          "id": 921
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前缘机动襟翼",
+          "start": 11089,
+          "end": 11095,
+          "attributes": [],
+          "id": 922
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "折叠机翼",
+          "start": 11074,
+          "end": 11078,
+          "attributes": [],
+          "id": 923
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "铝合金平尾",
+          "start": 11364,
+          "end": 11369,
+          "attributes": [],
+          "id": 924
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "复合材料机身",
+          "start": 11670,
+          "end": 11676,
+          "attributes": [],
+          "id": 925
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "翼身融合体",
+          "start": 11725,
+          "end": 11730,
+          "attributes": [],
+          "id": 926
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "平衡控制",
+          "start": 9,
+          "end": 13,
+          "attributes": [],
+          "id": 927
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "评审",
+          "start": 5320,
+          "end": 5322,
+          "attributes": [],
+          "id": 928
+        }
+      ],
+      "E": [],
+      "R": [
+        {
+          "name": "别名关系",
+          "from": 697,
+          "to": 663,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "定义关系",
+          "from": 711,
+          "to": 712,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 713,
+          "to": 714,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "定义关系",
+          "from": 717,
+          "to": 718,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        {
+          "name": "定义关系",
+          "from": 726,
+          "to": 727,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 713,
+          "to": 715,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 713,
+          "to": 716,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 732,
+          "to": 731,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 733,
+          "to": 734,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 735,
+          "to": 736,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 737,
+          "to": 738,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 737,
+          "to": 739,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 737,
+          "to": 740,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 738,
+          "to": 741,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 739,
+          "to": 742,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 740,
+          "to": 743,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "定义关系",
+          "from": 757,
+          "to": 758,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "参照关系",
+          "from": 762,
+          "to": 761,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 768,
+          "to": 769,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 768,
+          "to": 770,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 771,
+          "to": 770,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 143,
+          "to": 770,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "上下位关系",
+          "from": 775,
+          "to": 776,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 775,
+          "to": 779,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 775,
+          "to": 778,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 111,
+          "to": 780,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 111,
+          "to": 781,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 781,
+          "to": 782,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 788,
+          "to": 619,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 788,
+          "to": 789,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 788,
+          "to": 790,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 788,
+          "to": 791,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 788,
+          "to": 792,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 622,
+          "to": 793,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 622,
+          "to": 794,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 622,
+          "to": 795,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 801,
+          "to": 797,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 801,
+          "to": 799,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 800,
+          "to": 802,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 800,
+          "to": 804,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "上下位关系",
+          "from": 807,
+          "to": 780,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 807,
+          "to": 781,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 807,
+          "to": 808,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 697,
+          "to": 809,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 542,
+          "to": 810,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 326,
+          "to": 811,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 328,
+          "to": 812,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 700,
+          "to": 813,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 704,
+          "to": 814,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 705,
+          "to": 815,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 706,
+          "to": 816,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 834,
+          "to": 242,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 834,
+          "to": 428,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 834,
+          "to": 513,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 834,
+          "to": 831,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 834,
+          "to": 832,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 834,
+          "to": 833,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 708,
+          "to": 836,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 358,
+          "to": 837,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 719,
+          "to": 838,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 359,
+          "to": 415,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 359,
+          "to": 839,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 841,
+          "to": 842,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 363,
+          "to": 843,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        {
+          "name": "定义关系",
+          "from": 737,
+          "to": 846,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 847,
+          "to": 848,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 851,
+          "to": 746,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 851,
+          "to": 747,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 851,
+          "to": 748,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 851,
+          "to": 749,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 851,
+          "to": 750,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 855,
+          "to": 854,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 855,
+          "to": 648,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 858,
+          "to": 763,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 858,
+          "to": 764,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 858,
+          "to": 765,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 445,
+          "to": 558,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 860,
+          "to": 859,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 861,
+          "to": 564,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 445,
+          "to": 768,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "上下位关系",
+          "from": 445,
+          "to": 775,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 445,
+          "to": 862,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 445,
+          "to": 864,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 445,
+          "to": 788,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 807,
+          "to": 4,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 807,
+          "to": 865,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 807,
+          "to": 341,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 807,
+          "to": 866,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 807,
+          "to": 104,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 807,
+          "to": 867,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 807,
+          "to": 868,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 870,
+          "to": 871,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 870,
+          "to": 872,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 875,
+          "to": 873,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 875,
+          "to": 874,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 876,
+          "to": 801,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 840,
+          "to": 878,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 745,
+          "to": 879,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 880,
+          "to": 881,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 880,
+          "to": 709,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 880,
+          "to": 710,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 713,
+          "to": 882,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 730,
+          "to": 883,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 730,
+          "to": 884,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 730,
+          "to": 885,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 730,
+          "to": 844,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 899,
+          "to": 222,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 902,
+          "to": 649,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 902,
+          "to": 901,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 768,
+          "to": 905,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 184,
+          "to": 910,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 913,
+          "to": 784,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 913,
+          "to": 785,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 913,
+          "to": 384,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 913,
+          "to": 786,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 410,
+          "to": 914,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 410,
+          "to": 915,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 410,
+          "to": 916,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 410,
+          "to": 918,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 410,
+          "to": 8,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 410,
+          "to": 919,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        }
+      ],
+      "A": []
+    }
+  },
+  "time_labeled": 1618471287577,
+  "labeled": true,
+  "content": "第8章 飞机重量与平衡控制\r\n8.0符号\r\nA   机翼展弦比\r\nAR       对应SR的机翼展弦比\r\ncA       平均气动弦长，m\r\nCD      鸭式飞机\r\ng         重力加速度，m/s2\r\nh         重心相对位置（lcg/cA）\r\nI          惯性矩，kg•m2\r\nK         系数\r\nl           长度，m\r\nN         数目\r\nNT       无尾飞机\r\nq          动压，Pa；单位面积重量，kg/m2\r\nS          面积，m2\r\nSref      机翼参考面积，m2\r\nSR        基本翼面的参考面积，m2\r\nT0         海平面发动机标准加力静推力，N或kN\r\nT           发动机推力，N或kN\r\nT/（Wg）    推重比\r\nW                 重量，kg或t\r\nWF           装涡扇发动机的飞机\r\nWJ          装涡喷发动机的飞机（国外）\r\nWP              装涡喷发动机的飞机（国内）\r\nx，y，z        坐标值\r\nΛ          翼面后掠角，（°）\r\n下标\r\nA            空气动力\r\nCBT           空战\r\ncg         重心\r\ncrw          单个乘员\t\r\nCWR            多个乘员\r\neng           单台发动机\r\nENG          多台发动机\r\neqf           机内系统设备总重\r\nEQF          机内除乘员、结构、发动机以外的所有重量（含eqf）\r\nexp         翼面外露部分\r\nF            机身\r\nHT           外露的水平尾翼\r\nLG         起落架\r\nmf          任务燃油\r\nMTO     最大起飞重量\r\nNTO         无外挂起飞\r\nnzf         无外挂零燃油\r\nPW        动力装置系统\r\nR            参考状态\r\nref        参考值\r\nrf         备份燃油\r\nrw         设计的重量余量\r\nst           结构\r\nSTOR       外挂物\r\ntkf         外挂副油箱及燃油\r\nTO         带外挂起飞\r\nuf          可用燃油\r\nnuf        不可用燃油\r\nVT         单个外露部分垂直尾翼机翼\r\nwet        浸润面积\r\nwetF       机身浸润面积\r\n8.1 依据\r\n8.1.1 使用要求\r\n（1）飞机战术技术要求；\r\n（2）使用部门技术合同使用要求；\r\n（3）飞机配套技术状态要求。\r\n按上述要求，分析使用部门提出的战术技术要求，明确所需的各种飞机使用状态、战术技术要求以及相应的配套技术状态，从而确定各种主要设计状态重量和目标重量。\r\n8.1.2 主要规范、标准和手册\r\nGJB67.1-85\t《军用飞机强度与刚度规范》\r\nGJB2183-94 《飞机重量与平衡要求》\r\nGJB34-85\t《有人驾驶飞机（固定翼）飞行性能和图表资料》\r\nGJB185-86\t《有人驾驶飞机（固定翼）飞行品质》\r\nGJB2194-94\t《飞机（含旋翼机）重量与平衡数据的报告格式》\r\nHB5519-89\t《飞机零组部件重量公差》\r\nHB5862-84\t《飞机重量与重心公差》\r\nHB7267-96\t《基本重量检查单和装载数据技术手册》\r\n《飞机设计手册》第8册\t重量平衡与控制\r\n《飞机型号设计规范》\r\n8.1.3 飞机设计要求\r\n须遵循与各研制阶段相对应的如下各项要求：\r\n（1）研制单位与使用部门共同商定的主要设计状态、战术技术要求以及相应的配套技术状态；\r\n（2）与确定的配套技术状态相一致的成品目录和由研制单位或成品协议书提供的质量特性数据；\r\n（3）研制单位在各研制阶段中使用的有效总体布置图、三面图、理论外形图、系统原理方案及安装图、生产图等；\r\n（4）采用现有相似机种的质量特性数据库或验证的经验数据、公式及估算方法；\r\n（5）研制单位自行规定的各项设计原则及要求等。\r\n8.2 飞机重量、重心计算坐标系和计算公式\r\n8.2.1 计算坐标系\r\n飞机重量、重心计算坐标系如图8-1所示。x轴平行于机身构造水平线，它的正向是由机头指向机尾，y轴垂直于对称平面，它的正向指向右机翼，z轴在飞机对称平面内，垂直于x轴，它的正向指向上。\r\n坐标原点O可设置在机头或机头前一定的距离或机身某参考框的站位。\r\n8.2.2 重量、重心计算公式\r\n式中：Wi——零、组、部件的重量，kg；\r\nxi，yi，zi——零、组、部件的重心坐标，m。\r\n8.3 飞机总重定义和组成\r\n8.3.1 飞机总重定义\r\n详见《飞机设计手册》第8册，此处列出与总体设计有关的几项定义。\r\n（1）基本空机重量WBE\r\n满足基本作战任务而设计的结构部件、动力装置、通用设备和专用设备所构成的飞机的重量，不含有效载荷及可拆卸外挂物。\r\n（2）基本使用空机重量WBO\r\n基本空机重量加设计重量余量以及机内有效载荷所构成的飞机重量。\r\n（3）使用空机重量\r\n由基本使用空机重量与特指的相应构型的外挂装置（指挂架和发射装置）重量所构成的飞机的重量。\r\n（4）无外挂起飞重量WNTO\r\n对应战术技术要求中相应构型的基本使用空机重量、机内正常载油量以及机内相应的军械、武器重量之和。\r\n（5）正常（使用）起飞重量WTO\r\n对应战术技术要求中特指的构型（通常是基本性能考核构型），由相应的使用空机重量、相应的固定与消耗装载所构成的飞机，在起飞前的全机总重（含暖机和滑行消耗燃油）。\r\n（6）最大起飞重量WMTO\r\n在满足战术技术要求的所有构型中，起飞状态重量最大的一种构型的全机总重（含暖机和滑行中所耗燃油）。\r\n（7）空战重量WCBT\r\n（8）重心后极限状态重量\r\n对应于飞机气动力焦点的最小安定度余量设计状态飞机构型的总重，通常是使用空机重量，用于飞机重心后极限的计算与检查。\r\n（9）强度设计重量（基本飞行设计重量）\r\n由战术技术要求所规定的，对应于飞机强度设计点（用于最大设计过载）构型状态的飞机总重量，是飞机设计中强度计算与校核的设计依据之一。具体见GJB67.1-85《军用飞机强度与刚度规范》。\r\n（10）正常着陆重量\r\n用于着陆装置设计的飞机重量，作为着陆装置功量计算、强度校核的依据。具体见GJB67.1-85《军用飞机强度与刚度规范》。\r\n（11）最大着陆重量\r\n着陆时，着陆装置所允许承受的最大飞机重量，是着陆装置设计和检查的重要依据。具体见GJB67.1-85《军用飞机强度与刚度规范》。\r\n（12）最大军械重量\r\n所有构型中，携带的军械、武器最重的构型，称为最大军械重量构型。该构型的最大军械重量的数值是由相应的构型的基本使用空机重量、机内正常载油量的\t50%以及相应的军械、武器重量（含机内和机外）之和来确定的。\r\n具体见GJB67.1-85《军用飞机强度与刚度规范》。\r\n（13）最大顶升重量\r\n使用千斤顶允许顶起的最大飞机重量。具体状态和数值对各种飞机有专门规定。该重量是相关的地面设备设计的依据。\r\n（14）最大起吊重量\r\n在飞机维护或运输过程中，使用起吊装置允许吊起的最大飞机重量。具体状态和数值各种类型的飞机有专门规定。该重量是相关的地面设备设计的依据。\r\n（15）最大牵引重量\r\n牵引飞机时，牵引装置及飞机相关部位所允许的最大飞机重量。具体状态和数值各种类型的飞机有专门规定。该重量是地面牵引装置和飞机相关部位的设计依据。\r\n（16）有用载荷Wpayload\r\n为执行飞行任务所必须携带的装载称为有用载荷。有用载荷由以下三部分组成。\r\na.消耗载荷\r\n执行飞行任务中，可能耗去的装载，如燃油、炮弹、导弹、炸弹等。\r\nb.有效载荷\r\n执行飞行任务中，不消耗或消耗很少的装载，如氧气、滑油、不可用燃油、飞行员等。\r\nc.固定载荷\r\n执行飞行任务中，按战术技术要求规定需携带的固定装载。\r\n8.3.2 飞机正常（使用）起飞重量的组成\r\n飞机起飞重量的组成见图8 - 2。\r\n8.4 飞机重量分类\r\n8.4.1 飞机重量分类的定义\r\n把构成整架飞机的所有元素（构件、成品、附件等），按其功能和完整性进行分类，称之为重量分类。分类的结果，形成了隶属关系清楚、界面分明的全机重量分类项目表。\r\n8.4.2 重量分类的目的和原则\r\n（1）重量分类目的\r\na.推进重量与平衡计算技术的发展。\r\nb.统一数据和报告格式，便于国内外技术交流。\r\nc.对成本重量进行预测。\r\n（2）重量分类原则\r\na.按功能进行分类 对于结构件细分到可区别的功能构件，目的是便于对结构重量进行分析并可促进更轻和更有效的结构形式的设计；对于系统设备，不管它们的连接方式和所处的位置如何，都按其功能将它们的组件归类。\r\nb.对于多功能的构件、设备，当必须按位置来确定时，也要尽量考虑完整的功能区别，如某些舱门。\r\nc.所有的动力分配系统，应按其被操纵的项目进行分类。\r\nd.设备和系统的安装支架应与被支撑的项目放在同一类里，多用途的支架应放到起主要作用的那一类里。\r\ne.对于具有一种以上类别的设备，应按照有关的型号规范的规定，或按照使用部门的通用规范进行归类，划分空机重量、有用载荷或专用设备类。\r\nf.由于特殊的功能、特殊的安装或由于设计特点所引起的重量变化项目，在重量分类的专用表中列出，其中包括了隐含在结构重量中不明显的增重，这些重量可以在研制过程中通过适当的观察和分析近似地确定。\r\ng.重量分类的项目要尽量地注意符合大多数研制单位的习惯和接近实际情况。\r\n8.4.3 飞机重量分类标准\r\n飞机重量分类标准见GJB2194-94《飞机（含旋翼机）重量与平衡数据的报告格式》。\r\n8.5 论证阶段质量特性分析与控制\r\n此阶段尚无确定的总体方案，特别是多方案进行对比论证时更是如此，飞机的各系统也正处于分系统的方案选择状态。通过本阶段的论证，将给出一个或几个可行的预选方案，经对比分析确定选取该型号的研制方案。\r\n8.5.1 起飞总重与分系统的质量特性\r\n8.5.1.1 战斗机正常（使用）起飞总重的构成\r\n在论证设计阶段为了便于对战斗机重量的分析估算，采用的战斗机正常（使用）起飞重量的构成如图8-3所示。\r\n8.5.1.2 主要使用状态的起飞与着陆总重\r\n飞机总重在设计初期，要按战术技术及研制要求，给出几种典型飞行状态进行分析，最典型的有：\r\na.无外挂起飞状态；\r\nb.正常起飞状态；\r\nc.空战状态；\r\nd.最大起飞状态；\r\ne.正常着陆状态；\r\nf.最大着陆状态。\r\n8.5.1.3 分系统的重量分配\r\n飞机的重量宏观上可概括为如下三类。\r\n（1）设计方案确定的重量\r\n是由设计中按需要选定的：\r\na.动力装置系统；\r\nb.悬挂物；\r\nc.机内装载的系统、设备及航炮、发射装置和备弹量等。\r\n（2）设计中按使用要求确定的重量\r\na.机内载油量；\r\nb.机外载油量。\r\n（3）研制单位设计中控制的重量\r\n研制单位设计中控制的重量和重量指标的分配，主要集中在以下两方面：\r\na.系统设备的选用，指配套技术状态的选择及按新技术发展对系统设备质量特性提出的要求；\r\nb.机体结构的设计与控制，根据预研的新材料、新技术、新工艺，经分析估算，提出可行的分配与控制指标。\r\n8.5.2 重量、重心、惯性矩及质量分布的调整与控制\r\n为实现战术技术要求，对选定的主要使用状态需要进行的工作。\r\n8.5.2.1 依据\r\n（1）各使用状态选取的配套技术状态。\r\n（2）对应的总体布置图、三面图及理论外形图等。\r\n8.5.2.2 步骤\r\n（1）确定各分系统的重量、重心。\r\n（2）根据油量、外挂物、消耗载荷初步估算的重心包线。\r\n（3）估算全机的惯性矩。\r\n（4）估算全机的质量分布。\r\n（5）如不满足要求，按8.11节的方法控制与调整。\r\n8.5.3 确定目标重量及各分系统重量指标的分配\r\n（1）根据上述重量分析结果，经气动、性能、操稳、强度、结构及作战使用要求分析，逐步修正，达到设计要求。\r\n（2）在此基础上，确定全机的目标重量及分系统的重量指标分配。\r\n8.5.4 编制质量特性分析控制与管理文件\r\n论证阶段结束，方案已选定，达到了技术状态管理的“功能基线”。经总师审批后，发出供方案阶段使用的质量特性分析控制与管理文件。虽然是在估算基础上形成的文件，但是要包括所需要的全部文件及相应的内容。\r\n论证阶段中，编制质量特性分析、控制与管理文件的工作流程见图8-4。\r\n8.6 方案阶段的质量特性控制与管理\r\n进入方案阶段，大量质量特性工作应由各专业进行，此时各专业应参照《飞机设计手册》第8册提供的方法。总体设计应进行如下的重点工作。\r\n8.6.1 质量特性控制\r\n方案阶段的质量特性控制应按下述要求进行。\r\n（1）及时掌握各分系统重量、重心及质量分布的变化情况。\r\n（2）及时掌握各项配套技术状态的变化情况。\r\n（3）根据变化的情况，及时进行重量、重心、惯性矩及质量分布的计算，并与有关专业协商控制措施。\r\n8.6.2 质量特性的修订\r\n经过方案设计、样机制造、协调及评审之后，飞机的总体布局、结构、系统、机载设备设计方案基本确定，飞机重量工程专业人员应以方案设计的重量计算为基础，对论证阶段重量估算指标加以修订，最后作为飞机生产图设计的发图目标重量，并对其实施控制。\r\n8.6.2.1 修订的依据\r\n修订目标重量作为重量控制指标，应有充分的依据。首先要考虑到重量控制指标实现的现实性与可能性，不应突破飞机战术技术要求所规定的目标重量。考虑到发图和生产试制中的设计更改及生产增重因素，应该留有一定的余量。重量控制指标修正依据如下。\r\n（1）飞机战术技术要求规定的目标重量。\r\n（2）飞机使用限制要求。\r\n（3）飞机飞行载荷。根据典型飞行状态和飞机各部件、系统等所承受的气动载荷、惯性载荷，校核结构系统的强度和刚度，再确定其设计重量。\r\n（4）飞机使用环境，如环境温度、盐雾、振动、噪声等。\r\n（5）飞机强度与刚度规范和结构设计准则，实现轻重量设计。\r\n（6）与设计人员相互协调初步设计重量的计算值。\r\n（7）新材料、新工艺、新技术的使用以及新成品的选用。\r\n（8）飞机的生存力、可靠性与维修性。\r\n（9）研制单位的生产工艺设备及技术水平。\r\n（10）如研制的机型有多型研制计划或进一步发展规划，须按设计要求考虑强度、刚度储备和重量余量。\r\n（11）原准机或相似机型的质量特性数据库。\r\n8.6.2.2 修订方法\r\n飞机重量控制指标修订，应上下结合，即总体重量工程人员与各专业的重量员相互讨论协商，制定出重量控制指标，并经总师批准。\r\n（1）初步设计阶段，经强度载荷的计算和气动载荷试验，应提供更准确的气动载荷和质量载荷。\r\n（2）校核剩余强度系数和应力水平\t，并修正结构系统的设计重量，使结构和系统达到充分发挥其承载效能。\r\n（3）检查结构件的传力路线和系统电缆敷设的合理性。\r\n（4）非承力件选用先进的材料和工艺，如复合材料、钛合金及蜂窝等。\r\n（5）贯彻重量工程的规范、标准和准则的要求。\r\n8.6.3 修订质量特性控制与管理文件\r\n方案阶段结束，经审批后，飞机型号将进入工程研制阶段，即达到了分配基线的技术管理阶段。需将经审批的质量特性修订结果形成供工程研制阶段使用、满足分配基线要求的控制与管理文件。\r\n8.7 工程研制及各阶段的质量特性控制与管理\r\n此阶段的工作，可参见《飞机设计手册》第8册。此处仅提示下述几项重点工作。\r\n8.7.1 详细设计中质量特性控制与管理\r\n绘制生产图及在各项地面试验中按照8.8节的要求进行质量特性控制与管理。\r\n8.7.2 试制及批生产中质量特性控制与管理\r\n8.7.2.1 称重检验\r\n通过称重验证理论计算的准确度，最后确定研制型号的各项重量以及今后的改进措施。\r\n8.7.2.2 零部件及整机批生产的控制与管理\r\n通过抽检的办法进行控制与管理。\r\n8.7.3 改进改型飞机的质量特性控制与管理\r\n8.7.3.1 配套技术状态的控制与管理\r\n主要是掌握更改情况和做好完整的记录与修订。\r\n8.7.3.2 技术更改的控制与管理\r\n及时掌握技术更改的情况，将变化了的质量特性控制在允许的范围内。\r\n8.8 全机质量特性控制与管理\r\n8.8.1 一般要求\r\n（1）组织在总设计师领导下的质量特性控制系统\t，并在有关技术专业室、组设立重量员的管理制度。\r\n（2）飞机设计图样重量指标应根据飞机战术技术要求、设计规范和准则、材料、工艺及初步设计结果确定。\r\n（3）重量员的职责是分配重量指标，抽查设计图样质量特性数据的准确性，分析超重原因，提出减重方案，汇总质量特性数据。\r\n（4）建立重量员的审图制度，设计图样应经重量工程人员签署后方可送晒。重量工程人员应审查重量计算报告、结构形式、零部件形状尺寸、材料标准的选用、图样重量的填写等。\r\n（5）设计图样的重量栏内应填入理论计算的重量。\r\n图样的理论计算重量可参照《飞机设计手册》第8册的有关章节。\r\n8.8.2 零部件和系统质量特性控制与管理\r\n（1）正确选用先进合理的规范，确保飞机的强度、刚度和安全可靠性。\r\n（2）结构系统的设计，应采用先进的设计手段，如计算机一体化设计、优化设计、最小重量法设计等，并进行多种方案的比较，以选定最佳的重量设计。\r\n（3）结构承力系统的设计布局，应充分考虑综合利用，相互协调，布局合理，减轻重量。\r\n（4）零部件的设计，其安全系数和强度剩余系数，应按照“结构完整性准则”的要求。\r\n（5）在满足一定程度的工艺加工和使用维护要求条件下，应尽量减少分离面。全机及部件分离面，优先考虑工艺分离面，并尽可能用整体件代替组合件。\r\n（6）全机系统的管路和电缆的铺设，应尽可能短而直接，综合考虑，以获取最小的重量代价。\r\n（7）壁板、梁和受力框等，应尽可能设计成变剖面或整体等强度结构。\r\n（8）细节设计中，应注意去掉多余材料，如长桁端头切角、框和肋开减轻孔、电缆不得留过长余量等。\r\n（9）在设计机械加工件时，对于非配合尺寸，可采取缩小轴正偏差，扩大孔正偏差，并提高精度等级的办法，保证零件符合重量要求。\r\n（10）对于较大的锻件，在不影响使用性能和技术要求的条件下，应除去多余的金属，并尽量采用对锻件表面进行机械加工；对于小锻件应该切除拔模斜角。\r\n（11）细节设计中，应尽可能地采用先进的材料及加工方法，以减轻重量。\r\n（12）细节设计中，应考虑采用先进的标准件、非标准件和新规格型材，对减轻重量有显著效果而未列入航空标准的上述项目，可以以专用件和专用型材的办法引用。\r\n（13）燃油箱的布置应使结构重量最小，装载的灵活性最大。考虑飞机姿态和机翼柔性对重心移动的影响，机翼油箱应由隔板隔开。燃油泵、输油口的布置和油箱的结构形状应尽量减小不可用油量。\r\n（14）全机口盖要根据不同的用途进行设计。对于不经常打开的口盖应设计成全受力口盖。对于经常打开的口盖，按照打开的周期不同（如飞行前后检查和再次起飞检查），应分成能承受部分总体载荷和不承受总体载荷。口盖的数目应尽量减少。\r\n8.8.3 成品的质量特性控制与管理\r\n（1）成品（含电缆、馈线及插头）的质量特性指标，以成品协议规定的为准。\r\n（2）成品的安装支架设计，应根据给定的环境条件、刚度、强度要求和外载荷设计，实现各专业支架综合设计、布局合理、重量轻。\r\n（3）成品选择，在满足战术技术条件而又无任何特殊的要求时，应做到三不，即“不求全”、“不重复”、“不可有可无”。\r\n8.8.4 整机的质量特性控制与管理\r\n（1）飞机在各种使用状态下，重心应保证不超出规定的重心极限范围。\r\n（2）飞机重心设计，除了规定飞机重心满足飞行品质的要求外，还要保证重心的变化规律平缓，无急剧变化，且符合规定的重心变化量。\r\n（3）飞机结构及内部布局，应进行合理的质量分配，以得到最佳的质量配置。\r\n（4）飞机重心随燃油、弹药及弹量的消耗和投放引起的变化应限制在小范围内。\r\n（5）飞机前、后极限重心的确定，应考虑到飞机姿态和机翼柔性的影响。\r\n8.8.5 各种配套技术状态的控制与管理\r\n8.8.5.1 目的\r\n在研制过程中，因设计、生产、试飞及使用部门的要求，飞机的技术状态处于不断的变化中，每批架次质量特性数据也不相同，因此要严格地对飞机配套技术状态进行控制与管理，以便及时准确地向有关部门提供数据及技术资料。\r\n8.8.5.2 基本重量检查单和重量与平衡记录单\r\n每架飞机在交付验收时，规定应该提交随机文件《基本重量检查单与装载数据技术手册》。\r\n该手册是配套的技术状态文件，其中基本重量检查单，见图8-5，是将装上该架飞机的主要系统设备项目列入，在交付飞机过程中由检验人员按文件详细检查装机项目，并在基本重量检查单上记录。\r\n最后，在基本重量与平衡记录单（图8-6）上核算出该架飞机的实际交付的基本重量、重心，并与配套的技术状态相符。\r\n8.8.5.3 计算机管理\r\n参见8.8.7.2节。\r\n8.8.6 质量特性控制与管理技术文件的提供\r\n8.8.6.1 质量特性技术文件\r\n对不同的型号的飞机，研制单位对质量特性控制与管理技术文件的提供会有不同的要求，但是基本上有下述内容。\r\n（1）重心、惯性矩所采用的坐标系及计算公式。\r\n（2）重量、重心计算文件（含起落架收、放状态）。\r\n（3）各种使用构型状态下，燃油、有效载荷、外挂物变化时的重心、惯性矩曲线或重心包线等。\r\n（4）根据要求提供如下质量分布文件：\r\na.按块或网格划分的质量分布；\r\nb.提供分块、分区数据图；\r\nc.飞机加、减速，带俯仰角时燃油前后冲动，飞机重心有±0.5%cA变化时全机质量分布修正值。\r\n8.8.6.2 控制与管理性文件\r\n由研制单位自定，但主要有如下文件：\r\na.与各阶段质量特性工作相对应的配套技术状态文件；\r\nb.研制过程中对更改、修订质量特性数据的登录、管理等文件；\r\nc.重量工作的控制与管理体系、规定、奖励等文件。\r\n8.8.7 质量特性的计算机管理\r\n8.8.7.1 建立质量特性数据库\r\n质量特性数据库是新机研制的必备工具，用来保存各个型号飞机从研制到退役的全部质量特性资料与数据。该数据库可对新机的研制进行各阶段的质量特性分析，也可进行控制与管理。\r\n（1）质量特性数据的依据\r\n可根据具体情况而定，要有各类文件资料的技术状态管理的标识，供参考的项目如下：\r\na.飞机三面图；\r\nb.飞机理论外形图；\r\nc.飞机总体布置图；\r\nd.飞机生产蓝图；\r\ne.飞机零、组、部件实际称重数据；\r\nf.飞机全机称重数据；\r\ng.飞机燃油布局及消耗曲线；\r\nh.飞机载荷、强度数据资料；\r\ni.成品协议书。\r\n（2）建立方法\r\na.按照GJB2194-94《飞机（含旋翼机）重量与平衡数据的报告格式》，进行重量定义、分类及提供飞机有关总体参数、性能、载荷及强度数据。\r\nb.编制零、组、部件质量特性数据表。\r\nc.建立质量特性数据库，如MASSDB质量特性数据库、SDDB质量库或MDB质量库。\r\nd. I/O接口程序的编写\r\n（a）面向终端用户的，即数据卡片中规定外部I/O的数据块所使用的接口程序；\r\n（b）面向集成程序，即数据卡片中规定内部I/O的数据块所使用的接口程序。\r\n（3）选取与现行管理体制和质量特性分析管理相适应的数据的输入、输出方式。\r\n8.8.7.2 建立质量管理分析软件\r\n质量管理分析系统软件，是在已经建立的质量特性数据库的基础上，实施技术状态的控制与管理。它的功用如下：\r\na.各种项目数据的统计，如电缆件、标准件、材料等；\r\nb.实施监督、跟踪、记录飞机研制过程中的质量特性变化情况，为重量与平衡控制提供有效的手段，以便提出相应的处理措施；\r\nc.提供设计、生产、使用部门所需要的质量特性数据；\r\nd.提供标准格式的报告、文件及图表，以利减轻工作量和提高工作效率。\r\n8.9 各分系统重量估算\r\n采用各种估算方法，并与实际设计情况对比修正，可以得到较好的结果。估算方法也应在应用过程中不断修正和更新。\r\n8.9.1 动力装置重量\r\n动力装置重量Wpw包括发动机、发动机安装、发动机操纵、燃油系统等重量。其估算方法如下。\r\n8.9.1.1 发动机重量\r\n如选用现有发动机，发动机的重量按承制单位的资料值去定。如按设计要求选择发动机或估计已有发动机的重量，可参见下述方法。\r\n（1）按发动机的推重比估算单台发动机重量Weng\r\n如果给定需要的单台发动机海平面标准加力静推力T01和发动机的推重比按下式计算\r\n（2）按飞机和发动机的推重比估算发动机总重量WENG\r\n如果给定飞机设计的推重比要求和选择的发动机推重比要求，按下式估算机上发动机的总重量，例如当选定飞机的无外挂起飞重量WNTO和要求的起飞推重比（T0/Wg）NTO则有\r\n8.9.1.2 动力装置系统重量\r\n（1）发动机选定之后，可采用下式估算\r\n式中：Neng——装机的发动机台数；\r\nWeng——单台的发动机重量，kg；\r\nKeng——动力装置系统重量系数，其中影响较大的项目为起动系统、燃油系统、是否采用分离式附件机匣等，一般发动机Keng≈1，2~1.35，对推重比较大的发动机，且燃油系统采取防护措施时，有可能达到1.45左右。\r\n（2）其他有关重量\r\n对于装推力矢量装置的飞机相应每台增加重量90~120kg。\r\n对于空中受油飞机，安装固定式探头增重约60kg；安装收放式探头增重110kg。\r\n8.9.2 飞机系统及机载设备重量Weqf\r\n（1）机载设备重量包括通用设备和专用设备重量，重量估算主要根据装机配套技术状态、系统的原理图、飞机布置图、成品协议书规定的重量值及研制成品的目标重量值。相关的重量如下：\r\na.装机的导线和电缆重量取成品重量的25%~30%；\r\nb.机载设备安装重量取成品重量的4%~5%。\r\n（2）系统设备重量估算\r\n近代战斗机均采用先进的系统设备，特别是采用了数字化的综合系统，因缺乏可信的估算公式和方法，一般是按飞机配套技术状态选定的系统设备，参照有关资料进行重量估算。\r\n8.9.3 有用载荷及外挂物重量\r\n8.9.3.1 有用载荷\r\n有用载荷包括：\r\na.消耗载荷，如燃油、炮弹、火箭、炸弹、导弹、干扰弹等；\r\nb.有效载荷，如空勤人员、氧气、滑油、不可用燃油等；\r\nc.固定装载，如按战术技术要求规定的装载。\r\n其中各有关重量由承制单位提供和按标准、规范的规定确定，对不可用燃油重量，须最后在飞机上进行实际测量确定。\r\n8.9.3.2 外挂物重量WSTOR\r\n飞机外挂物一般指机外外挂物和保形外挂物（半埋式或埋式外挂物），包括导弹、火箭、炸弹、吊舱、副油箱、各类挂架及发射架等。上述均为订购产品，重量以成品协议书提供或取自成品称重值。\r\n8.9.4 机体结构重量Wst\r\n飞机的机体结构主要由机身、机翼、尾翼、起落架装置等组成，计算公式如下\r\n式中：WW——机翼重量，kg；\r\nWHT——水平尾翼重量，kg；\r\nWVT——垂直尾翼重量，kg；\r\nWF——机身重量，kg；\r\nWLG——起落装置重量，kg。\r\n影响结构重量的主要因素是飞机总体布局、几何参数、载荷、强度、刚度、可靠性及环境条件等。\r\n8.9.4.1 机翼重量估算\r\n（1）机翼重量估算方法\r\n机翼重量可采用下式估算\r\n对携带翼尖弹\r\n式中：△WW——附加重量，kg；\r\nWtwp——翼尖弹重量，kg；\r\nKW——机翼综合系数。\r\n对复合材料机翼\tK1=0.78；\r\n对折叠机翼\tK2=1.06；\r\n对前缘机动襟翼\tK3=1.06~1.08；\r\n变后掠机翼\tK5=1.17。\r\n（2）适用范围\r\n估算公式适用于如下几何参数的机翼：\r\na.相对厚度在30%~5%左右；\r\nb.展弦比范围2.0≤AR≤4.0；\r\nc.前缘后掠角25°≤Λ≤60°\r\nd.在方案阶段时，忽略前缘边条的影响，并将复杂的机翼形状简化成当量面积的梯形机翼。\r\n随着方案设计工作的不断深入，设计重量不断更新和改进，应逐步修改估算方法和估算公式的参数，以便达到较准确的估算重量。\r\n8.9.4.2 水平尾翼重量估算\r\n水平尾翼重量估算可按下式\r\n式中：KHT——平尾材料系数，复合材料平尾KHT=0.78，铝合金平尾KHT=1.0；\r\n qHT——平尾单位面积重量，取25~30kg/m2（按平尾转轴的长、短确定）。\r\n8.9.4.3 垂直尾翼重量估算\r\n每一个垂直尾翼的重量可按每一个垂直尾翼的面积用下式估算\r\n式中：KVT——垂直尾翼材料系数，对复合材料KVT=0.78，对铝合金KVT=1.0。\r\n8.9.4.4 机身重量估算\r\n机身重量一般可采用单位面积重量法估算，常见的有两种形式。\r\n（1）机身按分段面积估算法\r\n战斗机的机身一般可分前、中、后三段，其公式为\r\n式中：qFi——前、中、后三段机身的单位面积重量，kg/m2设计中可根据经验选取；\r\nSFi——前、中、后三段机身的单位面积重量，m2；\r\nKF——机身综合系数。\r\n对复合材料机身  K1=0.85\t\r\n对机身起落架    K2=1.02\t\r\n舰载机机身      K3=1.02\r\n翼身融合体      K5=0.81（单台发动机）\r\nK5=0.85（双台发动机）\r\n（2）机身按总浸润面积估算法\r\n第一步，在尚未完成总体布置之前，无法确定机身分段面积时，可以暂按第6章的方法估算出机身外表面浸润面积SwetF。机身重量近似为\r\n对WP和WJ飞机可取qF=22~24kg/m2对WF飞机可取qF≈26~28kg/m2o\r\n式中的KF可参照上节的方法选取。\r\n第二步，须要根据初选的飞机结构重量系数Kst及机翼、尾翼面积，按翼面及起落装置的重量估算值用8.10的方法核算结构重量是否在下式的范围之内\r\n必要时可以采取在Wst的范围内调整WF值。如不能满足要求，则须\t调整Kst值或采取设计措施解决。结构重量系数Kst的定义及取值范围见8.9.4.7节。\r\n当调整Kst核算机翼重量时，须按机翼机身结合处的机身平均宽度bFav值计算机翼的外露面积Sexp，bFav的取法参见第6章，为了便于使用将其复制在图8-7中。\r\n8.9.4.5 复合材料减重\r\n复合材料的减重效果，可参见图8-8所示的参考曲线。"
+}

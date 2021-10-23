@@ -1,0 +1,383 @@
+{% extends 'application/index.html' %}
+{% load pagination_tags %}
+
+{% block title %}
+    故障信息融合结果显示-用户端
+{% endblock %}
+{% block css %}
+    <style>
+        input[type="checkbox"] {
+            -webkit-appearance: none;
+            vertical-align: middle;
+            margin-top: 0;
+            background: #fff;
+            border: #999 solid 1px;
+            border-radius: 3px;
+            min-height: 12px;
+            min-width: 12px;
+        }
+
+        input[type="checkbox"]:checked {
+            background: #3190e8;
+        }
+
+        input[type="checkbox"]:checked::after {
+            content: '';
+            top: 3px;
+            left: 3px;
+            position: absolute;
+            background: transparent;
+            border: #fff solid 2px;
+            border-top: none;
+            border-right: none;
+            height: 6px;
+            width: 10px;
+            -moz-transform: rotate(-45deg);
+            -ms-transform: rotate(-45deg);
+            -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+        }
+    </style>
+{% endblock %}
+{% block en %}
+    <!-- breadcrumb -->
+    <section class="content-header">
+        <div class="container">
+            <div class="row mb-2">
+                <ol class="breadcrumb ">
+                    <li class="breadcrumb-item"><a href="/application/toHome/"><i class="fas fa-home"></i>主页</a></li>
+                    <li class="breadcrumb-item active">故障信息显示</li>
+                </ol>
+            </div>
+        </div>
+    </section><!-- breadcrumb-->
+
+    <!-- Main content -->
+    <section class="content">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                {% if  resultList_classification %}
+                    <div class="card card-primary mb-5">
+                        <div class="card-header">
+                            <div> 分类结果显示：</div>
+                        </div><!-- /.card-header -->
+
+                        <div class="card-body p-4">
+                            <table class="table table-bordered mb-4 table-valign-middle text-center">
+                                <thead>
+                                <tr class="text-primary">
+                                    <th>分类文本</th>
+                                    <th style="width:100px">分类标签</th>
+                                    <th style="min-width:250px">操作</th>
+                                    <th style="min-width:200px">推荐</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                {% autopaginate resultList_classification 8 %}
+                                {% for list in resultList_classification %}
+                                    <tr>
+                                        <td>{{ list.1 }}</td>
+                                        <td>{{ list.2 }}</td>
+                                        <td>
+                                            <button type="button"
+                                                    class="btn btn-primary btn-sm"
+                                                    data-toggle="modal"
+                                                    data-target="#myModal" value="display"
+                                                    onclick="
+                                                            document.getElementById('reason').value='{{ list.3 }}';
+                                                            document.getElementById('fault').value='{{ list.4 }}';
+                                                            document.getElementById('fault_id').value='{{ list.0 }}';">
+                                                <i class="fa fa-pencil-square"></i> 查看
+                                            </button>
+                                            <a href="/application/confirmClassication/?id={{ list.0 }}">
+                                                <input type="button" style=" font-size: 15px"
+                                                       class="btn btn-warning btn-sm doProModify"
+                                                       value="确认"/>
+                                            </a>
+                                            <button type="button"
+                                                    class="btn btn-primary btn-sm"
+                                                    data-toggle="modal"
+                                                    data-target="#addModel" value="display"
+                                                    onclick="document.getElementById('text').value='{{ list.3 }}';">
+                                                <i class="fa fa-pencil-square"></i> 添加方案
+                                            </button>
+                                        </td>
+                                        <td>
+                                            <button type="button"
+                                                    class="btn btn-primary btn-sm"
+                                                    data-toggle="modal"
+                                                    data-target="#recommend1" value="display"
+                                                    onclick="document.getElementById('recommend1_fault').value='{{ list.5 }}';
+                                                             document.getElementById('recommend1_label').value='{{ list.9 }}';
+                                                             document.getElementById('recommend1_reason').value='{{ list.7 }}';
+                                                             document.getElementById('recommend1_id').value='{{ list.0 }}';
+                                                            ">
+                                                <i class="fa fa-pencil-square"></i> 推荐1
+                                            </button>
+                                            <button type="button"
+                                                    class="btn btn-primary btn-sm"
+                                                    data-toggle="modal"
+                                                    data-target="#recommend2" value="display"
+                                                    onclick="
+                                                            document.getElementById('recommend2_fault').value='{{ list.6 }}';
+                                                            document.getElementById('recommend2_label').value='{{ list.10 }}';
+                                                            document.getElementById('recommend2_reason').value='{{ list.8 }}';
+                                                            document.getElementById('recommend2_id').value='{{ list.0 }}';
+                                                            ">
+                                                <i class="fa fa-pencil-square"></i> 推荐2
+                                            </button>
+                                        </td>
+                                    </tr>
+                                {% endfor %}
+                                </tbody>
+                            </table>
+                            {% paginate using "pagination.html" %}
+                        </div>
+                        <!-- /.card-body -->
+                    </div>
+                {% endif %}
+
+
+                </div>
+                <!--/.col -->
+            </div>
+            <!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+    <!-- 模态框（Modal） 修改-->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+
+                    <h4 class="modal-title" id="myModalLabel">
+                        故障信息
+                    </h4>
+                    <button type="button" class="close" data-dismiss="modal"
+                            aria-hidden="true">×
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="modifyTemp" class="form-horizontal" action="/application/confirmClassication/" method="post">
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <label for="fault_id" class="col-sm-2 control-label">故障ID：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="fault_id" name="fault_id" required="required" readonly>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="reason" class="col-sm-2 control-label">解决方案：</label>
+                            <div class="col-sm-10">
+                                <textarea cols="100" rows="3" id="reason" readonly></textarea>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="fault" class="col-sm-2 control-label">故障现象：</label>
+                            <div class="col-sm-10">
+                                <textarea cols="100" rows="3" id="fault" readonly></textarea>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button class="btn btn-default" data-dismiss="modal">关闭</button>
+{#                            与推荐确认逻辑对应#}
+                            <button type="submit" class="btn btn-primary updatePro">确认</button>
+                        </div>
+                    </form>
+                </div>
+
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+
+
+    <div class="modal fade" id="addModel" tabindex="-1" role="dialog" aria-labelledby="addModel"
+         aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title " id="addModel">
+                        添加解决方案
+                    </h4>
+                    <button type="button" class="close" data-dismiss="modal"
+                            aria-hidden="true">×
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="addTemp" class="form-horizontal" action="/application/addReason/" method="post">
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <label for="relationshipCategory" class="col-sm-2 control-label">故障现象：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="text"
+                                       name="text"
+                                       required="required" readonly>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="relationshipCategory" class="col-sm-2 control-label">解决方案：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="reason"
+                                       name="reason"
+                                       required="required">
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button class="btn btn-default" data-dismiss="modal">关闭</button>
+                            <button type="submit" class="btn btn-primary updatePro">提交添加</button>
+                        </div>
+                    </form>
+                </div>
+
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <div class="modal fade" id="recommend1" tabindex="-1" role="dialog" aria-labelledby="addModel"
+         aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title " id="addModel">
+                        推荐1
+                    </h4>
+                    <button type="button" class="close" data-dismiss="modal"
+                            aria-hidden="true">×
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="recommend1" class="form-horizontal" action="/application/confirmClassication_recommend/" method="post">
+                        {% csrf_token %}
+                        <div class="form-group" hidden>
+                            <label for="recommend1_id" class="col-sm-2 control-label">故障ID：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="recommend1_id" name="recommend_id" required="required" readonly>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="recommend1_label" class="col-sm-2 control-label">分类标签：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="recommend1_label" name="recommend1_label" required="required" readonly>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="recommend1_reason" class="col-sm-2 control-label">解决方案：</label>
+                            <div class="col-sm-10">
+                                <div class="col-sm-10">
+                                <textarea cols="100" rows="3" id="recommend1_reason" readonly></textarea>
+{#                                <textarea class="comments" style="height:100%;overflow:auto;" id="recommend1_reason" readonly></textarea>#}
+                            </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="recommend1_fault" class="col-sm-2 control-label">故障现象：</label>
+                            <div class="col-sm-10">
+                                <div class="col-sm-10">
+                                <textarea cols="100" rows="3" id="recommend1_fault" readonly></textarea>
+                            </div>
+                            </div>
+                        </div>
+
+                        <div class="modal-footer">
+                            <button class="btn btn-default" data-dismiss="modal">关闭</button>
+                            <button type="submit" class="btn btn-primary updatePro">提交添加</button>
+                        </div>
+                    </form>
+                </div>
+
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+    <div class="modal fade" id="recommend2" tabindex="-1" role="dialog" aria-labelledby="addModel"
+         aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title " id="addModel">
+                        推荐2
+                    </h4>
+                    <button type="button" class="close" data-dismiss="modal"
+                            aria-hidden="true">×
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="recommend1" class="form-horizontal" action="/application/confirmClassication_recommend/" method="post">
+                        {% csrf_token %}
+                        <div class="form-group" hidden>
+                            <label for="recommend2_id" class="col-sm-2 control-label">故障ID：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="recommend2_id" name="recommend2_id" required="required" readonly >
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="recommend2_label" class="col-sm-2 control-label">分类标签：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="recommend2_label" name="recommend2_label" required="required" readonly>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="recommend2_reason" class="col-sm-2 control-label">解决方案：</label>
+                            <div class="col-sm-10">
+                                <div class="col-sm-10">
+                                <textarea cols="100" rows="3" id="recommend2_reason" readonly></textarea>
+                            </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="recommend2_fault" class="col-sm-2 control-label">故障现象：</label>
+                            <div class="col-sm-10">
+                                <div class="col-sm-10">
+                                <textarea cols="100" rows="3" id="recommend2_fault" readonly></textarea>
+                            </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button class="btn btn-default" data-dismiss="modal">关闭</button>
+                            <button type="submit" class="btn btn-primary updatePro">提交添加</button>
+                        </div>
+                    </form>
+                    </form>
+                </div>
+
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+{% endblock en %}
+
+{% block js %}
+    {% if messages %}
+        <script>
+            {% for msg in messages %}
+                alert('{{ msg.message }}');
+            {% endfor %}
+        </script>
+    {% endif %}
+
+    <!-- 引入公共JS模板 -->
+    <script src="/static/js/commonJS.js"></script>
+
+    <script>
+        $(function () {
+            bsCustomFileInput.init();
+        });
+    </script>
+    <script>
+        $(".dropdown-menu li a").click(function () {
+            var selText = $(this).text();
+            $(this).parents('.btn-group').find('.dropdown-toggle').html(selText + ' <span class="caret"></span>');
+            if (selText.trim() != "Other") {
+                $("#relationshipCategory").val(selText.trim());
+            }
+            //combobox behavior
+            if (selText.trim() === "Other") {
+                $("#relation_name").removeClass("hide");
+            } else {
+                $("#relation_name").addClass("hide");
+            }
+        });
+    </script>
+{% endblock %}

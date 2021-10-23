@@ -1,0 +1,42 @@
+
+
+a, img {
+    border: 0;
+}
+
+.selectbox {
+    width: 1000px;
+    height: 220px;
+    margin: 20px auto;
+}
+
+.selectbox div {
+    float: left;
+}
+
+.selectbox .select-bar {
+    padding: 0 20px;
+}
+
+.selectbox .select-bar select {
+    width: 200px;
+    height: 200px;
+    border: 1px #A0A0A4 solid;
+    padding: 4px;
+    font-size: 14px;
+}
+
+.btn-bar {
+
+}
+
+.btn-bar p {
+    margin-top: 40px;
+}
+
+.btn-bar p .btn {
+    width: 50px;
+    height: 30px;
+    cursor: pointer;
+    font-size: 14px;
+}

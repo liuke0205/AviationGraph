@@ -1,0 +1,238 @@
+{% extends 'management/index_admin.html' %}
+{% load pagination_tags %}
+
+{% block title %}
+    联合抽取结果显示-管理端
+{% endblock %}
+{% block css %}
+    <style>
+        input[type="checkbox"] {
+            -webkit-appearance: none;
+            vertical-align: middle;
+            margin-top: 0;
+            background: #fff;
+            border: #999 solid 1px;
+            border-radius: 3px;
+            min-height: 12px;
+            min-width: 12px;
+        }
+
+        input[type="checkbox"]:checked {
+            background: #3190e8;
+        }
+
+        input[type="checkbox"]:checked::after {
+            content: '';
+            top: 3px;
+            left: 3px;
+            position: absolute;
+            background: transparent;
+            border: #fff solid 2px;
+            border-top: none;
+            border-right: none;
+            height: 6px;
+            width: 10px;
+            -moz-transform: rotate(-45deg);
+            -ms-transform: rotate(-45deg);
+            -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+        }
+    </style>
+{% endblock %}
+{% block en %}
+    <!-- breadcrumb -->
+    <section class="content-header">
+        <div class="container">
+            <div class="row mb-2">
+                <ol class="breadcrumb ">
+                    <li class="breadcrumb-item"><a href="/application/toHome/"><i class="fas fa-home"></i>主页</a></li>
+                    <li class="breadcrumb-item active">联合抽取结果显示</li>
+                </ol>
+            </div>
+        </div>
+    </section><!-- breadcrumb-->
+
+    <!-- Main content -->
+    <section class="content">
+        <div class="container">
+            <div class="row">
+                {% if  resultList %}
+                    <div class="col-12 mb-4">
+
+                        <div class="card card-primary">
+                            <div class="card-header">
+                                <div> 联合抽取结果显示（您可以点击添加按钮，将此条语料信息加入到语料库，作为训练集再次使用！）：</div>
+                            </div><!-- /.card-header -->
+
+                            <div class="card-body p-4">
+                                <table class="table table-bordered mb-4 table-valign-middle text-center">
+                                    <thead>
+                                    <tr class="text-primary">
+                                        <th style="width: 100px" class="text-center">头实体</th>
+                                        <th style="width: 100px" class="text-center">关系类别</th>
+                                        <th style="width: 100px" class="text-center">尾实体</th>
+                                        <th style="width: 200px"class="text-center">原文本</th>
+                                        <th style="width: 200px" class="text-center">用户操作</th>
+                                    </tr>
+                                    </thead>
+
+                                    {% autopaginate resultList 6 %}
+
+                                    <tbody id="tb">
+                                    {% for list in resultList %}
+                                        <tr>
+                                            <td>{{ list.0 }}</td>
+
+                                            <td>{{ list.1 }}</td>
+                                            <td id="tail_entity">{{ list.2 }}</td>
+                                            <td id="content">{{ list.3 }}</td>
+                                            <td>
+                                                <a href="/management/addCorpus/?id={{ list.4 }}">
+                                                <input type="button" style=" font-size: 15px"
+                                                       class="btn btn-warning btn-sm doProModify"
+                                                       value="添加"/>
+                                                </a>
+                                                <!-- 按钮触发模态框 -->
+                                                <button type="button"
+                                                        class="btn btn-primary btn-sm doProModify"
+                                                        data-toggle="modal"
+                                                        data-target="#myModal"
+                                                        onclick="
+                                                                document.getElementById('headEntity').value='{{ list.0 }}';
+                                                                document.getElementById('relation').value='{{ list.1 }}';
+                                                                document.getElementById('tailEntity').value='{{ list.2 }}';
+                                                                document.getElementById('text').value='{{ list.3 }}';
+                                                                document.getElementById('rel_id').value='{{ list.4 }}';
+                                                                "><i class="fa fa-pencil-square-o"></i>修改
+                                                </button>
+                                                <a href="/management/deleteCorpus/?id={{ list.4 }}">
+                                                    <button class="btn btn-danger btn-sm" type="button"
+                                                            onclick="return confirm('是否确认删除？');">
+                                                        <i class="fa fa-trash-o"></i>
+                                                        删除
+                                                    </button>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    {% endfor %}
+                                    </tbody>
+
+                                </table>
+                                <div class="mb-4">
+                                    {% paginate using "pagination.html" %}
+                                </div>
+                            </div>
+                            <!-- /.card-body -->
+                        </div>
+
+
+                    </div>
+                {% endif %}
+                <!--/.col -->
+            </div>
+            <!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+     <!-- 模态框（Modal） 修改-->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+
+                    <h4 class="modal-title" id="myModalLabel" style="font-size:20px;">
+                        修改关系信息
+                    </h4>
+                    <button type="button" class="close" data-dismiss="modal"
+                            aria-hidden="true">×
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="modifyRel" class="form-horizontal" action="/management/modifyCorpus/" method="post">
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <label for="rel_id" class="col-sm-2 control-label">编号：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="rel_id" placeholder="rel_id"
+                                       name="rel_id"
+                                       required="required" readonly>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="headEntity" class="col-sm-2 control-label">头实体：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="headEntity" name="headEntity"
+                                       required="required">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="relation" class="col-sm-2 control-label">关系类别：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="relation"
+                                       name="relation"
+                                       required="required">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="tailEntity" class="col-sm-2 control-label">尾实体：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="tailEntity" name="tailEntity"
+                                       required="required">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="text" class="col-sm-2 control-label">原文本：</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="text"
+                                       name="text" required="required">
+                            </div>
+                        </div>
+
+
+                        <div class="modal-footer">
+                            <button class="btn btn-default" data-dismiss="modal">关闭</button>
+                            <button type="submit" class="btn btn-primary updatePro">提交更改</button>
+                        </div>
+                    </form>
+                </div>
+
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+{% endblock en %}
+
+{% block js %}
+
+    <!-- 引入公共JS模板 -->
+    <script src="/static/js/commonJS.js"></script>
+
+    {% if messages %}
+        <script>
+            {% for msg in messages %}
+                alert('{{ msg.message }}');
+            {% endfor %}
+        </script>
+    {% endif %}
+
+    <script>
+        $(function () {
+            bsCustomFileInput.init();
+        });
+
+        $(".dropdown-menu li a").click(function () {
+            var selText = $(this).text();
+            $(this).parents('.btn-group').find('.dropdown-toggle').html(selText + ' <span class="caret"></span>');
+            if (selText.trim() != "Other") {
+                $("#relationshipCategory").val(selText.trim());
+            }
+            //combobox behavior
+            if (selText.trim() === "Other") {
+                $("#relation_name").removeClass("hide");
+            } else {
+                $("#relation_name").addClass("hide");
+            }
+        });
+    </script>
+{% endblock %}

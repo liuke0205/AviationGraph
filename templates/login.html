@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>登录页面</title>
+    <link rel="icon" href="/static/img/plane-management.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="/static/css/custom.css">
+    <script type="text/javascript" src="/static/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/static/js/bootstrap.min.js"></script>
+</head>
+
+<!--<body style="background: #fff url(/static/img/bg.jpg)  0 no-repeat; margin-top:100px">-->
+<body style="background: #337ab7 no-repeat; margin-top:80px">
+
+<div class="container">
+    <div class="row justify-content-center">
+
+
+        <div class="col-xl-10 col-lg-12 col-md-9">
+
+            <div class="card o-hidden border-0 shadow-lg my-5">
+                <div class="card-header text-center mt-2">
+                    <h4>航空领域知识图谱系统 V2.0</h4>
+                    <span>Knowledge Map Application System of Aviation Field V2.0</span>
+                </div>
+                <div class="card-body p-0 border-bottom">
+                    <!-- Nested Row within Card Body -->
+                    <div class="row">
+                        <div class="col-lg-6 d-none d-lg-block">
+                            <img src="/static/img/bg-left.png" alt="用户登录" width="100%" height="100%">
+                        </div>
+                        <div class="col-lg-6">
+
+                            <div class="p-5">
+                                <div class="text-center">
+                                    <h4 class="h4 text-muted mb-4">用户或管理员登录</h4>
+                                </div>
+                                <form action="/login/" class="user needs-validation" method="post" novalidate>
+                                    {% csrf_token %}
+                                    <div class="form-group">
+                                        <div class="input-group">
+                                            <div class="input-group-prend form-control">
+                                                <span>用户名：</span>
+                                            </div>
+                                            <input type="text" name="username"
+                                                   class="form-control form-control-user w-50"
+                                                   id="username"
+                                                   value="admin"
+                                                   placeholder="输入用户名" required>
+                                            <div class="invalid-feedback ml-4">
+                                                用户名必须填写
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="input-group">
+                                            <div class="input-group-prend form-control">
+                                                <span>密&nbsp;&nbsp;&nbsp;码：</span>
+                                            </div>
+                                            <input type="password" name="password"
+                                                   class="form-control form-control-user w-50"
+                                                   id="password" value="admin" placeholder="输入密码">
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="input-group">
+                                            <span>&nbsp;&nbsp;&nbsp;角&nbsp;&nbsp;&nbsp;色：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                            <input name="role" type="radio" checked="checked" value="user"/>用户&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            <input name="role" type="radio" value="admin"/>管理员
+                                        </div>
+                                    </div>
+
+
+                                    <button type="submit" class="btn btn-primary btn-user btn-block">
+                                        登录账号
+                                    </button>
+                                    <hr>
+                                    <a class="btn btn-success btn-user btn-block " href="/application/register/">
+                                        <i class="fab fa-weixin fa-fw"></i>注册账号</a>
+                                    <button type="reset" class="btn btn-danger btn-user btn-block">
+                                        <i class="fab fa-weibo fa-fw"></i>重置信息
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="card-footer text-center my-4">
+                    <span class="text-muted">© 2021-2023 刘珂 版权所有</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- login form end -->
+
+</div>
+{% if messages %}
+    <script>
+        {% for msg in messages %}
+            alert('{{ msg.message }}');
+        {% endfor %}
+    </script>
+{% endif %}
+
+<script>
+    (function () {
+        'use strict';
+        window.addEventListener('load', function () {
+            // Fetch all the forms we want to apply custom Bootstrap validation styles to
+            var forms = document.getElementsByClassName('needs-validation');
+            // Loop over them and prevent submission
+            var validation = Array.prototype.filter.call(forms, function (form) {
+                form.addEventListener('submit', function (event) {
+                    if (form.checkValidity() === false) {
+                        event.preventDefault();
+                        event.stopPropagation();
+                    }
+                    form.classList.add('was-validated');
+                }, false);
+            });
+        }, false);
+    })();
+</script>
+
+</body>
+</html>

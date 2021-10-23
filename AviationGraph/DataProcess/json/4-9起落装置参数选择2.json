@@ -1,0 +1,7601 @@
+{
+  "path": "F:\\01-科研资料\\03-项目工程\\AviationGraph\\AviationGraph\\DataProcess\\json\\4-9起落装置参数选择2.txt",
+  "outputs": {
+    "annotation": {
+      "T": [
+        "",
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "故障率",
+          "start": 6783,
+          "end": 6786,
+          "attributes": [],
+          "id": 3
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "导弹",
+          "start": 12878,
+          "end": 12880,
+          "attributes": [],
+          "id": 4
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "导弹",
+          "start": 13044,
+          "end": 13046,
+          "attributes": [],
+          "id": 5
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "疲劳寿命",
+          "start": 11497,
+          "end": 11501,
+          "attributes": [],
+          "id": 6
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "直升机",
+          "start": 1354,
+          "end": 1357,
+          "attributes": [],
+          "id": 10
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "可靠性",
+          "start": 7110,
+          "end": 7113,
+          "attributes": [],
+          "id": 13
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 487,
+          "end": 490,
+          "attributes": [],
+          "id": 18
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 833,
+          "end": 836,
+          "attributes": [],
+          "id": 19
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 1069,
+          "end": 1072,
+          "attributes": [],
+          "id": 20
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 4433,
+          "end": 4436,
+          "attributes": [],
+          "id": 21
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 5642,
+          "end": 5645,
+          "attributes": [],
+          "id": 22
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 5672,
+          "end": 5675,
+          "attributes": [],
+          "id": 23
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "战斗机",
+          "start": 9354,
+          "end": 9357,
+          "attributes": [],
+          "id": 24
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "作业",
+          "start": 10387,
+          "end": 10389,
+          "attributes": [],
+          "id": 26
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "停机",
+          "start": 42,
+          "end": 44,
+          "attributes": [],
+          "id": 27
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "机械系统",
+          "start": 6880,
+          "end": 6884,
+          "attributes": [],
+          "id": 32
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "军用飞机",
+          "start": 842,
+          "end": 846,
+          "attributes": [],
+          "id": 33
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 10977,
+          "end": 10980,
+          "attributes": [],
+          "id": 36
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 11951,
+          "end": 11954,
+          "attributes": [],
+          "id": 38
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 12937,
+          "end": 12940,
+          "attributes": [],
+          "id": 39
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发动机",
+          "start": 16383,
+          "end": 16386,
+          "attributes": [],
+          "id": 40
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "座舱",
+          "start": 13878,
+          "end": 13880,
+          "attributes": [],
+          "id": 43
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "开关",
+          "start": 6552,
+          "end": 6554,
+          "attributes": [],
+          "id": 44
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "轮胎",
+          "start": 4344,
+          "end": 4346,
+          "attributes": [],
+          "id": 50
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "轮胎",
+          "start": 4746,
+          "end": 4748,
+          "attributes": [],
+          "id": 52
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "轮胎",
+          "start": 4806,
+          "end": 4808,
+          "attributes": [],
+          "id": 53
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "轮胎",
+          "start": 4830,
+          "end": 4832,
+          "attributes": [],
+          "id": 54
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "轮胎",
+          "start": 4900,
+          "end": 4902,
+          "attributes": [],
+          "id": 55
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "轮胎",
+          "start": 5134,
+          "end": 5136,
+          "attributes": [],
+          "id": 56
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "轮胎",
+          "start": 10108,
+          "end": 10110,
+          "attributes": [],
+          "id": 59
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "轮胎",
+          "start": 10147,
+          "end": 10149,
+          "attributes": [],
+          "id": 60
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "轮胎",
+          "start": 14697,
+          "end": 14699,
+          "attributes": [],
+          "id": 62
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "轮胎",
+          "start": 15025,
+          "end": 15027,
+          "attributes": [],
+          "id": 65
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "轮胎",
+          "start": 15176,
+          "end": 15178,
+          "attributes": [],
+          "id": 66
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "轮胎",
+          "start": 15445,
+          "end": 15447,
+          "attributes": [],
+          "id": 67
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "轮胎",
+          "start": 15990,
+          "end": 15992,
+          "attributes": [],
+          "id": 68
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "轮胎",
+          "start": 16344,
+          "end": 16346,
+          "attributes": [],
+          "id": 70
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "效率",
+          "start": 2481,
+          "end": 2483,
+          "attributes": [],
+          "id": 86
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "液压",
+          "start": 3113,
+          "end": 3115,
+          "attributes": [],
+          "id": 98
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "操纵系统",
+          "start": 6443,
+          "end": 6447,
+          "attributes": [],
+          "id": 110
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "操纵系统",
+          "start": 6501,
+          "end": 6505,
+          "attributes": [],
+          "id": 111
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "操纵系统",
+          "start": 7853,
+          "end": 7857,
+          "attributes": [],
+          "id": 117
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "操纵拉杆",
+          "start": 6705,
+          "end": 6709,
+          "attributes": [],
+          "id": 118
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "减速伞",
+          "start": 516,
+          "end": 519,
+          "attributes": [],
+          "id": 121
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "减速伞",
+          "start": 562,
+          "end": 565,
+          "attributes": [],
+          "id": 122
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "减速伞",
+          "start": 863,
+          "end": 866,
+          "attributes": [],
+          "id": 123
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "减速伞",
+          "start": 1234,
+          "end": 1237,
+          "attributes": [],
+          "id": 124
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "减速伞",
+          "start": 6046,
+          "end": 6049,
+          "attributes": [],
+          "id": 125
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "减速",
+          "start": 351,
+          "end": 353,
+          "attributes": [],
+          "id": 127
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "减速",
+          "start": 6072,
+          "end": 6074,
+          "attributes": [],
+          "id": 138
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "减速",
+          "start": 14346,
+          "end": 14348,
+          "attributes": [],
+          "id": 150
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "尾部",
+          "start": 15129,
+          "end": 15131,
+          "attributes": [],
+          "id": 155
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "操纵面",
+          "start": 15824,
+          "end": 15827,
+          "attributes": [],
+          "id": 156
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "间隙",
+          "start": 15202,
+          "end": 15204,
+          "attributes": [],
+          "id": 162
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "间隙",
+          "start": 16014,
+          "end": 16016,
+          "attributes": [],
+          "id": 163
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计要求",
+          "start": 764,
+          "end": 768,
+          "attributes": [],
+          "id": 169
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计要求",
+          "start": 1366,
+          "end": 1370,
+          "attributes": [],
+          "id": 170
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计要求",
+          "start": 4643,
+          "end": 4647,
+          "attributes": [],
+          "id": 173
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计要求",
+          "start": 9462,
+          "end": 9466,
+          "attributes": [],
+          "id": 179
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计要求",
+          "start": 9710,
+          "end": 9714,
+          "attributes": [],
+          "id": 181
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计要求",
+          "start": 11514,
+          "end": 11518,
+          "attributes": [],
+          "id": 183
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计要求",
+          "start": 12557,
+          "end": 12561,
+          "attributes": [],
+          "id": 184
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "设计要求",
+          "start": 16307,
+          "end": 16311,
+          "attributes": [],
+          "id": 189
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "机尾",
+          "start": 15160,
+          "end": 15162,
+          "attributes": [],
+          "id": 191
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "转动",
+          "start": 11581,
+          "end": 11583,
+          "attributes": [],
+          "id": 192
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞行员",
+          "start": 710,
+          "end": 713,
+          "attributes": [],
+          "id": 193
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞行员",
+          "start": 6543,
+          "end": 6546,
+          "attributes": [],
+          "id": 194
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞行员",
+          "start": 11762,
+          "end": 11765,
+          "attributes": [],
+          "id": 195
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞行员",
+          "start": 12153,
+          "end": 12156,
+          "attributes": [],
+          "id": 196
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞行员",
+          "start": 14062,
+          "end": 14065,
+          "attributes": [],
+          "id": 197
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "稳定性",
+          "start": 3061,
+          "end": 3064,
+          "attributes": [],
+          "id": 199
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "稳定性",
+          "start": 7061,
+          "end": 7064,
+          "attributes": [],
+          "id": 200
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 1580,
+          "end": 1583,
+          "attributes": [],
+          "id": 204
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 1636,
+          "end": 1639,
+          "attributes": [],
+          "id": 205
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 1716,
+          "end": 1719,
+          "attributes": [],
+          "id": 206
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 1723,
+          "end": 1726,
+          "attributes": [],
+          "id": 207
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 1882,
+          "end": 1885,
+          "attributes": [],
+          "id": 216
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 2228,
+          "end": 2231,
+          "attributes": [],
+          "id": 217
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 2328,
+          "end": 2331,
+          "attributes": [],
+          "id": 219
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 2357,
+          "end": 2360,
+          "attributes": [],
+          "id": 220
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 2393,
+          "end": 2396,
+          "attributes": [],
+          "id": 221
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 2436,
+          "end": 2439,
+          "attributes": [],
+          "id": 222
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 2486,
+          "end": 2489,
+          "attributes": [],
+          "id": 223
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 2639,
+          "end": 2642,
+          "attributes": [],
+          "id": 224
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 2763,
+          "end": 2766,
+          "attributes": [],
+          "id": 227
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 2780,
+          "end": 2783,
+          "attributes": [],
+          "id": 228
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 2794,
+          "end": 2797,
+          "attributes": [],
+          "id": 229
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 2814,
+          "end": 2817,
+          "attributes": [],
+          "id": 230
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 2864,
+          "end": 2867,
+          "attributes": [],
+          "id": 231
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 2938,
+          "end": 2941,
+          "attributes": [],
+          "id": 234
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 3138,
+          "end": 3141,
+          "attributes": [],
+          "id": 235
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 3209,
+          "end": 3212,
+          "attributes": [],
+          "id": 237
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 3235,
+          "end": 3238,
+          "attributes": [],
+          "id": 238
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 3248,
+          "end": 3251,
+          "attributes": [],
+          "id": 239
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 3458,
+          "end": 3461,
+          "attributes": [],
+          "id": 240
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 3478,
+          "end": 3481,
+          "attributes": [],
+          "id": 241
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 4070,
+          "end": 4073,
+          "attributes": [],
+          "id": 248
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 4116,
+          "end": 4119,
+          "attributes": [],
+          "id": 249
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 4308,
+          "end": 4311,
+          "attributes": [],
+          "id": 250
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 4322,
+          "end": 4325,
+          "attributes": [],
+          "id": 251
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 4802,
+          "end": 4805,
+          "attributes": [],
+          "id": 253
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 4826,
+          "end": 4829,
+          "attributes": [],
+          "id": 254
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 4888,
+          "end": 4891,
+          "attributes": [],
+          "id": 255
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 5098,
+          "end": 5101,
+          "attributes": [],
+          "id": 257
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 5539,
+          "end": 5542,
+          "attributes": [],
+          "id": 262
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 5740,
+          "end": 5743,
+          "attributes": [],
+          "id": 263
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 5752,
+          "end": 5755,
+          "attributes": [],
+          "id": 264
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 5867,
+          "end": 5870,
+          "attributes": [],
+          "id": 266
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 5905,
+          "end": 5908,
+          "attributes": [],
+          "id": 267
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 10560,
+          "end": 10563,
+          "attributes": [],
+          "id": 268
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 15993,
+          "end": 15996,
+          "attributes": [],
+          "id": 270
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲器",
+          "start": 16347,
+          "end": 16350,
+          "attributes": [],
+          "id": 271
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "歼击机",
+          "start": 3885,
+          "end": 3888,
+          "attributes": [],
+          "id": 272
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "主起落架",
+          "start": 12552,
+          "end": 12556,
+          "attributes": [],
+          "id": 276
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前起落架",
+          "start": 11820,
+          "end": 11824,
+          "attributes": [],
+          "id": 283
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前起落架",
+          "start": 11846,
+          "end": 11850,
+          "attributes": [],
+          "id": 284
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前起落架",
+          "start": 11859,
+          "end": 11863,
+          "attributes": [],
+          "id": 285
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前起落架",
+          "start": 12581,
+          "end": 12585,
+          "attributes": [],
+          "id": 288
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前起落架",
+          "start": 14227,
+          "end": 14231,
+          "attributes": [],
+          "id": 289
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "螺旋桨",
+          "start": 16387,
+          "end": 16390,
+          "attributes": [],
+          "id": 294
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "滑行",
+          "start": 11637,
+          "end": 11639,
+          "attributes": [],
+          "id": 301
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "滑行",
+          "start": 14376,
+          "end": 14378,
+          "attributes": [],
+          "id": 302
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "收起",
+          "start": 11564,
+          "end": 11566,
+          "attributes": [],
+          "id": 303
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "电子吊舱",
+          "start": 13065,
+          "end": 13069,
+          "attributes": [],
+          "id": 321
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "减速板",
+          "start": 9395,
+          "end": 9398,
+          "attributes": [],
+          "id": 322
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "斜率",
+          "start": 12691,
+          "end": 12693,
+          "attributes": [],
+          "id": 323
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "斜率",
+          "start": 12733,
+          "end": 12735,
+          "attributes": [],
+          "id": 324
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "相容性",
+          "start": 10840,
+          "end": 10843,
+          "attributes": [],
+          "id": 329
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "失速速度",
+          "start": 15564,
+          "end": 15568,
+          "attributes": [],
+          "id": 331
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机重量",
+          "start": 5546,
+          "end": 5550,
+          "attributes": [],
+          "id": 343
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机重量",
+          "start": 15012,
+          "end": 15016,
+          "attributes": [],
+          "id": 345
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "操纵性",
+          "start": 7092,
+          "end": 7095,
+          "attributes": [],
+          "id": 347
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "气动力",
+          "start": 8987,
+          "end": 8990,
+          "attributes": [],
+          "id": 349
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "擦尾角",
+          "start": 16011,
+          "end": 16014,
+          "attributes": [],
+          "id": 350
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞行范围",
+          "start": 13099,
+          "end": 13103,
+          "attributes": [],
+          "id": 351
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起飞重量",
+          "start": 9763,
+          "end": 9767,
+          "attributes": [],
+          "id": 352
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "升力系数",
+          "start": 8000,
+          "end": 8004,
+          "attributes": [],
+          "id": 357
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "纵向过载",
+          "start": 9755,
+          "end": 9759,
+          "attributes": [],
+          "id": 365
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "纵向过载",
+          "start": 9933,
+          "end": 9937,
+          "attributes": [],
+          "id": 367
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机迎角",
+          "start": 10677,
+          "end": 10681,
+          "attributes": [],
+          "id": 368
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "坡度",
+          "start": 16026,
+          "end": 16028,
+          "attributes": [],
+          "id": 372
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "动能",
+          "start": 378,
+          "end": 380,
+          "attributes": [],
+          "id": 378
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "动能",
+          "start": 5284,
+          "end": 5286,
+          "attributes": [],
+          "id": 381
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "动能",
+          "start": 13771,
+          "end": 13773,
+          "attributes": [],
+          "id": 382
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "空气动力",
+          "start": 7457,
+          "end": 7461,
+          "attributes": [],
+          "id": 383
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "方案设计",
+          "start": 491,
+          "end": 495,
+          "attributes": [],
+          "id": 384
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "方案设计",
+          "start": 4404,
+          "end": 4408,
+          "attributes": [],
+          "id": 386
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "方案设计",
+          "start": 5242,
+          "end": 5246,
+          "attributes": [],
+          "id": 388
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 6014,
+          "end": 6017,
+          "attributes": [],
+          "id": 393
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 6041,
+          "end": 6044,
+          "attributes": [],
+          "id": 394
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 6104,
+          "end": 6107,
+          "attributes": [],
+          "id": 395
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 6257,
+          "end": 6260,
+          "attributes": [],
+          "id": 397
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 6268,
+          "end": 6271,
+          "attributes": [],
+          "id": 398
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 6380,
+          "end": 6383,
+          "attributes": [],
+          "id": 400
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 6426,
+          "end": 6429,
+          "attributes": [],
+          "id": 402
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 6435,
+          "end": 6438,
+          "attributes": [],
+          "id": 404
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 6454,
+          "end": 6457,
+          "attributes": [],
+          "id": 405
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 7066,
+          "end": 7069,
+          "attributes": [],
+          "id": 415
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 7115,
+          "end": 7118,
+          "attributes": [],
+          "id": 416
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 7159,
+          "end": 7162,
+          "attributes": [],
+          "id": 417
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 7192,
+          "end": 7195,
+          "attributes": [],
+          "id": 418
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 7234,
+          "end": 7237,
+          "attributes": [],
+          "id": 419
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 7249,
+          "end": 7252,
+          "attributes": [],
+          "id": 420
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 7300,
+          "end": 7303,
+          "attributes": [],
+          "id": 422
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 7420,
+          "end": 7423,
+          "attributes": [],
+          "id": 427
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 7449,
+          "end": 7452,
+          "attributes": [],
+          "id": 428
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 7501,
+          "end": 7504,
+          "attributes": [],
+          "id": 431
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 7524,
+          "end": 7527,
+          "attributes": [],
+          "id": 432
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 7702,
+          "end": 7705,
+          "attributes": [],
+          "id": 435
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 7742,
+          "end": 7745,
+          "attributes": [],
+          "id": 436
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 7754,
+          "end": 7757,
+          "attributes": [],
+          "id": 437
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 7794,
+          "end": 7797,
+          "attributes": [],
+          "id": 439
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 8083,
+          "end": 8086,
+          "attributes": [],
+          "id": 443
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 8247,
+          "end": 8250,
+          "attributes": [],
+          "id": 444
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 8312,
+          "end": 8315,
+          "attributes": [],
+          "id": 445
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 8495,
+          "end": 8498,
+          "attributes": [],
+          "id": 446
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 8516,
+          "end": 8519,
+          "attributes": [],
+          "id": 447
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 8607,
+          "end": 8610,
+          "attributes": [],
+          "id": 448
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 8611,
+          "end": 8614,
+          "attributes": [],
+          "id": 449
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 8733,
+          "end": 8736,
+          "attributes": [],
+          "id": 450
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 9223,
+          "end": 9226,
+          "attributes": [],
+          "id": 453
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞",
+          "start": 9259,
+          "end": 9262,
+          "attributes": [],
+          "id": 454
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "离地速度",
+          "start": 11959,
+          "end": 11963,
+          "attributes": [],
+          "id": 456
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "进场下滑角",
+          "start": 10232,
+          "end": 10237,
+          "attributes": [],
+          "id": 457
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "进场下滑角",
+          "start": 15936,
+          "end": 15941,
+          "attributes": [],
+          "id": 458
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆滑跑距离",
+          "start": 6249,
+          "end": 6255,
+          "attributes": [],
+          "id": 460
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆滑跑距离",
+          "start": 6276,
+          "end": 6282,
+          "attributes": [],
+          "id": 461
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆滑跑距离",
+          "start": 8052,
+          "end": 8058,
+          "attributes": [],
+          "id": 462
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆滑跑距离",
+          "start": 8630,
+          "end": 8636,
+          "attributes": [],
+          "id": 464
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆滑跑距离",
+          "start": 8794,
+          "end": 8800,
+          "attributes": [],
+          "id": 465
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆滑跑距离",
+          "start": 9431,
+          "end": 9437,
+          "attributes": [],
+          "id": 467
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "地面滑跑距离",
+          "start": 888,
+          "end": 894,
+          "attributes": [],
+          "id": 468
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "角速度",
+          "start": 12108,
+          "end": 12111,
+          "attributes": [],
+          "id": 470
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "航空母舰",
+          "start": 10835,
+          "end": 10839,
+          "attributes": [],
+          "id": 480
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "过渡段",
+          "start": 12729,
+          "end": 12732,
+          "attributes": [],
+          "id": 484
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "迎角",
+          "start": 12459,
+          "end": 12461,
+          "attributes": [],
+          "id": 488
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "减速装置",
+          "start": 6097,
+          "end": 6101,
+          "attributes": [],
+          "id": 491
+        },
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "电气系统",
+          "start": 6771,
+          "end": 6775,
+          "attributes": [],
+          "id": 493
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大起飞重量",
+          "start": 9797,
+          "end": 9803,
+          "attributes": [],
+          "id": 494
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆重量",
+          "start": 9867,
+          "end": 9871,
+          "attributes": [],
+          "id": 497
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "滑跑距离",
+          "start": 871,
+          "end": 875,
+          "attributes": [],
+          "id": 499
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "滑跑距离",
+          "start": 953,
+          "end": 957,
+          "attributes": [],
+          "id": 502
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "滑跑距离",
+          "start": 8291,
+          "end": 8295,
+          "attributes": [],
+          "id": 506
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "滑跑距离",
+          "start": 8442,
+          "end": 8446,
+          "attributes": [],
+          "id": 507
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "滑跑距离",
+          "start": 8538,
+          "end": 8542,
+          "attributes": [],
+          "id": 508
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "滑跑距离",
+          "start": 8654,
+          "end": 8658,
+          "attributes": [],
+          "id": 512
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "滑跑距离",
+          "start": 8696,
+          "end": 8700,
+          "attributes": [],
+          "id": 513
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "滑跑距离",
+          "start": 8852,
+          "end": 8856,
+          "attributes": [],
+          "id": 515
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "滑跑距离",
+          "start": 9375,
+          "end": 9379,
+          "attributes": [],
+          "id": 517
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "滑跑距离",
+          "start": 13790,
+          "end": 13794,
+          "attributes": [],
+          "id": 519
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "空气密度",
+          "start": 8203,
+          "end": 8207,
+          "attributes": [],
+          "id": 521
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "水上飞机",
+          "start": 1358,
+          "end": 1362,
+          "attributes": [],
+          "id": 522
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "跑道长度",
+          "start": 705,
+          "end": 709,
+          "attributes": [],
+          "id": 523
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "支柱式",
+          "start": 3961,
+          "end": 3964,
+          "attributes": [],
+          "id": 524
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "撞击过载",
+          "start": 2453,
+          "end": 2457,
+          "attributes": [],
+          "id": 526
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "夹角",
+          "start": 15137,
+          "end": 15139,
+          "attributes": [],
+          "id": 529
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "倾斜角",
+          "start": 11405,
+          "end": 11408,
+          "attributes": [],
+          "id": 531
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "高宽比",
+          "start": 10174,
+          "end": 10177,
+          "attributes": [],
+          "id": 532
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "抬头",
+          "start": 12102,
+          "end": 12104,
+          "attributes": [],
+          "id": 534
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "抬头",
+          "start": 12279,
+          "end": 12281,
+          "attributes": [],
+          "id": 536
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "主轮",
+          "start": 4515,
+          "end": 4517,
+          "attributes": [],
+          "id": 540
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "主轮",
+          "start": 6362,
+          "end": 6364,
+          "attributes": [],
+          "id": 542
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "主轮",
+          "start": 8589,
+          "end": 8591,
+          "attributes": [],
+          "id": 543
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "主轮",
+          "start": 8599,
+          "end": 8601,
+          "attributes": [],
+          "id": 544
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "主轮",
+          "start": 8810,
+          "end": 8812,
+          "attributes": [],
+          "id": 545
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "主轮",
+          "start": 8886,
+          "end": 8888,
+          "attributes": [],
+          "id": 546
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "主轮",
+          "start": 14366,
+          "end": 14368,
+          "attributes": [],
+          "id": 548
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前支柱",
+          "start": 11456,
+          "end": 11459,
+          "attributes": [],
+          "id": 553
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前支柱",
+          "start": 11904,
+          "end": 11907,
+          "attributes": [],
+          "id": 554
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前支柱",
+          "start": 12008,
+          "end": 12011,
+          "attributes": [],
+          "id": 556
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前支柱",
+          "start": 12074,
+          "end": 12077,
+          "attributes": [],
+          "id": 557
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前支柱",
+          "start": 12088,
+          "end": 12091,
+          "attributes": [],
+          "id": 558
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前支柱",
+          "start": 12134,
+          "end": 12137,
+          "attributes": [],
+          "id": 559
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前支柱",
+          "start": 12159,
+          "end": 12162,
+          "attributes": [],
+          "id": 560
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前支柱",
+          "start": 12208,
+          "end": 12211,
+          "attributes": [],
+          "id": 561
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前支柱",
+          "start": 12236,
+          "end": 12239,
+          "attributes": [],
+          "id": 562
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前支柱",
+          "start": 12302,
+          "end": 12305,
+          "attributes": [],
+          "id": 563
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前支柱",
+          "start": 12320,
+          "end": 12323,
+          "attributes": [],
+          "id": 564
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "角加速度",
+          "start": 12112,
+          "end": 12116,
+          "attributes": [],
+          "id": 587
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "界限线",
+          "start": 3485,
+          "end": 3488,
+          "attributes": [],
+          "id": 588
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机设计手册》",
+          "start": 5219,
+          "end": 5227,
+          "attributes": [],
+          "id": 591
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲支柱",
+          "start": 14692,
+          "end": 14696,
+          "attributes": [],
+          "id": 593
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲支柱",
+          "start": 15020,
+          "end": 15024,
+          "attributes": [],
+          "id": 595
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲支柱",
+          "start": 15448,
+          "end": 15452,
+          "attributes": [],
+          "id": 596
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "方案设计阶段",
+          "start": 4730,
+          "end": 4736,
+          "attributes": [],
+          "id": 600
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "着陆接地",
+          "start": 4205,
+          "end": 4209,
+          "attributes": [],
+          "id": 604
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "着陆接地",
+          "start": 4221,
+          "end": 4225,
+          "attributes": [],
+          "id": 605
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "着陆接地",
+          "start": 4230,
+          "end": 4234,
+          "attributes": [],
+          "id": 606
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "着陆接地",
+          "start": 4507,
+          "end": 4511,
+          "attributes": [],
+          "id": 607
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "着陆接地",
+          "start": 5305,
+          "end": 5309,
+          "attributes": [],
+          "id": 609
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "着陆接地",
+          "start": 5423,
+          "end": 5427,
+          "attributes": [],
+          "id": 610
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "着陆接地",
+          "start": 14476,
+          "end": 14480,
+          "attributes": [],
+          "id": 611
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "飞机机体",
+          "start": 14112,
+          "end": 14116,
+          "attributes": [],
+          "id": 612
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆速度",
+          "start": 9049,
+          "end": 9053,
+          "attributes": [],
+          "id": 615
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆速度",
+          "start": 9472,
+          "end": 9476,
+          "attributes": [],
+          "id": 616
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "后机身",
+          "start": 16522,
+          "end": 16525,
+          "attributes": [],
+          "id": 618
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "着陆滑跑",
+          "start": 7996,
+          "end": 8000,
+          "attributes": [],
+          "id": 624
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "着陆滑跑",
+          "start": 8011,
+          "end": 8015,
+          "attributes": [],
+          "id": 625
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "着陆滑跑",
+          "start": 8398,
+          "end": 8402,
+          "attributes": [],
+          "id": 627
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "着陆滑跑",
+          "start": 9358,
+          "end": 9362,
+          "attributes": [],
+          "id": 632
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "不平度",
+          "start": 10143,
+          "end": 10146,
+          "attributes": [],
+          "id": 635
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "F-18",
+          "start": 12201,
+          "end": 12205,
+          "attributes": [],
+          "id": 636
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "F-14",
+          "start": 12050,
+          "end": 12054,
+          "attributes": [],
+          "id": 637
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "机头",
+          "start": 15069,
+          "end": 15071,
+          "attributes": [],
+          "id": 642
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "腹鳍",
+          "start": 16391,
+          "end": 16393,
+          "attributes": [],
+          "id": 644
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "纵向操纵",
+          "start": 7216,
+          "end": 7220,
+          "attributes": [],
+          "id": 648
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "擦地角",
+          "start": 10580,
+          "end": 10583,
+          "attributes": [],
+          "id": 650
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "起落架支柱",
+          "start": 1629,
+          "end": 1634,
+          "attributes": [],
+          "id": 651
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "起落架支柱",
+          "start": 4541,
+          "end": 4546,
+          "attributes": [],
+          "id": 653
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "起落架支柱",
+          "start": 5881,
+          "end": 5886,
+          "attributes": [],
+          "id": 655
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "平尾效率",
+          "start": 12308,
+          "end": 12312,
+          "attributes": [],
+          "id": 661
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "起飞着陆",
+          "start": 15828,
+          "end": 15832,
+          "attributes": [],
+          "id": 665
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "传力",
+          "start": 11884,
+          "end": 11886,
+          "attributes": [],
+          "id": 666
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "钢索",
+          "start": 6702,
+          "end": 6704,
+          "attributes": [],
+          "id": 667
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "钢索",
+          "start": 10135,
+          "end": 10137,
+          "attributes": [],
+          "id": 668
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "《飞机设计和构造通用规范》",
+          "start": 10848,
+          "end": 10861,
+          "attributes": [],
+          "id": 673
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "重心变化范围",
+          "start": 11467,
+          "end": 11473,
+          "attributes": [],
+          "id": 674
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "歼8",
+          "start": 6616,
+          "end": 6618,
+          "attributes": [],
+          "id": 679
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "舰载飞机",
+          "start": 9647,
+          "end": 9651,
+          "attributes": [],
+          "id": 680
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "舰载飞机",
+          "start": 9692,
+          "end": 9696,
+          "attributes": [],
+          "id": 681
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "舰载飞机",
+          "start": 9730,
+          "end": 9734,
+          "attributes": [],
+          "id": 682
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "舰载飞机",
+          "start": 12518,
+          "end": 12522,
+          "attributes": [],
+          "id": 683
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "舰载飞机",
+          "start": 12564,
+          "end": 12568,
+          "attributes": [],
+          "id": 684
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "着陆钩",
+          "start": 13460,
+          "end": 13463,
+          "attributes": [],
+          "id": 685
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "F-4",
+          "start": 6727,
+          "end": 6730,
+          "attributes": [],
+          "id": 686
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "姿态角",
+          "start": 10654,
+          "end": 10657,
+          "attributes": [],
+          "id": 688
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "姿态角",
+          "start": 12175,
+          "end": 12178,
+          "attributes": [],
+          "id": 689
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "姿态角",
+          "start": 15855,
+          "end": 15858,
+          "attributes": [],
+          "id": 690
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "额定推力",
+          "start": 12961,
+          "end": 12965,
+          "attributes": [],
+          "id": 693
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "内压",
+          "start": 2077,
+          "end": 2079,
+          "attributes": [],
+          "id": 694
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "内压",
+          "start": 3221,
+          "end": 3223,
+          "attributes": [],
+          "id": 695
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "收上",
+          "start": 14135,
+          "end": 14137,
+          "attributes": [],
+          "id": 702
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "压缩行程",
+          "start": 2332,
+          "end": 2336,
+          "attributes": [],
+          "id": 704
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "压缩行程",
+          "start": 2346,
+          "end": 2350,
+          "attributes": [],
+          "id": 705
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "压缩行程",
+          "start": 2399,
+          "end": 2403,
+          "attributes": [],
+          "id": 706
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "压缩行程",
+          "start": 2672,
+          "end": 2676,
+          "attributes": [],
+          "id": 707
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "压缩行程",
+          "start": 4298,
+          "end": 4302,
+          "attributes": [],
+          "id": 709
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "压缩行程",
+          "start": 4317,
+          "end": 4321,
+          "attributes": [],
+          "id": 710
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "压缩行程",
+          "start": 4347,
+          "end": 4351,
+          "attributes": [],
+          "id": 711
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "压缩行程",
+          "start": 4695,
+          "end": 4699,
+          "attributes": [],
+          "id": 712
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "压缩行程",
+          "start": 4723,
+          "end": 4727,
+          "attributes": [],
+          "id": 713
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "轮胎压缩量",
+          "start": 5855,
+          "end": 5860,
+          "attributes": [],
+          "id": 717
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "压缩量",
+          "start": 5333,
+          "end": 5336,
+          "attributes": [],
+          "id": 719
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "压缩量",
+          "start": 5347,
+          "end": 5350,
+          "attributes": [],
+          "id": 720
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "压缩量",
+          "start": 5374,
+          "end": 5377,
+          "attributes": [],
+          "id": 721
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "压缩量",
+          "start": 6006,
+          "end": 6009,
+          "attributes": [],
+          "id": 724
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "压缩量",
+          "start": 15189,
+          "end": 15192,
+          "attributes": [],
+          "id": 726
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "静态压缩量",
+          "start": 5933,
+          "end": 5938,
+          "attributes": [],
+          "id": 727
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "静态压缩量",
+          "start": 10564,
+          "end": 10569,
+          "attributes": [],
+          "id": 728
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "防后翻角",
+          "start": 10604,
+          "end": 10608,
+          "attributes": [],
+          "id": 730
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "减速率",
+          "start": 867,
+          "end": 870,
+          "attributes": [],
+          "id": 731
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "舰载机",
+          "start": 16137,
+          "end": 16140,
+          "attributes": [],
+          "id": 736
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "拦阻钩",
+          "start": 13413,
+          "end": 13416,
+          "attributes": [],
+          "id": 738
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "拦阻钩",
+          "start": 13427,
+          "end": 13430,
+          "attributes": [],
+          "id": 739
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "拦阻钩",
+          "start": 13435,
+          "end": 13438,
+          "attributes": [],
+          "id": 740
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "拦阻钩",
+          "start": 13727,
+          "end": 13730,
+          "attributes": [],
+          "id": 747
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "拦阻钩",
+          "start": 13743,
+          "end": 13746,
+          "attributes": [],
+          "id": 748
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "拦阻钩",
+          "start": 13891,
+          "end": 13894,
+          "attributes": [],
+          "id": 753
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "拦阻钩",
+          "start": 14045,
+          "end": 14048,
+          "attributes": [],
+          "id": 757
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "拦阻钩",
+          "start": 14196,
+          "end": 14199,
+          "attributes": [],
+          "id": 759
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "拦阻钩",
+          "start": 14379,
+          "end": 14382,
+          "attributes": [],
+          "id": 762
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "拦阻钩",
+          "start": 14472,
+          "end": 14475,
+          "attributes": [],
+          "id": 764
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "拦阻钩",
+          "start": 14533,
+          "end": 14536,
+          "attributes": [],
+          "id": 765
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "拦阻钩",
+          "start": 14567,
+          "end": 14570,
+          "attributes": [],
+          "id": 766
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "拦阻钩",
+          "start": 14619,
+          "end": 14622,
+          "attributes": [],
+          "id": 767
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "拦阻钩",
+          "start": 15055,
+          "end": 15058,
+          "attributes": [],
+          "id": 768
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "拦阻钩",
+          "start": 15076,
+          "end": 15079,
+          "attributes": [],
+          "id": 769
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "拦阻钩",
+          "start": 15106,
+          "end": 15109,
+          "attributes": [],
+          "id": 770
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "拦阻钩",
+          "start": 15151,
+          "end": 15154,
+          "attributes": [],
+          "id": 771
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "估算方法",
+          "start": 5212,
+          "end": 5216,
+          "attributes": [],
+          "id": 775
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "海平面",
+          "start": 12932,
+          "end": 12935,
+          "attributes": [],
+          "id": 780
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "海平面",
+          "start": 12957,
+          "end": 12960,
+          "attributes": [],
+          "id": 781
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "起落架装置",
+          "start": 2991,
+          "end": 2996,
+          "attributes": [],
+          "id": 784
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "进场",
+          "start": 7120,
+          "end": 7122,
+          "attributes": [],
+          "id": 786
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "进场",
+          "start": 10693,
+          "end": 10695,
+          "attributes": [],
+          "id": 789
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "进场",
+          "start": 15118,
+          "end": 15120,
+          "attributes": [],
+          "id": 793
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "承载能力",
+          "start": 13631,
+          "end": 13635,
+          "attributes": [],
+          "id": 795
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "倾侧角",
+          "start": 16029,
+          "end": 16032,
+          "attributes": [],
+          "id": 796
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "侧风着陆",
+          "start": 16036,
+          "end": 16040,
+          "attributes": [],
+          "id": 797
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "反作用力",
+          "start": 5337,
+          "end": 5341,
+          "attributes": [],
+          "id": 800
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机速度",
+          "start": 569,
+          "end": 573,
+          "attributes": [],
+          "id": 802
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机速度",
+          "start": 9521,
+          "end": 9525,
+          "attributes": [],
+          "id": 803
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "滑跑速度",
+          "start": 6144,
+          "end": 6148,
+          "attributes": [],
+          "id": 807
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "滑跑速度",
+          "start": 6186,
+          "end": 6190,
+          "attributes": [],
+          "id": 809
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "滑跑速度",
+          "start": 6200,
+          "end": 6204,
+          "attributes": [],
+          "id": 810
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "压缩性",
+          "start": 3028,
+          "end": 3031,
+          "attributes": [],
+          "id": 811
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻尼装置",
+          "start": 15453,
+          "end": 15457,
+          "attributes": [],
+          "id": 812
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "上翘角",
+          "start": 12682,
+          "end": 12685,
+          "attributes": [],
+          "id": 814
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "效率系数",
+          "start": 2742,
+          "end": 2746,
+          "attributes": [],
+          "id": 816
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "效率系数",
+          "start": 3588,
+          "end": 3592,
+          "attributes": [],
+          "id": 817
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "效率系数",
+          "start": 3632,
+          "end": 3636,
+          "attributes": [],
+          "id": 818
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "侧向载荷",
+          "start": 15533,
+          "end": 15537,
+          "attributes": [],
+          "id": 821
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "侧向载荷",
+          "start": 15552,
+          "end": 15556,
+          "attributes": [],
+          "id": 822
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "侧向载荷",
+          "start": 15589,
+          "end": 15593,
+          "attributes": [],
+          "id": 823
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "牵引载荷",
+          "start": 11327,
+          "end": 11331,
+          "attributes": [],
+          "id": 825
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "阻力载荷",
+          "start": 9110,
+          "end": 9114,
+          "attributes": [],
+          "id": 827
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆载荷",
+          "start": 14705,
+          "end": 14709,
+          "attributes": [],
+          "id": 829
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "活塞杆",
+          "start": 3154,
+          "end": 3157,
+          "attributes": [],
+          "id": 831
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "充气压力",
+          "start": 10114,
+          "end": 10118,
+          "attributes": [],
+          "id": 834
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "充气压力",
+          "start": 10187,
+          "end": 10191,
+          "attributes": [],
+          "id": 835
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "设计载荷",
+          "start": 10074,
+          "end": 10078,
+          "attributes": [],
+          "id": 837
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "设计载荷",
+          "start": 15558,
+          "end": 15562,
+          "attributes": [],
+          "id": 838
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "下沉速度",
+          "start": 4211,
+          "end": 4215,
+          "attributes": [],
+          "id": 842
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "下沉速度",
+          "start": 4367,
+          "end": 4371,
+          "attributes": [],
+          "id": 843
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "下沉速度",
+          "start": 4379,
+          "end": 4383,
+          "attributes": [],
+          "id": 844
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "下沉速度",
+          "start": 5609,
+          "end": 5613,
+          "attributes": [],
+          "id": 845
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "下沉速度",
+          "start": 10219,
+          "end": 10223,
+          "attributes": [],
+          "id": 846
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "下沉速度",
+          "start": 13234,
+          "end": 13238,
+          "attributes": [],
+          "id": 847
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "下沉速度",
+          "start": 14748,
+          "end": 14752,
+          "attributes": [],
+          "id": 848
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "下沉速度",
+          "start": 15183,
+          "end": 15187,
+          "attributes": [],
+          "id": 849
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "海情",
+          "start": 10384,
+          "end": 10386,
+          "attributes": [],
+          "id": 851
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作用力",
+          "start": 5369,
+          "end": 5372,
+          "attributes": [],
+          "id": 857
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作用力",
+          "start": 5390,
+          "end": 5393,
+          "attributes": [],
+          "id": 858
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "作用力",
+          "start": 7511,
+          "end": 7514,
+          "attributes": [],
+          "id": 859
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "弹射载荷",
+          "start": 11841,
+          "end": 11845,
+          "attributes": [],
+          "id": 862
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "强度规范",
+          "start": 4636,
+          "end": 4640,
+          "attributes": [],
+          "id": 864
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大行程",
+          "start": 2959,
+          "end": 2963,
+          "attributes": [],
+          "id": 879
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大行程",
+          "start": 3354,
+          "end": 3358,
+          "attributes": [],
+          "id": 880
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大行程",
+          "start": 4894,
+          "end": 4898,
+          "attributes": [],
+          "id": 881
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "阻尼力",
+          "start": 2208,
+          "end": 2211,
+          "attributes": [],
+          "id": 883
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "止动块",
+          "start": 13868,
+          "end": 13871,
+          "attributes": [],
+          "id": 884
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "止动块",
+          "start": 14119,
+          "end": 14122,
+          "attributes": [],
+          "id": 885
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "着陆撞击",
+          "start": 15311,
+          "end": 15315,
+          "attributes": [],
+          "id": 887
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "着陆撞击",
+          "start": 15971,
+          "end": 15975,
+          "attributes": [],
+          "id": 888
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "摩擦力",
+          "start": 2588,
+          "end": 2591,
+          "attributes": [],
+          "id": 889
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "摩擦力",
+          "start": 2624,
+          "end": 2627,
+          "attributes": [],
+          "id": 890
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "缓冲系统",
+          "start": 1590,
+          "end": 1594,
+          "attributes": [],
+          "id": 891
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "缓冲系统",
+          "start": 1608,
+          "end": 1612,
+          "attributes": [],
+          "id": 892
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "缓冲系统",
+          "start": 1618,
+          "end": 1622,
+          "attributes": [],
+          "id": 893
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "缓冲系统",
+          "start": 5324,
+          "end": 5328,
+          "attributes": [],
+          "id": 897
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "缓冲系统",
+          "start": 5384,
+          "end": 5388,
+          "attributes": [],
+          "id": 898
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "缓冲系统",
+          "start": 5998,
+          "end": 6002,
+          "attributes": [],
+          "id": 899
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "时间历程",
+          "start": 15424,
+          "end": 15428,
+          "attributes": [],
+          "id": 900
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "撞击力",
+          "start": 4522,
+          "end": 4525,
+          "attributes": [],
+          "id": 901
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起落架行程",
+          "start": 11530,
+          "end": 11535,
+          "attributes": [],
+          "id": 903
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起落架行程",
+          "start": 11748,
+          "end": 11753,
+          "attributes": [],
+          "id": 905
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "侧向过载",
+          "start": 10788,
+          "end": 10792,
+          "attributes": [],
+          "id": 906
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "刹车装置",
+          "start": 6,
+          "end": 10,
+          "attributes": [],
+          "id": 907
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "刹车装置",
+          "start": 99,
+          "end": 103,
+          "attributes": [],
+          "id": 908
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "刹车装置",
+          "start": 281,
+          "end": 285,
+          "attributes": [],
+          "id": 909
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "刹车装置",
+          "start": 723,
+          "end": 727,
+          "attributes": [],
+          "id": 915
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "刹车装置",
+          "start": 750,
+          "end": 754,
+          "attributes": [],
+          "id": 916
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "刹车装置",
+          "start": 985,
+          "end": 989,
+          "attributes": [],
+          "id": 917
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "刹车装置",
+          "start": 1103,
+          "end": 1107,
+          "attributes": [],
+          "id": 918
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "刹车装置",
+          "start": 1327,
+          "end": 1331,
+          "attributes": [],
+          "id": 919
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "刹车装置",
+          "start": 6084,
+          "end": 6088,
+          "attributes": [],
+          "id": 920
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "刹车装置",
+          "start": 9227,
+          "end": 9231,
+          "attributes": [],
+          "id": 923
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "刹车装置",
+          "start": 9268,
+          "end": 9272,
+          "attributes": [],
+          "id": 924
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "刹车装置",
+          "start": 9489,
+          "end": 9493,
+          "attributes": [],
+          "id": 925
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "刹车装置",
+          "start": 9503,
+          "end": 9507,
+          "attributes": [],
+          "id": 926
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "两轮接地",
+          "start": 913,
+          "end": 917,
+          "attributes": [],
+          "id": 927
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆接地速度",
+          "start": 315,
+          "end": 321,
+          "attributes": [],
+          "id": 932
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "设计着陆重量",
+          "start": 302,
+          "end": 308,
+          "attributes": [],
+          "id": 933
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "能量法",
+          "start": 275,
+          "end": 279,
+          "attributes": [],
+          "id": 934
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "刹车与阻力伞共同使用的能量系数",
+          "start": 400,
+          "end": 415,
+          "attributes": [],
+          "id": 935
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "其他装置吸收的能量系数",
+          "start": 421,
+          "end": 432,
+          "attributes": [],
+          "id": 936
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "刹车装置吸收的能量",
+          "start": 381,
+          "end": 390,
+          "attributes": [],
+          "id": 937
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆滑跑长度",
+          "start": 793,
+          "end": 799,
+          "attributes": [],
+          "id": 939
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "减速率",
+          "start": 1019,
+          "end": 1022,
+          "attributes": [],
+          "id": 940
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "减速率",
+          "start": 1089,
+          "end": 1092,
+          "attributes": [],
+          "id": 941
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "刹车力矩",
+          "start": 1269,
+          "end": 1273,
+          "attributes": [],
+          "id": 943
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "每个刹车机轮上的载荷",
+          "start": 1290,
+          "end": 1300,
+          "attributes": [],
+          "id": 944
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "轮胎的滚动半径",
+          "start": 1308,
+          "end": 1315,
+          "attributes": [],
+          "id": 945
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "静态刹车力矩",
+          "start": 1391,
+          "end": 1397,
+          "attributes": [],
+          "id": 947
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "结合力矩",
+          "start": 1400,
+          "end": 1404,
+          "attributes": [],
+          "id": 948
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "刹车盘能达到的能力",
+          "start": 1430,
+          "end": 1439,
+          "attributes": [],
+          "id": 949
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "轮胎与地面的静态摩擦因数",
+          "start": 1415,
+          "end": 1427,
+          "attributes": [],
+          "id": 950
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "刹车效率",
+          "start": 1503,
+          "end": 1507,
+          "attributes": [],
+          "id": 951
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "滑行速度",
+          "start": 1532,
+          "end": 1536,
+          "attributes": [],
+          "id": 952
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "机轮",
+          "start": 1624,
+          "end": 1626,
+          "attributes": [],
+          "id": 953
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "钢弹簧缓冲器",
+          "start": 1749,
+          "end": 1755,
+          "attributes": [],
+          "id": 954
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "橡皮弹簧缓冲器",
+          "start": 1768,
+          "end": 1775,
+          "attributes": [],
+          "id": 955
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "空气式缓冲器",
+          "start": 1779,
+          "end": 1785,
+          "attributes": [],
+          "id": 956
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "油液空气式缓冲器",
+          "start": 1789,
+          "end": 1797,
+          "attributes": [],
+          "id": 957
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "全油液式缓冲器",
+          "start": 1801,
+          "end": 1808,
+          "attributes": [],
+          "id": 958
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "油液空气式缓冲器",
+          "start": 1816,
+          "end": 1824,
+          "attributes": [],
+          "id": 959
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "弹性",
+          "start": 2928,
+          "end": 2930,
+          "attributes": [],
+          "id": 960
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "阻尼特性",
+          "start": 2931,
+          "end": 2935,
+          "attributes": [],
+          "id": 961
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "全油液式缓冲器",
+          "start": 2916,
+          "end": 2923,
+          "attributes": [],
+          "id": 962
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "外筒",
+          "start": 3143,
+          "end": 3145,
+          "attributes": [],
+          "id": 963
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "活塞",
+          "start": 3146,
+          "end": 3148,
+          "attributes": [],
+          "id": 964
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "密封装置",
+          "start": 3149,
+          "end": 3153,
+          "attributes": [],
+          "id": 965
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "量油孔",
+          "start": 3166,
+          "end": 3169,
+          "attributes": [],
+          "id": 970
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "上油室",
+          "start": 3158,
+          "end": 3161,
+          "attributes": [],
+          "id": 971
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "下油室",
+          "start": 3162,
+          "end": 3165,
+          "attributes": [],
+          "id": 972
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "压缩率",
+          "start": 3303,
+          "end": 3306,
+          "attributes": [],
+          "id": 973
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "压力值",
+          "start": 3323,
+          "end": 3326,
+          "attributes": [],
+          "id": 974
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "缓冲器行程",
+          "start": 3707,
+          "end": 3712,
+          "attributes": [],
+          "id": 975
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起落架的使用过载值",
+          "start": 3741,
+          "end": 3750,
+          "attributes": [],
+          "id": 976
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "轮胎效率",
+          "start": 3813,
+          "end": 3817,
+          "attributes": [],
+          "id": 978
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "缓冲器效率",
+          "start": 3833,
+          "end": 3838,
+          "attributes": [],
+          "id": 979
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机垂直下沉速度",
+          "start": 3874,
+          "end": 3882,
+          "attributes": [],
+          "id": 981
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "升力重量比",
+          "start": 3916,
+          "end": 3921,
+          "attributes": [],
+          "id": 982
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "摇臂式",
+          "start": 3967,
+          "end": 3970,
+          "attributes": [],
+          "id": 983
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "双腔缓冲器",
+          "start": 4062,
+          "end": 4067,
+          "attributes": [],
+          "id": 984
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "卸压阀",
+          "start": 4109,
+          "end": 4112,
+          "attributes": [],
+          "id": 985
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机着陆接地时的总能量",
+          "start": 5266,
+          "end": 5277,
+          "attributes": [],
+          "id": 986
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起落架支柱长度",
+          "start": 5847,
+          "end": 5854,
+          "attributes": [],
+          "id": 988
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "刹车伞",
+          "start": 6050,
+          "end": 6053,
+          "attributes": [],
+          "id": 989
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "飞机上利用增大空气阻力的方法使飞机减速的一种装置，它与机轮刹车装置一样，同为飞机着陆减速装置之一",
+          "start": 6055,
+          "end": 6103,
+          "attributes": [],
+          "id": 990
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "上伞舱阻力伞",
+          "start": 6353,
+          "end": 6359,
+          "attributes": [],
+          "id": 991
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞悬挂锁",
+          "start": 6435,
+          "end": 6441,
+          "attributes": [],
+          "id": 993
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "阻力伞系统",
+          "start": 6420,
+          "end": 6425,
+          "attributes": [],
+          "id": 994
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "窄带条伞",
+          "start": 6463,
+          "end": 6467,
+          "attributes": [],
+          "id": 995
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "环缝伞",
+          "start": 6471,
+          "end": 6474,
+          "attributes": [],
+          "id": 996
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "环帆伞",
+          "start": 6478,
+          "end": 6481,
+          "attributes": [],
+          "id": 997
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "十字伞",
+          "start": 6485,
+          "end": 6488,
+          "attributes": [],
+          "id": 998
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "歼6",
+          "start": 6608,
+          "end": 6610,
+          "attributes": [],
+          "id": 999
+        },
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "强5",
+          "start": 6619,
+          "end": 6621,
+          "attributes": [],
+          "id": 1001
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "操纵手柄",
+          "start": 6695,
+          "end": 6699,
+          "attributes": [],
+          "id": 1002
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "F-5",
+          "start": 6723,
+          "end": 6726,
+          "attributes": [],
+          "id": 1003
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "电动冷气系统",
+          "start": 6839,
+          "end": 6845,
+          "attributes": [],
+          "id": 1004
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "机械操纵系统",
+          "start": 6846,
+          "end": 6852,
+          "attributes": [],
+          "id": 1005
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆时阻力系数",
+          "start": 7982,
+          "end": 7989,
+          "attributes": [],
+          "id": 1007
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "滑跑滚动摩擦因数",
+          "start": 8025,
+          "end": 8033,
+          "attributes": [],
+          "id": 1009
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆滑跑阻力系数",
+          "start": 8011,
+          "end": 8019,
+          "attributes": [],
+          "id": 1010
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "伞张满瞬间速度",
+          "start": 8166,
+          "end": 8173,
+          "attributes": [],
+          "id": 1011
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "带伞滑跑段的飞机末速度",
+          "start": 8183,
+          "end": 8194,
+          "attributes": [],
+          "id": 1012
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "与伞衣材料、结构和面积有关的阻力系数",
+          "start": 8222,
+          "end": 8240,
+          "attributes": [],
+          "id": 1013
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "阻力伞伞衣展开的面积",
+          "start": 8247,
+          "end": 8257,
+          "attributes": [],
+          "id": 1014
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "伞张满的瞬间速度",
+          "start": 8267,
+          "end": 8275,
+          "attributes": [],
+          "id": 1015
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "带伞滑跑段的距离",
+          "start": 8145,
+          "end": 8153,
+          "attributes": [],
+          "id": 1016
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "阻力伞载荷",
+          "start": 9086,
+          "end": 9091,
+          "attributes": [],
+          "id": 1017
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "伞衣承受的载荷",
+          "start": 9130,
+          "end": 9137,
+          "attributes": [],
+          "id": 1018
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "对应速度下的动压",
+          "start": 9144,
+          "end": 9152,
+          "attributes": [],
+          "id": 1019
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "伞衣承受的最大载荷",
+          "start": 9194,
+          "end": 9203,
+          "attributes": [],
+          "id": 1020
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "动载系数",
+          "start": 9211,
+          "end": 9215,
+          "attributes": [],
+          "id": 1021
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "是一个尺寸有限的浮动平台",
+          "start": 9665,
+          "end": 9677,
+          "attributes": [],
+          "id": 1022
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大设计起飞重量",
+          "start": 9771,
+          "end": 9779,
+          "attributes": [],
+          "id": 1023
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "MIL-STD-2066",
+          "start": 10003,
+          "end": 10015,
+          "attributes": [],
+          "id": 1024
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "MIL-A-8863",
+          "start": 10093,
+          "end": 10103,
+          "attributes": [],
+          "id": 1025
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机下滑进场角",
+          "start": 10689,
+          "end": 10696,
+          "attributes": [],
+          "id": 1027
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "航空母舰的俯仰运动角",
+          "start": 10707,
+          "end": 10717,
+          "attributes": [],
+          "id": 1028
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大起飞设计重量",
+          "start": 11078,
+          "end": 11086,
+          "attributes": [],
+          "id": 1029
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "预拉伸载荷分量",
+          "start": 11098,
+          "end": 11105,
+          "attributes": [],
+          "id": 1030
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "钳制杆载荷线与甲板之间的夹角",
+          "start": 11113,
+          "end": 11127,
+          "attributes": [],
+          "id": 1031
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "用于破坏分析和试验的载荷",
+          "start": 11136,
+          "end": 11148,
+          "attributes": [],
+          "id": 1032
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "用于疲劳分析和试验的真实载荷",
+          "start": 11156,
+          "end": 11170,
+          "attributes": [],
+          "id": 1033
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "甲板突出型",
+          "start": 11349,
+          "end": 11354,
+          "attributes": [],
+          "id": 1036
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "甲板平齐型",
+          "start": 11355,
+          "end": 11360,
+          "attributes": [],
+          "id": 1037
+        },
+        null,
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "是在低于甲板高度下牵引的",
+          "start": 11369,
+          "end": 11381,
+          "attributes": [],
+          "id": 1039
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "双轮",
+          "start": 11910,
+          "end": 11912,
+          "attributes": [],
+          "id": 1041
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "储能式",
+          "start": 12019,
+          "end": 12022,
+          "attributes": [],
+          "id": 1042
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前起落架支柱",
+          "start": 12023,
+          "end": 12029,
+          "attributes": [],
+          "id": 1044
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "前起落架支柱",
+          "start": 12035,
+          "end": 12041,
+          "attributes": [],
+          "id": 1045
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "固定伸长",
+          "start": 12030,
+          "end": 12034,
+          "attributes": [],
+          "id": 1046
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "伸缩式",
+          "start": 12131,
+          "end": 12134,
+          "attributes": [],
+          "id": 1047
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "上仰角速度",
+          "start": 12783,
+          "end": 12788,
+          "attributes": [],
+          "id": 1048
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起飞包线",
+          "start": 12807,
+          "end": 12811,
+          "attributes": [],
+          "id": 1049
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "离舰迎角",
+          "start": 12799,
+          "end": 12803,
+          "attributes": [],
+          "id": 1050
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起飞航迹上升角",
+          "start": 12761,
+          "end": 12768,
+          "attributes": [],
+          "id": 1051
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "MIL-A-8860",
+          "start": 12853,
+          "end": 12863,
+          "attributes": [],
+          "id": 1052
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "啮合速度",
+          "start": 13216,
+          "end": 13220,
+          "attributes": [],
+          "id": 1053
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "MIL-A-18717",
+          "start": 13672,
+          "end": 13683,
+          "attributes": [],
+          "id": 1054
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "制动钩",
+          "start": 13732,
+          "end": 13735,
+          "attributes": [],
+          "id": 1056
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "是装在飞机上的拦阻钩与安装在跑道上的拦阻索啮合，由拦阻器吸收飞机滑跑的动能，可在较短的距离上拦停飞机，使飞机滑跑距离大大缩短",
+          "start": 13736,
+          "end": 13798,
+          "attributes": [],
+          "id": 1057
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "飞机拦阻钩系统",
+          "start": 13837,
+          "end": 13844,
+          "attributes": [],
+          "id": 1058
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "拦阻钩臂",
+          "start": 13845,
+          "end": 13849,
+          "attributes": [],
+          "id": 1059
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "钩头",
+          "start": 13850,
+          "end": 13852,
+          "attributes": [],
+          "id": 1060
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "放下作动筒",
+          "start": 13853,
+          "end": 13858,
+          "attributes": [],
+          "id": 1061
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲装置",
+          "start": 13859,
+          "end": 13863,
+          "attributes": [],
+          "id": 1062
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "上位锁",
+          "start": 13864,
+          "end": 13867,
+          "attributes": [],
+          "id": 1063
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "垂直反作用力",
+          "start": 14235,
+          "end": 14241,
+          "attributes": [],
+          "id": 1065
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "舰载型拦阻器",
+          "start": 14290,
+          "end": 14296,
+          "attributes": [],
+          "id": 1066
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "陆基型拦阻器",
+          "start": 14307,
+          "end": 14313,
+          "attributes": [],
+          "id": 1067
+        },
+        null,
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "飞机在基本起飞状态静态地面线",
+          "start": 14655,
+          "end": 14669,
+          "attributes": [],
+          "id": 1071
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "是飞机为着陆状态，缓冲支柱和轮胎压缩到相应的着陆载荷的地面线",
+          "start": 14683,
+          "end": 14713,
+          "attributes": [],
+          "id": 1072
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "是理论上的线，此线由设计着陆地面线L，附加设计下沉速度Vz和设计着舰速度VL之前的飘飞速度VF矢量相加的合速度线的角度得到",
+          "start": 14725,
+          "end": 14786,
+          "attributes": [],
+          "id": 1073
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "最大尾部向下姿态由每一架飞机的结构或尾部缓冲器（如果安装）压缩的最大行程所限制，为相应的设计着陆载荷、缓冲支柱全压缩和轮胎压缩时的地面线",
+          "start": 14804,
+          "end": 14872,
+          "attributes": [],
+          "id": 1076
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "最大机头向下姿态地面线由下面任一种情况引起",
+          "start": 14890,
+          "end": 14911,
+          "attributes": [],
+          "id": 1077
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起飞姿态角",
+          "start": 15861,
+          "end": 15866,
+          "attributes": [],
+          "id": 1078
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆姿态角",
+          "start": 15888,
+          "end": 15893,
+          "attributes": [],
+          "id": 1079
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "起落架支柱",
+          "start": 15728,
+          "end": 15733,
+          "attributes": [],
+          "id": 1081
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "应急拦阻钩系统",
+          "start": 13801,
+          "end": 13808,
+          "attributes": [],
+          "id": 1082
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "弹射杆",
+          "start": 11221,
+          "end": 11224,
+          "attributes": [],
+          "id": 1083
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "Launch Bar",
+          "start": 11225,
+          "end": 11235,
+          "attributes": [],
+          "id": 1084
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "弹射杆",
+          "start": 11339,
+          "end": 11342,
+          "attributes": [],
+          "id": 1085
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "牵引杆",
+          "start": 11333,
+          "end": 11336,
+          "attributes": [],
+          "id": 1086
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "甲板平齐型弹射杆",
+          "start": 11361,
+          "end": 11369,
+          "attributes": [],
+          "id": 1087
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "缓冲器行程",
+          "start": 5172,
+          "end": 5177,
+          "attributes": [],
+          "id": 1088
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "阻力伞系统",
+          "start": 7022,
+          "end": 7027,
+          "attributes": [],
+          "id": 1091
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "液压冷气系统",
+          "start": 6776,
+          "end": 6782,
+          "attributes": [],
+          "id": 1092
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "主轮吸收的能量",
+          "start": 239,
+          "end": 246,
+          "attributes": [],
+          "id": 1093
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆刹车滑跑距离",
+          "start": 258,
+          "end": 266,
+          "attributes": [],
+          "id": 1094
+        },
+        {
+          "type": "T",
+          "name": "文档",
+          "value": "MIL­A-8863G",
+          "start": 10155,
+          "end": 10166,
+          "attributes": [],
+          "id": 1095
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "总动能",
+          "start": 344,
+          "end": 347,
+          "attributes": [],
+          "id": 1096
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "刹车系统",
+          "start": 358,
+          "end": 362,
+          "attributes": [],
+          "id": 1097
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "刹车力矩",
+          "start": 1250,
+          "end": 1254,
+          "attributes": [],
+          "id": 1098
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "刹车效率",
+          "start": 1255,
+          "end": 1259,
+          "attributes": [],
+          "id": 1099
+        },
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "硅油",
+          "start": 2830,
+          "end": 2832,
+          "attributes": [],
+          "id": 1100
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "弹性",
+          "start": 2841,
+          "end": 2843,
+          "attributes": [],
+          "id": 1101
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "液体弹簧",
+          "start": 2910,
+          "end": 2914,
+          "attributes": [],
+          "id": 1102
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "全油液式缓冲器",
+          "start": 2898,
+          "end": 2905,
+          "attributes": [],
+          "id": 1103
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "缓冲系统设计",
+          "start": 4163,
+          "end": 4169,
+          "attributes": [],
+          "id": 1104
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "停机压缩",
+          "start": 5050,
+          "end": 5054,
+          "attributes": [],
+          "id": 1105
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "主起落架缓冲器",
+          "start": 5042,
+          "end": 5049,
+          "attributes": [],
+          "id": 1106
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "缓冲器类型",
+          "start": 5184,
+          "end": 5189,
+          "attributes": [],
+          "id": 1107
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "缓冲系统压缩行程的势能",
+          "start": 5287,
+          "end": 5298,
+          "attributes": [],
+          "id": 1108
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲导叶",
+          "start": 5928,
+          "end": 5932,
+          "attributes": [],
+          "id": 1109
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "机轮及刹车装置的使用寿命",
+          "start": 6296,
+          "end": 6308,
+          "attributes": [],
+          "id": 1110
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞悬挂锁",
+          "start": 6493,
+          "end": 6499,
+          "attributes": [],
+          "id": 1111
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "放伞和抛伞时，飞行员按动电钮（或开关），通过电动冷气阀接通冷气，由冷气作动筒打开舱门放伞和打开阻力伞悬挂锁抛伞",
+          "start": 6536,
+          "end": 6591,
+          "attributes": [],
+          "id": 1112
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "电动冷气系统操纵",
+          "start": 6527,
+          "end": 6535,
+          "attributes": [],
+          "id": 1113
+        },
+        {
+          "type": "T",
+          "name": "释义",
+          "value": "在座舱中操纵手柄，通过钢索或操纵拉杆来实现放伞、抛伞动作。如美国F-5、F-4B，法国“幻影”Ⅲ等飞机阻力伞系统均采用这种操纵形式",
+          "start": 6691,
+          "end": 6756,
+          "attributes": [],
+          "id": 1114
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "机械操纵",
+          "start": 6686,
+          "end": 6690,
+          "attributes": [],
+          "id": 1115
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "机械操纵系统",
+          "start": 6760,
+          "end": 6766,
+          "attributes": [],
+          "id": 1116
+        },
+        null,
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "阻力伞系统设计要求",
+          "start": 6992,
+          "end": 7001,
+          "attributes": [],
+          "id": 1118
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞悬挂锁",
+          "start": 7481,
+          "end": 7487,
+          "attributes": [],
+          "id": 1119
+        },
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "飞机对称面",
+          "start": 7493,
+          "end": 7498,
+          "attributes": [],
+          "id": 1121
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "结构",
+          "value": "发动机高温区",
+          "start": 7570,
+          "end": 7576,
+          "attributes": [],
+          "id": 1124
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞舱",
+          "start": 7557,
+          "end": 7561,
+          "attributes": [],
+          "id": 1125
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞舱",
+          "start": 6430,
+          "end": 6434,
+          "attributes": [],
+          "id": 1127
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "阻力伞伞衣稳定阻力载荷",
+          "start": 9092,
+          "end": 9103,
+          "attributes": [],
+          "id": 1128
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "伞衣最大阻力载荷",
+          "start": 9157,
+          "end": 9165,
+          "attributes": [],
+          "id": 1129
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "航空母舰",
+          "start": 9661,
+          "end": 9665,
+          "attributes": [],
+          "id": 1130
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "航空母舰俯仰速度的垂直速度",
+          "start": 10308,
+          "end": 10321,
+          "attributes": [],
+          "id": 1131
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "航空母舰的大小",
+          "start": 10335,
+          "end": 10342,
+          "attributes": [],
+          "id": 1132
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "海情大小",
+          "start": 10343,
+          "end": 10347,
+          "attributes": [],
+          "id": 1133
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "陆基飞机",
+          "start": 10479,
+          "end": 10483,
+          "attributes": [],
+          "id": 1134
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "防翻倒角",
+          "start": 10728,
+          "end": 10732,
+          "attributes": [],
+          "id": 1135
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "Turn Over Angle",
+          "start": 10736,
+          "end": 10751,
+          "attributes": [],
+          "id": 1136
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "弹射器",
+          "start": 11945,
+          "end": 11948,
+          "attributes": [],
+          "id": 1137
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "滑跃起飞",
+          "start": 12349,
+          "end": 12353,
+          "attributes": [],
+          "id": 1138
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "滑跃起飞飞机",
+          "start": 12525,
+          "end": 12531,
+          "attributes": [],
+          "id": 1139
+        },
+        null,
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "发射架",
+          "start": 13014,
+          "end": 13017,
+          "attributes": [],
+          "id": 1141
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "挂架",
+          "start": 13011,
+          "end": 13013,
+          "attributes": [],
+          "id": 1142
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "专门武器",
+          "start": 13047,
+          "end": 13051,
+          "attributes": [],
+          "id": 1143
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "舰载机拦阻钩",
+          "start": 13662,
+          "end": 13668,
+          "attributes": [],
+          "id": 1144
+        },
+        null,
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "静态地面线",
+          "start": 14648,
+          "end": 14653,
+          "attributes": [],
+          "id": 1147
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "设计着陆地面线",
+          "start": 14674,
+          "end": 14681,
+          "attributes": [],
+          "id": 1148
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆进场线",
+          "start": 14718,
+          "end": 14723,
+          "attributes": [],
+          "id": 1149
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大尾部向下姿态地面线",
+          "start": 14791,
+          "end": 14802,
+          "attributes": [],
+          "id": 1150
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大机头向下姿态地面线",
+          "start": 14877,
+          "end": 14888,
+          "attributes": [],
+          "id": 1151
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "拦阻钩系统",
+          "start": 15302,
+          "end": 15307,
+          "attributes": [],
+          "id": 1152
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最小起飞重量",
+          "start": 9804,
+          "end": 9810,
+          "attributes": [],
+          "id": 1153
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "运动方程法",
+          "start": 22,
+          "end": 27,
+          "attributes": [],
+          "id": 1154
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "终止起飞",
+          "start": 450,
+          "end": 454,
+          "attributes": [],
+          "id": 1155
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "自由滑跑距离",
+          "start": 930,
+          "end": 936,
+          "attributes": [],
+          "id": 1156
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "全油液式缓冲器",
+          "start": 2711,
+          "end": 2718,
+          "attributes": [],
+          "id": 1157
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "油室初容积",
+          "start": 3195,
+          "end": 3200,
+          "attributes": [],
+          "id": 1158
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "油室初压力",
+          "start": 3178,
+          "end": 3183,
+          "attributes": [],
+          "id": 1159
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "油室初容积",
+          "start": 3390,
+          "end": 3395,
+          "attributes": [],
+          "id": 1160
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "油液压缩特性曲线",
+          "start": 3332,
+          "end": 3340,
+          "attributes": [],
+          "id": 1161
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "活塞杆面积",
+          "start": 3346,
+          "end": 3351,
+          "attributes": [],
+          "id": 1162
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "最大压力",
+          "start": 3363,
+          "end": 3367,
+          "attributes": [],
+          "id": 1163
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "停机载荷下的轮胎压缩行程",
+          "start": 3793,
+          "end": 3805,
+          "attributes": [],
+          "id": 1164
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "地面反作用力",
+          "start": 4356,
+          "end": 4362,
+          "attributes": [],
+          "id": 1166
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "起落架支柱过载",
+          "start": 4489,
+          "end": 4496,
+          "attributes": [],
+          "id": 1167
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机过载",
+          "start": 4497,
+          "end": 4501,
+          "attributes": [],
+          "id": 1168
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "缓冲装置",
+          "start": 4797,
+          "end": 4801,
+          "attributes": [],
+          "id": 1169
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "主支柱缓冲行程",
+          "start": 5582,
+          "end": 5589,
+          "attributes": [],
+          "id": 1170
+        },
+        null,
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "前支柱缓冲行程",
+          "start": 5704,
+          "end": 5711,
+          "attributes": [],
+          "id": 1172
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "设计用缓冲器行程",
+          "start": 5768,
+          "end": 5776,
+          "attributes": [],
+          "id": 1173
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "静态地面线",
+          "start": 5835,
+          "end": 5840,
+          "attributes": [],
+          "id": 1174
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "阻力伞产生的气动阻力",
+          "start": 6120,
+          "end": 6130,
+          "attributes": [],
+          "id": 1175
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机滑跑速度",
+          "start": 6131,
+          "end": 6137,
+          "attributes": [],
+          "id": 1176
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "机轮刹车装置",
+          "start": 6179,
+          "end": 6185,
+          "attributes": [],
+          "id": 1177
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "减速效果",
+          "start": 6260,
+          "end": 6264,
+          "attributes": [],
+          "id": 1178
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "飞机",
+          "start": 6360,
+          "end": 6362,
+          "attributes": [],
+          "id": 1179
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空中放伞",
+          "start": 6403,
+          "end": 6407,
+          "attributes": [],
+          "id": 1180
+        },
+        null,
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "苏制米格-21系列飞机",
+          "start": 6594,
+          "end": 6605,
+          "attributes": [],
+          "id": 1182
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "歼7系列",
+          "start": 6611,
+          "end": 6615,
+          "attributes": [],
+          "id": 1183
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "法国“幻影”Ⅲ",
+          "start": 6732,
+          "end": 6739,
+          "attributes": [],
+          "id": 1184
+        },
+        {
+          "type": "T",
+          "name": "航空器",
+          "value": "歼7Ⅱ飞机",
+          "start": 6866,
+          "end": 6871,
+          "attributes": [],
+          "id": 1185
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "双套系统",
+          "start": 6874,
+          "end": 6878,
+          "attributes": [],
+          "id": 1186
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "大型飞机阻力伞系统",
+          "start": 6907,
+          "end": 6916,
+          "attributes": [],
+          "id": 1187
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "火药引爆装置",
+          "start": 6922,
+          "end": 6928,
+          "attributes": [],
+          "id": 1188
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "强度",
+          "start": 7268,
+          "end": 7270,
+          "attributes": [],
+          "id": 1189
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "阻力伞系统设计",
+          "start": 7400,
+          "end": 7407,
+          "attributes": [],
+          "id": 1190
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "发动机排气温度",
+          "start": 7433,
+          "end": 7440,
+          "attributes": [],
+          "id": 1191
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻力伞伞衣",
+          "start": 7671,
+          "end": 7676,
+          "attributes": [],
+          "id": 1192
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "阻力伞操纵系统",
+          "start": 7770,
+          "end": 7777,
+          "attributes": [],
+          "id": 1193
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "可靠",
+          "start": 7783,
+          "end": 7785,
+          "attributes": [],
+          "id": 1194
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机着陆重量",
+          "start": 7909,
+          "end": 7915,
+          "attributes": [],
+          "id": 1195
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机机翼面积",
+          "start": 7923,
+          "end": 7929,
+          "attributes": [],
+          "id": 1196
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机慢车推力",
+          "start": 7937,
+          "end": 7943,
+          "attributes": [],
+          "id": 1197
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机着陆速度",
+          "start": 7951,
+          "end": 7957,
+          "attributes": [],
+          "id": 1198
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆时升力系数",
+          "start": 7968,
+          "end": 7975,
+          "attributes": [],
+          "id": 1199
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "着陆滑跑升力系数",
+          "start": 7996,
+          "end": 8004,
+          "attributes": [],
+          "id": 1200
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "刹车摩擦因数",
+          "start": 8039,
+          "end": 8045,
+          "attributes": [],
+          "id": 1201
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "空中放伞",
+          "start": 8996,
+          "end": 9000,
+          "attributes": [],
+          "id": 1202
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机起飞性能",
+          "start": 9820,
+          "end": 9826,
+          "attributes": [],
+          "id": 1203
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "弹射装置能力",
+          "start": 9827,
+          "end": 9833,
+          "attributes": [],
+          "id": 1204
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "钳制杆",
+          "start": 10929,
+          "end": 10932,
+          "attributes": [],
+          "id": 1205
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "Hold Back",
+          "start": 10933,
+          "end": 10942,
+          "attributes": [],
+          "id": 1206
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "弹射杆",
+          "start": 11493,
+          "end": 11496,
+          "attributes": [],
+          "id": 1207
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "强度",
+          "start": 11870,
+          "end": 11872,
+          "attributes": [],
+          "id": 1208
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "储能式起落架",
+          "start": 12056,
+          "end": 12062,
+          "attributes": [],
+          "id": 1209
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "着舰设计要求",
+          "start": 12569,
+          "end": 12575,
+          "attributes": [],
+          "id": 1210
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "下滑坡道",
+          "start": 13464,
+          "end": 13468,
+          "attributes": [],
+          "id": 1211
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "拦阻钩长度",
+          "start": 13519,
+          "end": 13524,
+          "attributes": [],
+          "id": 1212
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "极限加速度值",
+          "start": 13606,
+          "end": 13612,
+          "attributes": [],
+          "id": 1213
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "陆基飞机拦阻钩设计",
+          "start": 13690,
+          "end": 13699,
+          "attributes": [],
+          "id": 1214
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "飞机中止起飞",
+          "start": 13812,
+          "end": 13818,
+          "attributes": [],
+          "id": 1215
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "应急着陆",
+          "start": 13819,
+          "end": 13823,
+          "attributes": [],
+          "id": 1216
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "放拦阻钩开关",
+          "start": 13883,
+          "end": 13889,
+          "attributes": [],
+          "id": 1217
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "钢索径向跳动波动载荷",
+          "start": 14076,
+          "end": 14086,
+          "attributes": [],
+          "id": 1218
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "拦阻钩系统",
+          "start": 14183,
+          "end": 14188,
+          "attributes": [],
+          "id": 1219
+        },
+        {
+          "type": "T",
+          "name": "系统",
+          "value": "跑道制动系统",
+          "start": 14332,
+          "end": 14338,
+          "attributes": [],
+          "id": 1220
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "电动液压操纵",
+          "start": 14426,
+          "end": 14432,
+          "attributes": [],
+          "id": 1221
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "电动气动操纵",
+          "start": 14433,
+          "end": 14439,
+          "attributes": [],
+          "id": 1222
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "侧滑啮合",
+          "start": 14527,
+          "end": 14531,
+          "attributes": [],
+          "id": 1223
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "收上锁住",
+          "start": 15154,
+          "end": 15158,
+          "attributes": [],
+          "id": 1224
+        },
+        {
+          "type": "T",
+          "name": "术语",
+          "value": "钩载荷—啮合速度关系曲线",
+          "start": 15367,
+          "end": 15379,
+          "attributes": [],
+          "id": 1225
+        },
+        {
+          "type": "T",
+          "name": "部件",
+          "value": "阻钩与机身连接接头",
+          "start": 15542,
+          "end": 15551,
+          "attributes": [],
+          "id": 1226
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机最大设计重量",
+          "start": 15573,
+          "end": 15581,
+          "attributes": [],
+          "id": 1227
+        },
+        {
+          "type": "T",
+          "name": "性能参数",
+          "value": "飞机停机高度",
+          "start": 16445,
+          "end": 16451,
+          "attributes": [],
+          "id": 1228
+        }
+      ],
+      "E": [],
+      "R": [
+        {
+          "name": "作用/影响关系",
+          "from": 937,
+          "to": 935,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 937,
+          "to": 936,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 943,
+          "to": 944,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "别名关系",
+          "from": 947,
+          "to": 948,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 947,
+          "to": 950,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 947,
+          "to": 949,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 893,
+          "to": 953,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 893,
+          "to": 205,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 207,
+          "to": 954,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 207,
+          "to": 955,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 207,
+          "to": 956,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 207,
+          "to": 957,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 207,
+          "to": 958,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 235,
+          "to": 963,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 235,
+          "to": 964,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 235,
+          "to": 965,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 235,
+          "to": 831,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 235,
+          "to": 971,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 235,
+          "to": 972,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 235,
+          "to": 970,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 975,
+          "to": 976,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 975,
+          "to": 978,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 975,
+          "to": 979,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 975,
+          "to": 981,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 975,
+          "to": 982,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 986,
+          "to": 381,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        {
+          "name": "别名关系",
+          "from": 394,
+          "to": 125,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 394,
+          "to": 989,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 394,
+          "to": 990,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "组成关系",
+          "from": 994,
+          "to": 402,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "组成关系",
+          "from": 994,
+          "to": 993,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 994,
+          "to": 110,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 405,
+          "to": 995,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 405,
+          "to": 996,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 405,
+          "to": 997,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 405,
+          "to": 998,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 1002,
+          "to": 667,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 1002,
+          "to": 118,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 1016,
+          "to": 1011,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1016,
+          "to": 1012,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1016,
+          "to": 521,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1016,
+          "to": 1013,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1016,
+          "to": 1014,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "作用/影响关系",
+          "from": 688,
+          "to": 1027,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 688,
+          "to": 368,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 688,
+          "to": 1028,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        {
+          "name": "选型关系",
+          "from": 554,
+          "to": 1041,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "选型关系",
+          "from": 1044,
+          "to": 1042,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "选型关系",
+          "from": 1045,
+          "to": 1046,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "选型关系",
+          "from": 559,
+          "to": 1047,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "性能提升关系",
+          "from": 1048,
+          "to": 1050,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能提升关系",
+          "from": 1048,
+          "to": 1049,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能提升关系",
+          "from": 1051,
+          "to": 1050,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能提升关系",
+          "from": 1051,
+          "to": 1049,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "别名关系",
+          "from": 747,
+          "to": 1056,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 747,
+          "to": 1057,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 1058,
+          "to": 1059,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 1058,
+          "to": 1060,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 1058,
+          "to": 1061,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 1058,
+          "to": 1062,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 1058,
+          "to": 1063,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 1058,
+          "to": 884,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "别名关系",
+          "from": 1083,
+          "to": 1084,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 1086,
+          "to": 1085,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "选型关系",
+          "from": 1086,
+          "to": 1036,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "选型关系",
+          "from": 1086,
+          "to": 1037,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        null,
+        {
+          "name": "性能需求关系",
+          "from": 1091,
+          "to": 200,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 1091,
+          "to": 13,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1093,
+          "to": 1094,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "参照关系",
+          "from": 60,
+          "to": 1095,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 909,
+          "to": 934,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1096,
+          "to": 933,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1096,
+          "to": 932,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 937,
+          "to": 935,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "位置关系",
+          "from": 651,
+          "to": 205,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能提升关系",
+          "from": 1100,
+          "to": 1101,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 1103,
+          "to": 1102,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 974,
+          "to": 973,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 1106,
+          "to": 1105,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1088,
+          "to": 1107,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 986,
+          "to": 1108,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        null,
+        {
+          "name": "性能提升关系",
+          "from": 398,
+          "to": 461,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 398,
+          "to": 1110,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 1113,
+          "to": 1112,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 1115,
+          "to": 1114,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能提升关系",
+          "from": 1116,
+          "to": 3,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "位置关系",
+          "from": 1119,
+          "to": 1121,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "位置关系",
+          "from": 1125,
+          "to": 1124,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "组成关系",
+          "from": 994,
+          "to": 1127,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1129,
+          "to": 1021,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1128,
+          "to": 1019,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 1130,
+          "to": 1022,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1131,
+          "to": 1132,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1131,
+          "to": 1133,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 1135,
+          "to": 1136,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 1087,
+          "to": 1039,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "参照关系",
+          "from": 1144,
+          "to": 1054,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 1147,
+          "to": 1071,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 1148,
+          "to": 1072,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 1149,
+          "to": 1073,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 1150,
+          "to": 1076,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "定义关系",
+          "from": 1151,
+          "to": 1077,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 907,
+          "to": 1154,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 951,
+          "to": 952,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能提升关系",
+          "from": 1157,
+          "to": 816,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1160,
+          "to": 1163,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1160,
+          "to": 880,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1160,
+          "to": 1162,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1160,
+          "to": 1161,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 975,
+          "to": 1164,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 1169,
+          "to": 253,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "上下位关系",
+          "from": 1169,
+          "to": 53,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1174,
+          "to": 988,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1174,
+          "to": 717,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1175,
+          "to": 1176,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能提升关系",
+          "from": 395,
+          "to": 460,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能提升关系",
+          "from": 397,
+          "to": 1178,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 1179,
+          "to": 991,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 1179,
+          "to": 1180,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 1182,
+          "to": 1113,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 999,
+          "to": 1113,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 1183,
+          "to": 1113,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 679,
+          "to": 1113,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 1001,
+          "to": 1113,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 1003,
+          "to": 1115,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 686,
+          "to": 1115,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 1184,
+          "to": 1115,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 1185,
+          "to": 1186,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 1187,
+          "to": 1188,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 1091,
+          "to": 1189,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 1193,
+          "to": 1194,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 1153,
+          "to": 1203,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 494,
+          "to": 1204,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "别名关系",
+          "from": 1205,
+          "to": 1206,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 1207,
+          "to": 6,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "性能需求关系",
+          "from": 285,
+          "to": 1208,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 637,
+          "to": 1209,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 1082,
+          "to": 1215,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "使用关系",
+          "from": 1082,
+          "to": 1216,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "位置关系",
+          "from": 1217,
+          "to": 43,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 838,
+          "to": 331,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        },
+        {
+          "name": "作用/影响关系",
+          "from": 838,
+          "to": 1227,
+          "arg1": "Arg1",
+          "arg2": "Arg2"
+        }
+      ],
+      "A": []
+    }
+  },
+  "time_labeled": 1617869174082,
+  "labeled": true,
+  "content": "9.7.3 刹车装置的选择\r\n9.7.3.1 运动方程法选择刹车能量\r\n飞机自接地着陆到停机过程中有多种因素的力作用在飞机上，如升力、阻力、推力、其他装置的减速力等。运动方程法可以将这些因素考虑进去。\r\n刹车装置应吸收的能量一般可按飞机的状态、地面状态、刹车状态，依飞机地面水平运动的平衡方程解出。图9-33为飞机地面运动受力情况。\r\n平衡方程为\r\n且有下述关系\r\n当前轮刹车时，取µ=µB；前轮不刹车时，取µ=µR。其他符号意义见图9-33。可导出刹车时前、主起落架轮子的载荷\r\n这样，一个主轮吸收的能量可表示为\r\n式中：LS——着陆刹车滑跑距离。\r\n9.7.3.2 能量法选择刹车装置\r\n（1）刹车装置吸收的能量\r\n飞机按设计着陆重量WL（kg）及着陆接地速度VL[m/s，或（km/h）/3.6]时具有的总动能AL为\r\n减速过程中，除刹车系统外，也可由其他装置吸收部分飞机的动能，刹车装置吸收的能量为\r\n式中：kDC——刹车与阻力伞共同使用的能量系数；\r\nkB——其他装置吸收的能量系数。\r\n对刹车装置吸收能量最严重的情况为终止起飞，此时飞机的速度为决策速度V1。\r\n（2）战斗机刹车能量的选择\r\n现有战斗机在方案设计时可近似采用如下简化的假设：\r\na.除刹车及减速伞外的其他因素可以忽略，即kB=1.0；\r\nb.两主轮接地，经2~3s，三点接地开始刹车和减速伞张开时，飞机速度为kVVL，其中kV≈0.975。\r\n由此得到\r\n式中：ABDC——带伞时刹车装置吸收的能量；\r\nAB——不放伞的刹车装置应吸收的能量；\r\nABmax——终止起飞时的最大刹车能量。\r\n中止起飞的刹车可以有多种办法处理，比如到决策速度后放伞、收油门、自由滑行一段、再刹车，根据跑道长度，飞行员可以有多种办法，以免刹车装置负担过大。\r\n由此就可以：\r\na.选择现有或新研制刹车装置；\r\nb.分析确定伞的设计要求；\r\nc.考虑刹车盘的温升及降温措施；\r\nd.能否满足着陆滑跑长度要求，需进行下节的分析。\r\n9.7.3.3 刹车效能的选择\r\n本方法仅以战斗机为例，对其他军用飞机可参照此方法进行分析。\r\n（1）不放减速伞的减速率与滑跑距离的选择\r\n从两主轮接地开始的地面滑跑距离LLR由两段组成\r\n式中：LLR1——从两轮接地，经2~3s，前轮接地时的自由滑跑距离，m；\r\nLLR2——3s后到停机的滑跑距离，m。\r\n按前述假定条件\r\n三轮接地时，飞机的动能为AL1\r\n刹车装置吸收的能量AB1为\r\n由AL1=AB1解出\r\n由地面滑跑刹车时的减速率α的关系式\r\n可得\r\n将a值代人式（9-39）中\r\n地面滑跑的总长度LLR为\r\n此方法的估算结果与现有战斗机吻合得较好，可用于方案设计阶段选择减速率α（单位：m/s2）及刹车装置的摩擦因数µB。\r\n（2）地面减速滑跑时间t\r\n近似按等减速率α计算\r\n（3）µB的参考值及防滑系统的考虑\r\n参考值见表9-25。\r\n从表9-25中可见，只有带防滑系统时，才能采用大的µB值，否则，有造成爆胎的危险。特别是在湿道面及冰雪道面，要综合考虑如何综合使用减速伞的问题。\r\n9.7.3.4 刹车力矩与刹车效率\r\n（1）滚动滑行中的刹车力矩TB\r\n刹车力矩可写成\r\n式中：P——每个刹车机轮上的载荷，N；\r\nRr——轮胎的滚动半径，m。\r\nµB的值由设计的刹车装置决定，一般飞机参见表9-25。对特殊的飞机，如直升机及水上飞机等，按其设计要求确定，例如µB≈0.2~0.3等。\r\n（2）静态刹车力矩（或称结合力矩）TBC\r\n此力矩决定于轮胎与地面的静态摩擦因数µC及刹车盘能达到的能力。一般希望能达到\r\nµC的值随道面的情况而变。一般对于水泥跑道，µC≈0.9~0.8。通常采用µC=0.8作为设计计算值。\r\n（3）刹车效率ɸ\r\n以刹车效率为量度的刹车的刹车效率为\r\n由于μB随滑行速度增大而降低，所以ɸ也是变化的，其变化的趋势示意见图9-34。图中的SR为滑动比\r\n9.8 缓冲器\r\n9.8.1 缓冲系统功能及组成\r\n9.8.1.1 缓冲系统功能\r\n（1）缓冲系统\r\n由机轮及装在起落架支柱上的缓冲器共同组成。\r\n（2）功能\r\na.吸收着陆接地时因飞机下沉速度造成的撞击；\r\nb.吸收滑跑中地面不平度引起的冲击；\r\nc.吸收滑行中刹车时的冲击。\r\n9.8.1.2 缓冲器的类型\r\n缓冲器一般有如下的各种类型：\r\na.带或不带油液阻尼的钢弹簧缓冲器；\r\nb.带或不带油液阻尼的橡皮弹簧缓冲器；\r\nc.空气式缓冲器；\r\nd.油液空气式缓冲器；\r\ne.全油液式缓冲器。\r\n目前常用的是油液空气式缓冲器，并向全油液式发展。\r\n9.8.1.3 油液空气式缓冲器\r\n（1）典型构造\r\n油液空气式缓冲器的构造如图9-35所示。这种缓冲器将带有阻油孔的隔板1装在柱塞2上，将油腔隔成A室（空气室）和B室（油室）。密封装置3装在外筒的底部，固定在外筒上。活塞4上装有游动阀\r\n5。活塞将外筒6和内筒7所组成的空间隔成另一油腔C。由于游动阀的作用，在反行程时形成较大的阻滞作用。正行程时内筒压缩，这时迫使B油腔油液通过隔板的限油孔流往A室。\r\n油液通过限孔时，形成较大的阻滞作用，将动能转变为热能耗散。内筒压缩A室，使其气体压缩，内压升高储蓄能量。这时C室体积增加，油液在经活塞上一圈通孔由A室流人C室。\r\n由于活塞上限油孔面积较大，故阻尼较小。当反行程时C室减小，B室加大，因而油液再由C室流往A室，由A室流向B室。这时游动阀将活塞上通孔盖住，油液仅由两个很小的通孔通过，在游动阀处产生较大的阻尼力，形成反行程时的阻滞作用。\r\n（2）缓冲器的工作特性与功量图\r\n由前所述，充有一定初压的空气室在缓冲器压缩过程中压力升高，因而空气起着储蓄能量的作用；油液在流过小孔时形成阻滞作用，将能量转换为热能消散掉，因而油液的阻尼起消散能量的作用。\r\n缓冲器在压缩行程中吸收的功量AH:\r\n压缩行程中，油液空气式缓冲器的载荷与行程曲线（功量图）如图9-36所示。图中0A2 BCO表示缓冲器在一次压缩行程中所吸收的功量，OAl BCO则表示空气压缩吸收的功量。\r\n纯空气的缓冲器在压缩过程中能吸收能量，减少撞击过载，然而不能消散功量，而且功量图不充实，吸收能量的效率低。\r\n缓冲器内加入油液后，活塞在运动过程中油液往返挤过限油孔受到的阻力很大，油液摩擦生热，将功量转变为热能耗散，图9-37表示纯油液的阻尼特性曲线，曲线下的面积表示油液在一次行程中吸收和耗散的功量。\r\n密封装置的摩擦力在压缩过程中以摩擦生热的形式亦消散部分能量。\r\n总之，纯空气、油液和摩擦力在压缩过程中形成了油气式缓冲器的特性曲线，而OAl BCO面积的功量则有待于返行程和第二次压缩行程中再次吸收或耗散掉。\r\n9.8.1.4 全油液式缓冲器\r\n（1）构造形式\r\n全油液式缓冲器采用油液的弹性和阻尼特性完成缓冲作用，具有较大的效率系数，其构造原理见图9-38。\r\n（2）缓冲器的工作原理与功量图\r\n全油液式缓冲器的工作原理与油液空气式缓冲器的工作原理基本相上同，只是全油液式缓冲器完全以油液作为工作介质。\r\n硅油在高压下具有良好的弹性，利用这一特点可以使油液完全代替油液空气式缓冲器的空气介质，吸收和储蓄能量，犹如一依靠液体压缩的简单弹簧，所以全油液式缓冲器也可以叫做液体弹簧。\r\n全油液式缓冲器利用油液的弹性和阻尼特性来完成缓冲器的缓冲作用。因此在最大载荷Pmax和最大行程Smax相同的条件下，可以吸收较大的撞击能量，因而可以使起落架装置结构本身和与其相连结构的重量都大为减小。\r\n硅油在高压下具有良好的压缩性，凝固点为-65°C，闪点高于250°C，在高压下具有较好的稳定性，无毒。\r\n油液的压缩特性可以用压力p和压缩率k=△V/V0。.函数关系表示（见图9-39）。这种油液压缩特性曲线可以在静压缩状态下用试验方法求出。\r\n缓冲器具有外筒、活塞、密封装置、活塞杆、上油室、下油室和量油孔。\r\n全油液式缓冲器油室初压力为p0=0（剩余压力），油室初容积为V0。当全油液式缓冲器处于静压缩状态时，内压为p，行程处于S位置，则缓冲器处于平衡状态。这时，缓冲器的压缩容积\tV=F5S。因此可以求出油液的压缩率\r\n反之，如果油液的压缩特性曲线已知，那么就可以根据油液的压缩率k在油液的压缩特性曲线上查出响应的压力值p。\r\n在已知油液压缩特性曲线情况下，选定活塞杆面积FS、最大行程Smax和最大压力Pmax后，就可以求出在此最大压强条件下所需的油室初容积V0\r\n式中：kpmax——在最大压力Pmax时油液的压缩率。\r\n显然，如果要减少V0，就要选择弹性更好的油液。\r\n由强度条件决定，缓冲器的最大工作外力Pmax可以作为设计缓冲器的最大上界限线，见图9-40\t\r\n中的直线c。\r\n实际上，带由油液阻尼的曲线如图9-40中曲线d所示。它介于曲线a、b之间，a表示油室限油孔面积足够大的曲线，b表示油室限油孔面积趋近于零的曲线。\r\n因此，全油液式缓冲器的效率系数也是以这个极限界线（b线）为极限值，即以面积OABCO和矩形面积OABDO之比为效率系数的极限值。\r\n显然，只要调整a、b曲线的关系，即加大活塞面积Fp对活塞杆面积Fs的比值，就可以使面积OABCO趋近于矩形面积OABDO。\r\n（3）缓冲器行程Ss\r\n如果没有参考，可按如下公式初步确定\r\n式中：nLG——起落架的使用过载值，根据经验和设计规范先设定，如nLG=3；\r\nSs ——缓冲器行程，m；\r\nSt——nLG停机载荷下的轮胎压缩行程，m；\r\nηt——轮胎效率，一般假设为0.47；\r\nηs——缓冲器效率（对于油气式支柱，单气室近似取0.75，双气室近似取0.7）；\r\nVz——飞机垂直下沉速度（对于歼击机取3.0m/s，其他机种查规范）；\r\nK=L/（Wg）——升力重量比，初值取0。\r\n从公式计算得出行程的基础上再加行程的10%或25mm。该公式仅用于支柱式，对于摇臂式应考虑杆效率。缓冲行程的设计计算方法参见9.8.3节。\r\n9.8.1.5 粗糙道面缓冲器设计的参考建议\r\n对需要在粗糙道面、损坏修复道面以及未铺砌道面使用的飞机，可考虑如下的措施。\r\n（1）双腔缓冲器。此种缓冲器具有两级（或称双级）弹簧特性，从而缓解冲击响应。\r\n（2）采用机械机构，如卸压阀等，控制缓冲器的阻尼特性。\r\n（3）适当加大缓冲行程Ss，缓和冲击造成的起落架过载nLG。\r\n9.8.2 缓冲系统设计的原始条件及设计要求\r\n缓冲系统设计的原始条件如下。\r\n9.8.2.1 飞机着陆接地时的下沉速度VZ\r\n（1）着陆接地过程\r\n飞机着陆接地过程的示意图见图9-41。\r\n自A点接地到B点完成第一个接地的撞击过程。缓冲行程Smax为——\r\n式中：Smax——在垂直方向上的总压缩行程；\r\nSs——缓冲器在垂直方向的压缩行程，缓冲器的真实行程，按安装位置换算；\r\nSt——轮胎的压缩行程；\r\nF——地面反作用力。\r\n（2）下沉速度的参考值\r\n设计的下沉速度须按规范及设计要求确定。表9-26给出了供方案设计时参考的值。\r\n①是考虑了航空母舰的俯仰及滚转运动对战斗机着舰时产生的影响而定的，如无特殊需要，建议取Vx=3m/s。\r\n9.8.2.2 起落架的过载值nLG\r\n（1）起落架支柱过载与飞机过载的关系\r\n飞机着陆接地撞击时，主轮承受地面的撞击力F，因此飞机重心处的过载nz为\r\n起落架支柱上的过载值nLG为F/（WLg），令L/（WLg）=K，则有\r\n只有当升力L=0时，才是nz=nLG。当飞机接地时，L=（WLg），K=1，此时\r\n（2）nLG的参考值\r\nnLG的值应按强度规范及飞机设计要求确定。现有资料报道的值差别也很大，经归纳、整理与核算，给出参考值见表9-27。\r\n注：表中的值是按压缩行程在垂直方向计算的。\r\n9.8.2.3 前、主轮胎的压缩行程St\r\n方案设计阶段，按一般资料介绍是取轮胎给定的静态压缩行程，即\r\nSt的计算方法见9.6.3.3节。\r\n9.8.2.4 缓冲器设计要求\r\n（1）缓冲装置（缓冲器和轮胎）应当在保留某些行程余量的条件下\t（缓冲器或轮胎通常都取其压缩总量的10%左右），吸收在给定使用过载下的功量。\r\n（2）只有在粗暴着陆情况下，吸收最大功量时才允许缓冲器压缩到最大行程和使轮胎压缩到轮缘。\r\n（3）尽量提高缓冲装置效率，着陆过载应控制在乘员和机构可接受的范围。缓冲装置吸收能量过程中的使用过载值应当控制在较低的范围内（2.0~3.0）。\r\n（4）缓冲装置应吸收由于重复冲击而引起的振动\t，要防止在返行程中的剧烈反跳和发生机轮跳离地面的现象。\r\n（5）一般情况下，主起落架缓冲器的停机压缩应该尽量大些。一般为计算行程的55%~70%。在第一次往返行程中滞耗的功量应尽量大，应占缓冲器所吸收功量的75%~80%。\r\n一次往返行程总时间应不超过0.8s。轮胎吸收的能量约为冲击总能量的\t10%~20%。\r\n9.8.3 缓冲行程选择\r\n缓冲器行程的选择与采用的缓冲器类型有关，如全油液式可采用公式（9-49），详细的估算方法可参见《飞机设计手册》第14册（起飞着陆系统设计）。方案设计时可采用下述方法估算。\r\n（1）能量方程\r\n飞机着陆接地时的总能量AAC由Vz的动能和缓冲系统压缩行程的势能两部分组成\r\n在着陆接地瞬间，L=Wg，K=1.0。\r\n缓冲系统的势能是由压缩量及反作用力产生的。假定压缩量是垂直向下的，飞机重心也通过此垂线，由作用力F及压缩量的势能AS\r\n令缓冲系统上的作用力为\tF=nLGWLg，由AAC=AS得到\r\n当K=1.0时（即着陆接地瞬间）\r\n式中：ηs——缓冲器的效率系数，对空气－液压缓冲器，≈0.7~0.8；\r\nηt——轮胎的压缩效率系数，≈0.47。\r\n由于ηs、ηt、St、Vz，均为已知数，只要给定nLG和SS两者之一，即可求得另一个值。\r\n由方程可见，缓冲器的参数与飞机重量无关，只是在设计中解决Vz、SS及nLG三者的综合影响。\r\n（2）主支柱缓冲行程及nLG的选择\r\n从规范及设计要求的观点，下沉速度Vz是已经确定了的，主要是在SS及nLG中选择。\r\n分析现有战斗机，nLG基本上在2.0~3.0之间。需在不平道面使用的战斗机，采用加大\r\n缓冲行程的方法，nLG也相应有所降低。\r\n（3）前支柱缓冲行程的选择\r\n前支柱缓冲行程按前支柱上承受的动载荷计算。\r\n（4）缓冲器的设计行程\r\n设计的缓冲器应留有一定余量，因此建议\r\n设计用缓冲器行程=SS+△S\r\n式中：△S——形成的设计余量:，一般为10%SS，或为25mm（按垂直方向）。\r\n9.8.4 静态地面线\r\n静态地面线与带缓冲装置的起落架支柱长度和轮胎压缩量有关。\r\n（1）缓冲器的真实行程及长度\r\n由在起落架支柱上的安装设计决定，在方案设计时可近似取缓冲器的长度为真实行程的2.5倍左右。\r\n（2）缓冲导叶的静态压缩量\r\n一般是经多次反复迭代设计确定的，在方案设计时，如无可用数据，可取静态压缩行程为全行程的60%~80%。\r\n（3）静态时的缓冲系统垂直方向压缩量\r\n9.9 阻力伞\r\n9.9.1 功能与构成\r\n9.9.1.1 功能\r\n阻力伞又称减速伞、刹车伞，是飞机上利用增大空气阻力的方法使飞机减速的一种装置，它与机轮刹车装置一样，同为飞机着陆减速装置之一。阻力伞工作示意图见图9-42。\r\n阻力伞产生的气动阻力与飞机滑跑速度的平方成正比，滑跑速度越大，减速效果越明显。滑跑速度较小时，减速作用降低。\r\n这恰好与机轮刹车装置在滑跑速度较高时减速效果小，而滑跑速度小时减速作用大的情况相互补充，使飞机在整个滑跑过程都产生较大的负加速度，因而可以有效地缩短着陆滑跑距离。\r\n阻力伞减速效果好，使用阻力伞后，飞机的着陆滑跑距离可缩短30%~40%，可延长机轮及刹车装置的使用寿命。放伞速度一般为200~350km/h，抛伞速度为30~40km/h。\r\n目前，广泛采用的是上伞舱阻力伞，飞机主轮接地时即能开伞。为了更有效地发挥阻力伞的减速作用，有的飞机还可以在拉平阶段实施空中放伞。\r\n9.9.1.2 构成\r\n阻力伞系统由阻力伞、阻力伞舱、阻力伞悬挂锁及其操纵系统构成。\r\n（1）阻力伞的类型\r\na.窄带条伞；\r\nb.环缝伞；\r\nc.环帆伞；\r\nd.十字伞。\r\n（2）阻力伞悬挂锁及其操纵系统\r\n阻力伞悬挂锁及其操纵系统有如下形式。\r\na.电动冷气系统操纵\r\n放伞和抛伞时，飞行员按动电钮（或开关），通过电动冷气阀接通冷气，由冷气作动筒打开舱门放伞和打开阻力伞悬挂锁抛伞。\r\n如苏制米格-21系列飞机及国内歼6、歼7系列、歼8、强5等大部分机种的阻力伞操纵系统均属此类，安装维护较简单，但如果电门积炭而造成接触不良及冷气系统漏气等，会造成伞放不出来的事故。\r\nb.机械操纵\r\n在座舱中操纵手柄，通过钢索或操纵拉杆来实现放伞、抛伞动作。如美国F-5、F-4B，法国“幻影”Ⅲ等飞机阻力伞系统均采用这种操纵形式。\r\n这种机械操纵系统的优点是比电气系统和液压冷气系统的故障率低，但系统通道较长，协调复杂，若受空间限制则较难以实现，并且维护线路较长，增加了使用维护方面的麻烦。\r\nc.电动冷气系统和机械操纵系统双套系统在个别机种上采用，如歼7Ⅱ飞机上即为双套系统，以机械系统作为应急放伞的备份系统。\r\nd.火药引爆装置\r\n在大型飞机阻力伞系统上，也有使用火药引爆装置进行放伞和抛伞的。此种装置与前两种装置相比，结构较为简单，而且重量轻，但在每次使用后均须更换火药引爆管，比较麻烦。\r\n9.9.2 阻力伞系统设计要求\r\n9.9.2.1 阻力伞系统总体设计要求\r\n阻力伞系统的设计和整个飞机的设计原则是一致的，应该设计成具有下列特性。\r\n（1）稳定性好。阻力伞在打开后伞衣摆动范围不超过士5°，不影响飞机的操纵性，并且不需要调整平衡。\r\n（2）可靠性高。阻力伞作为进场和着陆的有效辅助装置必须可靠\t，采用经过试验的部件组成系统，采用设计合理的阻力伞开伞过程，从而使伞平稳有效地放出和打开。\r\n在整个工作过程中，阻力伞不能干扰飞机的正常着陆姿态，不得影响飞机的纵向操纵。在应急情况下，要有立即释放阻力伞的措施。\r\n（3）为了保证阻力伞的重复使用，阻力伞系统要有足够的强度。为了避免对飞机结构产生过大的应力，应使开伞动载小，尽可能使阻力伞系统能产生较大的阻力，并具有较轻的重量和较小的体积。\r\n（4）阻力伞系统应能在飞机使用范围内的环境条件下正常工作。\r\n（5）阻力伞系统应易于进行地面维护和检查。\r\n9.9.2.2 阻力伞系统设计要求\r\n阻力伞系统设计中还应注意以下问题。\r\na.阻力伞放出后，伞衣不应受到发动机排气温度的影响。\r\nb.避免阻力伞放开后处于空气动力阴影区域内，否则会影响阻力伞张满。\r\nc.阻力伞悬挂锁，应尽量放在飞机对称面上，使阻力伞作用于飞机上的作用力通过或靠近飞机重心，阻力伞产生的阻力不得对飞机操纵产生不利的影响，见图9-43。\r\nd.阻力伞舱的位置一般比较靠近发动机高温区，伞衣为尼龙材料制成，耐温性能较低，过高的温度会使织物的强度大大降低，影响伞成品的使用寿命。因此，必须根据情况，在伞舱结构内采取有效的隔热措施，保证伞舱内温度低于伞成品要求的温度。\r\ne.保护阻力伞伞衣不沾染油类及腐蚀性物质。\r\nf.任何伞舱的设计，都应使阻力伞能沿着平行于飞行轨迹的路线向后拉出。舱内应光滑，不会有任何凸出物或锐边钩挂阻力伞。\r\ng.能在地面对阻力伞的投放机构进行检查。\r\nh.阻力伞操纵系统的工作应完全可靠，并保证在飞行中若阻力伞意外开伞，应能立即自动脱离飞机，而且在飞机上不得留下阻力伞系统的绳索及其他东西，以免损伤飞机及其操纵机构。\r\ni.操纵系统应避免在空中飞行中人为误操纵放伞的危险。\r\n9.9.3 阻力伞参数选择\r\n9.9.3.1 已知条件\r\nWL——飞机着陆重量，kg；\r\nS——飞机机翼面积，m2；\r\nT——飞机慢车推力，N；\r\nVL——飞机着陆速度，m/s；\r\nCLL——着陆时升力系数；\r\nCDL——着陆时阻力系数；\r\nCLR——着陆滑跑升力系数；\r\nCDR——着陆滑跑阻力系数；\r\nμR——滑跑滚动摩擦因数；\r\nμB——刹车摩擦因数；\r\nLLR——着陆滑跑距离，m。\r\n9.9.3.2 阻力伞参数选择\r\n主要是确定阻力伞的特性系数CD DCADC，可按下列步骤确定。\r\n（1）采用起飞与着陆统一的计算公式，参见第12章的12.5.3.2节。带伞滑跑段的距离LWD为\r\n式中：VDF——伞张满瞬间速度，m/s；\r\nV0——带伞滑跑段的飞机末速度，mis；\r\nρ——空气密度，kg/m3；\r\nCD DC——与伞衣材料、结构和面积有关的阻力系数；\r\nADC——阻力伞伞衣展开的面积，m2。\r\n（2）计算伞张满的瞬间速度VDF\r\n式中：LWD——计算段的滑跑距离，m。\r\n（3）由式（9-58）计算阻力伞特性系数CD DCADC\r\n根据以上公式，设a等于某一范围的值，采用如下的列表进行计算。\r\n根据一系列的计算值，绘出a对LWD和a对CD DCADC的曲线，见图9-44（着陆滑跑时按式（9-58）计算的a为负值，故图是按-a为纵坐标绘制的）。\r\n由所要求的带伞滑跑距离，从LWD=ƒ（a）曲线查得a值，再由CD DCADC=ƒ（a）的曲线得到CD DCADC值，根据阻力伞的种类可求出伞面积ADC。同理，已知阻力伞的特性系数，同样可在曲线图上查得带伞段滑跑距离。\r\n9.9.3.3 飞机带伞着陆滑跑距离的计算\r\n根据不同的着陆情况，分段计算滑跑距离。\r\n（1）主轮接地的同时放伞\r\n主轮接地的同时放阻力伞，阻力伞1~2.5s后张满，这种情况下的着陆滑跑距离，为两段之和，即为飞机接地至伞张满时滑跑距离L1和伞张满至飞机停住滑过的距离LWD之和\r\n式中：L1——飞机接地至伞张满的滑跑距离，m；\r\nt——放伞至伞张满所需时间。一般为1~2.5s，不同类型的阻力伞和机构开伞时间不同；\r\nLWD的计算见式（9-57）和式（9-58）。\r\n（2）前轮接地之后放伞\r\n飞机在前轮接地后放伞的着陆滑跑距离，分为三段计算，即：主轮接地至前轮接地段L1、前轮接地放伞至伞张满段L2和伞张满至飞机停住段LWD，三段滑跑距离之和为\r\n式中：VNC——前轮接地瞬间速度，前轮接地时间一般比主轮接地迟2~3s，通过计算可确定此值，或按VNC=kVVL估算。\r\n各滑跑段中a及b的计算公式如下。\r\na.L1段中a1及b1从的计算\r\nb.L2段中a2及b2的计算\r\nb3与b2的形式相同，但须用LWD段的气动力值。\r\n（3）空中放伞\r\n飞机在拉平阶段，距地面1~2m的高度时实施放伞，在主轮接地的同时伞张满。伞张满瞬时速度即等于飞机着陆速度\r\n式中，a、b值中的摩擦因数µ视着陆情况取适当的值。\r\n9.9.4 阻力伞载荷\r\n阻力伞伞衣稳定阻力载荷与规定机速下的阻力载荷相等，计算公式如下\r\n式中：F——伞衣承受的载荷，N；\r\nq——对应速度下的动压，Pa。\r\n伞衣最大阻力载荷与开伞瞬间的冲击载荷相等，计算公式如下\r\n式中：Fmax——伞衣承受的最大载荷，N；\r\nKd——动载系数。\r\n9.9.5 阻力伞与刹车装置能量分配\r\n在本章9.7.3.2节中，由飞机能量考虑刹车与阻力伞共同使用时及刹车装置单独使用时的刹车能量为\r\n一般来讲，单独用刹车难于达到较短的着陆滑跑距离要求，可能更难于保证在雨天湿跑道上着陆的要求。\r\n（1）kDC的估算方法\r\n如在9.7节中所述，对战斗机在着陆滑跑过程中，飞机的升力及阻力对滑跑距离的影响基本可以相互抵消，再考虑放减速板后的阻力作用，也可略去推力的影响。方案设计时，可近似用能量法估算。着陆滑跑距离\tLL由两部分组成\r\nkDC的计算步骤如下。\r\na.由设计要求确定LL，由着陆速度VL算出L1，得到\r\nb.按刹车装置能达到的平均μB值，刹车装置能吸收的能量AB1为\r\nc.当飞机速度为VL1，伞张满时，飞机的能量AL1为\r\nd.放伞滑跑段的kDC1\r\n（2）阻力伞效能的选择\r\na.按干、刚性道面的LL要求选kDC1；\r\nb.按雨天湿道面的安全LL要求选kDC1；\r\nc.中止起飞的严重情况；\r\nd.其他设计要求中规定的指标。\r\n9.10 舰载飞机起落架特殊设计问题\r\n航空母舰是一个尺寸有限的浮动平台。这就使在该平台上起降并存放的舰载飞机具有一些与陆基飞机不同的特殊设计要求和使用维护特点。\r\n9.10.1 舰载飞机的特殊要求\r\n9.10.1.1 重量、速度及纵向过载\r\n（1）起飞重量与速度\r\n最大设计起飞重量的定义与GJB67.1-85的相同，最大起飞重量和最小起飞重量差别不能太大，但须在飞机起飞性能及弹射装置能力的允许范围内。图9-45为供参考的某种弹射装置性能限制曲线。\r\n（2）着陆重量与速度\r\n供参考的三个拦阻装置能力的一般曲线见图9-46。\r\n（3）起飞着陆的纵向过载\r\n弹射起飞与拦阻着陆，都会对飞机产生很大的纵向过载。\r\na.供参考的弹射过程，前轮牵引载荷见图9-47。\r\nb.供参考的弹射过程飞机的过载见图9-48。\r\nc.着舰拦阻的纵向减速过载\r\n须按MIL-STD-2066计算，一般的纵向减速过载约为2.2~2.4，最大纵向减速过载不得超过5。\r\n9.10.1.2 机轮选择条件\r\n（1）机轮的设计载荷\r\n要比陆基飞机的载荷为大，详见MIL-A-8863。\r\n（2）轮胎的载荷与充气压力\r\n在舰上着陆，除考虑能辗过拦阻器的钢索外，还须考虑不平度。轮胎的允许载荷由MIL­A-8863G规定。一般是选用高宽比AR较小的高压轮胎，充气压力≈2.0-3.0MPa，并选择\r\n9.10.1.3 着舰的下沉速度要求\r\n在舰上着陆，进场下滑角比陆上要大，并需考虑航空母舰的俯仰与摇摆运动。各资料上的数据也不尽相同，供参考的Vz值为\r\n式中：Vapp——下滑进场速度，m/s；\r\nVzC——航空母舰俯仰速度的垂直速度，≈1.5~2.0m/s，与航空母舰的大小、海情大小有关，一般美国取3m/s，法国取2m/s，英国取8ft/s，我国一般在6级海情下作业，可取1.5~2m/s。\r\n9.10.1.4 着舰的飞机与甲板间隙要求\r\n（1）着舰撞击的分析\r\n着舰的缓冲行程与起落架过载一般采用下述方法估算。\r\n由于Vz较大，主支柱缓冲行程一般都大于陆基飞机，nLG有达到7.0~8.0的，采用Ss近似600mm的飞机，nLG也达5.0~6.0左右。\r\n（2）俯仰方向的间隙要求\r\n由于着舰的αL较大，缓冲行程也大，缓冲器的静态压缩量一般也取得较大，着舰时擦地角θTD（Tail Down Angle）及防后翻角θTB（Tip Back Angle）有特殊要求，参见图9-49及图9-50。\r\n飞机着舰时的姿态角θ为\r\n式中：α——按1.1Vapp计算的飞机迎角；\r\nθapp——飞机下滑进场角，4°；\r\nθC——考虑航空母舰的俯仰运动角，6°。\r\n（3）横侧的防翻倒角ɸTO（Turn Over Angle）要求\r\n因在舰上窄甲板上转弯问题是主要的，而放宽对刹车稳定性的要求，考虑到侧向过载0.5及甲板横摇5°的影响，采用ɸTO≤54°见图9-51。\r\n9.10.1.5 飞机与航空母舰的相容性要求\r\n参见《飞机设计和构造通用规范》以及相应的设计规范。\r\n9.10.2 弹射起飞的起落架设计\r\n新研制的飞机均要求按前轮弹射杆方式弹射起飞，见图9-52。\r\n9.10.2.1 钳制杆（Hold Back）功能与设计\r\n（1）功能\r\na.防止飞机在母舰俯仰运动中产生移动；\r\nb.发动机开车时拉住飞机；\r\nc.弹射时达到一定的预设力才松开飞机。\r\n（2）设计方法\r\n极限分离载荷H及R用于结构设计的规定如下：\r\n式中：T——包括加力情况以及发动机点火引起的振动在内的最大推力，kN；\r\nW——最大起飞设计重量，t；\t.\r\n24.5——预拉伸载荷分量，kN；\r\nθ——钳制杆载荷线与甲板之间的夹角，（°）；\r\nH——用于破坏分析和试验的载荷，kN；\r\nR——用于疲劳分析和试验的真实载荷（为0.9H），kN。\r\n现代的钳制杆多是重复使用的机构，每个可用100次弹射起飞。\r\n9.10.2.2 弹射杆（Launch Bar）功能与设计\r\n（1）功能\r\n用来在弹射时牵引飞机作纵向加速运动到弹射行程终点，飞机自行起飞飞行时，收入机内。\r\n（2）设计方法\r\n弹射杆所需的第一载荷是由弹射机的往复车（抓曳车）作用于飞机的牵引载荷。\r\n牵引杆，也称弹射杆，有两种类型：甲板突出型和甲板平齐型。甲板平齐型弹射杆是在低于甲板高度下牵引的。弹射时受载的牵引杆对甲板应有不超过20°范围的倾斜角，弹射杆角度和载荷关系的参考值见表9-28。\r\n牵引杆支点应使载荷作用线高于重心。当然应考虑到加载前支柱和机轮压缩情况和重心变化范围。弹射载荷线设计要求简图见图9-53。\r\n弹射杆的疲劳寿命是要严加注意的。\r\n弹射杆的设计要求及希望的特性如下。\r\na.起落架行程不受约束，在着舰或者回弹时，它不应被卡滞。\r\nb.不管杆是在收起还是发射位置，允许起落架36°转动。\r\nc.由于杆对前起落架行程独立，它不要和推力相互影响；快速地向上拱起越过甲板边缘或其他小型甲板障碍物，以免滑行时在甲板上捅个洞；\r\n在往复车分离时，作用一个正的升力，以便适当地克服可能发生的垂直方向的过载（A-6A杆在分离时，有时会碰击甲板）。\r\nd.当接近和滑向往复车时，作用一个正的压制力，在弹射操作的任何一点，不考虑推力大小，起落架行程状态或者航向输入，飞行员完全可以来回往复操作。\r\ne.着舰时，为应付系统不测的故障或破坏，应使发射杆处于放下的位置。\r\n9.10.2.3 前起落架及支撑结构强度的考虑\r\n弹射过程中，弹射载荷由前起落架传到飞机上。\r\na.前起落架自身须有足够的强度；\r\nb.此载荷要有合适的传力系统，将力迅速地传向机体结构；\r\nc.前支柱应采用双轮，与弹射器相适应。\r\n9.10.2.4 可伸缩前支柱\r\n在发射的终点，弹射器和飞机发动机把飞机推到离地速度，但是要稳定地建立起飞机的姿态，并不是容易的事。为了使飞机建立起离舰的姿态，出现了可伸缩的前支柱。\r\n典型的形式为储能式的前起落架支柱和固定伸长的前起落架支柱。前者的典型形式是F-14A的储能式起落架。当飞机和弹射器脱离时，前支柱把储存的能量释放出来，前支柱伸长使飞机抬头。当然，抬头的角度、角速度、角加速度都有一定的要求。\r\n后者最典型的伸缩式前支柱是F-4B的形式。飞机在弹射前，飞行员操作，前支柱伸长，飞机抬头建立起一定的姿态角，使飞机离舰时容易建立离舰姿态。\r\n第三种形式是F-18那样的前支柱，它是利用弹射器开动时的往复车拉动飞机的牵引杆压缩前支柱内部的高压气室储存了能量。当往复车和飞机脱离时，高压气室突然释放能量，使飞机向上抬头建立离舰姿态。\r\n应当指出，任何形式的可伸缩前支柱都要和平尾效率一起综合考虑进行前支柱的设计。\r\n9.10.3 滑跃起飞\r\n9.10.3.1 滑跃起飞的基本原理\r\n图9-54给出了滑跃起飞基本的动力学原理。由力多边形可知，飞机刚离斜甲板时，推力在垂直方向的分量不足以支持重力，而阻力也远小于推力，因此作用于飞机的全力使飞机产生一个边加速边下沉的趋势。\r\n随着该过程中迎角的增加和速度的提高，经数秒后，飞机可达到平衡加速点。\r\n9.10.3.2 滑跃起飞对飞机起落架设计的影响\r\na.与一般舰载飞机相比，滑跃起飞飞机在拦阻着舰方式与使用上都没有任何区别，因此主起落架的设计要求与一般舰载飞机的着舰设计要求相同。\r\nb.前起落架不再用牵引弹射机构。上翘甲板尽头飞机的速度是翘板起飞的关键，既能达到离舰空速，又不超过起落架强度，起飞时起落架所受载荷可根据翘板形状和飞机运动情况模拟计算给出。\r\n由图可见，翘板上翘段是一段曲线，上翘角是变化的，其斜率dh/dx>0，最大上翘角γmax=12°。翘板未端是一段曲率半径向下的过渡段，斜率dh/dx<0。\r\n飞机沿上翘翘板段滑跑时，由翘板产生起飞航迹上升角（一般为8°~14°）和一定的上仰角速度，有利于飞机达到推荐的离舰迎角和满意的起飞包线。\r\n9.10.4 拦阻着舰的起落架设计\r\n9.10.4.1 设计条件\r\n（1）设计条件\r\nMIL-A-8860叙述了拦阻着舰重量，应是：带有导弹、专门武器、炮和弹药及空副油箱的全负载飞机重量，减去所有其他外挂物的重量，减去所有有用燃油重量，\r\n加上在海平面全部发动机开动20min待机时间的燃油，加上海平面用额定推力飞行10min的燃油及加上5%的起飞燃油。归纳起来有如下几点：\r\na.必须包括携带外挂物需要的挂架、发射架等重量，外挂物本身可以包括，也可以不包括；\r\nb.要包括导弹和专门武器等昂贵的外挂物，以及新开发的电子吊舱；\r\nc.包括弹药和空副油箱；\r\nd.在拦阻期间，决不能耗完有效飞行范围和时间内的余油。\r\n（2）着舰姿态及着舰速度VE\r\n一般采用无平飘段的着舰姿态，见图9-55。\r\n图9-55 进场速度示意图\r\n图中诸参数的定义为：\r\nVapp—飞机相对于自由空气的进场速度；\r\nV’E—飞机相对于甲板的相对速度；\r\nVE—啮合速度，V’E的水平分量；\r\nVV—下沉速度，V’E或Vapp的垂直分量；\r\nWOD—通过斜甲板的风速，向后为正；\r\nγh—真实飞行轨迹角，相对于自由空气；\r\nγm—反射镜、光学控制的飞行轨迹角，相对于甲板；\r\nαF—下滑着舰前飘飞段的飞机迎角。\r\n着舰速度VE，见图9-56，为\r\nVE=\t（1.1Vapp min-WOD）cos4°（km/h）\r\n式中：WOD——甲板风速，km/h。\r\n9.10.4.2 拦阻钩的几何参数设计\r\n（1）拦阻钩的载荷线\r\n拦阻钩的载荷线设计要求见图9-57。\r\n（2）着舰前着陆钩与下滑坡道的关系\r\n图9-58示出了下滑着舰时钩与下滑坡道的关系。\r\n图9-59示出着舰时拦阻钩的接地条件。\r\n（3）拦阻钩长度的确定方法\r\n拦阻钩的长度要求见图9-60。\r\n9.10.4.3 拦阻钩的设计要求\r\na.不得超过拦阻装置限制的载荷；\r\nb.不得超过按设计着舰重量和拦阻装置使用限制建立的极限加速度值，允许超过限制的过载，但不得超过结构的承载能力和引起明显的变形；\r\nc.不应对飞机产生大的力矩；\r\nd.舰载机拦阻钩设计详见MIL-A-18717。\r\n9.11 陆基飞机拦阻钩设计\r\n9.11.1 功能与组成\r\n9.11.1.1 功能\r\n飞机拦阻钩又称制动钩，是装在飞机上的拦阻钩与安装在跑道上的拦阻索啮合，由拦阻器吸收飞机滑跑的动能，可在较短的距离上拦停飞机，使飞机滑跑距离大大缩短。飞机应急拦阻钩系统主要用于飞机中止起飞和应急着陆。\r\n9.11.1.2 组成\r\n飞机拦阻钩系统由拦阻钩臂、钩头、放下作动筒、缓冲装置、上位锁、止动块等部件组成。在座舱内装有放拦阻钩开关。\r\n拦阻钩通过装在机身上的接头与飞机相连，并传递拦阻载荷。\r\n拦阻钩头能很容易地从钩臂上拆下，以便更换。\r\n放下作动筒及缓冲装置，用于在上位锁开锁后放下拦阻钩，并使钩头压在跑道上，吸收放下时钩头撞击跑道或混凝土跑道接缝等引起拦阻钩头弹起的能量，使钩弹跳高度最小，提高钩啮合拦阻索的成功率。\r\n在整个飞行过程中，上位锁使拦阻钩保持在收上位置。在着陆时，按飞行员的指令将钩释放。\r\n由于钢索径向跳动波动载荷引起的钩体过量向上，或在地面向上收起钩体时有可能损坏飞机机体，采用止动块来防止损坏机体，并使钩体在收上时紧贴机体，消除间隙，以防飞机在空中机动飞行时，由于钩锁间的间隙而发生冲撞。\r\n9.11.2 拦阻钩系统设计要求\r\n（1）拦阻钩在飞机上的安装位置，应该是使作用于钩上的向后的制动力，在前起落架上产生的垂直反作用力最小。\r\n在任何制动阶段，制动力都不会使前轮从跑道上抬起，并不会引起方向的不稳定。一般情况下，适用于舰载型拦阻器的拦阻钩位置，也适用于陆基型拦阻器。\r\n（2）拦阻钩装置要能成功地啮合一条跑道制动系统的拦阻索，使飞机减速直至停住，并应保证拦阻索被飞机前轮或主轮碾过后仍能啮合，滑行时拦阻钩的跳动不得超过拦阻索中心至地面的高度。\r\n（3）因为拦阻钩装置是作为应急使用的，放钩可以用电动液压操纵、电动气动操纵等，但不一定需要在飞机上自动收钩，可设计为在地面人工收钩。\r\n（4）拦阻钩在着陆接地前后伸出，或根据其用途在需要时放下，但不需要将系统设计为在飞行中啮合。\r\n（5）在飞机偏离中心或侧滑啮合时，拦阻钩应允许侧向自由摆动，每侧不小于20°。应保证在同拦阻索啮合之前拦阻钩保持向后拖的位置。\r\n（6）收钩、放钩应要求相应的灯光指示，参考规范和／或有关机种。\r\n9.11.3 拦阻钩几何参数的确定\r\n9.11.3.1 地面线定义\r\n（1）静态地面线S:飞机在基本起飞状态静态地面线。\r\n（2）设计着陆地面线L:是飞机为着陆状态，缓冲支柱和轮胎压缩到相应的着陆载荷的地面线。\r\n（3）着陆进场线A:是理论上的线，此线由设计着陆地面线L，附加设计下沉速度Vz和设计着舰速度VL之前的飘飞速度VF矢量相加的合速度线的角度得到。\r\n（4）最大尾部向下姿态地面线T:最大尾部向下姿态由每一架飞机的结构或尾部缓冲器（如果安装）压缩的最大行程所限制，为相应的设计着陆载荷、缓冲支柱全压缩和轮胎压缩时的地面线。\r\n（5）最大机头向下姿态地面线N:最大机头向下姿态地面线由下面任一种情况引起。\r\na.主起落架刹车阻力的0.31倍，相对重量、重心最大机头向下姿态情况；\r\nb.前起落架支柱全压缩和前轮胎瘪胎，相对重量、重心引起的大多数机头向下姿态。\r\n在确定N线时要考虑飞机以最大总重起飞后进行着陆的飞机重量所对应的缓冲支柱和轮胎压缩状态。\r\n地面线定义见图9-61。\r\n9.11.3.2 拦阻钩参数确定\r\n（1）在最大机头向下姿态，拦阻钩放下，钩头应压在跑道上（相对N线）。\r\n（2）在飞行中，拦阻钩向下状态，相对飞机进场着陆线A或飞机最大尾部向下线T，其夹角应小于80°。\r\n（3）当拦阻钩收上锁住时，机尾向下着陆姿态，主起落架支柱和轮胎压缩到设计下沉速度时的压缩量时，钩头与跑道之间的间隙最小为355mm。\r\n如果此条与飞机的基本设计不匹配，要防止在此状态下钩意外向上摆动，应安装适当的保护装置。\r\n9.11.4 载荷\r\n（1）拦阻钩系统应经得起由于中止起飞和着陆啮合所引起的载荷。\r\n（2）拦阻钩系统是在完成着陆撞击后，在跑道上三点滑跑过程中被啮合的。\r\n（3）地面拦阻系统的类型应由使用部门规定，并提供所选定的拦阻系统的钩载荷—啮合速度关系曲线。\r\n其内部和外部载荷的大小、方向和分布应取整个拦阻过程中的所有情况，同时应适当考虑拦阻力的时间历程与飞机结构的合成响应，还应适当考虑轮胎、缓冲支柱和阻尼装置的特性。\r\n拦阻载荷应作用于拦阻索平面内，并应通过钩头钢索槽上钩点半径的中心，此点往钩点右侧或左侧横向移动的距离为钢索槽钩点半径的一半。而由于偏心度引起的侧向载荷，应增大拦阻钩与机身连接接头的侧向载荷。\r\n设计载荷应以失速速度VS1下的飞机最大设计重量为依据。\r\n（4）侧向载荷与在钩载荷—啮合速度关系曲线中得到的最大载荷相等，在水平面内与飞机中心线成20°角。\r\n以BAK-13系统为例，钩载荷与着舰啮合速度关系曲线的形式如图9-62所示。\r\n9.12 起落架布置方案的校核\r\n根据前述设计分析与选择，应对总体布置方案中起落架布置参数进行校核，最后确定起落架支柱的位置、长度及收放机构的参数、收放运动的轨迹与收藏空间的位置及尺寸。\r\n9.12.1 准备条件\r\n（1）总体布置图\r\n其中包括起飞、着陆严重状态的外挂、重心极后限的（x，y，z）坐标以及各操纵面与起飞着陆有关各部件的放下位置。\r\n（2）飞机起飞与着陆的姿态角\r\na.起飞姿态角   θLOF=αLOF-αzS-θP\r\nb.着陆姿态角   θL=αL-αzS-θP\r\n由性能计算给出αL、αLOF、αzS、θP及着舰时的和进场下滑角。\r\n（3）垂直地面的缓冲行程\r\na.静态缓冲行程SST；\r\nb.着陆撞击的缓冲行程S。\r\nSST及S是由轮胎及缓冲器两部分组成。\r\n（4）选择合适的擦尾角间隙值D\r\n（5）着陆时的坡度（倾侧角）ɸ\r\n按侧风着陆的性能分析给出。\r\n9.12.2 校核起落架设计参数\r\n9.12.2.1 校核起落架布置的几何参数\r\n按9.3节的参数建议，校核起落架的径、横向距离参数。各参数在地面的位置由轮胎接地面积的中心点确定。舰载机并参见9.10节的要求。\r\n9.12.2.2 校核飞机与地面的间隙\r\n（1）方法\r\n可采用如图9-63中的θ—ɸ包线法检查。考虑带坡度着陆当一个主轮接地后，会使飞机发生滚转，\r\n故带ɸ角时可以只检查全伸长状态。\r\n（2）要求\r\n起落架的长度，将足以保证在正常使用的任何θ和ɸ角的组合状况下飞机各部分均无触地的危险。须达到的间隙值可参见表9-3，按设计要求具体选定。\r\n（3）检查的内容\r\n确定起落架高度的条件是在前后支柱上的轮胎和缓冲器单独压缩和同时压缩的情况下，按要求检查地面与飞机结构（机身、机翼、发动机、螺旋桨、腹鳍等）之间的最小距离。\r\n检查这些条件情况下，外挂物和机体与地面的间隙是否满足规范要求，从而决定是否再行调整飞机停机高度。\r\n9.12.2.3 修改方法\r\n当不满足要求时，或即使满足要求，但从总体设计观点看有不足之处时，可从下述几方面进行修改和完善。\r\n（1）重新调整后机身。\r\n（2）重新调整发动机安装轴线。\r\n（3）重新调整操纵面及运动部件。\r\n（4）重新调整外挂。\r\n（5）调整起落架尺寸及缓冲特性。\r\n9.12.3 起落架收藏校核\r\n（1）起落架收放运动方式、受力结构形式校核。\r\n（2）考虑机轮膨胀量及间隙要求，校核收藏空间尺寸。"
+}
