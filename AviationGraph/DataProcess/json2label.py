@@ -1,5 +1,10 @@
 import json
 
+#关系的中文和英文映射
+relation_chinese = ['别名关系', '定义关系', '参照关系', '上下位关系', '使用关系', '位置关系', '性能提升关系', '性能需求关系', '选型关系', '组成关系', '作用/影响关系']
+relation_english = ['ALI', 'DEF', 'REF', 'SAI', 'USE', 'LOC', 'PPR', 'PRR', 'SEL', 'CON', 'FOI']
+relation_dict = dict(zip(relation_chinese, relation_english))
+
 def load_data(filename):
     """加载数据
     单条格式：{'text': text, 'spo_list': [(s, p, o)]}
@@ -54,6 +59,9 @@ def json2label(origin_data, filename):
             for spo in spo_list:
                 if spo[0] == subject:
                     object, predicate = spo[2], spo[1]
+
+                    #将中文关系映射称为英文关系
+                    predicate = relation_dict[predicate]
 
                     s_start = text.find(subject)
                     s_end = s_start + len(subject)
