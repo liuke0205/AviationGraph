@@ -191,14 +191,12 @@ def recommendNextData(request):
         判断是否需要重新训练模型
         '''
 
-
         #设置session域
         request.session['recommend_text'] = recommend_text
         request.session['relation_list'] = []
         request.session['count'] = count
 
         return render(request, 'management/active_annotation.html', {"current_text": recommend_text, "count": count, "resultList" : []})
-
 
 
 # 开启一个新的线程去计算相似度，并且删除相似的数据
