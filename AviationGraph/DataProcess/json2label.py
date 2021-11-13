@@ -30,6 +30,9 @@ def text2label(text_label, predicate, s_start, s_end, predicate1, o_start, o_end
     text_label[o_start] = "B-" + predicate1 + "-T"
     for idx in range(o_start + 1, o_end):
         text_label[idx] = "I-" + predicate1 + "-T"
+
+    print(text_label)
+
     return text_label
 
 def json2label(origin_data, filename):
@@ -91,8 +94,10 @@ def json2label(origin_data, filename):
         # )
         # f.write(s + "\n")
         for idx in range(len(text)):
-            f.write(text[idx] + " " + text_label[idx] + "\n")
-        f.write("end" + "\n")
+            if text[idx] == '':
+                continue
+            f.write(text[idx] + "\t" + text_label[idx] + "\n")
+        f.write("\n")
     f.close()
 
 
@@ -108,6 +113,3 @@ if __name__ == '__main__':
 
     train_data = load_data('./out/train_json.json')
     json2label(train_data, "train.txt")
-
-else:
-    pass
