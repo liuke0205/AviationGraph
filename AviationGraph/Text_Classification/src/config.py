@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 
 """
-Created on 2020-07-19 00:20
-@Author  : Justin Jiang
-@Email   : jw_jiang@pku.edu.com
-
 配置模型、路径、与训练相关参数
 """
 
@@ -20,7 +16,7 @@ class Config(object):
             "CNN_training_rule": {
                 "embedding_dim": 64,
                 "seq_length": 600,
-                "num_classes": 11,
+                "num_classes": 17,
 
                 "conv1_num_filters": 128,
                 "conv1_kernel_size": 1,
@@ -28,7 +24,7 @@ class Config(object):
                 "conv2_num_filters": 64,
                 "conv2_kernel_size": 1,
                 # 5000
-                "vocab_size": 5000,
+                "vocab_size": 7000,
 
                 "hidden_dim": 128,
 
@@ -43,7 +39,7 @@ class Config(object):
             },
             "LSTM": {
                 "seq_length": 600,
-                "num_classes": 10,
+                "num_classes": 9,
                 "vocab_size": 5000,
                 "batch_size": 64
             },

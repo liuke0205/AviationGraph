@@ -40,6 +40,16 @@
                                     {% csrf_token %}
 
                                     <div class="input-group">
+                                        <div class="input-group-prepend">
+                                            <select name="data_type" id="data_type" class="form-control" style="">
+                                                <option value="">-----选择数据集------</option>
+                                                <option value="aviation">aviation</option>
+                                                <option value="delu_place">delu_place</option>
+                                                <option value="delu_people">delu_people</option>
+                                                <option value="delu_company">delu_company</option>
+                                                <option value="delu_entertainment">delu_entertainment</option>
+                                            </select>
+                                        </div>
                                         <div class="custom-file">
                                             <input type="file" name="file" id="file"
                                                    class="custom-file-input "
@@ -76,8 +86,7 @@
                                 </div>
                                 <div>
                                     <button type="submit" class="btn btn-primary" style="background-color: red;"
-                                            name="extraction"
-                                            onclick="loading()">开始抽取
+                                            name="extraction">开始抽取
                                     </button>
                                 </div>
                             </form>

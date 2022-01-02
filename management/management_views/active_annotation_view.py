@@ -43,6 +43,14 @@ def activeAnnotationUpload(request):
                 user = User.objects.get(username="admin")
                 user_id = user.user_id
 
+                # 删除库中已经存在的所有数据
+                conn = MySqlConn('source').connectMySql()
+                cursor = conn.cursor()
+                delete_sql = "delete from active_annotation"
+                cursor.execute(delete_sql)
+                conn.commit()
+
+
                 new_data = []
                 file = docx.Document("upload_file/active_annotation/active_annotation_word.docx")
                 for p in file.paragraphs:

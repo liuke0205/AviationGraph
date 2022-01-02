@@ -87,6 +87,7 @@ class TextCNN(object):
                     result_list.append(pre_test)
             # metrics.classification_report(np.argmax(pre_test, axis=1), np.argmax(y_test, axis=1), digits=4, output_dict=True)
             # print(metrics.classification_report(np.argmax(pre_test, axis=1), np.argmax(y_test, axis=1)))
+
             return result_list, sentence_list
 
     def test(self):
@@ -111,9 +112,6 @@ class TextCNN(object):
             print(pre_test.shape)
             # metrics.classification_report(np.argmax(pre_test, axis=1), np.argmax(y_test, axis=1), digits=4, output_dict=True)
             print(metrics.classification_report(np.argmax(pre_test, axis=1), np.argmax(y_test, axis=1)))
-
-
-
 
 class LSTM(object):
 

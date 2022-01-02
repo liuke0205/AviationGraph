@@ -1,7 +1,7 @@
 
 
 contents = []
-with open("F:\\01-科研资料\\03-项目工程\\Text_Classification-master\\data\\sentence.txt", "r", encoding='utf-8') as f:
+with open("/AviationGraph/Text_Classification/data/entertainment/sentence.txt", "r", encoding='utf-8') as f:
     data = f.readlines()
     for line in data:
         res = line.strip()
@@ -14,7 +14,7 @@ for data in contents:
     for word in data:
         word_set.add(word)
 
-with open("F:/01-科研资料/03-项目工程/Text_Classification-master/data/vocab.txt", "w", encoding="utf8") as f:
+with open("/AviationGraph/Text_Classification/data/entertainment/vocab.txt", "w", encoding="utf8") as f:
     for data in word_set:
         f.write(data + "\n")
 f.close()

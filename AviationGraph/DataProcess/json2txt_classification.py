@@ -25,7 +25,7 @@ def json2txt(file_path):
     with open("F:/01-科研资料/03-项目工程/AviationGraph/AviationGraph/DataProcess/out/rel_classification.txt", "w", encoding="utf8") as f:
         for data in res_list:
             f.write(data[0] + "\t" + data[1] + "\n")
-    with open("F:/01-科研资料/03-项目工程/AviationGraph/AviationGraph/Text_Classification/data/sentence.txt", "w", encoding="utf8") as f:
+    with open("/AviationGraph/Text_Classification/data/place/sentence.txt", "w", encoding="utf8") as f:
         for data in res_list:
             f.write(data[1] + "。\n")
     print(res_list)

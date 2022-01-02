@@ -30,7 +30,7 @@ urlpatterns = [
     path('joint_extraction/', jointExtraction_view.joint_extraction),
     path('display_re_text/', jointExtraction_view.display_re_text),
     path('download_jointExtract_result/', jointExtraction_view.download_jointExtract_result),
-    path('show_progress/', jointExtraction_view.show_progress),
+    # path('show_progress/', jointExtraction_view.show_progress),
 
     # 全文搜索功能
     path('toSearchAllPdf/', searchAllPdf_view.toSearchAllPdf),

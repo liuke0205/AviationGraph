@@ -158,11 +158,11 @@ class ChineseNER(object):
         # convert to tensor
         sentences = torch.tensor(input_vec).view(1, -1)
         _, paths = self.model(sentences)
-        print(input_str)
-        print(paths)
+        # print(input_str)
+        # print(paths)
         entities = get_result(paths[0], input_str, self.tag_map)
-        print(entities)
-        print("="*20)
+        # print(entities)
+        # print("="*20)
         # for tag in self.tags:
         #     tags = get_tags(paths[0], tag, self.tag_map)
         #     entities += format_result(tags, input_str, tag)
