@@ -1,10 +1,10 @@
 import os
-import re
 import threading
 import docx
 from django.contrib import messages
-from django.http import JsonResponse, FileResponse
+from django.http import FileResponse
 from django.shortcuts import render, redirect
+import xlrd as xd
 
 
 def toJointExtraction(request):
@@ -20,8 +20,6 @@ def jointExtraction_upload(request):
         data_type = request.POST.get('data_type')
         request.session['data_type'] = data_type
 
-        # 数据 ->  E:\01-科研资料\03-项目工程\Joint-Extract\data\delu\根据数据集\predict\predict.txt
-
         if str_filename.endswith(".docx") or str_filename.endswith(".doc"):
             if path:
                 if os.path.isfile("upload_file/relation_extraction_word.docx"):
@@ -30,15 +28,17 @@ def jointExtraction_upload(request):
                     for chunk in path.chunks():
                         destination.write(chunk)
                 '''
-                先将所有语句取出换行和\t 去除，然后合到一起，最后再按照句号分句
+                数据 ->  E:\01-科研资料\03-项目工程\Joint-Extract\data\delu\根据数据集\predict\predict.txt && []
                 '''
                 new_data = []
-                for p in docx.Document("upload_file/relation_extraction_word.docx").paragraphs:
-                    data = p.text.replace('\n', '').replace('\t', '')
-                    new_data.append(data)
-                all_word = "".join(new_data).replace(" ", "")
+                with open("E:\\01-科研资料\\03-项目工程\\Joint-Extract\\data\\delu\\" + data_type[5:] + "\\\predict\predict.txt", "w", encoding="utf-8") as f:
+                    for p in docx.Document("upload_file/relation_extraction_word.docx").paragraphs:
+                        f.write(p.text + "\n")
+                        new_data.append(p.text)
+                f.close()
+                all_word = "\n".join(new_data)
                 request.session['all_word'] = all_word
-                return render(request, 'application/joint_extraction.html', {'str': all_word})
+                return render(request, 'application/joint_extraction.html', {'str': all_word, 'data_type' : data_type})
             else:
                 messages.success(request, "文件为空！")
                 return redirect('/application/toJointExtraction/')
@@ -50,38 +50,19 @@ def jointExtraction_upload(request):
 # 读取待识别文本并转化成所要形式
 def joint_extraction(request):
     data_type = request.session.get('data_type')
-    print(data_type)
     # 1.先读取upload_file/relation_extraction_word.docx 看是否存在
     import os.path
     if os.path.isfile("upload_file/relation_extraction_word.docx"):
-        # 3.如果已经上传进行抽取，抽取完后删除
-        new_data = []
-        for p in docx.Document("upload_file/relation_extraction_word.docx").paragraphs:
-            data = p.text.replace('\n', '').replace('\t', '')
-            new_data.append(data)
-        all_word = "".join(new_data).replace(" ", "")
-
-        pattern = r'。|！|；|;'
-        senetence_list = re.split(pattern, str(all_word))
-        new_senetence_list = []
-        for data in senetence_list:
-            if len(data) > 0:
-                new_senetence_list.append(data + "。")
-
-        # 将session域初始化
-        request.session['resultList'] = []
-
         # 开启一个线程去执行预测任务
         thread = predictThread(1, data_type=data_type)
         thread.start()
-
         return redirect('/application/display_re_text/')
     # 2.如果不存在提示还没上传文件
     else:
-        messages.success(request, "请上传Word文件！")
+        messages.success(request, "请上传待抽取的文件！")
         return redirect('/application/toJointExtraction/')
 
-# 建立索引的线程
+# 使用深度学习预测
 class predictThread (threading.Thread):
     def __init__(self, threadID, data_type):
         threading.Thread.__init__(self)
@@ -92,15 +73,12 @@ class predictThread (threading.Thread):
 
         if os.path.isfile("upload_file/relation_extraction_word.docx"):
             os.remove("upload_file/relation_extraction_word.docx")
-
         if os.path.isfile("download_file/jointExact.xls"):
             os.remove("download_file/jointExact.xls")
-
-        # 代码 ->  E:\01-科研资料\03-项目工程\Joint-Extract\predict.py
-        # resultList.append(['头实体', '关系', '尾实体', '原文本'])
-        os.system("conda activate joint-extract && python E:\\01-科研资料\\03-项目工程\\Joint-Extract\\predict.py " + self.data_type)
-        # os.system("python E:\\01-科研资料\\03-项目工程\\Joint-Extract\\predict.py " + self.data_type)
-        # os.system("conda deactivate joint-extract")
+        # os.system(
+        #     "cd E:\\01-科研资料\\03-项目工程\\Joint-Extract &&  conda activate joint-extract && python predict.py " + self.data_type)
+        os.system(
+            "cd E:\\01-科研资料\\03-项目工程\\Joint-Extract &&  conda activate joint-extract && python predict.py " + self.data_type + " && conda deactivate joint-extract")
 
         print("退出线程：" + self.name)
 
@@ -113,13 +91,12 @@ def download_jointExtract_result(request):
         response['Content-Disposition'] = 'attachment;filename="jointExact.xls"'
         return response
     else:
-        messages.success(request, "请先进行联合抽取！")
+        messages.success(request, "抱歉，当前没有抽取结果！")
         return redirect('/application/toJointExtraction/')
 
 
-import xlrd as xd
 def display_re_text(request):
-    # 读取 E:\01-科研资料\03-项目工程\AviationGraph\download_file\jointExtract.xls 文件，将其转化为二维列表的形式
+    # 读取 download_file/jointExtract.xls 文件，将其转化为二维列表的形式
     if os.path.isfile("download_file/jointExact.xls"):
         data = xd.open_workbook('download_file/jointExact.xls')  # 打开excel表所在路径
         sheet = data.sheet_by_name('jointExact')  # 读取数据，以excel表名来打开
@@ -129,7 +106,7 @@ def display_re_text(request):
             for c in range(sheet.ncols):
                 data1.append(sheet.cell_value(r, c))
             resultList.append(list(data1))
-            return render(request, 'application/joint_extracting_result.html', {'resultList': resultList})
+        return render(request, 'application/joint_extracting_result.html', {'resultList': resultList})
     else:
-        messages.success(request, "请先进行联合抽取！")
+        messages.success(request, "抱歉，当前没有抽取结果！")
         return redirect('/application/toJointExtraction/')

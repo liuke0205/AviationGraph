@@ -42,12 +42,16 @@
                                     <div class="input-group">
                                         <div class="input-group-prepend">
                                             <select name="data_type" id="data_type" class="form-control" style="">
-                                                <option value="">-----选择数据集------</option>
-                                                <option value="aviation">aviation</option>
-                                                <option value="delu_place">delu_place</option>
-                                                <option value="delu_people">delu_people</option>
-                                                <option value="delu_company">delu_company</option>
-                                                <option value="delu_entertainment">delu_entertainment</option>
+                                                {% if data_type %}
+                                                    <option value="{{ data_type }}">{{ data_type }}</option>
+                                                {% else %}
+                                                    <option value="">-----选择数据集------</option>
+                                                    <option value="aviation">aviation</option>
+                                                    <option value="delu_place">delu_place</option>
+                                                    <option value="delu_people">delu_people</option>
+                                                    <option value="delu_company">delu_company</option>
+                                                    <option value="delu_entertainment">delu_entertainment</option>
+                                                {% endif %}
                                             </select>
                                         </div>
                                         <div class="custom-file">
@@ -82,7 +86,7 @@
                                 <div>
                                         <textarea style="border:0;border-radius:5px;background-color:rgba(241,241,241,.98);width: 1000px;
                                         height: 200px;padding: 10px;resize: none;" placeholder="上传文本内容将在此处显示"
-                                                  name="user_text" rows="5">{{ str }}</textarea>
+                                                  name="user_text" rows="10">{{ str }}</textarea>
                                 </div>
                                 <div>
                                     <button type="submit" class="btn btn-primary" style="background-color: red;"
