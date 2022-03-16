@@ -53,6 +53,7 @@ def joint_extraction(request):
     # 1.先读取upload_file/relation_extraction_word.docx 看是否存在
     import os.path
     if os.path.isfile("upload_file/relation_extraction_word.docx"):
+
         # 开启一个线程去执行预测任务
         thread = predictThread(1, data_type=data_type)
         thread.start()
@@ -78,7 +79,7 @@ class predictThread (threading.Thread):
         # os.system(
         #     "cd E:\\01-科研资料\\03-项目工程\\Joint-Extract &&  conda activate joint-extract && python predict.py " + self.data_type)
         os.system(
-            "cd E:\\01-科研资料\\03-项目工程\\Joint-Extract &&  conda activate joint-extract && python predict.py " + self.data_type + " && conda deactivate joint-extract")
+            "cd E:\\01-科研资料\\03-项目工程\\Joint-Extract &&  conda activate joint-extract && conda list && python predict.py " + self.data_type)
 
         print("退出线程：" + self.name)
 
